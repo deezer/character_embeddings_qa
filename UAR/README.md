@@ -1,11 +1,11 @@
 # Universal Authorship Representation of Literary Characters
 
-This folder contain all the code and data necessary to train UAR models on DramaCV. It is based on the official [LUAR repository](https://github.com/LLNL/LUAR), that we slightly modified to match our data structure. 
+This folder contain all the code and data necessary to train UAR models on DramaCV. It is based on the official [LUAR repository](https://github.com/LLNL/LUAR), that we slightly modified to match DramaCV data structure. 
 
 ## HuggingFace
 Our trained UAR model variants are now available on HuggingFace, find the Scene version [here](https://huggingface.co/gasmichel/UAR_scene) and the Play version [here](https://huggingface.co/gasmichel/UAR_Play).
 
-Also finsd DramaCV directly on huggingface [here](https://huggingface.co/datasets/gasmichel/DramaCV).
+Also find DramaCV directly on huggingface [here](https://huggingface.co/datasets/gasmichel/DramaCV).
 
 ## Training
 
