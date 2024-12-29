@@ -1,0 +1,3380 @@
+source,idColName,iden,text,startByte,endByte,pdncID,paraID,chapID,mID
+exp,exp_name,mr. pontellier,Mr. Pontellier,404,418,5,6,1,M_0
+booknlp,COREF,49,his,435,438,5,6,1,M_1
+booknlp,COREF,49,He,534,536,5,7,1,M_2
+exp,exp_name,lebrun,Lebrun,613,619,15,7,1,M_3
+booknlp,COREF,49,He,649,651,5,7,1,M_4
+exp,exp_name,madame lebrun,Madame Lebrun,756,769,6,7,1,M_5
+exp,exp_name,mr. pontellier,Mr. Pontellier,829,843,5,7,1,M_6
+booknlp,COREF,49,He,926,928,5,8,1,M_7
+booknlp,COREF,49,his,956,959,5,8,1,M_8
+booknlp,COREF,49,himself,1051,1058,5,8,1,M_9
+booknlp,COREF,49,he,1095,1097,5,8,1,M_10
+booknlp,COREF,49,himself,1116,1123,5,8,1,M_11
+booknlp,COREF,49,He,1257,1259,5,8,1,M_12
+booknlp,COREF,49,he,1312,1314,5,8,1,M_13
+booknlp,COREF,49,he,1377,1379,5,8,1,M_14
+exp,exp_name,mr. pontellier,Mr. Pontellier,1450,1464,5,9,1,M_15
+booknlp,COREF,49,He,1483,1485,5,9,1,M_16
+booknlp,COREF,49,he,1549,1551,5,9,1,M_17
+booknlp,COREF,49,His,1570,1573,5,9,1,M_18
+booknlp,COREF,49,His,1623,1626,5,9,1,M_19
+booknlp,COREF,49,he,1682,1684,5,10,1,M_20
+booknlp,COREF,49,his,1694,1697,5,10,1,M_21
+booknlp,COREF,49,him,1741,1744,5,10,1,M_22
+exp,exp_name,madame lebrun,Madame Lebrun,2013,2026,6,10,1,M_23
+exp,exp_name,mr. pontellier,Mr. Pontellier,2633,2647,5,10,1,M_24
+exp,exp_name,mr. pontellier,Mr. Pontellier,2784,2798,5,11,1,M_25
+booknlp,COREF,49,his,2872,2875,5,11,1,M_26
+booknlp,COREF,49,He,2882,2884,5,11,1,M_27
+booknlp,COREF,49,his,2891,2894,5,11,1,M_28
+booknlp,COREF,49,He,2973,2975,5,11,1,M_29
+booknlp,COREF,49,his,3233,3236,5,11,1,M_30
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,3243,3258,3,11,1,M_31
+exp,exp_name,robert lebrun,Robert Lebrun,3270,3283,15,11,1,M_32
+exp,exp_name,mr. pontellier,Mr. Pontellier,3531,3545,5,12,1,M_33
+booknlp,COREF,49,He,3547,3549,5,12,1,M_34
+booknlp,COREF,49,himself,3550,3557,5,12,1,M_35
+booknlp,COREF,49,him,3630,3633,5,12,1,M_36
+pdnc,qID,Q1-0,You,3637,3640,3,13,1,M_37
+booknlp,COREF,49,he,3672,3674,5,13,1,M_38
+booknlp,COREF,49,his,3693,3696,5,13,1,M_39
+booknlp,COREF,49,him,4046,4049,5,13,1,M_40
+booknlp,COREF,49,he,4055,4057,5,13,1,M_41
+booknlp,COREF,49,his,4094,4097,5,13,1,M_42
+exp,exp_name,robert,Robert,4228,4234,15,13,1,M_43
+booknlp,COREF,49,He,4292,4294,5,13,1,M_44
+exp,exp_name,pontellier,Pontellier,4346,4356,5,14,1,M_45
+exp,exp_name,mr. pontellier,Mr. Pontellier,4590,4604,5,14,1,M_46
+booknlp,COREF,49,He,4606,4608,5,14,1,M_47
+booknlp,COREF,49,himself,4630,4637,5,14,1,M_48
+booknlp,COREF,49,he,4644,4646,5,14,1,M_49
+booknlp,COREF,49,he,4662,4664,5,14,1,M_50
+pdnc,qID,Q3-0,Lebrun,4756,4762,15,15,1,M_51
+booknlp,COREF,49,he,4765,4767,5,15,1,M_52
+exp,exp_name,robert,Robert,4780,4786,15,15,1,M_53
+exp,exp_name,robert,Robert,4792,4798,15,15,1,M_54
+booknlp,COREF,53,he,4827,4829,15,15,1,M_55
+booknlp,COREF,53,he,4854,4856,15,15,1,M_56
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,4873,4888,3,15,1,M_57
+pdnc,qID,Q4-0,him,4903,4906,15,16,1,M_58
+pdnc,qID,Q4-0,his,4913,4916,15,16,1,M_59
+pdnc,qID,Q4-0,he,4931,4933,15,16,1,M_60
+pdnc,qID,Q4-0,you,4940,4943,3,16,1,M_61
+pdnc,qID,Q4-0,Edna,4945,4949,3,16,1,M_62
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,5732,5747,3,21,2,M_63
+exp,exp_name,robert,Robert,6278,6284,15,23,2,M_64
+booknlp,COREF,53,He,6305,6307,15,23,2,M_65
+booknlp,COREF,53,he,6334,6336,15,23,2,M_66
+booknlp,COREF,53,he,6362,6364,15,23,2,M_67
+booknlp,COREF,53,He,6371,6373,15,23,2,M_68
+booknlp,COREF,53,his,6389,6392,15,23,2,M_69
+exp,exp_name,mr. pontellier,Mr. Pontellier,6406,6420,5,23,2,M_70
+booknlp,COREF,53,him,6435,6438,15,23,2,M_71
+booknlp,COREF,53,he,6449,6451,15,23,2,M_72
+booknlp,COREF,53,his,6470,6473,15,23,2,M_73
+booknlp,COREF,53,his,6535,6538,15,24,2,M_74
+booknlp,COREF,53,he,6557,6559,15,24,2,M_75
+booknlp,COREF,53,his,6575,6578,15,24,2,M_76
+booknlp,COREF,53,his,6718,6721,15,24,2,M_77
+booknlp,COREF,53,His,6740,6743,15,24,2,M_78
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,6817,6832,3,25,2,M_79
+exp,exp_name,robert,Robert,6920,6926,15,25,2,M_80
+booknlp,COREF,53,his,6940,6943,15,25,2,M_81
+booknlp,COREF,53,his,6966,6969,15,25,2,M_82
+exp,exp_name,robert,Robert,7337,7343,15,26,2,M_83
+booknlp,COREF,53,himself,7369,7376,15,26,2,M_84
+booknlp,COREF,53,He,7378,7380,15,26,2,M_85
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,7426,7441,3,26,2,M_86
+exp,exp_name,robert,Robert,7537,7543,15,26,2,M_87
+booknlp,COREF,53,his,7553,7556,15,26,2,M_88
+booknlp,COREF,53,him,7620,7623,15,26,2,M_89
+booknlp,COREF,53,He,7625,7627,15,26,2,M_90
+booknlp,COREF,53,he,7706,7708,15,26,2,M_91
+booknlp,COREF,53,his,7720,7723,15,26,2,M_92
+booknlp,COREF,53,him,7843,7846,15,26,2,M_93
+booknlp,COREF,53,He,7893,7895,15,27,2,M_94
+booknlp,COREF,53,his,7909,7912,15,27,2,M_95
+booknlp,COREF,53,he,7933,7935,15,27,2,M_96
+booknlp,COREF,53,his,7953,7956,15,27,2,M_97
+exp,exp_name,robert,Robert,8003,8009,15,27,2,M_98
+exp,exp_name,madame lebrun,Madame Lebrun,8215,8228,6,27,2,M_99
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,8314,8329,3,28,2,M_100
+exp,exp_name,robert,Robert,8648,8654,15,28,2,M_101
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,8800,8815,3,29,2,M_102
+pdnc,qID,Q7-0,L once,8893,8899,5,30,2,M_103
+exp,exp_name,robert,Robert,8997,9003,15,30,2,M_104
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,9095,9110,3,31,2,M_105
+exp,exp_name,pontellier,Pontellier,9296,9306,5,31,2,M_106
+exp,exp_name,mr. pontellier,Mr. Pontellier,9388,9402,5,33,3,M_107
+booknlp,COREF,49,He,9432,9434,5,33,3,M_108
+booknlp,COREF,49,His,9499,9502,5,33,3,M_109
+booknlp,COREF,49,his,9518,9521,5,33,3,M_110
+booknlp,COREF,49,he,9564,9566,5,33,3,M_111
+booknlp,COREF,49,He,9576,9578,5,33,3,M_112
+booknlp,COREF,49,he,9599,9601,5,33,3,M_113
+booknlp,COREF,49,he,9668,9670,5,33,3,M_114
+booknlp,COREF,49,his,9705,9708,5,33,3,M_115
+booknlp,COREF,49,he,9726,9728,5,33,3,M_116
+booknlp,COREF,49,he,9805,9807,5,33,3,M_117
+booknlp,COREF,49,his,9913,9916,5,33,3,M_118
+booknlp,COREF,49,him,9968,9971,5,33,3,M_119
+booknlp,COREF,49,He,10002,10004,5,34,3,M_120
+booknlp,COREF,49,his,10039,10042,5,34,3,M_121
+booknlp,COREF,49,his,10076,10079,5,34,3,M_122
+booknlp,COREF,49,him,10144,10147,5,34,3,M_123
+booknlp,COREF,49,his,10170,10173,5,34,3,M_124
+exp,exp_name,mr. pontellier,Mr. Pontellier,10189,10203,5,35,3,M_125
+booknlp,COREF,49,he,10272,10274,5,35,3,M_126
+booknlp,COREF,49,his,10434,10437,5,35,3,M_127
+booknlp,COREF,49,He,10479,10481,5,35,3,M_128
+exp,exp_name,mr. pontellier,Mr. Pontellier,10596,10610,5,36,3,M_129
+booknlp,COREF,49,his,10623,10626,5,36,3,M_130
+booknlp,COREF,49,he,10712,10714,5,36,3,M_131
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,10777,10792,3,37,3,M_132
+exp,exp_name,mr. pontellier,Mr. Pontellier,10908,10922,5,37,3,M_133
+booknlp,COREF,49,He,10983,10985,5,37,3,M_134
+booknlp,COREF,49,He,11056,11058,5,38,3,M_135
+booknlp,COREF,49,his,11070,11073,5,38,3,M_136
+booknlp,COREF,49,He,11217,11219,5,38,3,M_137
+booknlp,COREF,49,himself,11220,11227,5,38,3,M_138
+booknlp,COREF,49,his,11232,11235,5,38,3,M_139
+booknlp,COREF,49,his,11252,11255,5,38,3,M_140
+booknlp,COREF,49,He,11276,11278,5,38,3,M_141
+booknlp,COREF,49,his,11335,11338,5,38,3,M_142
+booknlp,COREF,49,He,11414,11416,5,38,3,M_143
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,11457,11472,3,39,3,M_144
+booknlp,COREF,49,his,11689,11692,5,39,3,M_145
+booknlp,COREF,49,he,11714,11716,5,39,3,M_146
+booknlp,COREF,49,he,11751,11753,5,39,3,M_147
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,11772,11787,3,40,3,M_148
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,12504,12519,3,42,3,M_149
+exp,exp_name,mr. pontellier,Mr. Pontellier,13874,13888,5,45,3,M_150
+booknlp,COREF,49,him,13950,13953,5,45,3,M_151
+booknlp,COREF,49,He,13983,13985,5,45,3,M_152
+booknlp,COREF,49,his,14015,14018,5,45,3,M_153
+booknlp,COREF,49,him,14052,14055,5,45,3,M_154
+booknlp,COREF,49,He,14102,14104,5,45,3,M_155
+booknlp,COREF,49,his,14118,14121,5,45,3,M_156
+booknlp,COREF,49,He,14195,14197,5,45,3,M_157
+booknlp,COREF,49,he,14223,14225,5,45,3,M_158
+exp,exp_name,mr. pontellier,Mr. Pontellier,14281,14295,5,46,3,M_159
+booknlp,COREF,49,his,14301,14304,5,46,3,M_160
+booknlp,COREF,49,he,14334,14336,5,46,3,M_161
+pdnc,qID,Q9-0,my dear,14657,14664,3,48,3,M_162
+booknlp,COREF,49,he,14667,14669,5,48,3,M_163
+booknlp,COREF,49,he,14682,14684,5,48,3,M_164
+booknlp,COREF,49,his,14758,14761,5,49,3,M_165
+exp,exp_name,mr. pontellier,Mr. Pontellier,14824,14838,5,49,3,M_166
+booknlp,COREF,49,him,14939,14942,5,49,3,M_167
+booknlp,COREF,49,His,14944,14947,5,49,3,M_168
+booknlp,COREF,49,he,15001,15003,5,49,3,M_169
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,15093,15108,3,50,3,M_170
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,15316,15331,3,51,3,M_171
+exp,exp_name,mr. pontellier,Mr. Pontellier,15641,15655,5,51,3,M_172
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,15691,15706,3,51,3,M_173
+exp,exp_name,mr. pontellier,Mr. Pontellier,15804,15818,5,53,4,M_174
+booknlp,COREF,49,his,15832,15835,5,53,4,M_175
+booknlp,COREF,49,his,15879,15882,5,53,4,M_176
+booknlp,COREF,49,he,15953,15955,5,53,4,M_177
+booknlp,COREF,49,he,15988,15990,5,53,4,M_178
+exp,exp_name,pontellier,Pontellier,16085,16095,5,54,4,M_179
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,16708,16723,3,55,4,M_180
+exp,exp_name,ratignolle,Ratignolle,17342,17352,0,56,4,M_181
+exp,exp_name,madame ratignolle,Madame Ratignolle,18303,18320,0,57,4,M_182
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,18338,18353,3,57,4,M_183
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,18675,18690,3,58,4,M_184
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,19007,19022,3,59,4,M_185
+exp,exp_name,madame ratignolle,Madame Ratignolle,19375,19392,0,59,4,M_186
+exp,exp_name,robert,Robert,19456,19462,15,60,4,M_187
+booknlp,COREF,53,he,19484,19486,15,60,4,M_188
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,19519,19534,3,60,4,M_189
+exp,exp_name,madame ratignolle,Madame Ratignolle,19693,19710,0,60,4,M_190
+exp,exp_name,madame ratignolle,Madame Ratignolle,19876,19893,0,61,4,M_191
+exp,exp_name,robert,Robert,20239,20245,15,62,4,M_192
+booknlp,COREF,53,he,20286,20288,15,62,4,M_193
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,20386,20401,3,62,4,M_194
+booknlp,COREF,53,he,20409,20411,15,62,4,M_195
+booknlp,COREF,53,himself,20420,20427,15,62,4,M_196
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,20454,20469,3,63,4,M_197
+exp,exp_name,lebrun,Lebrun,20656,20662,15,63,4,M_198
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,20834,20849,3,63,4,M_199
+exp,exp_name,edna pontellier,Edna Pontellier,21112,21127,3,64,4,M_200
+exp,exp_name,madame ratignolle,Madame Ratignolle,21166,21183,0,64,4,M_201
+exp,exp_name,monsieur farival,Monsieur Farival,21200,21216,11,64,4,M_202
+exp,exp_name,robert,Robert,21479,21485,15,64,4,M_203
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,21869,21884,3,65,4,M_204
+exp,exp_name,madame ratignolle,Madame Ratignolle,22029,22046,0,67,5,M_205
+exp,exp_name,robert,Robert,22156,22162,15,67,5,M_206
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,22167,22182,3,67,5,M_207
+booknlp,COREF,53,He,22317,22319,15,68,5,M_208
+exp,exp_name,robert,Robert,22422,22428,15,68,5,M_209
+booknlp,COREF,53,himself,22442,22449,15,68,5,M_210
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,22453,22468,3,68,5,M_211
+booknlp,COREF,53,he,22474,22476,15,68,5,M_212
+exp,exp_name,robert,Robert,22543,22549,15,68,5,M_213
+booknlp,COREF,53,himself,22592,22599,15,68,5,M_214
+booknlp,COREF,53,he,22785,22787,15,69,5,M_215
+exp,exp_name,robert,Robert,22881,22887,15,69,5,M_216
+booknlp,COREF,53,himself,22926,22933,15,69,5,M_217
+exp,exp_name,madame ratignolle,Madame Ratignolle,22949,22966,0,69,5,M_218
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,23047,23062,3,70,5,M_219
+exp,exp_name,robert,Robert,23224,23230,15,71,5,M_220
+pdnc,qID,Q10-1,She,23233,23236,0,71,5,M_221
+booknlp,COREF,53,I,23247,23248,15,71,5,M_222
+pdnc,qID,Q10-1,her,23256,23259,0,71,5,M_223
+pdnc,qID,Q10-1,she,23270,23273,0,71,5,M_224
+booknlp,COREF,53,me,23278,23280,15,71,5,M_225
+pdnc,qID,Q10-1,her,23287,23290,0,71,5,M_226
+exp,exp_name,robert,Robert,23300,23306,15,71,5,M_227
+booknlp,COREF,53,my,23380,23382,15,71,5,M_228
+booknlp,COREF,53,I,23405,23406,15,71,5,M_229
+booknlp,COREF,53,me,23453,23455,15,71,5,M_230
+booknlp,COREF,53,I,23462,23463,15,71,5,M_231
+pdnc,qID,Q11-0,You,23508,23511,15,72,5,M_232
+pdnc,qID,Q12-0,You,23572,23575,0,73,5,M_233
+pdnc,qID,Q12-0,Ratignolle,23622,23632,0,73,5,M_234
+exp,exp_name,robert,Robert,24039,24045,15,75,5,M_235
+exp,exp_name,mr. pontellier,Mrs Pontellier,24058,24072,5,75,5,M_236
+booknlp,COREF,53,his,24095,24098,15,75,5,M_237
+exp,exp_name,madame ratignolle,Madame Ratignolle,24129,24146,0,75,5,M_238
+booknlp,COREF,53,he,24220,24222,15,75,5,M_239
+booknlp,COREF,53,his,24228,24231,15,75,5,M_240
+booknlp,COREF,53,He,24361,24363,15,77,5,M_241
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,24415,24430,3,77,5,M_242
+booknlp,COREF,53,he,24607,24609,15,77,5,M_243
+exp,exp_name,madame ratignolle,Madame Ratignolle,24644,24661,0,77,5,M_244
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,24709,24724,3,77,5,M_245
+booknlp,COREF,53,he,24734,24736,15,77,5,M_246
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,24831,24846,3,78,5,M_247
+exp,exp_name,madame ratignolle,Madame Ratignolle,25084,25101,0,79,5,M_248
+exp,exp_name,robert,Robert,25280,25286,15,80,5,M_249
+booknlp,COREF,53,himself,25311,25318,15,80,5,M_250
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,25339,25354,3,80,5,M_251
+booknlp,COREF,53,he,25361,25363,15,80,5,M_252
+exp,exp_name,robert,Robert,25531,25537,15,80,5,M_253
+booknlp,COREF,53,he,25655,25657,15,80,5,M_254
+exp,exp_name,madame ratignolle,Madame Ratignolle,25671,25688,0,80,5,M_255
+booknlp,COREF,53,his,25769,25772,15,82,5,M_256
+booknlp,COREF,53,he,25793,25795,15,82,5,M_257
+booknlp,COREF,53,his,25816,25819,15,82,5,M_258
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,25833,25848,3,82,5,M_259
+booknlp,COREF,53,him,25879,25882,15,82,5,M_260
+booknlp,COREF,53,he,25895,25897,15,82,5,M_261
+booknlp,COREF,53,his,25974,25977,15,82,5,M_262
+booknlp,COREF,53,him,26081,26084,15,82,5,M_263
+booknlp,COREF,53,He,26105,26107,15,82,5,M_264
+exp,exp_name,madame ratignolle,Madame Ratignolle,26173,26190,0,82,5,M_265
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,26334,26349,3,83,5,M_266
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,26641,26656,3,84,5,M_267
+exp,exp_name,madame ratignolle,Madame Ratignolle,27309,27326,0,86,5,M_268
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,27473,27488,3,86,5,M_269
+exp,exp_name,madame ratignolle,Madame Ratignolle,27538,27555,0,86,5,M_270
+exp,exp_name,robert,Robert,27583,27589,15,86,5,M_271
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,27658,27673,3,87,5,M_272
+exp,exp_name,the doctor,the doctor,28192,28202,2,88,5,M_273
+pdnc,qID,Q16-0,you,28253,28256,3,89,5,M_274
+exp,exp_name,robert,Robert,28279,28285,15,89,5,M_275
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,28289,28304,3,89,5,M_276
+booknlp,COREF,53,his,28454,28457,15,90,5,M_277
+booknlp,COREF,53,he,28571,28573,15,91,5,M_278
+pdnc,qID,Q18-1,You,28585,28588,3,91,5,M_279
+pdnc,qID,Q18-1,your,28602,28606,3,91,5,M_280
+pdnc,qID,Q18-1,you,28668,28671,3,91,5,M_281
+booknlp,COREF,53,He,28681,28683,15,92,5,M_282
+exp,exp_name,edna pontellier,Edna Pontellier,28921,28936,3,94,6,M_283
+exp,exp_name,robert,Robert,28994,29000,15,94,6,M_284
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,29469,29484,3,97,6,M_285
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,30364,30379,3,102,7,M_286
+exp,exp_name,ratignolle,Ratignolle,30972,30982,0,103,7,M_287
+exp,exp_name,edna,Edna,31056,31060,3,103,7,M_288
+exp,exp_name,edna,Edna,31506,31510,3,104,7,M_289
+exp,exp_name,madame ratignolle,Madame Ratignolle,31530,31547,0,104,7,M_290
+exp,exp_name,robert,Robert,31777,31783,15,104,7,M_291
+exp,exp_name,madame ratignolle,Madame Ratignolle,32268,32285,0,106,7,M_292
+exp,exp_name,edna pontellier,Edna Pontellier,32349,32364,3,106,7,M_293
+exp,exp_name,edna pontellier,Edna Pontellier,32848,32863,3,106,7,M_294
+exp,exp_name,madame ratignolle,Madame Ratignolle,33201,33218,0,108,7,M_295
+exp,exp_name,lebrun,Lebrun,33776,33782,15,109,7,M_296
+exp,exp_name,pontellier,Pontellier,34073,34083,5,109,7,M_297
+exp,exp_name,ratignolle,Ratignolle,34088,34098,0,109,7,M_298
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,34155,34170,3,110,7,M_299
+exp,exp_name,madame ratignolle,Madame Ratignolle,34589,34606,0,111,7,M_300
+exp,exp_name,edna,Edna,34797,34801,3,111,7,M_301
+exp,exp_name,madame ratignolle,Madame Ratignolle,34879,34896,0,111,7,M_302
+exp,exp_name,edna pontellier,Edna Pontellier,35618,35633,3,112,7,M_303
+pdnc,qID,Q19-0,you,35988,35991,3,113,7,M_304
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,36240,36255,3,114,7,M_305
+exp,exp_name,madame ratignolle,Madame Ratignolle,36634,36651,0,115,7,M_306
+pdnc,qID,Q22-1,you,36693,36696,3,115,7,M_307
+exp,exp_name,edna,Edna,36816,36820,3,116,7,M_308
+pdnc,qID,Q24-0,you,37391,37394,3,117,7,M_309
+pdnc,qID,Q27-0,you,37965,37968,3,120,7,M_310
+pdnc,qID,Q27-0,ma ch re,38013,38021,3,120,7,M_311
+exp,exp_name,madame ratignolle,Madame Ratignolle,38031,38048,0,120,7,M_312
+exp,exp_name,edna,Edna,38073,38077,3,121,7,M_313
+pdnc,qID,Q28-1,you,38411,38414,0,121,7,M_314
+exp,exp_name,madame ratignolle,Madame Ratignolle,38465,38482,0,121,7,M_315
+exp,exp_name,madame ratignolle,Madame Ratignolle,38701,38718,0,122,7,M_316
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,38746,38761,3,122,7,M_317
+pdnc,qID,Q29-0,Pauvre ch rie,38945,38958,3,122,7,M_318
+exp,exp_name,edna,Edna,39009,39013,3,123,7,M_319
+exp,exp_name,edna,Edna,39527,39531,3,123,7,M_320
+exp,exp_name,edna,Edna,39893,39897,3,123,7,M_321
+exp,exp_name,edna,Edna,40050,40054,3,124,7,M_322
+exp,exp_name,edna,Edna,40962,40966,3,125,7,M_323
+exp,exp_name,pontellier,Pontellier,41986,41996,5,128,7,M_324
+exp,exp_name,pontellier,Pontellier,42652,42662,5,128,7,M_325
+exp,exp_name,edna,Edna,43118,43122,3,130,7,M_326
+exp,exp_name,pontellier,Pontellier,43591,43601,5,131,7,M_327
+exp,exp_name,edna,Edna,43931,43935,3,132,7,M_328
+exp,exp_name,madame ratignolle,Madame Ratignolle,43974,43991,0,132,7,M_329
+exp,exp_name,madame ratignolle,Madame Ratignolle,44116,44133,0,132,7,M_330
+exp,exp_name,robert,Robert,44365,44371,15,133,7,M_331
+booknlp,COREF,53,him,44465,44468,15,133,7,M_332
+booknlp,COREF,53,he,44474,44476,15,133,7,M_333
+exp,exp_name,madame ratignolle,Madame Ratignolle,44485,44502,0,133,7,M_334
+booknlp,COREF,53,his,44520,44523,15,133,7,M_335
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,44717,44732,3,134,7,M_336
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,45070,45085,3,135,7,M_337
+exp,exp_name,madame ratignolle,Madame Ratignolle,45111,45128,0,136,7,M_338
+exp,exp_name,robert,Robert,45136,45142,15,136,7,M_339
+booknlp,COREF,53,his,45267,45270,15,136,7,M_340
+pdnc,qID,Q30-0,Robert,45314,45320,15,138,8,M_341
+booknlp,COREF,53,his,45349,45352,15,138,8,M_342
+exp,exp_name,robert,Robert,45385,45391,15,138,8,M_343
+booknlp,COREF,53,his,45447,45450,15,138,8,M_344
+booknlp,COREF,53,his,45468,45471,15,138,8,M_345
+booknlp,COREF,53,he,45528,45530,15,138,8,M_346
+pdnc,qID,Q31-0,you,45565,45568,0,139,8,M_347
+booknlp,COREF,53,he,45576,45578,15,139,8,M_348
+pdnc,qID,Q32-0,Mrs. Pontellier,45698,45713,3,140,8,M_349
+booknlp,COREF,53,he,45734,45736,15,141,8,M_350
+pdnc,qID,Q33-1,Madame Ratignolle,45789,45806,0,141,8,M_351
+pdnc,qID,Q34-0,Mrs. Pontellier,45873,45888,3,142,8,M_352
+booknlp,COREF,53,he,45905,45907,15,143,8,M_353
+booknlp,COREF,53,himself,45915,45922,15,143,8,M_354
+booknlp,COREF,53,his,45942,45945,15,143,8,M_355
+pdnc,qID,Q36-0,She,45974,45977,3,144,8,M_356
+pdnc,qID,Q36-0,she,45996,45999,3,144,8,M_357
+pdnc,qID,Q36-0,She,46016,46019,3,144,8,M_358
+pdnc,qID,Q36-0,you,46065,46068,15,144,8,M_359
+booknlp,COREF,53,His,46082,46085,15,145,8,M_360
+booknlp,COREF,53,his,46130,46133,15,145,8,M_361
+booknlp,COREF,53,he,46143,46145,15,145,8,M_362
+booknlp,COREF,53,his,46183,46186,15,145,8,M_363
+booknlp,COREF,53,he,46194,46196,15,145,8,M_364
+pdnc,qID,Q37-0,she,46220,46223,3,145,8,M_365
+booknlp,COREF,53,me,46229,46231,15,145,8,M_366
+booknlp,COREF,53,he,46244,46246,15,145,8,M_367
+booknlp,COREF,53,I,46269,46270,15,145,8,M_368
+pdnc,qID,Q37-1,she,46325,46328,3,145,8,M_369
+booknlp,COREF,53,You,46330,46333,15,145,8,M_370
+booknlp,COREF,53,I,46343,46344,15,145,8,M_371
+booknlp,COREF,53,you,46367,46370,15,145,8,M_372
+booknlp,COREF,53,I,46375,46376,15,145,8,M_373
+booknlp,COREF,53,I,46437,46438,15,145,8,M_374
+pdnc,qID,Q37-1,Mrs. Pontellier,46444,46459,3,145,8,M_375
+booknlp,COREF,53,me,46470,46472,15,145,8,M_376
+booknlp,COREF,53,I,46484,46485,15,145,8,M_377
+pdnc,qID,Q37-1,she,46491,46494,3,145,8,M_378
+booknlp,COREF,53,me,46529,46531,15,145,8,M_379
+booknlp,COREF,53,I,46569,46570,15,145,8,M_380
+pdnc,qID,Q38-0,Robert,46615,46621,15,146,8,M_381
+booknlp,COREF,53,his,46639,46642,15,146,8,M_382
+pdnc,qID,Q38-1,You,46661,46664,15,146,8,M_383
+pdnc,qID,Q38-1,you,46690,46693,15,146,8,M_384
+pdnc,qID,Q38-1,You,46706,46709,15,146,8,M_385
+pdnc,qID,Q38-1,your,46829,46833,15,146,8,M_386
+pdnc,qID,Q38-1,you,46929,46932,15,146,8,M_387
+pdnc,qID,Q38-1,you,46972,46975,15,146,8,M_388
+pdnc,qID,Q38-1,you,46987,46990,15,146,8,M_389
+pdnc,qID,Q38-1,you,47072,47075,15,146,8,M_390
+exp,exp_name,madame ratignolle,Madame Ratignolle,47079,47096,0,147,8,M_391
+pdnc,qID,Q40-0,You,47283,47286,0,148,8,M_392
+pdnc,qID,Q42-0,you,47480,47483,15,150,8,M_393
+pdnc,qID,Q42-1,Arobin,47558,47564,1,150,8,M_394
+booknlp,COREF,53,you,47565,47568,15,150,8,M_395
+pdnc,qID,Q42-1,Alc e Arobin,47578,47590,1,150,8,M_396
+exp,exp_name,arobin,Arobin,47673,47679,1,150,8,M_397
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,47856,47871,3,150,8,M_398
+exp,exp_name,madame ratignolle,Madame Ratignolle,47958,47975,0,151,8,M_399
+exp,exp_name,robert,Robert,48095,48101,15,151,8,M_400
+booknlp,COREF,53,he,48139,48141,15,151,8,M_401
+booknlp,COREF,53,he,48172,48174,15,151,8,M_402
+pdnc,qID,Q43-0,You,48214,48217,0,152,8,M_403
+pdnc,qID,Q43-0,Ad le,48236,48241,0,152,8,M_404
+booknlp,COREF,53,he,48244,48246,15,152,8,M_405
+pdnc,qID,Q44-0,Mrs. Pontellier,48309,48324,3,152,8,M_406
+booknlp,COREF,53,me,48337,48339,15,152,8,M_407
+pdnc,qID,Q44-0,You,48351,48354,0,152,8,M_408
+booknlp,COREF,53,me,48374,48376,15,152,8,M_409
+booknlp,COREF,53,myself,48392,48398,15,152,8,M_410
+pdnc,qID,Q44-0,Your,48410,48414,0,152,8,M_411
+booknlp,COREF,53,me,48468,48470,15,152,8,M_412
+pdnc,qID,Q44-0,you,48517,48520,0,152,8,M_413
+booknlp,COREF,53,he,48534,48536,15,152,8,M_414
+pdnc,qID,Q44-1,you,48565,48568,0,152,8,M_415
+booknlp,COREF,53,I,48599,48600,15,152,8,M_416
+pdnc,qID,Q44-1,you,48606,48609,0,152,8,M_417
+booknlp,COREF,53,me,48623,48625,15,152,8,M_418
+pdnc,qID,Q44-1,you,48630,48633,0,152,8,M_419
+booknlp,COREF,53,He,48748,48750,15,153,8,M_420
+booknlp,COREF,53,himself,48756,48763,15,153,8,M_421
+booknlp,COREF,53,he,48865,48867,15,153,8,M_422
+booknlp,COREF,53,himself,48868,48875,15,153,8,M_423
+booknlp,COREF,53,his,49085,49088,15,154,8,M_424
+booknlp,COREF,53,him,49105,49108,15,154,8,M_425
+booknlp,COREF,53,he,49109,49111,15,154,8,M_426
+exp,exp_name,robert,Robert,49150,49156,15,154,8,M_427
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,49598,49613,3,155,8,M_428
+exp,exp_name,robert,Robert,49632,49638,15,155,8,M_429
+exp,exp_name,madame lebrun,Madame Lebrun,50042,50055,6,156,8,M_430
+exp,exp_name,robert,Robert,50281,50287,15,157,8,M_431
+booknlp,COREF,53,himself,50309,50316,15,157,8,M_432
+booknlp,COREF,53,He,50365,50367,15,157,8,M_433
+booknlp,COREF,53,his,50385,50388,15,157,8,M_434
+booknlp,COREF,53,he,50482,50484,15,157,8,M_435
+exp,exp_name,robert,Robert,50613,50619,15,157,8,M_436
+booknlp,COREF,53,his,50624,50627,15,157,8,M_437
+pdnc,qID,Q45-0,Mrs. Pontellier,50688,50703,3,158,8,M_438
+pdnc,qID,Q47-0,her,50767,50770,3,160,8,M_439
+pdnc,qID,Q47-0,you,50819,50822,15,160,8,M_440
+pdnc,qID,Q48-0,Victor,50958,50964,18,161,8,M_441
+pdnc,qID,Q49-0,Victor,51007,51013,18,162,8,M_442
+pdnc,qID,Q50-0,He,51044,51046,18,163,8,M_443
+pdnc,qID,Q51-0,him,51106,51109,18,164,8,M_444
+exp,exp_name,robert,Robert,51131,51137,15,165,8,M_445
+pdnc,qID,Q52-0,He,51222,51224,18,166,8,M_446
+exp,exp_name,madame lebrun,Madame Lebrun,51242,51255,6,167,8,M_447
+pdnc,qID,Q53-0,Victor,51288,51294,18,167,8,M_448
+exp,exp_name,madame lebrun,Madame Lebrun,51424,51437,6,168,8,M_449
+exp,exp_name,victor,Victor,51488,51494,18,168,8,M_450
+pdnc,qID,Q54-0,you,51628,51631,6,169,8,M_451
+pdnc,qID,Q54-0,him,51691,51694,18,169,8,M_452
+pdnc,qID,Q54-0,he,51700,51702,18,169,8,M_453
+pdnc,qID,Q55-0,your,51725,51729,15,170,8,M_454
+exp,exp_name,madame lebrun,Madame Lebrun,51823,51836,6,170,8,M_455
+exp,exp_name,lebrun,Lebrun,51987,51993,15,170,8,M_456
+pdnc,qID,Q56-0,you,52080,52083,6,171,8,M_457
+exp,exp_name,lebrun,Lebrun,52236,52242,15,171,8,M_458
+exp,exp_name,lebrun,Lebrun,52272,52278,15,171,8,M_459
+booknlp,COREF,78,He,52440,52442,18,172,8,M_460
+pdnc,qID,Q58-0,you,52456,52459,15,172,8,M_461
+booknlp,COREF,78,he,52460,52462,18,172,8,M_462
+pdnc,qID,Q59-0,you,52540,52543,15,172,8,M_463
+booknlp,COREF,78,him,52580,52583,18,172,8,M_464
+pdnc,qID,Q60-0,you,52628,52631,6,173,8,M_465
+pdnc,qID,Q60-0,mother,52651,52657,6,173,8,M_466
+pdnc,qID,Q60-0,You,52659,52662,6,173,8,M_467
+pdnc,qID,Q61-0,you,52711,52714,15,174,8,M_468
+pdnc,qID,Q61-0,Mrs. Pontellier,52719,52734,3,174,8,M_469
+pdnc,qID,Q61-0,She,52768,52771,3,174,8,M_470
+pdnc,qID,Q61-0,She,52807,52810,3,174,8,M_471
+pdnc,qID,Q62-0,you,52902,52905,15,174,8,M_472
+pdnc,qID,Q63-0,you,52926,52929,6,175,8,M_473
+exp,exp_name,robert,Robert,53573,53579,15,178,9,M_474
+exp,exp_name,madame ratignolle,Madame Ratignolle,53584,53601,0,178,9,M_475
+exp,exp_name,madame lebrun,Madame Lebrun,53804,53817,6,178,9,M_476
+exp,exp_name,mr. pontellier,Mr. Pontellier,54365,54379,5,179,9,M_477
+exp,exp_name,pontellier,Pontellier,54409,54419,5,179,9,M_478
+exp,exp_name,monsieur farival,Monsieur Farival,55307,55323,11,182,9,M_479
+exp,exp_name,victor lebrun,Victor Lebrun,55469,55482,18,182,9,M_480
+booknlp,COREF,78,his,55497,55500,18,182,9,M_481
+exp,exp_name,madame ratignolle,Madame Ratignolle,56580,56597,0,185,9,M_482
+exp,exp_name,victor,Victor,57655,57661,18,188,9,M_483
+exp,exp_name,victor,Victor,57877,57883,18,188,9,M_484
+booknlp,COREF,78,his,57897,57900,18,188,9,M_485
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,58001,58016,3,189,9,M_486
+exp,exp_name,robert,Robert,58062,58068,15,189,9,M_487
+exp,exp_name,ratignolle,Ratignolle,58093,58103,0,189,9,M_488
+pdnc,qID,Q64-0,you,58505,58508,3,190,9,M_489
+pdnc,qID,Q64-0,Mademoiselle Reisz,58522,58540,7,190,9,M_490
+exp,exp_name,robert,Robert,58554,58560,15,190,9,M_491
+exp,exp_name,edna,Edna,58611,58615,3,190,9,M_492
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,58635,58653,7,190,9,M_493
+booknlp,COREF,53,I,58713,58714,15,191,9,M_494
+pdnc,qID,Q65-0,her,58722,58725,7,191,9,M_495
+booknlp,COREF,53,he,58728,58730,15,191,9,M_496
+booknlp,COREF,53,I,58738,58739,15,191,9,M_497
+pdnc,qID,Q65-1,her,58748,58751,7,191,9,M_498
+pdnc,qID,Q65-1,you,58757,58760,3,191,9,M_499
+pdnc,qID,Q65-1,her,58774,58777,7,191,9,M_500
+pdnc,qID,Q65-1,She,58779,58782,7,191,9,M_501
+pdnc,qID,Q65-1,you,58789,58792,3,191,9,M_502
+pdnc,qID,Q65-1,She,58794,58797,7,191,9,M_503
+booknlp,COREF,53,He,58810,58812,15,191,9,M_504
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,58871,58889,7,191,9,M_505
+exp,exp_name,robert,Robert,59277,59283,15,191,9,M_506
+booknlp,COREF,53,him,59364,59367,15,192,9,M_507
+pdnc,qID,Q66-0,Mrs. Pontellier,59684,59699,3,193,9,M_508
+pdnc,qID,Q66-0,she,59705,59708,3,193,9,M_509
+exp,exp_name,robert,Robert,59755,59761,15,193,9,M_510
+exp,exp_name,robert,Robert,59834,59840,15,193,9,M_511
+exp,exp_name,edna,Edna,59864,59868,3,193,9,M_512
+exp,exp_name,edna,Edna,60060,60064,3,193,9,M_513
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,60203,60221,7,193,9,M_514
+booknlp,COREF,84,herself,60235,60242,7,193,9,M_515
+booknlp,COREF,84,her,60246,60249,7,193,9,M_516
+exp,exp_name,edna,Edna,60263,60267,3,194,9,M_517
+exp,exp_name,madame ratignolle,Madame Ratignolle,60447,60464,0,194,9,M_518
+exp,exp_name,edna,Edna,60519,60523,3,194,9,M_519
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,61221,61239,7,196,9,M_520
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,61286,61301,3,196,9,M_521
+booknlp,COREF,84,Mademoiselle,61901,61913,7,198,9,M_522
+exp,exp_name,edna,Edna,62072,62076,3,198,9,M_523
+pdnc,qID,Q67-0,you,62112,62115,3,199,9,M_524
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,62231,62249,7,199,9,M_525
+booknlp,COREF,84,She,62294,62297,7,199,9,M_526
+booknlp,COREF,84,she,62336,62339,7,199,9,M_527
+pdnc,qID,Q68-0,You,62348,62351,3,200,9,M_528
+booknlp,COREF,84,she,62412,62415,7,200,9,M_529
+booknlp,COREF,84,her,62470,62473,7,200,9,M_530
+booknlp,COREF,84,she,62485,62488,7,201,9,M_531
+booknlp,COREF,84,Her,62524,62527,7,201,9,M_532
+booknlp,COREF,84,I,62606,62607,7,201,9,M_533
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,62655,62673,7,201,9,M_534
+exp,exp_name,robert,Robert,62823,62829,15,202,9,M_535
+exp,exp_name,robert,Robert,62915,62921,15,204,10,M_536
+booknlp,COREF,53,he,63020,63022,15,204,10,M_537
+booknlp,COREF,53,He,63036,63038,15,204,10,M_538
+booknlp,COREF,53,he,63070,63072,15,204,10,M_539
+booknlp,COREF,53,he,63095,63097,15,204,10,M_540
+booknlp,COREF,53,himself,63098,63105,15,204,10,M_541
+booknlp,COREF,53,He,63207,63209,15,204,10,M_542
+booknlp,COREF,53,himself,63306,63313,15,204,10,M_543
+exp,exp_name,edna,Edna,63413,63417,3,205,10,M_544
+exp,exp_name,robert,Robert,63429,63435,15,205,10,M_545
+booknlp,COREF,53,he,63487,63489,15,205,10,M_546
+booknlp,COREF,53,he,63513,63515,15,205,10,M_547
+booknlp,COREF,53,him,63549,63552,15,205,10,M_548
+booknlp,COREF,53,he,63569,63571,15,205,10,M_549
+booknlp,COREF,53,his,63635,63638,15,205,10,M_550
+booknlp,COREF,53,him,63738,63741,15,205,10,M_551
+booknlp,COREF,53,him,63784,63787,15,205,10,M_552
+exp,exp_name,edna,Edna,64772,64776,3,208,10,M_553
+exp,exp_name,robert,Robert,64916,64922,15,208,10,M_554
+booknlp,COREF,53,he,64973,64975,15,208,10,M_555
+booknlp,COREF,53,his,65047,65050,15,208,10,M_556
+pdnc,qID,Q72-0,You,67225,67228,3,217,10,M_557
+pdnc,qID,Q72-0,my dear,67251,67258,3,217,10,M_558
+pdnc,qID,Q72-0,you,67275,67278,3,217,10,M_559
+exp,exp_name,edna,Edna,67295,67299,3,218,10,M_560
+pdnc,qID,Q73-0,Mrs. Pontellier,67664,67679,3,219,10,M_561
+exp,exp_name,madame lebrun,Madame Lebrun,67701,67714,6,219,10,M_562
+exp,exp_name,edna,Edna,67766,67770,3,219,10,M_563
+booknlp,COREF,49,I,67826,67827,5,220,10,M_564
+pdnc,qID,Q74-0,she,67833,67836,3,220,10,M_565
+exp,exp_name,mr. pontellier,Mr. Pontellier,67851,67865,5,220,10,M_566
+exp,exp_name,edna,Edna,67892,67896,3,221,10,M_567
+exp,exp_name,robert,Robert,67985,67991,15,221,10,M_568
+pdnc,qID,Q75-0,you,67999,68002,15,222,10,M_569
+booknlp,COREF,53,him,68034,68037,15,222,10,M_570
+booknlp,COREF,49,I,68075,68076,5,223,10,M_571
+pdnc,qID,Q76-0,you,68082,68085,3,223,10,M_572
+pdnc,qID,Q77-0,you,68118,68121,15,224,10,M_573
+pdnc,qID,Q77-0,you,68139,68142,15,224,10,M_574
+booknlp,COREF,49,I,68178,68179,5,225,10,M_575
+booknlp,COREF,49,I,68317,68318,5,229,10,M_576
+pdnc,qID,Q82-0,you,68324,68327,3,229,10,M_577
+pdnc,qID,Q83-0,You,68336,68339,15,230,10,M_578
+pdnc,qID,Q83-0,you,68381,68384,15,230,10,M_579
+booknlp,COREF,49,I,68391,68392,5,230,10,M_580
+booknlp,COREF,49,my,68419,68421,5,230,10,M_581
+booknlp,COREF,49,me,68492,68494,5,230,10,M_582
+booknlp,COREF,49,I,68505,68506,5,230,10,M_583
+booknlp,COREF,49,I,68554,68555,5,230,10,M_584
+booknlp,COREF,49,I,68566,68567,5,230,10,M_585
+booknlp,COREF,49,I,68592,68593,5,230,10,M_586
+booknlp,COREF,49,I,68604,68605,5,230,10,M_587
+pdnc,qID,Q83-0,Mademoiselle Reisz,68637,68655,7,230,10,M_588
+booknlp,COREF,49,me,68672,68674,5,230,10,M_589
+booknlp,COREF,49,I,68685,68686,5,230,10,M_590
+booknlp,COREF,49,me,68798,68800,5,230,10,M_591
+exp,exp_name,robert,Robert,68907,68913,15,231,10,M_592
+pdnc,qID,Q84-1,you,68923,68926,3,231,10,M_593
+booknlp,COREF,53,His,69360,69363,15,233,10,M_594
+booknlp,COREF,53,he,69411,69413,15,233,10,M_595
+booknlp,COREF,53,he,69470,69472,15,233,10,M_596
+pdnc,qID,Q86-0,Mrs. Pontellier,69479,69494,3,233,10,M_597
+booknlp,COREF,53,he,69504,69506,15,233,10,M_598
+pdnc,qID,Q86-0,her,69533,69536,3,233,10,M_599
+pdnc,qID,Q86-0,she,69561,69564,3,233,10,M_600
+pdnc,qID,Q86-0,her,69641,69644,3,233,10,M_601
+exp,exp_name,robert,Robert,70319,70325,15,235,10,M_602
+pdnc,qID,Q88-0,you,70433,70436,3,236,10,M_603
+pdnc,qID,Q88-0,Mr. Pontellier,70464,70478,5,236,10,M_604
+booknlp,COREF,53,he,70481,70483,15,236,10,M_605
+pdnc,qID,Q90-0,you,70540,70543,3,238,10,M_606
+booknlp,COREF,53,I,71097,71098,15,242,10,M_607
+pdnc,qID,Q94-0,you,71109,71112,3,242,10,M_608
+pdnc,qID,Q94-0,Mr. Pontellier,71118,71132,5,242,10,M_609
+exp,exp_name,robert,Robert,71147,71153,15,242,10,M_610
+booknlp,COREF,53,himself,71163,71170,15,242,10,M_611
+pdnc,qID,Q95-0,you,71282,71285,15,243,10,M_612
+pdnc,qID,Q95-0,you,71322,71325,15,243,10,M_613
+booknlp,COREF,53,my,71330,71332,15,243,10,M_614
+booknlp,COREF,53,I,71351,71352,15,243,10,M_615
+pdnc,qID,Q96-0,you,71403,71406,3,244,10,M_616
+booknlp,COREF,53,I,71426,71427,15,245,10,M_617
+booknlp,COREF,53,he,71463,71465,15,246,10,M_618
+pdnc,qID,Q98-1,you,71479,71482,3,246,10,M_619
+pdnc,qID,Q98-1,you,71518,71521,3,246,10,M_620
+booknlp,COREF,53,I,71549,71550,15,247,10,M_621
+pdnc,qID,Q99-0,you,71568,71571,15,247,10,M_622
+booknlp,COREF,53,I,71600,71601,15,248,10,M_623
+booknlp,COREF,53,he,71609,71611,15,248,10,M_624
+booknlp,COREF,53,He,71626,71628,15,248,10,M_625
+booknlp,COREF,53,his,71690,71693,15,248,10,M_626
+booknlp,COREF,53,he,71792,71794,15,249,10,M_627
+pdnc,qID,Q101-0,you,71893,71896,3,250,10,M_628
+pdnc,qID,Q101-0,Mr. Pontellier,71920,71934,5,250,10,M_629
+pdnc,qID,Q102-0,you,71956,71959,15,251,10,M_630
+pdnc,qID,Q102-0,you,71969,71972,15,251,10,M_631
+booknlp,COREF,53,He,71986,71988,15,252,10,M_632
+booknlp,COREF,53,himself,71996,72003,15,252,10,M_633
+booknlp,COREF,53,he,72040,72042,15,252,10,M_634
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,72074,72089,3,252,10,M_635
+exp,exp_name,robert,Robert,72298,72304,15,253,10,M_636
+booknlp,COREF,53,him,72341,72344,15,253,10,M_637
+booknlp,COREF,53,He,72346,72348,15,253,10,M_638
+booknlp,COREF,53,his,72391,72394,15,253,10,M_639
+booknlp,COREF,53,he,72448,72450,15,253,10,M_640
+pdnc,qID,Q103-0,you,72479,72482,3,255,11,M_641
+pdnc,qID,Q103-0,Edna,72499,72503,3,255,11,M_642
+pdnc,qID,Q103-0,you,72529,72532,3,255,11,M_643
+booknlp,COREF,53,he,72565,72567,15,255,11,M_644
+booknlp,COREF,53,He,72596,72598,15,255,11,M_645
+exp,exp_name,madame lebrun,Madame Lebrun,72618,72631,6,255,11,M_646
+booknlp,COREF,53,His,72659,72662,15,255,11,M_647
+pdnc,qID,Q104-0,you,72689,72692,3,256,11,M_648
+booknlp,COREF,53,he,72702,72704,15,256,11,M_649
+booknlp,COREF,53,his,72835,72838,15,257,11,M_650
+pdnc,qID,Q106-0,you,72845,72848,3,258,11,M_651
+booknlp,COREF,53,he,72892,72894,15,258,11,M_652
+pdnc,qID,Q107-0,Edna,72941,72945,3,259,11,M_653
+exp,exp_name,mr. pontellier,Mr. Pontellier,72955,72969,5,259,11,M_654
+booknlp,COREF,53,He,73052,73054,15,260,11,M_655
+booknlp,COREF,53,his,73062,73065,15,260,11,M_656
+pdnc,qID,Q109-0,You,73091,73094,3,261,11,M_657
+booknlp,COREF,53,he,73122,73124,15,261,11,M_658
+pdnc,qID,Q109-1,you,73173,73176,3,261,11,M_659
+pdnc,qID,Q111-0,you,73251,73254,3,263,11,M_660
+booknlp,COREF,53,him,73296,73299,15,265,11,M_661
+booknlp,COREF,53,his,73412,73415,15,265,11,M_662
+booknlp,COREF,53,his,73467,73470,15,265,11,M_663
+booknlp,COREF,53,his,73528,73531,15,265,11,M_664
+pdnc,qID,Q113-0,Edna,73680,73684,3,266,11,M_665
+pdnc,qID,Q113-0,dear,73686,73690,3,266,11,M_666
+pdnc,qID,Q113-0,you,73696,73699,3,266,11,M_667
+booknlp,COREF,53,he,73721,73723,15,266,11,M_668
+booknlp,COREF,53,I,73786,73787,15,267,11,M_669
+booknlp,COREF,53,he,73844,73846,15,268,11,M_670
+booknlp,COREF,53,I,73861,73862,15,268,11,M_671
+pdnc,qID,Q115-1,you,73876,73879,3,268,11,M_672
+pdnc,qID,Q115-1,You,73909,73912,3,268,11,M_673
+booknlp,COREF,53,his,74257,74260,15,269,11,M_674
+pdnc,qID,Q116-0,L once,74407,74413,5,270,11,M_675
+pdnc,qID,Q116-1,you,74563,74566,5,270,11,M_676
+exp,exp_name,mr. pontellier,Mr. Pontellier,74570,74584,5,271,11,M_677
+booknlp,COREF,49,he,74611,74613,5,271,11,M_678
+booknlp,COREF,49,He,74643,74645,5,271,11,M_679
+booknlp,COREF,49,he,74680,74682,5,271,11,M_680
+booknlp,COREF,49,his,74729,74732,5,271,11,M_681
+booknlp,COREF,49,He,74738,74740,5,271,11,M_682
+booknlp,COREF,49,his,74818,74821,5,271,11,M_683
+booknlp,COREF,49,He,74850,74852,5,271,11,M_684
+booknlp,COREF,49,his,74881,74884,5,271,11,M_685
+booknlp,COREF,49,He,74945,74947,5,271,11,M_686
+booknlp,COREF,49,he,74972,74974,5,271,11,M_687
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,75020,75035,3,271,11,M_688
+exp,exp_name,mr. pontellier,Mr. Pontellier,75097,75111,5,271,11,M_689
+booknlp,COREF,49,himself,75129,75136,5,271,11,M_690
+exp,exp_name,edna,Edna,75223,75227,3,272,11,M_691
+exp,exp_name,edna,Edna,75840,75844,3,274,11,M_692
+pdnc,qID,Q117-0,you,75998,76001,5,275,11,M_693
+pdnc,qID,Q117-0,L once,76013,76019,5,275,11,M_694
+pdnc,qID,Q118-0,dear,76077,76081,3,276,11,M_695
+exp,exp_name,monsieur farival,Monsieur Farival,77163,77179,11,279,12,M_696
+booknlp,COREF,64,He,77258,77260,11,279,12,M_697
+booknlp,COREF,64,his,77268,77271,11,279,12,M_698
+booknlp,COREF,64,his,77298,77301,11,279,12,M_699
+exp,exp_name,madame lebrun,Madame Lebrun,77423,77436,6,280,12,M_700
+exp,exp_name,edna,Edna,77528,77532,3,280,12,M_701
+exp,exp_name,robert,Robert,77570,77576,15,280,12,M_702
+pdnc,qID,Q119-0,him,77585,77588,15,281,12,M_703
+pdnc,qID,Q119-0,him,77643,77646,15,281,12,M_704
+booknlp,COREF,53,He,77659,77661,15,282,12,M_705
+booknlp,COREF,53,him,77706,77709,15,282,12,M_706
+booknlp,COREF,53,him,77742,77745,15,282,12,M_707
+booknlp,COREF,53,him,77776,77779,15,282,12,M_708
+booknlp,COREF,53,his,77866,77869,15,282,12,M_709
+booknlp,COREF,53,He,77880,77882,15,282,12,M_710
+booknlp,COREF,53,his,77966,77969,15,282,12,M_711
+booknlp,COREF,53,he,78011,78013,15,282,12,M_712
+exp,exp_name,edna,Edna,78260,78264,3,283,12,M_713
+booknlp,COREF,53,He,78334,78336,15,284,12,M_714
+booknlp,COREF,53,he,78346,78348,15,284,12,M_715
+pdnc,qID,Q120-0,you,78462,78465,15,285,12,M_716
+pdnc,qID,Q120-1,L once,78522,78528,5,285,12,M_717
+pdnc,qID,Q120-1,he,78539,78541,5,285,12,M_718
+pdnc,qID,Q120-1,him,78574,78577,5,285,12,M_719
+pdnc,qID,Q120-1,he,78579,78581,5,285,12,M_720
+exp,exp_name,monsieur farival,Monsieur Farival,78843,78859,11,286,12,M_721
+exp,exp_name,robert,Robert,79006,79012,15,287,12,M_722
+booknlp,COREF,53,he,79032,79034,15,287,12,M_723
+exp,exp_name,mariequita,Mariequita,79126,79136,9,287,12,M_724
+exp,exp_name,edna,Edna,79339,79343,3,287,12,M_725
+exp,exp_name,mariequita,Mariequita,79447,79457,9,288,12,M_726
+exp,exp_name,monsieur farival,Monsieur Farival,79533,79549,11,288,12,M_727
+exp,exp_name,monsieur farival,Monsieur Farival,79650,79666,11,288,12,M_728
+exp,exp_name,mariequita,Mariequita,79689,79699,9,288,12,M_729
+exp,exp_name,robert,Robert,79754,79760,15,288,12,M_730
+exp,exp_name,robert,Robert,79832,79838,15,288,12,M_731
+exp,exp_name,monsieur farival,Monsieur Farival,80004,80020,11,289,12,M_732
+booknlp,COREF,64,he,80048,80050,11,289,12,M_733
+exp,exp_name,edna,Edna,80136,80140,3,290,12,M_734
+exp,exp_name,mariequita,Mariequita,80166,80176,9,290,12,M_735
+booknlp,COREF,90,her,80195,80198,9,290,12,M_736
+booknlp,COREF,90,her,80218,80221,9,290,12,M_737
+pdnc,qID,Q121-0,she,80268,80271,3,291,12,M_738
+exp,exp_name,robert,Robert,80316,80322,15,291,12,M_739
+pdnc,qID,Q122-0,she,80332,80335,3,292,12,M_740
+pdnc,qID,Q122-0,you,80343,80346,9,292,12,M_741
+pdnc,qID,Q122-0,her,80371,80374,3,292,12,M_742
+pdnc,qID,Q123-0,she,80386,80389,3,293,12,M_743
+pdnc,qID,Q123-0,your,80390,80394,15,293,12,M_744
+pdnc,qID,Q124-0,She,80410,80413,3,294,12,M_745
+pdnc,qID,Q127-0,she,80618,80621,3,297,12,M_746
+exp,exp_name,robert,Robert,80733,80739,15,300,12,M_747
+exp,exp_name,mariequita,Mariequita,80766,80776,9,301,12,M_748
+exp,exp_name,edna,Edna,80895,80899,3,302,12,M_749
+exp,exp_name,robert,Robert,80962,80968,15,302,12,M_750
+booknlp,COREF,53,his,80974,80977,15,302,12,M_751
+exp,exp_name,monsieur farival,Monsieur Farival,81118,81134,11,302,12,M_752
+booknlp,COREF,64,he,81172,81174,11,302,12,M_753
+exp,exp_name,edna,Edna,81301,81305,3,303,12,M_754
+exp,exp_name,robert,Robert,81552,81558,15,303,12,M_755
+booknlp,COREF,53,he,81585,81587,15,303,12,M_756
+exp,exp_name,mariequita,Mariequita,81606,81616,9,303,12,M_757
+exp,exp_name,robert,Robert,81813,81819,15,304,12,M_758
+exp,exp_name,robert,Robert,82070,82076,15,307,12,M_759
+booknlp,COREF,53,he,82267,82269,15,308,12,M_760
+pdnc,qID,Q139-0,you,82416,82419,3,312,12,M_761
+booknlp,COREF,53,he,82427,82429,15,312,12,M_762
+booknlp,COREF,53,I,82437,82438,15,312,12,M_763
+booknlp,COREF,53,me,82472,82474,15,312,12,M_764
+booknlp,COREF,53,my,82490,82492,15,312,12,M_765
+pdnc,qID,Q139-1,you,82544,82547,3,312,12,M_766
+booknlp,COREF,53,I,82590,82591,15,314,12,M_767
+pdnc,qID,Q141-0,you,82600,82603,3,314,12,M_768
+pdnc,qID,Q141-0,your,82658,82662,3,314,12,M_769
+pdnc,qID,Q141-0,you,82691,82694,3,314,12,M_770
+pdnc,qID,Q141-0,you,82753,82756,3,314,12,M_771
+pdnc,qID,Q142-1,you,82853,82856,15,315,12,M_772
+pdnc,qID,Q142-1,you,82925,82928,15,315,12,M_773
+exp,exp_name,mariequita,Mariequita,83390,83400,9,318,12,M_774
+booknlp,COREF,90,her,83418,83421,9,318,12,M_775
+exp,exp_name,robert,Robert,83494,83500,15,318,12,M_776
+booknlp,COREF,90,her,83520,83523,9,318,12,M_777
+exp,exp_name,edna,Edna,83584,83588,3,320,13,M_778
+exp,exp_name,robert,Robert,83872,83878,15,320,13,M_779
+exp,exp_name,monsieur farival,Monsieur Farival,83915,83931,11,320,13,M_780
+exp,exp_name,robert,Robert,83983,83989,15,320,13,M_781
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,84003,84018,3,320,13,M_782
+booknlp,COREF,53,he,84020,84022,15,320,13,M_783
+booknlp,COREF,53,his,84038,84041,15,320,13,M_784
+booknlp,COREF,53,He,84048,84050,15,320,13,M_785
+booknlp,COREF,53,him,84121,84124,15,320,13,M_786
+exp,exp_name,edna,Edna,84241,84245,3,321,13,M_787
+exp,exp_name,robert,Robert,84437,84443,15,321,13,M_788
+exp,exp_name,madame,Madame,84560,84566,17,322,13,M_789
+pdnc,qID,Q145-0,you,84578,84581,3,322,13,M_790
+booknlp,COREF,53,He,84599,84601,15,322,13,M_791
+exp,exp_name,edna,Edna,84960,84964,3,323,13,M_792
+exp,exp_name,madame,Madame,85368,85374,17,324,13,M_793
+exp,exp_name,robert,Robert,85633,85639,15,324,13,M_794
+booknlp,COREF,53,him,85690,85693,15,324,13,M_795
+exp,exp_name,edna,Edna,85753,85757,3,324,13,M_796
+exp,exp_name,madame,Madame,86055,86061,17,326,13,M_797
+exp,exp_name,robert,Robert,86167,86173,15,326,13,M_798
+booknlp,COREF,53,him,86200,86203,15,326,13,M_799
+booknlp,COREF,53,he,86209,86211,15,326,13,M_800
+exp,exp_name,madame,Madame,86254,86260,17,326,13,M_801
+exp,exp_name,edna,Edna,86395,86399,3,327,13,M_802
+exp,exp_name,madame,Madame,87327,87333,17,328,13,M_803
+exp,exp_name,robert,Robert,87544,87550,15,328,13,M_804
+exp,exp_name,robert,Robert,87714,87720,15,328,13,M_805
+exp,exp_name,edna,Edna,87904,87908,3,329,13,M_806
+exp,exp_name,madame,Madame,88018,88024,17,329,13,M_807
+exp,exp_name,edna,Edna,88249,88253,3,329,13,M_808
+exp,exp_name,robert,Robert,88407,88413,15,329,13,M_809
+booknlp,COREF,53,He,88516,88518,15,329,13,M_810
+booknlp,COREF,53,him,88569,88572,15,329,13,M_811
+booknlp,COREF,53,him,88647,88650,15,329,13,M_812
+exp,exp_name,madame,Madame,88741,88747,17,330,13,M_813
+exp,exp_name,edna,Edna,88864,88868,3,330,13,M_814
+exp,exp_name,edna,Edna,89350,89354,3,331,13,M_815
+exp,exp_name,robert,Robert,89599,89605,15,331,13,M_816
+booknlp,COREF,53,his,89674,89677,15,332,13,M_817
+booknlp,COREF,53,he,89694,89696,15,332,13,M_818
+pdnc,qID,Q146-1,you,89877,89880,15,333,13,M_819
+exp,exp_name,madame,Madame,89926,89932,17,333,13,M_820
+booknlp,COREF,53,He,90024,90026,15,334,13,M_821
+pdnc,qID,Q147-0,You,90077,90080,3,335,13,M_822
+pdnc,qID,Q147-0,your,90146,90150,3,335,13,M_823
+exp,exp_name,edna,Edna,90367,90371,3,336,13,M_824
+booknlp,COREF,53,him,90385,90388,15,336,13,M_825
+pdnc,qID,Q148-1,Monsieur Farival,90437,90453,11,336,13,M_826
+pdnc,qID,Q148-1,the others,90458,90468,9,336,13,M_827
+pdnc,qID,Q149-0,you,90510,90513,3,337,13,M_828
+pdnc,qID,Q149-0,you,90562,90565,3,337,13,M_829
+pdnc,qID,Q150-0,L once,90638,90644,5,338,13,M_830
+pdnc,qID,Q151-0,he,90727,90729,5,339,13,M_831
+pdnc,qID,Q151-0,you,90736,90739,3,339,13,M_832
+booknlp,COREF,53,me,90749,90751,15,339,13,M_833
+exp,exp_name,robert,Robert,90754,90760,15,339,13,M_834
+booknlp,COREF,53,he,90773,90775,15,339,13,M_835
+booknlp,COREF,53,himself,90783,90790,15,339,13,M_836
+exp,exp_name,madame,Madame,90884,90890,17,340,13,M_837
+exp,exp_name,edna,Edna,90919,90923,3,340,13,M_838
+booknlp,COREF,53,I,90971,90972,15,341,13,M_839
+booknlp,COREF,53,I,90982,90983,15,341,13,M_840
+pdnc,qID,Q153-0,you,90995,90998,3,341,13,M_841
+pdnc,qID,Q153-0,you,91029,91032,3,341,13,M_842
+booknlp,COREF,53,He,91052,91054,15,342,13,M_843
+booknlp,COREF,53,He,91130,91132,15,342,13,M_844
+exp,exp_name,madame,Madame,91215,91221,17,342,13,M_845
+exp,exp_name,edna,Edna,91281,91285,3,342,13,M_846
+exp,exp_name,robert,Robert,91292,91298,15,342,13,M_847
+booknlp,COREF,53,He,91323,91325,15,342,13,M_848
+booknlp,COREF,53,he,91433,91435,15,342,13,M_849
+booknlp,COREF,53,he,91626,91628,15,344,13,M_850
+exp,exp_name,madame,Madame,91763,91769,17,347,13,M_851
+exp,exp_name,edna,Edna,92198,92202,3,349,13,M_852
+exp,exp_name,robert,Robert,92207,92213,15,349,13,M_853
+exp,exp_name,madame,Madame,92336,92342,17,350,13,M_854
+exp,exp_name,edna,Edna,92800,92804,3,351,13,M_855
+exp,exp_name,robert,Robert,92895,92901,15,352,13,M_856
+exp,exp_name,madame ratignolle,Madame Ratignolle,93138,93155,0,354,14,M_857
+exp,exp_name,madame ratignolle,Madame Ratignolle,93472,93489,0,355,14,M_858
+exp,exp_name,edna,Edna,93607,93611,3,355,14,M_859
+booknlp,COREF,57,L,93846,93847,5,357,14,M_860
+exp,exp_name,madame ratignolle,Madame Ratignolle,93884,93901,0,357,14,M_861
+exp,exp_name,monsieur farival,Monsieur Farival,93964,93980,11,357,14,M_862
+exp,exp_name,madame ratignolle,Madame Ratignolle,94322,94339,0,357,14,M_863
+exp,exp_name,edna,Edna,94548,94552,3,357,14,M_864
+exp,exp_name,ratignolle,Ratignolle,94567,94577,0,357,14,M_865
+exp,exp_name,edna,Edna,94672,94676,3,358,14,M_866
+exp,exp_name,robert,Robert,94710,94716,15,358,14,M_867
+exp,exp_name,robert,Robert,94865,94871,15,358,14,M_868
+exp,exp_name,edna,Edna,94877,94881,3,358,14,M_869
+pdnc,qID,Q158-0,you,94899,94902,15,359,14,M_870
+pdnc,qID,Q158-0,Robert,94954,94960,15,359,14,M_871
+pdnc,qID,Q159-0,you,95042,95045,3,360,14,M_872
+booknlp,COREF,53,He,95075,95077,15,361,14,M_873
+booknlp,COREF,53,He,95140,95142,15,361,14,M_874
+exp,exp_name,edna,Edna,95210,95214,3,362,14,M_875
+exp,exp_name,madame lebrun,Madame Lebrun,95376,95389,6,362,14,M_876
+exp,exp_name,robert,Robert,95936,95942,15,363,14,M_877
+booknlp,COREF,53,he,96004,96006,15,363,14,M_878
+booknlp,COREF,53,he,96103,96105,15,363,14,M_879
+booknlp,COREF,53,he,96134,96136,15,363,14,M_880
+booknlp,COREF,53,him,96183,96186,15,363,14,M_881
+booknlp,COREF,53,he,96197,96199,15,363,14,M_882
+exp,exp_name,edna,Edna,96246,96250,3,364,14,M_883
+exp,exp_name,robert,Robert,96306,96312,15,364,14,M_884
+exp,exp_name,robert,Robert,96429,96435,15,365,14,M_885
+exp,exp_name,edna,Edna,96560,96564,3,367,15,M_886
+exp,exp_name,victor,Victor,96734,96740,18,367,15,M_887
+booknlp,COREF,78,his,96786,96789,18,367,15,M_888
+exp,exp_name,edna,Edna,96798,96802,3,367,15,M_889
+exp,exp_name,monsieur farival,Monsieur Farival,97004,97020,11,367,15,M_890
+exp,exp_name,madame ratignolle,Madame Ratignolle,97025,97042,0,367,15,M_891
+exp,exp_name,robert,Robert,97205,97211,15,368,15,M_892
+booknlp,COREF,53,He,97290,97292,15,368,15,M_893
+booknlp,COREF,53,him,97414,97417,15,368,15,M_894
+booknlp,COREF,53,he,97467,97469,15,368,15,M_895
+booknlp,COREF,53,his,97502,97505,15,368,15,M_896
+booknlp,COREF,53,he,97577,97579,15,368,15,M_897
+booknlp,COREF,53,him,97676,97679,15,369,15,M_898
+booknlp,COREF,53,he,97687,97689,15,369,15,M_899
+exp,exp_name,madame lebrun,Madame Lebrun,97701,97714,6,369,15,M_900
+exp,exp_name,edna,Edna,97730,97734,3,369,15,M_901
+booknlp,COREF,53,He,97818,97820,15,369,15,M_902
+booknlp,COREF,53,his,97828,97831,15,369,15,M_903
+booknlp,COREF,53,he,97872,97874,15,369,15,M_904
+booknlp,COREF,53,He,97896,97898,15,369,15,M_905
+pdnc,qID,Q160-0,he,97939,97941,15,369,15,M_906
+exp,exp_name,robert,Robert,97991,97997,15,369,15,M_907
+booknlp,COREF,53,himself,98027,98034,15,369,15,M_908
+booknlp,COREF,53,him,98102,98105,15,370,15,M_909
+pdnc,qID,Q161-1,he,98305,98307,15,371,15,M_910
+booknlp,COREF,53,I,98376,98377,15,372,15,M_911
+booknlp,COREF,53,I,98393,98394,15,372,15,M_912
+booknlp,COREF,53,I,98416,98417,15,372,15,M_913
+exp,exp_name,robert,Robert,98454,98460,15,372,15,M_914
+exp,exp_name,madame lebrun,Madame Lebrun,98574,98587,6,373,15,M_915
+pdnc,qID,Q163-0,Robert,98645,98651,15,374,15,M_916
+pdnc,qID,Q163-0,he,98664,98666,15,374,15,M_917
+pdnc,qID,Q163-0,he,98685,98687,15,374,15,M_918
+pdnc,qID,Q163-1,Victor,98900,98906,18,374,15,M_919
+exp,exp_name,victor,Victor,98941,98947,18,375,15,M_920
+booknlp,COREF,78,he,98972,98974,18,375,15,M_921
+booknlp,COREF,78,his,98983,98986,18,375,15,M_922
+booknlp,COREF,78,he,99022,99024,18,375,15,M_923
+exp,exp_name,monsieur farival,Monsieur Farival,99150,99166,11,376,15,M_924
+exp,exp_name,victor,Victor,99180,99186,18,376,15,M_925
+booknlp,COREF,78,his,99230,99233,18,376,15,M_926
+exp,exp_name,victor,Victor,99262,99268,18,376,15,M_927
+exp,exp_name,madame lebrun,Madame Lebrun,99406,99419,6,376,15,M_928
+exp,exp_name,robert,Robert,99446,99452,15,376,15,M_929
+booknlp,COREF,53,his,99460,99463,15,376,15,M_930
+pdnc,qID,Q164-0,mother,99531,99537,6,377,15,M_931
+booknlp,COREF,53,he,99540,99542,15,377,15,M_932
+booknlp,COREF,53,he,99556,99558,15,377,15,M_933
+exp,exp_name,edna,Edna,99602,99606,3,377,15,M_934
+booknlp,COREF,53,he,99612,99614,15,377,15,M_935
+booknlp,COREF,53,he,99650,99652,15,377,15,M_936
+pdnc,qID,Q165-0,you,99929,99932,15,378,15,M_937
+pdnc,qID,Q165-0,your,99941,99945,15,378,15,M_938
+exp,exp_name,monsieur farival,Monsieur Farival,99974,99990,11,378,15,M_939
+exp,exp_name,robert,Robert,100020,100026,15,379,15,M_940
+pdnc,qID,Q168-0,Monsieur Farival,100244,100260,11,381,15,M_941
+exp,exp_name,robert,Robert,100263,100269,15,381,15,M_942
+exp,exp_name,edna,Edna,100332,100336,3,381,15,M_943
+exp,exp_name,robert,Robert,101031,101037,15,383,15,M_944
+booknlp,COREF,53,himself,101053,101060,15,383,15,M_945
+exp,exp_name,madame ratignolle,Madame Ratignolle,101191,101208,0,384,15,M_946
+exp,exp_name,robert,Robert,101220,101226,15,384,15,M_947
+exp,exp_name,victor,Victor,101682,101688,18,385,15,M_948
+booknlp,COREF,78,him,101861,101864,18,385,15,M_949
+exp,exp_name,monsieur farival,Monsieur Farival,101873,101889,11,385,15,M_950
+exp,exp_name,edna,Edna,101940,101944,3,386,15,M_951
+pdnc,qID,Q169-0,you,102112,102115,15,387,15,M_952
+exp,exp_name,robert,Robert,102134,102140,15,387,15,M_953
+booknlp,COREF,53,he,102153,102155,15,388,15,M_954
+pdnc,qID,Q171-0,you,102212,102215,15,389,15,M_955
+booknlp,COREF,53,I,102249,102250,15,390,15,M_956
+booknlp,COREF,53,my,102294,102296,15,390,15,M_957
+booknlp,COREF,53,He,102318,102320,15,391,15,M_958
+booknlp,COREF,53,him,102359,102362,15,391,15,M_959
+booknlp,COREF,53,his,102366,102369,15,391,15,M_960
+exp,exp_name,edna,Edna,102382,102386,3,391,15,M_961
+exp,exp_name,edna,Edna,103229,103233,3,393,15,M_962
+exp,exp_name,madame lebrun,Madame Lebrun,103599,103612,6,394,15,M_963
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,103632,103647,3,394,15,M_964
+exp,exp_name,robert,Robert,103696,103702,15,394,15,M_965
+exp,exp_name,edna,Edna,103714,103718,3,394,15,M_966
+exp,exp_name,madame ratignolle,Madame Ratignolle,104119,104136,0,394,15,M_967
+exp,exp_name,edna,Edna,104253,104257,3,395,15,M_968
+pdnc,qID,Q173-1,Robert,104315,104321,15,395,15,M_969
+pdnc,qID,Q173-1,he,104471,104473,15,395,15,M_970
+exp,exp_name,madame ratignolle,Madame Ratignolle,104503,104520,0,396,15,M_971
+pdnc,qID,Q174-1,you,104553,104556,3,396,15,M_972
+pdnc,qID,Q174-1,Robert,104749,104755,15,396,15,M_973
+pdnc,qID,Q174-1,you,104761,104764,3,396,15,M_974
+pdnc,qID,Q174-1,dear,104791,104795,3,396,15,M_975
+exp,exp_name,edna,Edna,104836,104840,3,397,15,M_976
+pdnc,qID,Q176-0,You,104932,104935,3,398,15,M_977
+pdnc,qID,Q176-0,you,104951,104954,3,398,15,M_978
+pdnc,qID,Q176-0,your,104992,104996,3,398,15,M_979
+exp,exp_name,edna,Edna,105039,105043,3,399,15,M_980
+pdnc,qID,Q177-1,you,105050,105053,0,399,15,M_981
+pdnc,qID,Q177-1,Madame Lebrun,105061,105074,6,399,15,M_982
+exp,exp_name,madame ratignolle,Madame Ratignolle,105119,105136,0,400,15,M_983
+exp,exp_name,edna,Edna,105144,105148,3,400,15,M_984
+exp,exp_name,robert,Robert,105339,105345,15,401,15,M_985
+booknlp,COREF,53,his,105364,105367,15,401,15,M_986
+pdnc,qID,Q178-0,you,105387,105390,3,402,15,M_987
+booknlp,COREF,53,he,105406,105408,15,402,15,M_988
+pdnc,qID,Q179-0,you,105439,105442,15,403,15,M_989
+booknlp,COREF,53,He,105463,105465,15,404,15,M_990
+booknlp,COREF,53,his,105492,105495,15,404,15,M_991
+booknlp,COREF,53,he,105524,105526,15,404,15,M_992
+booknlp,COREF,53,He,105610,105612,15,404,15,M_993
+exp,exp_name,edna,Edna,105702,105706,3,405,15,M_994
+booknlp,COREF,53,he,105725,105727,15,406,15,M_995
+booknlp,COREF,53,He,105737,105739,15,406,15,M_996
+booknlp,COREF,53,his,105747,105750,15,406,15,M_997
+booknlp,COREF,53,his,105804,105807,15,406,15,M_998
+booknlp,COREF,53,his,105818,105821,15,406,15,M_999
+exp,exp_name,edna,Edna,105882,105886,3,407,15,M_1000
+booknlp,COREF,53,him,105903,105906,15,407,15,M_1001
+pdnc,qID,Q184-0,you,105924,105927,3,408,15,M_1002
+pdnc,qID,Q184-0,you,105946,105949,3,408,15,M_1003
+pdnc,qID,Q185-0,you,106158,106161,15,409,15,M_1004
+booknlp,COREF,53,me,106339,106341,15,413,15,M_1005
+booknlp,COREF,53,I,106383,106384,15,413,15,M_1006
+booknlp,COREF,53,I,106400,106401,15,413,15,M_1007
+pdnc,qID,Q189-0,your,106419,106423,15,413,15,M_1008
+booknlp,COREF,53,me,106479,106481,15,413,15,M_1009
+booknlp,COREF,53,He,106506,106508,15,413,15,M_1010
+booknlp,COREF,53,himself,106549,106556,15,413,15,M_1011
+booknlp,COREF,53,He,106558,106560,15,413,15,M_1012
+booknlp,COREF,53,me,106606,106608,15,414,15,M_1013
+booknlp,COREF,53,I,106627,106628,15,414,15,M_1014
+pdnc,qID,Q190-0,you,106640,106643,3,414,15,M_1015
+booknlp,COREF,53,me,106671,106673,15,414,15,M_1016
+pdnc,qID,Q191-1,you,106746,106749,15,415,15,M_1017
+pdnc,qID,Q191-1,you,106788,106791,15,415,15,M_1018
+pdnc,qID,Q191-1,you,106803,106806,15,415,15,M_1019
+pdnc,qID,Q191-1,your,106833,106837,15,415,15,M_1020
+pdnc,qID,Q191-1,You,106876,106879,15,415,15,M_1021
+pdnc,qID,Q191-1,you,106995,106998,15,415,15,M_1022
+booknlp,COREF,53,I,107034,107035,15,416,15,M_1023
+booknlp,COREF,53,he,107038,107040,15,416,15,M_1024
+booknlp,COREF,53,He,107072,107074,15,416,15,M_1025
+booknlp,COREF,53,his,107106,107109,15,416,15,M_1026
+pdnc,qID,Q192-2,my dear Mrs. Pontellier,107126,107149,3,416,15,M_1027
+pdnc,qID,Q192-2,You,107160,107163,3,416,15,M_1028
+pdnc,qID,Q192-2,you,107177,107180,3,416,15,M_1029
+booknlp,COREF,53,his,107223,107226,15,416,15,M_1030
+booknlp,COREF,53,him,107252,107255,15,416,15,M_1031
+pdnc,qID,Q193-0,you,107276,107279,15,417,15,M_1032
+pdnc,qID,Q193-0,you,107297,107300,15,417,15,M_1033
+pdnc,qID,Q193-0,Robert,107302,107308,15,417,15,M_1034
+pdnc,qID,Q194-0,you,107342,107345,3,418,15,M_1035
+exp,exp_name,robert,Robert,107369,107375,15,419,15,M_1036
+booknlp,COREF,53,you,107461,107464,15,419,15,M_1037
+booknlp,COREF,53,He,107496,107498,15,420,15,M_1038
+booknlp,COREF,53,he,107570,107572,15,420,15,M_1039
+exp,exp_name,robert,Robert,107683,107689,15,420,15,M_1040
+exp,exp_name,robert,Robert,107764,107770,15,420,15,M_1041
+booknlp,COREF,53,his,107824,107827,15,420,15,M_1042
+exp,exp_name,edna,Edna,107840,107844,3,421,15,M_1043
+pdnc,qID,Q195-0,you,108728,108731,3,424,16,M_1044
+pdnc,qID,Q195-0,your friend,108737,108748,15,424,16,M_1045
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,108765,108783,7,424,16,M_1046
+booknlp,COREF,84,she,108799,108802,7,424,16,M_1047
+exp,exp_name,edna,Edna,108827,108831,3,424,16,M_1048
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,109164,109182,7,424,16,M_1049
+exp,exp_name,edna,Edna,109295,109299,3,424,16,M_1050
+exp,exp_name,robert,Robert,109365,109371,15,425,16,M_1051
+booknlp,COREF,53,him,109619,109622,15,425,16,M_1052
+booknlp,COREF,53,him,109675,109678,15,425,16,M_1053
+exp,exp_name,madame lebrun,Madame Lebrun,109711,109724,6,425,16,M_1054
+exp,exp_name,robert,Robert,109822,109828,15,425,16,M_1055
+exp,exp_name,madame lebrun,Madame Lebrun,110030,110043,6,425,16,M_1056
+exp,exp_name,madame lebrun,Madame Lebrun,110164,110177,6,426,16,M_1057
+exp,exp_name,robert,Robert,110183,110189,15,426,16,M_1058
+booknlp,COREF,53,his,110256,110259,15,426,16,M_1059
+exp,exp_name,edna,Edna,110423,110427,3,426,16,M_1060
+exp,exp_name,robert,Robert,110702,110708,15,426,16,M_1061
+pdnc,qID,Q196-0,Robert,110790,110796,15,427,16,M_1062
+pdnc,qID,Q196-0,his,110812,110815,15,427,16,M_1063
+pdnc,qID,Q196-0,he,110836,110838,15,427,16,M_1064
+booknlp,COREF,53,himself,110859,110866,15,427,16,M_1065
+pdnc,qID,Q196-0,He,110868,110870,15,427,16,M_1066
+pdnc,qID,Q196-0,his,110891,110894,15,427,16,M_1067
+pdnc,qID,Q196-0,he,110902,110904,15,427,16,M_1068
+exp,exp_name,madame lebrun,Madame Lebrun,110922,110935,6,427,16,M_1069
+exp,exp_name,edna,Edna,111000,111004,3,427,16,M_1070
+exp,exp_name,madame lebrun,Madame Lebrun,111035,111048,6,427,16,M_1071
+exp,exp_name,edna,Edna,111235,111239,3,428,16,M_1072
+exp,exp_name,edna,Edna,111622,111626,3,428,16,M_1073
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,111662,111677,3,428,16,M_1074
+exp,exp_name,edna,Edna,111815,111819,3,428,16,M_1075
+exp,exp_name,robert,Robert,112026,112032,15,429,16,M_1076
+pdnc,qID,Q197-0,you,112090,112093,3,430,16,M_1077
+pdnc,qID,Q197-0,him,112109,112112,15,430,16,M_1078
+pdnc,qID,Q197-0,Edna,112114,112118,3,430,16,M_1079
+pdnc,qID,Q198-0,him,112156,112159,15,431,16,M_1080
+exp,exp_name,mr. pontellier,Mr. Pontellier,112176,112190,5,431,16,M_1081
+exp,exp_name,robert,Robert,112200,112206,15,431,16,M_1082
+exp,exp_name,edna,Edna,112224,112228,3,431,16,M_1083
+booknlp,COREF,49,him,112235,112238,5,431,16,M_1084
+booknlp,COREF,53,his,112423,112426,15,431,16,M_1085
+exp,exp_name,mr. pontellier,Mr. Pontellier,112454,112468,5,431,16,M_1086
+booknlp,COREF,53,he,112501,112503,15,431,16,M_1087
+booknlp,COREF,53,he,112518,112520,15,431,16,M_1088
+booknlp,COREF,53,his,112602,112605,15,431,16,M_1089
+exp,exp_name,mr. pontellier,Mr. Pontellier,112618,112632,5,431,16,M_1090
+exp,exp_name,edna,Edna,112742,112746,3,432,16,M_1091
+exp,exp_name,robert,Robert,113047,113053,15,433,16,M_1092
+booknlp,COREF,53,him,113117,113120,15,433,16,M_1093
+exp,exp_name,robert,Robert,113162,113168,15,433,16,M_1094
+exp,exp_name,edna,Edna,113566,113570,3,433,16,M_1095
+exp,exp_name,madame ratignolle,Madame Ratignolle,113585,113602,0,433,16,M_1096
+exp,exp_name,edna,Edna,113810,113814,3,433,16,M_1097
+pdnc,qID,Q200-0,you,114118,114121,3,435,16,M_1098
+pdnc,qID,Q200-0,you,114156,114159,3,435,16,M_1099
+exp,exp_name,madame ratignolle,Madame Ratignolle,114191,114208,0,435,16,M_1100
+pdnc,qID,Q200-1,your,114303,114307,3,435,16,M_1101
+pdnc,qID,Q200-1,you,114320,114323,3,435,16,M_1102
+pdnc,qID,Q201-0,you,114378,114381,0,436,16,M_1103
+exp,exp_name,edna,Edna,114398,114402,3,436,16,M_1104
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,114430,114448,7,437,16,M_1105
+pdnc,qID,Q202-0,Mademoiselle,114614,114626,7,438,16,M_1106
+pdnc,qID,Q202-0,you,114634,114637,7,438,16,M_1107
+pdnc,qID,Q202-0,Robert,114661,114667,15,438,16,M_1108
+pdnc,qID,Q202-0,you,114673,114676,7,438,16,M_1109
+pdnc,qID,Q204-0,your,114847,114851,7,440,16,M_1110
+exp,exp_name,edna,Edna,114869,114873,3,440,16,M_1111
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,114934,114952,7,440,16,M_1112
+booknlp,COREF,84,her,115066,115069,7,440,16,M_1113
+booknlp,COREF,84,Mademoiselle,115242,115254,7,440,16,M_1114
+exp,exp_name,edna,Edna,115263,115267,3,440,16,M_1115
+exp,exp_name,madame lebrun,Madame Lebrun,115533,115546,6,440,16,M_1116
+exp,exp_name,madame lebrun,Madame Lebrun,115621,115634,6,440,16,M_1117
+pdnc,qID,Q205-0,She,115715,115718,6,441,16,M_1118
+pdnc,qID,Q205-0,her son,115749,115756,15,441,16,M_1119
+exp,exp_name,edna,Edna,115764,115768,3,441,16,M_1120
+pdnc,qID,Q205-1,him,115862,115865,15,441,16,M_1121
+booknlp,COREF,84,Mademoiselle,115872,115884,7,442,16,M_1122
+pdnc,qID,Q206-0,dear,115930,115934,3,443,16,M_1123
+pdnc,qID,Q206-0,you,115982,115985,3,443,16,M_1124
+pdnc,qID,Q206-0,Aline Lebrun,115987,115999,6,443,16,M_1125
+pdnc,qID,Q206-0,Victor,116010,116016,18,443,16,M_1126
+pdnc,qID,Q206-0,Victor,116026,116032,18,443,16,M_1127
+pdnc,qID,Q206-0,She,116040,116043,6,443,16,M_1128
+pdnc,qID,Q206-0,him,116056,116059,18,443,16,M_1129
+pdnc,qID,Q206-0,She,116095,116098,6,443,16,M_1130
+pdnc,qID,Q206-0,him,116108,116111,18,443,16,M_1131
+pdnc,qID,Q206-0,he,116127,116129,18,443,16,M_1132
+pdnc,qID,Q206-0,Robert,116140,116146,15,443,16,M_1133
+pdnc,qID,Q206-0,he,116195,116197,15,443,16,M_1134
+booknlp,COREF,53,himself,116255,116262,15,443,16,M_1135
+pdnc,qID,Q206-0,the poor fellow,116293,116308,15,443,16,M_1136
+pdnc,qID,Q206-0,my dear,116317,116324,3,443,16,M_1137
+pdnc,qID,Q206-0,him,116341,116344,15,443,16,M_1138
+pdnc,qID,Q206-0,him,116357,116360,15,443,16,M_1139
+pdnc,qID,Q206-0,the only Lebrun who is worth a pinch of salt,116377,116421,15,443,16,M_1140
+pdnc,qID,Q206-0,He,116423,116425,15,443,16,M_1141
+pdnc,qID,Q206-0,him,116479,116482,15,443,16,M_1142
+pdnc,qID,Q206-0,Victor,116489,116495,18,443,16,M_1143
+pdnc,qID,Q206-0,Robert,116546,116552,15,443,16,M_1144
+pdnc,qID,Q206-0,him,116567,116570,18,443,16,M_1145
+pdnc,qID,Q207-0,he,116603,116605,15,444,16,M_1146
+pdnc,qID,Q207-0,his brother,116630,116641,18,444,16,M_1147
+exp,exp_name,edna,Edna,116652,116656,3,444,16,M_1148
+exp,exp_name,robert,Robert,116683,116689,15,444,16,M_1149
+pdnc,qID,Q208-0,he,116722,116724,15,445,16,M_1150
+pdnc,qID,Q208-0,him,116734,116737,18,445,16,M_1151
+booknlp,COREF,84,Mademoiselle,116775,116787,7,445,16,M_1152
+pdnc,qID,Q208-1,a Spanish girl,116803,116817,9,445,16,M_1153
+pdnc,qID,Q208-1,Victor,116824,116830,18,445,16,M_1154
+pdnc,qID,Q208-1,he,116847,116849,18,445,16,M_1155
+pdnc,qID,Q208-1,He,116879,116881,18,445,16,M_1156
+pdnc,qID,Q208-1,Robert,116886,116892,15,445,16,M_1157
+pdnc,qID,Q208-1,the girl,116912,116920,9,445,16,M_1158
+pdnc,qID,Q208-1,her,116938,116941,9,445,16,M_1159
+pdnc,qID,Q208-1,her,116959,116962,9,445,16,M_1160
+pdnc,qID,Q208-1,her,116976,116979,9,445,16,M_1161
+booknlp,COREF,84,I,116987,116988,7,445,16,M_1162
+pdnc,qID,Q208-1,he,117014,117016,18,445,16,M_1163
+pdnc,qID,Q208-1,Robert,117054,117060,15,445,16,M_1164
+pdnc,qID,Q208-1,him,117066,117069,18,445,16,M_1165
+pdnc,qID,Q208-1,him,117108,117111,18,445,16,M_1166
+pdnc,qID,Q208-1,he,117169,117171,18,445,16,M_1167
+pdnc,qID,Q209-0,her,117200,117203,9,446,16,M_1168
+pdnc,qID,Q209-0,Mariequita,117209,117219,9,446,16,M_1169
+exp,exp_name,edna,Edna,117228,117232,3,446,16,M_1170
+pdnc,qID,Q210-0,Mariequita,117236,117246,9,447,16,M_1171
+pdnc,qID,Q210-0,Mariequita,117265,117275,9,447,16,M_1172
+booknlp,COREF,84,I,117277,117278,7,447,16,M_1173
+pdnc,qID,Q210-0,she,117298,117301,9,447,16,M_1174
+pdnc,qID,Q210-0,Mariequita,117335,117345,9,447,16,M_1175
+exp,exp_name,edna,Edna,117349,117353,3,448,16,M_1176
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,117369,117387,7,448,16,M_1177
+booknlp,COREF,84,Mademoiselle,117588,117600,7,448,16,M_1178
+exp,exp_name,edna,Edna,117708,117712,3,448,16,M_1179
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,117843,117861,7,448,16,M_1180
+booknlp,COREF,84,Mademoiselle,117891,117903,7,449,16,M_1181
+booknlp,COREF,84,She,117912,117915,7,449,16,M_1182
+exp,exp_name,edna,Edna,117975,117979,3,449,16,M_1183
+booknlp,COREF,84,her,117996,117999,7,449,16,M_1184
+booknlp,COREF,84,She,118014,118017,7,449,16,M_1185
+booknlp,COREF,84,She,118038,118041,7,449,16,M_1186
+exp,exp_name,edna,Edna,118053,118057,3,449,16,M_1187
+booknlp,COREF,84,her,118074,118077,7,449,16,M_1188
+booknlp,COREF,84,her,118101,118104,7,449,16,M_1189
+booknlp,COREF,84,she,118164,118167,7,449,16,M_1190
+booknlp,COREF,84,her,118177,118180,7,449,16,M_1191
+pdnc,qID,Q211-0,you,118199,118202,7,450,16,M_1192
+exp,exp_name,edna,Edna,118217,118221,3,450,16,M_1193
+pdnc,qID,Q212-0,you,118242,118245,3,451,16,M_1194
+exp,exp_name,edna,Edna,118280,118284,3,452,16,M_1195
+pdnc,qID,Q213-1,Mademoiselle,118337,118349,7,452,16,M_1196
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,118368,118386,7,453,16,M_1197
+exp,exp_name,mr. pontellier,Mr. Pontellier,119308,119322,5,455,17,M_1198
+exp,exp_name,mr. pontellier,Mr. Pontellier,119325,119339,5,456,17,M_1199
+booknlp,COREF,49,his,119371,119374,5,456,17,M_1200
+booknlp,COREF,49,He,119460,119462,5,456,17,M_1201
+booknlp,COREF,49,his,119478,119481,5,456,17,M_1202
+booknlp,COREF,49,his,119521,119524,5,456,17,M_1203
+booknlp,COREF,49,he,119640,119642,5,456,17,M_1204
+booknlp,COREF,49,his,119677,119680,5,456,17,M_1205
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,119734,119749,3,457,17,M_1206
+exp,exp_name,a maid,A maid,120035,120041,8,457,17,M_1207
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,120137,120152,3,457,17,M_1208
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,120355,120370,3,458,17,M_1209
+exp,exp_name,mr. pontellier,Mr. Pontellier,120530,120544,5,459,17,M_1210
+booknlp,COREF,49,his,120550,120553,5,459,17,M_1211
+booknlp,COREF,49,He,120711,120713,5,460,17,M_1212
+booknlp,COREF,49,his,120718,120721,5,460,17,M_1213
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,121034,121049,3,460,17,M_1214
+exp,exp_name,mr. pontellier,Mr. Pontellier,121130,121144,5,460,17,M_1215
+booknlp,COREF,49,he,121198,121200,5,460,17,M_1216
+pdnc,qID,Q215-0,Edna,121267,121271,3,461,17,M_1217
+pdnc,qID,Q215-0,you,121282,121285,3,461,17,M_1218
+booknlp,COREF,49,he,121307,121309,5,461,17,M_1219
+booknlp,COREF,49,He,121317,121319,5,461,17,M_1220
+booknlp,COREF,49,his,121327,121330,5,461,17,M_1221
+exp,exp_name,edna,Edna,121455,121459,3,462,17,M_1222
+pdnc,qID,Q217-1,you,121749,121752,3,463,17,M_1223
+pdnc,qID,Q217-1,you,121778,121781,3,463,17,M_1224
+pdnc,qID,Q219-0,you,121868,121871,3,465,17,M_1225
+pdnc,qID,Q221-0,my dear,122062,122069,3,467,17,M_1226
+pdnc,qID,Q221-0,you,122086,122089,3,467,17,M_1227
+pdnc,qID,Q221-0,you,122253,122256,3,467,17,M_1228
+pdnc,qID,Q221-0,you,122267,122270,3,467,17,M_1229
+pdnc,qID,Q221-0,you,122305,122308,3,467,17,M_1230
+pdnc,qID,Q221-0,your,122356,122360,3,467,17,M_1231
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,122756,122771,3,470,17,M_1232
+pdnc,qID,Q224-0,Mr. Pontellier,122786,122800,5,471,17,M_1233
+exp,exp_name,mr. pontellier,Mr. Pontellier,122838,122852,5,472,17,M_1234
+exp,exp_name,mr. pontellier,Mr. Pontellier,122877,122891,5,473,17,M_1235
+booknlp,COREF,49,his,122913,122916,5,473,17,M_1236
+booknlp,COREF,49,he,122978,122980,5,473,17,M_1237
+pdnc,qID,Q225-0,you,123148,123151,3,474,17,M_1238
+pdnc,qID,Q225-0,Edna,123164,123168,3,474,17,M_1239
+pdnc,qID,Q225-0,you,123170,123173,3,474,17,M_1240
+pdnc,qID,Q225-0,You,123309,123312,3,474,17,M_1241
+pdnc,qID,Q225-0,Mrs. James Highcamp,123341,123360,13,474,17,M_1242
+pdnc,qID,Q225-0,you,123378,123381,3,474,17,M_1243
+pdnc,qID,Q225-0,Mrs. Highcamp,123398,123411,13,474,17,M_1244
+exp,exp_name,madame,Madame,123426,123432,17,474,17,M_1245
+exp,exp_name,edna,Edna,123582,123586,3,475,17,M_1246
+pdnc,qID,Q226-1,you,123618,123621,5,475,17,M_1247
+exp,exp_name,mr. pontellier,Mr. Pontellier,123833,123847,5,477,17,M_1248
+exp,exp_name,edna,Edna,123868,123872,3,477,17,M_1249
+booknlp,COREF,49,his,123953,123956,5,477,17,M_1250
+booknlp,COREF,49,he,123968,123970,5,477,17,M_1251
+booknlp,COREF,49,me,124046,124048,5,478,17,M_1252
+booknlp,COREF,49,he,124051,124053,5,478,17,M_1253
+pdnc,qID,Q229-0,You,124186,124189,5,479,17,M_1254
+exp,exp_name,edna,Edna,124239,124243,3,479,17,M_1255
+pdnc,qID,Q230-0,you,124387,124390,3,480,17,M_1256
+booknlp,COREF,49,I,124407,124408,5,480,17,M_1257
+booknlp,COREF,49,my,124441,124443,5,480,17,M_1258
+booknlp,COREF,49,me,124524,124526,5,480,17,M_1259
+booknlp,COREF,49,my,124531,124533,5,480,17,M_1260
+pdnc,qID,Q231-0,you,124557,124560,5,481,17,M_1261
+exp,exp_name,edna,Edna,124575,124579,3,481,17,M_1262
+exp,exp_name,edna,Edna,125341,125345,3,484,17,M_1263
+exp,exp_name,maid,maid,125694,125698,8,485,17,M_1264
+exp,exp_name,a maid,A maid,126914,126920,8,487,17,M_1265
+exp,exp_name,edna,Edna,127047,127051,3,488,17,M_1266
+pdnc,qID,Q234-0,you,127096,127099,3,489,17,M_1267
+pdnc,qID,Q234-0,your,127131,127135,3,489,17,M_1268
+pdnc,qID,Q234-0,ma'am,127142,127147,3,489,17,M_1269
+pdnc,qID,Q234-1,your,127260,127264,3,489,17,M_1270
+pdnc,qID,Q234-1,ma'am,127271,127276,3,489,17,M_1271
+exp,exp_name,edna,Edna,127297,127301,3,490,17,M_1272
+exp,exp_name,mr. pontellier,Mr. Pontellier,127400,127414,5,492,18,M_1273
+booknlp,COREF,49,his,127433,127436,5,492,18,M_1274
+exp,exp_name,edna,Edna,127451,127455,3,492,18,M_1275
+booknlp,COREF,49,him,127478,127481,5,492,18,M_1276
+booknlp,COREF,49,I,127547,127548,5,493,18,M_1277
+pdnc,qID,Q235-0,L once,127584,127590,5,493,18,M_1278
+pdnc,qID,Q235-0,you,127623,127626,5,493,18,M_1279
+booknlp,COREF,49,I,127648,127649,5,493,18,M_1280
+pdnc,qID,Q235-0,you,127664,127667,5,493,18,M_1281
+pdnc,qID,Q236-0,my dear Edna,127748,127760,3,494,18,M_1282
+booknlp,COREF,49,he,127779,127781,5,494,18,M_1283
+booknlp,COREF,49,He,127788,127790,5,494,18,M_1284
+booknlp,COREF,49,him,127843,127846,5,494,18,M_1285
+booknlp,COREF,49,He,127872,127874,5,494,18,M_1286
+booknlp,COREF,49,he,128038,128040,5,495,18,M_1287
+exp,exp_name,edna,Edna,128527,128531,3,496,18,M_1288
+exp,exp_name,mr. pontellier,Mr. Pontellier,128941,128955,5,497,18,M_1289
+exp,exp_name,mr. pontellier,Mr. Pontellier,129033,129047,5,497,18,M_1290
+booknlp,COREF,49,he,129100,129102,5,497,18,M_1291
+booknlp,COREF,49,He,129113,129115,5,497,18,M_1292
+booknlp,COREF,49,he,129150,129152,5,497,18,M_1293
+exp,exp_name,edna,Edna,129157,129161,3,497,18,M_1294
+exp,exp_name,edna,Edna,129267,129271,3,498,18,M_1295
+exp,exp_name,edna,Edna,129986,129990,3,499,18,M_1296
+exp,exp_name,robert,Robert,130035,130041,15,499,18,M_1297
+booknlp,COREF,53,him,130117,130120,15,499,18,M_1298
+booknlp,COREF,53,him,130181,130184,15,499,18,M_1299
+booknlp,COREF,53,his,130344,130347,15,499,18,M_1300
+booknlp,COREF,53,his,130368,130371,15,499,18,M_1301
+booknlp,COREF,53,his,130379,130382,15,499,18,M_1302
+exp,exp_name,edna,Edna,130577,130581,3,500,18,M_1303
+exp,exp_name,madame ratignolle,Madame Ratignolle,130600,130617,0,500,18,M_1304
+exp,exp_name,edna,Edna,130805,130809,3,500,18,M_1305
+exp,exp_name,ratignolle,Ratignolle,130865,130875,0,500,18,M_1306
+booknlp,COREF,53,His,130954,130957,15,500,18,M_1307
+exp,exp_name,ratignolle,Ratignolle,131015,131025,0,500,18,M_1308
+exp,exp_name,edna,Edna,131264,131268,3,500,18,M_1309
+exp,exp_name,edna,Edna,131864,131868,3,501,18,M_1310
+exp,exp_name,edna,Edna,132018,132022,3,501,18,M_1311
+exp,exp_name,edna,Edna,132158,132162,3,502,18,M_1312
+exp,exp_name,ratignolle,Ratignolle,132414,132424,0,502,18,M_1313
+exp,exp_name,edna,Edna,132583,132587,3,503,18,M_1314
+exp,exp_name,madame ratignolle,Madame Ratignolle,132744,132761,0,504,18,M_1315
+pdnc,qID,Q238-0,your,132954,132958,0,505,18,M_1316
+exp,exp_name,edna,Edna,132983,132987,3,505,18,M_1317
+pdnc,qID,Q238-1,you,133173,133176,0,505,18,M_1318
+pdnc,qID,Q238-1,you,133195,133198,0,505,18,M_1319
+exp,exp_name,madame ratignolle,Madame Ratignolle,133318,133335,0,506,18,M_1320
+pdnc,qID,Q239-0,Your,133553,133557,3,507,18,M_1321
+pdnc,qID,Q239-0,dear,133577,133581,3,507,18,M_1322
+exp,exp_name,edna,Edna,133607,133611,3,508,18,M_1323
+pdnc,qID,Q241-0,you,133645,133648,3,509,18,M_1324
+exp,exp_name,madame ratignolle,Madame Ratignolle,133661,133678,0,509,18,M_1325
+exp,exp_name,edna,Edna,134007,134011,3,510,18,M_1326
+exp,exp_name,madame ratignolle,Madame Ratignolle,134201,134218,0,510,18,M_1327
+exp,exp_name,ratignolle,Ratignolle,134390,134400,0,511,18,M_1328
+exp,exp_name,edna,Edna,134722,134726,3,511,18,M_1329
+exp,exp_name,edna,Edna,134944,134948,3,512,18,M_1330
+exp,exp_name,ratignolle,Ratignolle,135179,135189,0,513,18,M_1331
+exp,exp_name,edna,Edna,135652,135656,3,514,18,M_1332
+exp,exp_name,madame ratignolle,Madame Ratignolle,135966,135983,0,514,18,M_1333
+exp,exp_name,edna,Edna,136209,136213,3,514,18,M_1334
+exp,exp_name,edna,Edna,136344,136348,3,516,19,M_1335
+exp,exp_name,mr. pontellier,Mr. Pontellier,136929,136943,5,517,19,M_1336
+booknlp,COREF,49,he,136991,136993,5,517,19,M_1337
+booknlp,COREF,49,his,137032,137035,5,517,19,M_1338
+booknlp,COREF,49,him,137107,137110,5,517,19,M_1339
+booknlp,COREF,49,him,137123,137126,5,517,19,M_1340
+booknlp,COREF,49,him,137189,137192,5,517,19,M_1341
+exp,exp_name,mr. pontellier,Mr. Pontellier,137199,137213,5,517,19,M_1342
+exp,exp_name,edna,Edna,137227,137231,3,517,19,M_1343
+exp,exp_name,edna,Edna,137539,137543,3,519,19,M_1344
+pdnc,qID,Q245-0,Madame Ratignolle,137663,137680,0,520,19,M_1345
+pdnc,qID,Q245-0,she,137690,137693,0,520,19,M_1346
+pdnc,qID,Q245-0,her,137703,137706,0,520,19,M_1347
+pdnc,qID,Q245-0,she,137714,137717,0,520,19,M_1348
+pdnc,qID,Q245-0,she,137763,137766,0,520,19,M_1349
+pdnc,qID,Q245-0,you,137793,137796,3,520,19,M_1350
+pdnc,qID,Q246-0,She,137815,137818,0,521,19,M_1351
+pdnc,qID,Q248-0,you,137978,137981,5,523,19,M_1352
+exp,exp_name,mr. pontellier,Mr. Pontellier,138016,138030,5,524,19,M_1353
+booknlp,COREF,49,his,138051,138054,5,524,19,M_1354
+booknlp,COREF,49,He,138107,138109,5,524,19,M_1355
+booknlp,COREF,49,he,138163,138165,5,524,19,M_1356
+booknlp,COREF,49,his,138387,138390,5,525,19,M_1357
+exp,exp_name,edna,Edna,138399,138403,3,525,19,M_1358
+exp,exp_name,edna,Edna,138904,138908,3,525,19,M_1359
+exp,exp_name,maid,maid,138957,138961,8,525,19,M_1360
+exp,exp_name,maid,maid,139041,139045,8,525,19,M_1361
+exp,exp_name,edna,Edna,139082,139086,3,525,19,M_1362
+exp,exp_name,edna,Edna,139250,139254,3,525,19,M_1363
+exp,exp_name,edna,Edna,140471,140475,3,530,20,M_1364
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,140486,140504,7,530,20,M_1365
+booknlp,COREF,84,her,140644,140647,7,530,20,M_1366
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,140813,140831,7,530,20,M_1367
+exp,exp_name,edna,Edna,141075,141079,3,530,20,M_1368
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,141267,141285,7,530,20,M_1369
+exp,exp_name,edna,Edna,141412,141416,3,530,20,M_1370
+exp,exp_name,madame,Madame,141472,141478,17,530,20,M_1371
+booknlp,COREF,84,Mademoiselle,141552,141564,7,530,20,M_1372
+booknlp,COREF,84,her,141581,141584,7,530,20,M_1373
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,141623,141641,7,531,20,M_1374
+booknlp,COREF,84,her,141684,141687,7,531,20,M_1375
+booknlp,COREF,84,her,141751,141754,7,531,20,M_1376
+booknlp,COREF,84,her,141786,141789,7,531,20,M_1377
+booknlp,COREF,84,she,141886,141889,7,531,20,M_1378
+booknlp,COREF,84,she,141969,141972,7,531,20,M_1379
+exp,exp_name,edna,Edna,141984,141988,3,532,20,M_1380
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,142005,142023,7,532,20,M_1381
+exp,exp_name,madame lebrun,Madame Lebrun,142209,142222,6,532,20,M_1382
+exp,exp_name,madame ratignolle,Madame Ratignolle,142293,142310,0,532,20,M_1383
+exp,exp_name,edna,Edna,142510,142514,3,533,20,M_1384
+exp,exp_name,madame lebrun,Madame Lebrun,142525,142538,6,533,20,M_1385
+exp,exp_name,edna,Edna,142962,142966,3,534,20,M_1386
+exp,exp_name,victor,Victor,143069,143075,18,535,20,M_1387
+booknlp,COREF,78,his,143166,143169,18,535,20,M_1388
+exp,exp_name,edna,Edna,143197,143201,3,535,20,M_1389
+exp,exp_name,victor,Victor,143357,143363,18,536,20,M_1390
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,143399,143414,3,536,20,M_1391
+booknlp,COREF,78,he,143420,143422,18,536,20,M_1392
+booknlp,COREF,78,his,143457,143460,18,536,20,M_1393
+booknlp,COREF,78,his,143477,143480,18,536,20,M_1394
+booknlp,COREF,78,He,143490,143492,18,536,20,M_1395
+booknlp,COREF,78,his,143567,143570,18,536,20,M_1396
+booknlp,COREF,78,He,143615,143617,18,536,20,M_1397
+exp,exp_name,madame lebrun,Madame Lebrun,143670,143683,6,536,20,M_1398
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,143689,143704,3,536,20,M_1399
+exp,exp_name,victor,Victor,143897,143903,18,536,20,M_1400
+exp,exp_name,edna,Edna,144038,144042,3,536,20,M_1401
+exp,exp_name,edna,Edna,144153,144157,3,537,20,M_1402
+exp,exp_name,victor,Victor,144422,144428,18,537,20,M_1403
+booknlp,COREF,78,his,144437,144440,18,537,20,M_1404
+booknlp,COREF,78,He,144459,144461,18,537,20,M_1405
+booknlp,COREF,78,he,144559,144561,18,537,20,M_1406
+booknlp,COREF,78,He,144597,144599,18,537,20,M_1407
+booknlp,COREF,78,He,144686,144688,18,537,20,M_1408
+booknlp,COREF,78,he,144722,144724,18,537,20,M_1409
+booknlp,COREF,78,he,144853,144855,18,538,20,M_1410
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,144865,144880,3,538,20,M_1411
+booknlp,COREF,78,he,144906,144908,18,538,20,M_1412
+booknlp,COREF,78,he,144964,144966,18,538,20,M_1413
+booknlp,COREF,78,He,145008,145010,18,538,20,M_1414
+booknlp,COREF,78,his,145025,145028,18,538,20,M_1415
+booknlp,COREF,78,he,145049,145051,18,538,20,M_1416
+booknlp,COREF,78,He,145080,145082,18,538,20,M_1417
+booknlp,COREF,78,he,145130,145132,18,538,20,M_1418
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,145159,145174,3,538,20,M_1419
+booknlp,COREF,78,him,145294,145297,18,538,20,M_1420
+booknlp,COREF,78,he,145322,145324,18,538,20,M_1421
+booknlp,COREF,78,he,145372,145374,18,538,20,M_1422
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,145419,145434,3,538,20,M_1423
+booknlp,COREF,78,him,145448,145451,18,538,20,M_1424
+booknlp,COREF,78,he,145468,145470,18,538,20,M_1425
+booknlp,COREF,78,him,145518,145521,18,538,20,M_1426
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,145673,145688,3,538,20,M_1427
+exp,exp_name,madame lebrun,Madame Lebrun,145803,145816,6,538,20,M_1428
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,145940,145955,3,539,20,M_1429
+exp,exp_name,mr. pontellier,Mr. Pontellier,146059,146073,5,539,20,M_1430
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,146113,146128,3,539,20,M_1431
+exp,exp_name,victor,Victor,146163,146169,18,540,20,M_1432
+booknlp,COREF,78,his,146216,146219,18,540,20,M_1433
+booknlp,COREF,78,he,146242,146244,18,540,20,M_1434
+exp,exp_name,edna,Edna,146265,146269,3,540,20,M_1435
+booknlp,COREF,78,He,146278,146280,18,540,20,M_1436
+booknlp,COREF,78,he,146324,146326,18,540,20,M_1437
+booknlp,COREF,78,he,146345,146347,18,540,20,M_1438
+booknlp,COREF,78,him,146383,146386,18,540,20,M_1439
+booknlp,COREF,78,he,146390,146392,18,540,20,M_1440
+booknlp,COREF,78,his,146400,146403,18,540,20,M_1441
+exp,exp_name,madame lebrun,Madame Lebrun,146415,146428,6,540,20,M_1442
+exp,exp_name,victor,Victor,146531,146537,18,540,20,M_1443
+booknlp,COREF,78,he,146544,146546,18,540,20,M_1444
+booknlp,COREF,78,him,146613,146616,18,540,20,M_1445
+booknlp,COREF,78,his,146628,146631,18,540,20,M_1446
+exp,exp_name,edna,Edna,146729,146733,3,540,20,M_1447
+exp,exp_name,robert,Robert,146861,146867,15,541,20,M_1448
+exp,exp_name,victor,Victor,146905,146911,18,541,20,M_1449
+booknlp,COREF,78,his,146982,146985,18,541,20,M_1450
+booknlp,COREF,78,him,147003,147006,18,541,20,M_1451
+booknlp,COREF,78,He,147032,147034,18,541,20,M_1452
+booknlp,COREF,78,he,147075,147077,18,541,20,M_1453
+booknlp,COREF,78,He,147202,147204,18,542,20,M_1454
+booknlp,COREF,78,his,147253,147256,18,542,20,M_1455
+booknlp,COREF,78,he,147334,147336,18,542,20,M_1456
+booknlp,COREF,78,He,147410,147412,18,542,20,M_1457
+booknlp,COREF,78,he,147515,147517,18,542,20,M_1458
+booknlp,COREF,78,He,147531,147533,18,542,20,M_1459
+booknlp,COREF,78,his,147539,147542,18,542,20,M_1460
+booknlp,COREF,78,He,147563,147565,18,542,20,M_1461
+booknlp,COREF,78,his,147586,147589,18,542,20,M_1462
+booknlp,COREF,78,him,147642,147645,18,542,20,M_1463
+booknlp,COREF,78,his,147653,147656,18,542,20,M_1464
+exp,exp_name,edna,Edna,147715,147719,3,542,20,M_1465
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,147923,147941,7,542,20,M_1466
+exp,exp_name,madame lebrun,Madame Lebrun,147944,147957,6,543,20,M_1467
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,147969,147987,7,543,20,M_1468
+exp,exp_name,edna,Edna,148004,148008,3,543,20,M_1469
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,148129,148147,7,543,20,M_1470
+exp,exp_name,victor,Victor,148206,148212,18,544,20,M_1471
+booknlp,COREF,84,her,148222,148225,7,544,20,M_1472
+booknlp,COREF,84,her,148257,148260,7,544,20,M_1473
+booknlp,COREF,84,her,148287,148290,7,544,20,M_1474
+booknlp,COREF,78,he,148297,148299,18,544,20,M_1475
+booknlp,COREF,84,her,148323,148326,7,544,20,M_1476
+booknlp,COREF,78,He,148328,148330,18,544,20,M_1477
+booknlp,COREF,84,her,148341,148344,7,544,20,M_1478
+booknlp,COREF,84,She,148427,148430,7,544,20,M_1479
+booknlp,COREF,78,him,148452,148455,18,544,20,M_1480
+booknlp,COREF,84,she,148492,148495,7,544,20,M_1481
+pdnc,qID,Q249-0,Mrs. Pontellier,148552,148567,3,545,20,M_1482
+exp,exp_name,madame lebrun,Madame Lebrun,148582,148595,6,545,20,M_1483
+booknlp,COREF,78,he,148622,148624,18,546,20,M_1484
+pdnc,qID,Q250-1,her,148669,148672,3,546,20,M_1485
+pdnc,qID,Q250-1,she,148683,148686,3,546,20,M_1486
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,148766,148784,7,548,21,M_1487
+booknlp,COREF,84,her,148924,148927,7,548,21,M_1488
+booknlp,COREF,84,her,149201,149204,7,548,21,M_1489
+booknlp,COREF,84,she,149383,149386,7,548,21,M_1490
+booknlp,COREF,84,she,149420,149423,7,548,21,M_1491
+booknlp,COREF,84,she,149459,149462,7,548,21,M_1492
+booknlp,COREF,84,her,149470,149473,7,548,21,M_1493
+booknlp,COREF,84,she,149562,149565,7,548,21,M_1494
+booknlp,COREF,84,her,149579,149582,7,548,21,M_1495
+exp,exp_name,edna,Edna,149670,149674,3,549,21,M_1496
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,149686,149704,7,549,21,M_1497
+exp,exp_name,edna,Edna,149896,149900,3,549,21,M_1498
+pdnc,qID,Q251-0,you,150149,150152,3,550,21,M_1499
+booknlp,COREF,84,me,150164,150166,7,550,21,M_1500
+booknlp,COREF,84,Mademoiselle,150182,150194,7,550,21,M_1501
+booknlp,COREF,84,I,150197,150198,7,550,21,M_1502
+booknlp,COREF,84,myself,150211,150217,7,550,21,M_1503
+pdnc,qID,Q252-0,you,150258,150261,7,551,21,M_1504
+exp,exp_name,edna,Edna,150286,150290,3,551,21,M_1505
+booknlp,COREF,84,I,150307,150308,7,552,21,M_1506
+booknlp,COREF,84,Mademoiselle,150350,150362,7,552,21,M_1507
+pdnc,qID,Q253-1,you,150473,150476,3,552,21,M_1508
+pdnc,qID,Q253-1,You,150560,150563,3,552,21,M_1509
+pdnc,qID,Q253-1,la belle dame,150602,150615,3,552,21,M_1510
+booknlp,COREF,84,She,150670,150673,7,552,21,M_1511
+exp,exp_name,edna,Edna,150679,150683,3,552,21,M_1512
+booknlp,COREF,84,her,150699,150702,7,552,21,M_1513
+booknlp,COREF,84,she,150828,150831,7,553,21,M_1514
+booknlp,COREF,84,I,150842,150843,7,553,21,M_1515
+booknlp,COREF,84,I,150979,150980,7,553,21,M_1516
+pdnc,qID,Q254-2,you,151002,151005,3,553,21,M_1517
+booknlp,COREF,84,me,151011,151013,7,553,21,M_1518
+pdnc,qID,Q254-2,Mrs. Pontellier,151015,151030,3,553,21,M_1519
+pdnc,qID,Q255-0,you,151063,151066,7,554,21,M_1520
+exp,exp_name,edna,Edna,151084,151088,3,554,21,M_1521
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,151160,151175,3,555,21,M_1522
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,151204,151222,7,555,21,M_1523
+booknlp,COREF,84,She,151224,151227,7,555,21,M_1524
+booknlp,COREF,84,her,151238,151241,7,555,21,M_1525
+booknlp,COREF,84,her,151329,151332,7,555,21,M_1526
+exp,exp_name,edna,Edna,151441,151445,3,555,21,M_1527
+exp,exp_name,madame lebrun,Madame Lebrun,151479,151492,6,555,21,M_1528
+booknlp,COREF,84,Mademoiselle,151533,151545,7,555,21,M_1529
+booknlp,COREF,84,she,151565,151568,7,555,21,M_1530
+booknlp,COREF,84,herself,151624,151631,7,555,21,M_1531
+booknlp,COREF,84,I,151664,151665,7,556,21,M_1532
+pdnc,qID,Q256-0,your friend,151689,151700,15,556,21,M_1533
+booknlp,COREF,84,she,151703,151706,7,556,21,M_1534
+booknlp,COREF,84,she,151720,151723,7,556,21,M_1535
+exp,exp_name,edna,Edna,151751,151755,3,556,21,M_1536
+booknlp,COREF,84,My,151786,151788,7,557,21,M_1537
+pdnc,qID,Q258-0,your friend Robert,151805,151823,15,558,21,M_1538
+pdnc,qID,Q258-0,He,151825,151827,15,558,21,M_1539
+booknlp,COREF,84,me,151837,151839,7,558,21,M_1540
+pdnc,qID,Q259-0,you,151878,151881,7,559,21,M_1541
+exp,exp_name,edna,Edna,151894,151898,3,559,21,M_1542
+booknlp,COREF,84,me,151953,151955,7,560,21,M_1543
+pdnc,qID,Q260-0,your,151999,152003,3,560,21,M_1544
+pdnc,qID,Q260-0,you,152072,152075,3,560,21,M_1545
+pdnc,qID,Q260-0,Mrs. Pontellier,152096,152111,3,560,21,M_1546
+pdnc,qID,Q263-0,you,152301,152304,7,563,21,M_1547
+booknlp,COREF,84,me,152328,152330,7,563,21,M_1548
+pdnc,qID,Q264-0,you,152378,152381,3,564,21,M_1549
+pdnc,qID,Q264-0,you,152390,152393,3,564,21,M_1550
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,152410,152425,3,564,21,M_1551
+pdnc,qID,Q265-0,he,152448,152450,15,564,21,M_1552
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,152461,152476,3,564,21,M_1553
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,152491,152506,3,564,21,M_1554
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,152523,152538,3,564,21,M_1555
+booknlp,COREF,84,my,152602,152604,7,564,21,M_1556
+booknlp,COREF,84,I,152615,152616,7,564,21,M_1557
+booknlp,COREF,84,I,152673,152674,7,564,21,M_1558
+pdnc,qID,Q267-0,he,152733,152735,15,564,21,M_1559
+booknlp,COREF,84,me,152796,152798,7,565,21,M_1560
+pdnc,qID,Q270-0,you,152834,152837,7,567,21,M_1561
+booknlp,COREF,84,me,152865,152867,7,569,21,M_1562
+booknlp,COREF,84,me,152937,152939,7,571,21,M_1563
+pdnc,qID,Q275-0,you,152977,152980,3,572,21,M_1564
+booknlp,COREF,84,me,153022,153024,7,573,21,M_1565
+pdnc,qID,Q276-0,Your,153026,153030,7,573,21,M_1566
+pdnc,qID,Q277-0,you,153088,153091,3,574,21,M_1567
+booknlp,COREF,84,me,153102,153104,7,574,21,M_1568
+pdnc,qID,Q277-0,you,153135,153138,3,574,21,M_1569
+exp,exp_name,edna,Edna,153168,153172,3,575,21,M_1570
+pdnc,qID,Q279-0,You,153231,153234,3,576,21,M_1571
+pdnc,qID,Q279-0,Madame,153253,153259,3,576,21,M_1572
+pdnc,qID,Q280-0,you,153284,153287,7,577,21,M_1573
+booknlp,COREF,84,I,153327,153328,7,578,21,M_1574
+pdnc,qID,Q281-0,you,153341,153344,3,578,21,M_1575
+booknlp,COREF,84,I,153365,153366,7,578,21,M_1576
+pdnc,qID,Q281-0,your,153379,153383,3,578,21,M_1577
+pdnc,qID,Q281-0,your,153394,153398,3,578,21,M_1578
+pdnc,qID,Q282-0,you,153619,153622,7,579,21,M_1579
+pdnc,qID,Q284-0,You,153778,153781,7,581,21,M_1580
+pdnc,qID,Q285-0,you,153899,153902,3,582,21,M_1581
+booknlp,COREF,84,Mademoiselle,153929,153941,7,582,21,M_1582
+booknlp,COREF,84,her,153948,153951,7,582,21,M_1583
+exp,exp_name,edna,Edna,154050,154054,3,583,21,M_1584
+booknlp,COREF,84,Mademoiselle,154087,154099,7,583,21,M_1585
+booknlp,COREF,84,She,154162,154165,7,583,21,M_1586
+exp,exp_name,edna,Edna,154179,154183,3,583,21,M_1587
+booknlp,COREF,84,Mademoiselle,154251,154263,7,584,21,M_1588
+booknlp,COREF,84,She,154314,154317,7,584,21,M_1589
+booknlp,COREF,84,her,154362,154365,7,584,21,M_1590
+exp,exp_name,edna,Edna,154564,154568,3,585,21,M_1591
+exp,exp_name,robert,Robert,154652,154658,15,585,21,M_1592
+booknlp,COREF,84,Mademoiselle,154689,154701,7,585,21,M_1593
+exp,exp_name,edna,Edna,155161,155165,3,587,21,M_1594
+pdnc,qID,Q286-0,Mademoiselle,155336,155348,7,587,21,M_1595
+pdnc,qID,Q287-0,you,155395,155398,3,588,21,M_1596
+booknlp,COREF,84,Mademoiselle,155476,155488,7,589,21,M_1597
+exp,exp_name,robert,Robert,155517,155523,15,589,21,M_1598
+booknlp,COREF,84,She,155551,155554,7,589,21,M_1599
+booknlp,COREF,84,Mademoiselle,155618,155630,7,589,21,M_1600
+booknlp,COREF,53,his,155744,155747,15,591,22,M_1601
+exp,exp_name,mr. pontellier,Mr. Pontellier,155762,155776,5,591,22,M_1602
+booknlp,COREF,53,his,155801,155804,15,591,22,M_1603
+exp,exp_name,doctor mandelet,Doctor Mandelet,155838,155853,2,591,22,M_1604
+exp,exp_name,the doctor,The Doctor,155855,155865,2,591,22,M_1605
+booknlp,COREF,352,his,155928,155931,2,591,22,M_1606
+booknlp,COREF,352,He,155941,155943,2,591,22,M_1607
+booknlp,COREF,352,his,156034,156037,2,591,22,M_1608
+booknlp,COREF,352,him,156154,156157,2,591,22,M_1609
+booknlp,COREF,352,he,156182,156184,2,591,22,M_1610
+exp,exp_name,mr. pontellier,Mr. Pontellier,156283,156297,5,592,22,M_1611
+exp,exp_name,the doctor,the Doctor,156304,156314,2,592,22,M_1612
+booknlp,COREF,53,his,156345,156348,15,592,22,M_1613
+booknlp,COREF,53,His,156356,156359,15,592,22,M_1614
+booknlp,COREF,53,He,156514,156516,15,592,22,M_1615
+booknlp,COREF,53,He,156537,156539,15,592,22,M_1616
+booknlp,COREF,53,his,156570,156573,15,592,22,M_1617
+exp,exp_name,mr. pontellier,Mr. Pontellier,156589,156603,5,592,22,M_1618
+booknlp,COREF,53,him,156655,156658,15,592,22,M_1619
+pdnc,qID,Q288-0,Pontellier,156694,156704,5,593,22,M_1620
+booknlp,COREF,53,I,156716,156717,15,593,22,M_1621
+pdnc,qID,Q288-0,you,156759,156762,5,593,22,M_1622
+booknlp,COREF,53,He,156784,156786,15,593,22,M_1623
+booknlp,COREF,53,I,156942,156943,15,594,22,M_1624
+pdnc,qID,Q289-0,Doctor,156958,156964,2,594,22,M_1625
+pdnc,qID,Q289-0,You,156966,156969,2,594,22,M_1626
+booknlp,COREF,53,I,156980,156981,15,594,22,M_1627
+booknlp,COREF,53,I,157076,157077,15,594,22,M_1628
+pdnc,qID,Q289-0,you,157134,157137,2,594,22,M_1629
+pdnc,qID,Q289-0,Edna,157144,157148,3,594,22,M_1630
+booknlp,COREF,53,I,157150,157151,15,594,22,M_1631
+pdnc,qID,Q289-0,her,157173,157176,3,594,22,M_1632
+pdnc,qID,Q290-0,Madame Pontellier,157181,157198,3,595,22,M_1633
+exp,exp_name,the doctor,the Doctor,157219,157229,2,595,22,M_1634
+booknlp,COREF,352,I,157237,157238,2,595,22,M_1635
+pdnc,qID,Q290-1,her,157243,157246,3,595,22,M_1636
+booknlp,COREF,352,I,157247,157248,2,595,22,M_1637
+booknlp,COREF,352,me,157337,157339,2,595,22,M_1638
+pdnc,qID,Q291-0,she,157354,157357,3,596,22,M_1639
+exp,exp_name,mr. pontellier,Mr. Pontellier,157382,157396,5,596,22,M_1640
+booknlp,COREF,49,his,157427,157430,5,596,22,M_1641
+booknlp,COREF,49,his,157445,157448,5,596,22,M_1642
+pdnc,qID,Q291-1,she,157465,157468,3,596,22,M_1643
+pdnc,qID,Q291-1,She,157487,157490,3,596,22,M_1644
+pdnc,qID,Q291-1,she,157498,157501,3,596,22,M_1645
+booknlp,COREF,49,I,157522,157523,5,596,22,M_1646
+pdnc,qID,Q291-1,her,157535,157538,3,596,22,M_1647
+booknlp,COREF,49,I,157548,157549,5,596,22,M_1648
+pdnc,qID,Q291-1,you,157566,157569,2,596,22,M_1649
+booknlp,COREF,49,me,157577,157579,5,596,22,M_1650
+pdnc,qID,Q292-0,she,157593,157596,3,597,22,M_1651
+exp,exp_name,the doctor,the Doctor,157612,157622,2,597,22,M_1652
+exp,exp_name,mr. pontellier,Mr. Pontellier,157664,157678,5,598,22,M_1653
+booknlp,COREF,49,himself,157689,157696,5,598,22,M_1654
+booknlp,COREF,49,his,157705,157708,5,598,22,M_1655
+pdnc,qID,Q293-1,She,157717,157720,3,598,22,M_1656
+pdnc,qID,Q294-0,my dear Pontellier,157802,157820,5,599,22,M_1657
+pdnc,qID,Q295-0,you,157868,157871,2,600,22,M_1658
+pdnc,qID,Q295-0,Her,157892,157895,3,600,22,M_1659
+pdnc,qID,Q295-0,You,157963,157966,2,600,22,M_1660
+pdnc,qID,Q295-0,my wife,158057,158064,3,600,22,M_1661
+pdnc,qID,Q295-0,She,158156,158159,3,600,22,M_1662
+pdnc,qID,Q295-1,She,158229,158232,3,600,22,M_1663
+pdnc,qID,Q295-1,her,158262,158265,3,600,22,M_1664
+pdnc,qID,Q295-1,you,158315,158318,2,600,22,M_1665
+pdnc,qID,Q296-0,you,158533,158536,5,602,22,M_1666
+pdnc,qID,Q296-0,her,158551,158554,3,602,22,M_1667
+pdnc,qID,Q296-0,Pontellier,158556,158566,5,602,22,M_1668
+pdnc,qID,Q298-0,she,158596,158599,3,604,22,M_1669
+exp,exp_name,the doctor,the Doctor,158608,158618,2,604,22,M_1670
+pdnc,qID,Q298-1,she,158639,158642,3,604,22,M_1671
+booknlp,COREF,352,My,158744,158746,2,604,22,M_1672
+booknlp,COREF,352,me,158769,158771,2,604,22,M_1673
+exp,exp_name,mr. pontellier,Mr. Pontellier,158817,158831,5,605,22,M_1674
+pdnc,qID,Q299-1,she,158834,158837,3,605,22,M_1675
+pdnc,qID,Q299-1,She,158876,158879,3,605,22,M_1676
+pdnc,qID,Q299-1,her,158894,158897,3,605,22,M_1677
+pdnc,qID,Q299-1,her,158936,158939,3,605,22,M_1678
+booknlp,COREF,49,I,159041,159042,5,605,22,M_1679
+pdnc,qID,Q299-1,you,159048,159051,2,605,22,M_1680
+pdnc,qID,Q299-1,she,159052,159055,3,605,22,M_1681
+booknlp,COREF,49,I,159068,159069,5,605,22,M_1682
+booknlp,COREF,49,I,159085,159086,5,605,22,M_1683
+exp,exp_name,the doctor,the Doctor,159146,159156,2,606,22,M_1684
+booknlp,COREF,352,he,159180,159182,2,606,22,M_1685
+pdnc,qID,Q300-1,her,159225,159228,3,606,22,M_1686
+pdnc,qID,Q301-0,She,159278,159281,3,607,22,M_1687
+pdnc,qID,Q301-0,The old gentleman,159330,159347,16,607,22,M_1688
+pdnc,qID,Q301-0,her father,159349,159359,16,607,22,M_1689
+booknlp,COREF,49,I,159361,159362,5,607,22,M_1690
+pdnc,qID,Q301-0,his,159393,159396,16,607,22,M_1691
+pdnc,qID,Q301-0,his,159415,159418,16,607,22,M_1692
+booknlp,COREF,49,I,159437,159438,5,607,22,M_1693
+pdnc,qID,Q301-0,his,159461,159464,16,607,22,M_1694
+booknlp,COREF,49,I,159544,159545,5,607,22,M_1695
+pdnc,qID,Q302-0,your wife,159747,159756,3,608,22,M_1696
+exp,exp_name,the doctor,the Doctor,159787,159797,2,608,22,M_1697
+pdnc,qID,Q302-1,her,159833,159836,3,608,22,M_1698
+pdnc,qID,Q302-1,her,159848,159851,3,608,22,M_1699
+pdnc,qID,Q302-1,her,159887,159890,3,608,22,M_1700
+booknlp,COREF,49,I,159912,159913,5,609,22,M_1701
+pdnc,qID,Q303-0,her,159919,159922,3,609,22,M_1702
+pdnc,qID,Q303-0,She,159930,159933,3,609,22,M_1703
+pdnc,qID,Q303-0,She,159960,159963,3,609,22,M_1704
+pdnc,qID,Q303-0,her,160063,160066,3,609,22,M_1705
+exp,exp_name,mr. pontellier,Mr. Pontellier,160087,160101,5,609,22,M_1706
+pdnc,qID,Q304-0,Pontellier,160138,160148,5,610,22,M_1707
+exp,exp_name,the doctor,the Doctor,160156,160166,2,610,22,M_1708
+pdnc,qID,Q304-1,your wife,160202,160211,3,610,22,M_1709
+pdnc,qID,Q304-1,her,160244,160247,3,610,22,M_1710
+pdnc,qID,Q304-1,her,160263,160266,3,610,22,M_1711
+pdnc,qID,Q304-1,you,160274,160277,5,610,22,M_1712
+pdnc,qID,Q304-1,my dear friend,160286,160300,5,610,22,M_1713
+booknlp,COREF,352,I,160391,160392,2,610,22,M_1714
+pdnc,qID,Q304-1,Mrs. Pontellier,160398,160413,3,610,22,M_1715
+pdnc,qID,Q304-1,you,160550,160553,5,610,22,M_1716
+booknlp,COREF,352,me,160558,160560,2,610,22,M_1717
+pdnc,qID,Q304-1,your wife,160692,160701,3,610,22,M_1718
+pdnc,qID,Q304-1,you,160737,160740,5,610,22,M_1719
+booknlp,COREF,352,I,160745,160746,2,610,22,M_1720
+pdnc,qID,Q304-1,you,160815,160818,5,610,22,M_1721
+pdnc,qID,Q304-1,her,160823,160826,3,610,22,M_1722
+pdnc,qID,Q304-1,her,160839,160842,3,610,22,M_1723
+booknlp,COREF,352,me,160857,160859,2,610,22,M_1724
+booknlp,COREF,49,I,160868,160869,5,611,22,M_1725
+exp,exp_name,mr. pontellier,Mr. Pontellier,160927,160941,5,611,22,M_1726
+booknlp,COREF,352,I,160950,160951,2,612,22,M_1727
+pdnc,qID,Q306-0,her,160973,160976,3,612,22,M_1728
+exp,exp_name,the doctor,the Doctor,160984,160994,2,612,22,M_1729
+booknlp,COREF,352,I,160997,160998,2,612,22,M_1730
+exp,exp_name,mr. pontellier,Mr. Pontellier,161075,161089,5,613,22,M_1731
+pdnc,qID,Q308-0,you,161110,161113,2,613,22,M_1732
+pdnc,qID,Q308-0,you,161139,161142,2,613,22,M_1733
+booknlp,COREF,49,he,161159,161161,5,613,22,M_1734
+booknlp,COREF,49,his,161184,161187,5,613,22,M_1735
+booknlp,COREF,352,My,161218,161220,2,614,22,M_1736
+booknlp,COREF,352,me,161264,161266,2,614,22,M_1737
+booknlp,COREF,352,I,161294,161295,2,614,22,M_1738
+pdnc,qID,Q309-0,you,161306,161309,5,614,22,M_1739
+pdnc,qID,Q309-0,you,161327,161330,5,614,22,M_1740
+booknlp,COREF,352,me,161342,161344,2,614,22,M_1741
+exp,exp_name,mr. pontellier,Mr. Pontellier,161348,161362,5,615,22,M_1742
+booknlp,COREF,49,I,161395,161396,5,616,22,M_1743
+booknlp,COREF,49,I,161441,161442,5,616,22,M_1744
+pdnc,qID,Q310-0,you,161557,161560,2,616,22,M_1745
+pdnc,qID,Q310-0,you,161581,161584,2,616,22,M_1746
+pdnc,qID,Q310-0,Doctor,161593,161599,2,616,22,M_1747
+booknlp,COREF,49,he,161602,161604,5,616,22,M_1748
+booknlp,COREF,352,I,161620,161621,2,617,22,M_1749
+pdnc,qID,Q311-0,you,161628,161631,5,617,22,M_1750
+pdnc,qID,Q311-0,my dear sir,161633,161644,5,617,22,M_1751
+exp,exp_name,the doctor,the Doctor,161656,161666,2,617,22,M_1752
+booknlp,COREF,352,I,161669,161670,2,617,22,M_1753
+pdnc,qID,Q311-1,you,161694,161697,5,617,22,M_1754
+pdnc,qID,Q311-1,your,161742,161746,5,617,22,M_1755
+booknlp,COREF,49,I,161762,161763,5,618,22,M_1756
+exp,exp_name,mr. pontellier,Mr. Pontellier,161790,161804,5,618,22,M_1757
+booknlp,COREF,49,his,161811,161814,5,618,22,M_1758
+booknlp,COREF,49,I,161834,161835,5,618,22,M_1759
+pdnc,qID,Q312-1,you,161878,161881,2,618,22,M_1760
+booknlp,COREF,49,me,161889,161891,5,618,22,M_1761
+pdnc,qID,Q312-1,Edna,161900,161904,3,618,22,M_1762
+pdnc,qID,Q313-0,she,161932,161935,3,619,22,M_1763
+pdnc,qID,Q313-0,her,161964,161967,3,619,22,M_1764
+pdnc,qID,Q313-0,her,161991,161994,3,619,22,M_1765
+booknlp,COREF,352,I,162016,162017,2,619,22,M_1766
+pdnc,qID,Q313-0,you,162025,162028,5,619,22,M_1767
+exp,exp_name,mr. pontellier,Mr. Pontellier,162154,162168,5,620,22,M_1768
+booknlp,COREF,49,he,162173,162175,5,620,22,M_1769
+booknlp,COREF,49,himself,162180,162187,5,620,22,M_1770
+exp,exp_name,the doctor,The Doctor,162194,162204,2,621,22,M_1771
+booknlp,COREF,352,he,162300,162302,2,621,22,M_1772
+booknlp,COREF,352,his,162308,162311,2,621,22,M_1773
+booknlp,COREF,352,He,162361,162363,2,622,22,M_1774
+booknlp,COREF,352,his,162379,162382,2,622,22,M_1775
+exp,exp_name,edna,Edna,162471,162475,3,624,23,M_1776
+exp,exp_name,mr. pontellier,Mr. Pontellier,162937,162951,5,625,23,M_1777
+exp,exp_name,edna,Edna,163271,163275,3,625,23,M_1778
+exp,exp_name,edna,Edna,163707,163711,3,625,23,M_1779
+exp,exp_name,edna,Edna,164646,164650,3,627,23,M_1780
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,164686,164704,7,627,23,M_1781
+booknlp,COREF,84,her,164749,164752,7,627,23,M_1782
+booknlp,COREF,84,Mademoiselle,164772,164784,7,627,23,M_1783
+exp,exp_name,madame ratignolle,Madame Ratignolle,164890,164907,0,627,23,M_1784
+exp,exp_name,the colonel,the Colonel,164921,164932,16,627,23,M_1785
+booknlp,COREF,1192,him,164945,164948,16,627,23,M_1786
+booknlp,COREF,1192,him,164984,164987,16,627,23,M_1787
+booknlp,COREF,1192,he,165053,165055,16,627,23,M_1788
+exp,exp_name,madame,Madame,165070,165076,17,627,23,M_1789
+booknlp,COREF,1192,him,165092,165095,16,627,23,M_1790
+exp,exp_name,the colonel,the Colonel,165196,165207,16,627,23,M_1791
+booknlp,COREF,1192,his,165248,165251,16,627,23,M_1792
+exp,exp_name,edna,Edna,165270,165274,3,627,23,M_1793
+exp,exp_name,mr. pontellier,Mr. Pontellier,165852,165866,5,629,23,M_1794
+booknlp,COREF,49,He,165909,165911,5,629,23,M_1795
+exp,exp_name,madame ratignolle,Madame Ratignolle,165982,165999,0,629,23,M_1796
+booknlp,COREF,49,he,166000,166002,5,629,23,M_1797
+booknlp,COREF,49,his,166077,166080,5,629,23,M_1798
+booknlp,COREF,49,His,166106,166109,5,629,23,M_1799
+exp,exp_name,mr. pontellier,Mr. Pontellier,166155,166169,5,629,23,M_1800
+exp,exp_name,edna,Edna,166211,166215,3,629,23,M_1801
+pdnc,qID,Q316-0,Mr. Pontellier,166234,166248,5,630,23,M_1802
+booknlp,COREF,49,I,166289,166290,5,630,23,M_1803
+pdnc,qID,Q316-0,you,166297,166300,3,630,23,M_1804
+pdnc,qID,Q316-0,you,166324,166327,3,630,23,M_1805
+booknlp,COREF,49,my,166339,166341,5,630,23,M_1806
+pdnc,qID,Q316-0,he,166368,166370,5,630,23,M_1807
+exp,exp_name,edna,Edna,166398,166402,3,631,23,M_1808
+pdnc,qID,Q317-1,he,166456,166458,5,631,23,M_1809
+exp,exp_name,the colonel,The Colonel,167110,167121,16,633,23,M_1810
+booknlp,COREF,1192,him,167188,167191,16,633,23,M_1811
+booknlp,COREF,1192,He,167215,167217,16,633,23,M_1812
+booknlp,COREF,1192,He,167261,167263,16,633,23,M_1813
+booknlp,COREF,1192,he,167297,167299,16,633,23,M_1814
+booknlp,COREF,1192,he,167353,167355,16,633,23,M_1815
+exp,exp_name,edna,Edna,167407,167411,3,633,23,M_1816
+booknlp,COREF,1192,him,167427,167430,16,633,23,M_1817
+exp,exp_name,doctor mandelet,Doctor Mandelet,167438,167453,2,634,23,M_1818
+booknlp,COREF,120,he,167493,167495,2,634,23,M_1819
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,167513,167528,3,634,23,M_1820
+booknlp,COREF,120,him,167597,167600,2,634,23,M_1821
+exp,exp_name,the doctor,The Doctor,167840,167850,2,634,23,M_1822
+booknlp,COREF,352,He,167888,167890,2,634,23,M_1823
+booknlp,COREF,352,he,167935,167937,2,634,23,M_1824
+booknlp,COREF,352,he,168008,168010,2,634,23,M_1825
+booknlp,COREF,352,he,168051,168053,2,634,23,M_1826
+booknlp,COREF,352,he,168125,168127,2,634,23,M_1827
+exp,exp_name,the colonel,the Colonel,168150,168161,16,634,23,M_1828
+booknlp,COREF,1192,him,168196,168199,16,634,23,M_1829
+exp,exp_name,edna,Edna,168247,168251,3,634,23,M_1830
+exp,exp_name,the colonel,the Colonel,168407,168418,16,634,23,M_1831
+booknlp,COREF,122,Mrs. Mortimer Merriman,168434,168456,14,634,23,M_1832
+exp,exp_name,highcamp,Highcamp,168472,168480,21,634,23,M_1833
+exp,exp_name,arobin,Arobin,168508,168514,1,634,23,M_1834
+booknlp,COREF,352,him,168585,168588,2,634,23,M_1835
+exp,exp_name,mr. pontellier,Mr. Pontellier,168603,168617,5,635,23,M_1836
+booknlp,COREF,49,himself,168618,168625,5,635,23,M_1837
+booknlp,COREF,49,he,168748,168750,5,635,23,M_1838
+booknlp,COREF,49,He,168808,168810,5,635,23,M_1839
+booknlp,COREF,49,his,168935,168938,5,635,23,M_1840
+exp,exp_name,edna,Edna,168990,168994,3,635,23,M_1841
+exp,exp_name,the doctor,the Doctor,169034,169044,2,635,23,M_1842
+booknlp,COREF,49,He,169064,169066,5,636,23,M_1843
+booknlp,COREF,49,his,169076,169079,5,636,23,M_1844
+booknlp,COREF,49,his,169111,169114,5,636,23,M_1845
+booknlp,COREF,49,he,169205,169207,5,636,23,M_1846
+booknlp,COREF,49,him,169392,169395,5,636,23,M_1847
+exp,exp_name,mr. pontellier,Mr. Pontellier,169641,169655,5,638,23,M_1848
+booknlp,COREF,49,He,169688,169690,5,638,23,M_1849
+booknlp,COREF,49,his,169768,169771,5,638,23,M_1850
+booknlp,COREF,49,he,169784,169786,5,638,23,M_1851
+exp,exp_name,the colonel,The Colonel,169941,169952,16,639,23,M_1852
+booknlp,COREF,49,he,170076,170078,5,639,23,M_1853
+exp,exp_name,the doctor,the Doctor,170152,170162,2,639,23,M_1854
+booknlp,COREF,352,his,170174,170177,2,639,23,M_1855
+booknlp,COREF,352,he,170194,170196,2,639,23,M_1856
+booknlp,COREF,352,him,170444,170447,2,639,23,M_1857
+booknlp,COREF,352,his,170455,170458,2,639,23,M_1858
+exp,exp_name,edna,Edna,170532,170536,3,639,23,M_1859
+exp,exp_name,madame,Madame,170816,170822,17,639,23,M_1860
+exp,exp_name,edna,Edna,171404,171408,3,640,23,M_1861
+exp,exp_name,the doctor,The Doctor,171526,171536,2,641,23,M_1862
+booknlp,COREF,352,his,171545,171548,2,641,23,M_1863
+booknlp,COREF,352,his,171576,171579,2,641,23,M_1864
+booknlp,COREF,352,he,171590,171592,2,641,23,M_1865
+booknlp,COREF,352,He,171627,171629,2,641,23,M_1866
+booknlp,COREF,352,his,171635,171638,2,641,23,M_1867
+booknlp,COREF,352,He,171750,171752,2,641,23,M_1868
+booknlp,COREF,352,he,171763,171765,2,641,23,M_1869
+exp,exp_name,pontellier,Pontellier,171779,171789,5,641,23,M_1870
+booknlp,COREF,352,He,171804,171806,2,641,23,M_1871
+booknlp,COREF,352,He,171878,171880,2,641,23,M_1872
+booknlp,COREF,352,him,171933,171936,2,641,23,M_1873
+booknlp,COREF,352,I,171940,171941,2,642,23,M_1874
+pdnc,qID,Q318-0,Arobin,171956,171962,1,642,23,M_1875
+booknlp,COREF,352,he,171965,171967,2,642,23,M_1876
+booknlp,COREF,352,himself,171980,171987,2,642,23,M_1877
+booknlp,COREF,352,he,171991,171993,2,642,23,M_1878
+booknlp,COREF,352,I,172003,172004,2,642,23,M_1879
+pdnc,qID,Q318-1,Alc e Arobin,172029,172041,1,642,23,M_1880
+exp,exp_name,edna,Edna,172051,172055,3,644,24,M_1881
+exp,exp_name,mr. pontellier,Mr. Pontellier,172174,172188,5,644,24,M_1882
+booknlp,COREF,49,his,172232,172235,5,644,24,M_1883
+booknlp,COREF,49,his,172249,172252,5,644,24,M_1884
+booknlp,COREF,49,He,172264,172266,5,644,24,M_1885
+exp,exp_name,doctor mandelet,Doctor Mandelet,172281,172296,2,644,24,M_1886
+exp,exp_name,the colonel,The Colonel,172340,172351,16,644,24,M_1887
+booknlp,COREF,124,his,172363,172366,16,644,24,M_1888
+booknlp,COREF,124,His,172479,172482,16,644,24,M_1889
+booknlp,COREF,124,He,172524,172526,16,644,24,M_1890
+exp,exp_name,edna,Edna,172584,172588,3,644,24,M_1891
+booknlp,COREF,124,He,172607,172609,16,644,24,M_1892
+booknlp,COREF,124,he,172662,172664,16,644,24,M_1893
+exp,exp_name,edna,Edna,172695,172699,3,645,24,M_1894
+exp,exp_name,mr. pontellier,Mr. Pontellier,172896,172910,5,646,24,M_1895
+booknlp,COREF,49,He,172933,172935,5,646,24,M_1896
+booknlp,COREF,49,his,172968,172971,5,646,24,M_1897
+exp,exp_name,edna,Edna,173072,173076,3,646,24,M_1898
+pdnc,qID,Q319-0,You,173106,173109,5,647,24,M_1899
+pdnc,qID,Q319-0,L once,173147,173153,5,647,24,M_1900
+exp,exp_name,the colonel,the Colonel,173165,173176,16,647,24,M_1901
+pdnc,qID,Q319-1,your,173223,173227,5,647,24,M_1902
+booknlp,COREF,1192,my,173289,173291,16,647,24,M_1903
+exp,exp_name,the colonel,The Colonel,173307,173318,16,648,24,M_1904
+booknlp,COREF,1192,he,173344,173346,16,648,24,M_1905
+booknlp,COREF,1192,his,173359,173362,16,648,24,M_1906
+exp,exp_name,mr. pontellier,Mr. Pontellier,173388,173402,5,648,24,M_1907
+booknlp,COREF,49,he,173437,173439,5,648,24,M_1908
+exp,exp_name,edna,Edna,173490,173494,3,649,24,M_1909
+exp,exp_name,madame ratignolle,Madame Ratignolle,173960,173977,0,649,24,M_1910
+exp,exp_name,madame,Madame,174304,174310,17,650,24,M_1911
+exp,exp_name,pontellier,Pontellier,174311,174321,5,650,24,M_1912
+exp,exp_name,madame,madame,174402,174408,17,650,24,M_1913
+booknlp,COREF,57,L,174478,174479,5,650,24,M_1914
+exp,exp_name,edna,Edna,174959,174963,3,651,24,M_1915
+exp,exp_name,edna,Edna,175574,175578,3,651,24,M_1916
+exp,exp_name,maid,maid,175593,175597,8,651,24,M_1917
+exp,exp_name,edna,Edna,175923,175927,3,651,24,M_1918
+exp,exp_name,mr. pontellier,Mr. Pontellier,176389,176403,5,652,24,M_1919
+exp,exp_name,edna,Edna,176523,176527,3,653,24,M_1920
+booknlp,COREF,57,L,177011,177012,5,654,24,M_1921
+exp,exp_name,edna,Edna,177353,177357,3,655,24,M_1922
+exp,exp_name,edna,Edna,177636,177640,3,656,24,M_1923
+exp,exp_name,edna,Edna,177821,177825,3,658,25,M_1924
+exp,exp_name,edna,Edna,178185,178189,3,659,25,M_1925
+exp,exp_name,arobin,Arobin,178670,178676,1,660,25,M_1926
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,178681,178694,13,660,25,M_1927
+exp,exp_name,arobin,Arobin,178734,178740,1,660,25,M_1928
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,178749,178762,13,660,25,M_1929
+booknlp,COREF,107,She,178900,178903,13,660,25,M_1930
+booknlp,COREF,107,her,178930,178933,13,660,25,M_1931
+exp,exp_name,arobin,Arobin,179006,179012,1,660,25,M_1932
+booknlp,COREF,77,He,179030,179032,1,660,25,M_1933
+booknlp,COREF,77,his,179140,179143,1,660,25,M_1934
+booknlp,COREF,77,his,179257,179260,1,660,25,M_1935
+booknlp,COREF,77,His,179281,179284,1,660,25,M_1936
+booknlp,COREF,77,He,179335,179337,1,660,25,M_1937
+booknlp,COREF,77,his,179435,179438,1,660,25,M_1938
+booknlp,COREF,77,He,179491,179493,1,661,25,M_1939
+exp,exp_name,edna,Edna,179502,179506,3,661,25,M_1940
+booknlp,COREF,77,He,179570,179572,1,661,25,M_1941
+booknlp,COREF,77,him,179634,179637,1,661,25,M_1942
+booknlp,COREF,77,his,179679,179682,1,661,25,M_1943
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,179700,179713,13,661,25,M_1944
+exp,exp_name,edna,Edna,179890,179894,3,662,25,M_1945
+exp,exp_name,arobin,Arobin,180029,180035,1,662,25,M_1946
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,180064,180077,13,662,25,M_1947
+exp,exp_name,arobin,Arobin,180731,180737,1,662,25,M_1948
+booknlp,COREF,77,him,180784,180787,1,662,25,M_1949
+exp,exp_name,edna,Edna,180791,180795,3,662,25,M_1950
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,180811,180824,13,662,25,M_1951
+booknlp,COREF,107,her,180859,180862,13,662,25,M_1952
+exp,exp_name,edna,Edna,180905,180909,3,663,25,M_1953
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,180932,180945,13,663,25,M_1954
+exp,exp_name,arobin,Arobin,180973,180979,1,663,25,M_1955
+booknlp,COREF,77,his,181008,181011,1,663,25,M_1956
+exp,exp_name,arobin,Arobin,181092,181098,1,664,25,M_1957
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,181118,181131,13,664,25,M_1958
+booknlp,COREF,107,her,181156,181159,13,664,25,M_1959
+exp,exp_name,highcamp,Highcamp,181393,181401,21,664,25,M_1960
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,181487,181500,13,664,25,M_1961
+booknlp,COREF,107,her,181556,181559,13,664,25,M_1962
+booknlp,COREF,107,She,181569,181572,13,664,25,M_1963
+booknlp,COREF,107,her,181591,181594,13,664,25,M_1964
+exp,exp_name,highcamp,Highcamp,181797,181805,21,664,25,M_1965
+booknlp,COREF,107,She,181856,181859,13,664,25,M_1966
+exp,exp_name,edna,Edna,181948,181952,3,664,25,M_1967
+exp,exp_name,highcamp,Highcamp,182072,182080,21,665,25,M_1968
+exp,exp_name,arobin,Arobin,182182,182188,1,665,25,M_1969
+exp,exp_name,arobin,Arobin,182283,182289,1,665,25,M_1970
+booknlp,COREF,77,his,182338,182341,1,665,25,M_1971
+booknlp,COREF,77,his,182352,182355,1,665,25,M_1972
+booknlp,COREF,77,He,182378,182380,1,665,25,M_1973
+booknlp,COREF,77,his,182388,182391,1,665,25,M_1974
+booknlp,COREF,77,his,182422,182425,1,665,25,M_1975
+booknlp,COREF,77,he,182442,182444,1,665,25,M_1976
+booknlp,COREF,77,him,182519,182522,1,665,25,M_1977
+exp,exp_name,edna,Edna,182531,182535,3,666,25,M_1978
+exp,exp_name,highcamp,Highcamp,182596,182604,21,666,25,M_1979
+exp,exp_name,edna,Edna,182806,182810,3,666,25,M_1980
+exp,exp_name,arobin,Arobin,183066,183072,1,667,25,M_1981
+exp,exp_name,maid,maid,183576,183580,8,668,25,M_1982
+exp,exp_name,edna,Edna,183606,183610,3,668,25,M_1983
+exp,exp_name,highcamp,Highcamp,183631,183639,21,668,25,M_1984
+exp,exp_name,arobin,Arobin,183743,183749,1,668,25,M_1985
+exp,exp_name,arobin,Arobin,183893,183899,1,670,25,M_1986
+exp,exp_name,edna,Edna,183917,183921,3,670,25,M_1987
+booknlp,COREF,77,his,183925,183928,1,670,25,M_1988
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,183935,183948,13,670,25,M_1989
+booknlp,COREF,77,him,183962,183965,1,670,25,M_1990
+booknlp,COREF,77,He,183967,183969,1,670,25,M_1991
+booknlp,COREF,77,his,184041,184044,1,670,25,M_1992
+exp,exp_name,arobin,Arobin,184237,184243,1,670,25,M_1993
+exp,exp_name,edna,Edna,184274,184278,3,670,25,M_1994
+exp,exp_name,madame ratignolle,Madame Ratignolle,184465,184482,0,671,25,M_1995
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,184620,184638,7,671,25,M_1996
+exp,exp_name,edna,Edna,184681,184685,3,671,25,M_1997
+exp,exp_name,madame lebrun,Madame Lebrun,184687,184700,6,671,25,M_1998
+exp,exp_name,edna,Edna,184752,184756,3,671,25,M_1999
+exp,exp_name,arobin,Arobin,184803,184809,1,671,25,M_2000
+exp,exp_name,arobin,Arobin,184999,185005,1,672,25,M_2001
+booknlp,COREF,77,His,185007,185010,1,672,25,M_2002
+booknlp,COREF,77,he,185102,185104,1,672,25,M_2003
+booknlp,COREF,77,He,185182,185184,1,673,25,M_2004
+exp,exp_name,edna,Edna,185207,185211,3,673,25,M_2005
+booknlp,COREF,77,He,185213,185215,1,673,25,M_2006
+booknlp,COREF,77,he,185307,185309,1,673,25,M_2007
+booknlp,COREF,77,he,185364,185366,1,673,25,M_2008
+booknlp,COREF,77,he,185420,185422,1,673,25,M_2009
+booknlp,COREF,77,he,185467,185469,1,673,25,M_2010
+booknlp,COREF,77,his,185504,185507,1,673,25,M_2011
+booknlp,COREF,77,his,185529,185532,1,673,25,M_2012
+booknlp,COREF,77,he,185571,185573,1,673,25,M_2013
+booknlp,COREF,77,he,185619,185621,1,673,25,M_2014
+booknlp,COREF,77,his,185648,185651,1,673,25,M_2015
+booknlp,COREF,77,his,185707,185710,1,673,25,M_2016
+booknlp,COREF,77,his,185823,185826,1,673,25,M_2017
+booknlp,COREF,77,He,185833,185835,1,673,25,M_2018
+booknlp,COREF,77,his,185891,185894,1,673,25,M_2019
+booknlp,COREF,77,I,186059,186060,1,676,25,M_2020
+pdnc,qID,Q321-0,your,186065,186069,3,676,25,M_2021
+booknlp,COREF,77,he,186079,186081,1,676,25,M_2022
+booknlp,COREF,77,me,186130,186132,1,676,25,M_2023
+booknlp,COREF,77,He,186163,186165,1,677,25,M_2024
+booknlp,COREF,77,his,186208,186211,1,677,25,M_2025
+booknlp,COREF,77,He,186299,186301,1,677,25,M_2026
+booknlp,COREF,77,him,186334,186337,1,677,25,M_2027
+booknlp,COREF,77,he,186373,186375,1,677,25,M_2028
+booknlp,COREF,77,his,186381,186384,1,677,25,M_2029
+pdnc,qID,Q322-0,you,186414,186417,3,678,25,M_2030
+booknlp,COREF,77,he,186442,186444,1,678,25,M_2031
+pdnc,qID,Q324-0,You,186632,186635,3,680,25,M_2032
+booknlp,COREF,77,me,186653,186655,1,680,25,M_2033
+pdnc,qID,Q324-0,your,186656,186660,3,680,25,M_2034
+booknlp,COREF,77,I,186684,186685,1,680,25,M_2035
+pdnc,qID,Q324-0,your,186697,186701,3,680,25,M_2036
+booknlp,COREF,77,me,186781,186783,1,684,25,M_2037
+booknlp,COREF,77,I,186785,186786,1,684,25,M_2038
+booknlp,COREF,77,I,186818,186819,1,684,25,M_2039
+pdnc,qID,Q328-0,you,186831,186834,3,684,25,M_2040
+pdnc,qID,Q329-0,you,186896,186899,1,685,25,M_2041
+pdnc,qID,Q329-0,you,186909,186912,1,685,25,M_2042
+pdnc,qID,Q329-0,you,186948,186951,1,685,25,M_2043
+pdnc,qID,Q330-0,you,187122,187125,3,686,25,M_2044
+pdnc,qID,Q330-0,you,187162,187165,3,686,25,M_2045
+pdnc,qID,Q330-0,you,187187,187190,3,686,25,M_2046
+pdnc,qID,Q330-0,you,187216,187219,3,686,25,M_2047
+pdnc,qID,Q331-0,Mr. Arobin,187327,187337,1,687,25,M_2048
+pdnc,qID,Q331-1,you,187454,187457,1,687,25,M_2049
+pdnc,qID,Q331-1,you,187478,187481,1,687,25,M_2050
+pdnc,qID,Q332-0,Your,187687,187691,3,688,25,M_2051
+pdnc,qID,Q332-0,Mrs. Pontellier,187718,187733,3,688,25,M_2052
+pdnc,qID,Q332-1,you,187820,187823,3,688,25,M_2053
+pdnc,qID,Q332-1,You,187896,187899,3,688,25,M_2054
+pdnc,qID,Q332-1,you,187915,187918,3,688,25,M_2055
+pdnc,qID,Q332-1,you,187934,187937,3,688,25,M_2056
+pdnc,qID,Q332-1,you,187978,187981,3,688,25,M_2057
+pdnc,qID,Q332-1,you,188006,188009,3,688,25,M_2058
+exp,exp_name,arobin,Arobin,188109,188115,1,689,25,M_2059
+exp,exp_name,edna,Edna,188178,188182,3,690,25,M_2060
+pdnc,qID,Q333-0,he,188633,188635,15,690,25,M_2061
+exp,exp_name,robert lebrun,Robert Lebrun,188695,188708,15,691,25,M_2062
+exp,exp_name,arobin,Arobin,188851,188857,1,692,25,M_2063
+booknlp,COREF,77,his,188893,188896,1,692,25,M_2064
+booknlp,COREF,77,his,188907,188910,1,692,25,M_2065
+booknlp,COREF,77,his,188934,188937,1,692,25,M_2066
+booknlp,COREF,77,his,188974,188977,1,692,25,M_2067
+exp,exp_name,arobin,Arobin,189111,189117,1,695,26,M_2068
+exp,exp_name,edna,Edna,189124,189128,3,695,26,M_2069
+booknlp,COREF,77,his,189290,189293,1,695,26,M_2070
+booknlp,COREF,77,his,189447,189450,1,695,26,M_2071
+booknlp,COREF,77,his,189573,189576,1,695,26,M_2072
+booknlp,COREF,77,his,189645,189648,1,695,26,M_2073
+booknlp,COREF,77,his,189741,189744,1,695,26,M_2074
+booknlp,COREF,77,him,189884,189887,1,695,26,M_2075
+booknlp,COREF,77,he,189922,189924,1,695,26,M_2076
+booknlp,COREF,77,his,189950,189953,1,695,26,M_2077
+booknlp,COREF,77,him,189968,189971,1,695,26,M_2078
+booknlp,COREF,77,He,189990,189992,1,696,26,M_2079
+booknlp,COREF,77,himself,190025,190032,1,696,26,M_2080
+booknlp,COREF,77,his,190054,190057,1,696,26,M_2081
+booknlp,COREF,77,him,190147,190150,1,696,26,M_2082
+booknlp,COREF,77,him,190174,190177,1,696,26,M_2083
+booknlp,COREF,77,He,190179,190181,1,696,26,M_2084
+booknlp,COREF,77,His,190208,190211,1,696,26,M_2085
+booknlp,COREF,77,He,190282,190284,1,696,26,M_2086
+booknlp,COREF,77,him,190399,190402,1,696,26,M_2087
+booknlp,COREF,77,He,190483,190485,1,696,26,M_2088
+exp,exp_name,edna,Edna,190730,190734,3,697,26,M_2089
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,190758,190776,7,697,26,M_2090
+exp,exp_name,edna,Edna,190906,190910,3,697,26,M_2091
+exp,exp_name,edna,Edna,191005,191009,3,698,26,M_2092
+booknlp,COREF,84,Mademoiselle,191168,191180,7,698,26,M_2093
+booknlp,COREF,84,She,191265,191268,7,698,26,M_2094
+exp,exp_name,edna,Edna,191365,191369,3,698,26,M_2095
+booknlp,COREF,84,Mademoiselle,191515,191527,7,699,26,M_2096
+booknlp,COREF,84,her,191541,191544,7,699,26,M_2097
+booknlp,COREF,84,I,191609,191610,7,699,26,M_2098
+exp,exp_name,edna,Edna,191714,191718,3,700,26,M_2099
+pdnc,qID,Q335-0,You,191744,191747,3,701,26,M_2100
+pdnc,qID,Q335-0,you,191758,191761,3,701,26,M_2101
+pdnc,qID,Q335-0,you,191820,191823,3,701,26,M_2102
+pdnc,qID,Q335-0,you,191896,191899,3,701,26,M_2103
+booknlp,COREF,84,Mademoiselle,191967,191979,7,701,26,M_2104
+booknlp,COREF,84,her,192013,192016,7,701,26,M_2105
+booknlp,COREF,84,her,192025,192028,7,701,26,M_2106
+exp,exp_name,edna,Edna,192080,192084,3,702,26,M_2107
+pdnc,qID,Q336-1,Mademoiselle,192260,192272,7,702,26,M_2108
+exp,exp_name,edna,Edna,192564,192568,3,703,26,M_2109
+pdnc,qID,Q338-0,you,192708,192711,7,704,26,M_2110
+pdnc,qID,Q339-0,you,192747,192750,3,705,26,M_2111
+pdnc,qID,Q339-0,your father,192788,192799,16,705,26,M_2112
+exp,exp_name,edna,Edna,192856,192860,3,706,26,M_2113
+pdnc,qID,Q341-0,your,193181,193185,3,707,26,M_2114
+pdnc,qID,Q341-0,ma belle,193200,193208,3,707,26,M_2115
+pdnc,qID,Q341-0,your,193260,193264,3,707,26,M_2116
+pdnc,qID,Q341-0,you,193277,193280,3,707,26,M_2117
+exp,exp_name,edna,Edna,193310,193314,3,707,26,M_2118
+pdnc,qID,Q343-0,your husband,193460,193472,5,709,26,M_2119
+booknlp,COREF,84,Mademoiselle,193486,193498,7,709,26,M_2120
+pdnc,qID,Q344-0,you,193590,193593,7,710,26,M_2121
+pdnc,qID,Q344-0,you,193612,193615,7,710,26,M_2122
+pdnc,qID,Q344-0,my father,193697,193706,16,710,26,M_2123
+pdnc,qID,Q345-0,your husband,194300,194312,5,711,26,M_2124
+pdnc,qID,Q346-0,him,194337,194340,5,712,26,M_2125
+pdnc,qID,Q346-0,He,194381,194383,5,712,26,M_2126
+pdnc,qID,Q346-0,you,194428,194431,7,712,26,M_2127
+booknlp,COREF,84,Mademoiselle,194444,194456,7,713,26,M_2128
+booknlp,COREF,84,her,194463,194466,7,713,26,M_2129
+pdnc,qID,Q347-0,Your,194481,194485,3,713,26,M_2130
+booknlp,COREF,84,me,194513,194515,7,713,26,M_2131
+booknlp,COREF,84,she,194518,194521,7,713,26,M_2132
+exp,exp_name,edna,Edna,194559,194563,3,714,26,M_2133
+exp,exp_name,edna,Edna,195028,195032,3,715,26,M_2134
+pdnc,qID,Q348-1,You,195045,195048,7,715,26,M_2135
+pdnc,qID,Q348-1,Mademoiselle,195074,195086,7,715,26,M_2136
+pdnc,qID,Q348-1,you,195100,195103,7,715,26,M_2137
+pdnc,qID,Q348-1,you,195120,195123,7,715,26,M_2138
+booknlp,COREF,84,Mademoiselle,195270,195282,7,716,26,M_2139
+exp,exp_name,robert,Robert,195323,195329,15,716,26,M_2140
+exp,exp_name,edna,Edna,195353,195357,3,716,26,M_2141
+exp,exp_name,edna,Edna,195624,195628,3,717,26,M_2142
+booknlp,COREF,84,Mademoiselle,195673,195685,7,717,26,M_2143
+exp,exp_name,edna,Edna,195758,195762,3,717,26,M_2144
+pdnc,qID,Q349-1,Mademoiselle,195840,195852,7,718,26,M_2145
+pdnc,qID,Q349-1,he,195859,195861,15,718,26,M_2146
+pdnc,qID,Q349-1,his,195878,195881,15,718,26,M_2147
+pdnc,qID,Q350-0,He,195914,195916,15,719,26,M_2148
+pdnc,qID,Q350-0,he,195969,195971,15,719,26,M_2149
+pdnc,qID,Q350-0,he,195989,195991,15,719,26,M_2150
+pdnc,qID,Q350-0,you,196001,196004,3,719,26,M_2151
+pdnc,qID,Q350-0,he,196025,196027,15,719,26,M_2152
+pdnc,qID,Q350-0,you,196033,196036,3,719,26,M_2153
+pdnc,qID,Q350-0,he,196076,196078,15,719,26,M_2154
+pdnc,qID,Q350-0,you,196085,196088,3,719,26,M_2155
+pdnc,qID,Q350-0,poor fool,196090,196099,3,719,26,M_2156
+pdnc,qID,Q350-0,you,196125,196128,3,719,26,M_2157
+pdnc,qID,Q350-0,you,196136,196139,3,719,26,M_2158
+pdnc,qID,Q350-0,him,196166,196169,15,719,26,M_2159
+pdnc,qID,Q350-0,him,196186,196189,15,719,26,M_2160
+pdnc,qID,Q351-0,you,196201,196204,7,720,26,M_2161
+pdnc,qID,Q351-0,his,196213,196216,15,720,26,M_2162
+pdnc,qID,Q352-0,you,196243,196246,3,721,26,M_2163
+pdnc,qID,Q352-0,you,196277,196280,3,721,26,M_2164
+pdnc,qID,Q352-0,you,196295,196298,3,721,26,M_2165
+booknlp,COREF,84,Mademoiselle,196323,196335,7,721,26,M_2166
+booknlp,COREF,84,her,196347,196350,7,721,26,M_2167
+exp,exp_name,edna,Edna,196389,196393,3,721,26,M_2168
+pdnc,qID,Q353-1,you,196684,196687,7,722,26,M_2169
+booknlp,COREF,84,Mademoiselle,196723,196735,7,722,26,M_2170
+pdnc,qID,Q353-2,you,196794,196797,7,722,26,M_2171
+pdnc,qID,Q354-0,he,196819,196821,15,723,26,M_2172
+pdnc,qID,Q354-0,he,196873,196875,15,723,26,M_2173
+exp,exp_name,edna,Edna,196925,196929,3,724,26,M_2174
+pdnc,qID,Q355-1,He,196945,196947,15,724,26,M_2175
+pdnc,qID,Q356-0,He,196970,196972,15,725,26,M_2176
+pdnc,qID,Q356-0,You,196991,196994,3,725,26,M_2177
+pdnc,qID,Q357-0,he,197070,197072,15,726,26,M_2178
+booknlp,COREF,84,I,197239,197240,7,727,26,M_2179
+booknlp,COREF,84,Mademoiselle,197282,197294,7,727,26,M_2180
+booknlp,COREF,84,her,197330,197333,7,727,26,M_2181
+booknlp,COREF,84,her,197353,197356,7,727,26,M_2182
+booknlp,COREF,84,she,197366,197369,7,727,26,M_2183
+exp,exp_name,edna,Edna,197385,197389,3,727,26,M_2184
+booknlp,COREF,84,me,197445,197447,7,727,26,M_2185
+booknlp,COREF,84,me,197617,197619,7,727,26,M_2186
+booknlp,COREF,84,I,197623,197624,7,727,26,M_2187
+booknlp,COREF,84,I,197648,197649,7,727,26,M_2188
+booknlp,COREF,84,my,197704,197706,7,727,26,M_2189
+pdnc,qID,Q359-0,you,197730,197733,7,728,26,M_2190
+pdnc,qID,Q359-0,Mademoiselle,197782,197794,7,728,26,M_2191
+pdnc,qID,Q359-0,you,197804,197807,7,728,26,M_2192
+exp,exp_name,edna,Edna,197874,197878,3,728,26,M_2193
+booknlp,COREF,84,Mademoiselle,197919,197931,7,728,26,M_2194
+pdnc,qID,Q359-1,you,197952,197955,7,728,26,M_2195
+pdnc,qID,Q360-0,You,198296,198299,3,729,26,M_2196
+pdnc,qID,Q360-0,ma reine,198336,198344,3,729,26,M_2197
+pdnc,qID,Q360-0,you,198351,198354,3,729,26,M_2198
+pdnc,qID,Q360-0,Robert,198368,198374,15,729,26,M_2199
+exp,exp_name,edna,Edna,198390,198394,3,730,26,M_2200
+pdnc,qID,Q362-1,you,198537,198540,3,731,26,M_2201
+pdnc,qID,Q362-1,him,198546,198549,15,731,26,M_2202
+pdnc,qID,Q362-1,you,198555,198558,3,731,26,M_2203
+exp,exp_name,edna,Edna,198575,198579,3,732,26,M_2204
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,198639,198657,7,732,26,M_2205
+pdnc,qID,Q363-0,his,198723,198726,15,733,26,M_2206
+pdnc,qID,Q363-0,his,198761,198764,15,733,26,M_2207
+pdnc,qID,Q363-0,he,198782,198784,15,733,26,M_2208
+pdnc,qID,Q363-0,his,198801,198804,15,733,26,M_2209
+pdnc,qID,Q363-0,his,198815,198818,15,733,26,M_2210
+pdnc,qID,Q363-0,he,198860,198862,15,733,26,M_2211
+pdnc,qID,Q363-0,he,198921,198923,15,733,26,M_2212
+pdnc,qID,Q363-0,his,198990,198993,15,733,26,M_2213
+pdnc,qID,Q364-0,you,199021,199024,3,734,26,M_2214
+booknlp,COREF,84,Mademoiselle,199048,199060,7,734,26,M_2215
+pdnc,qID,Q365-0,you,199073,199076,3,734,26,M_2216
+pdnc,qID,Q365-0,he,199085,199087,15,734,26,M_2217
+booknlp,COREF,84,she,199101,199104,7,734,26,M_2218
+booknlp,COREF,84,She,199169,199172,7,736,26,M_2219
+booknlp,COREF,84,her,199292,199295,7,736,26,M_2220
+booknlp,COREF,84,she,199351,199354,7,736,26,M_2221
+booknlp,COREF,84,her,199387,199390,7,736,26,M_2222
+booknlp,COREF,84,She,199402,199405,7,737,26,M_2223
+booknlp,COREF,84,She,199499,199502,7,737,26,M_2224
+booknlp,COREF,84,she,199539,199542,7,737,26,M_2225
+exp,exp_name,edna,Edna,199633,199637,3,738,26,M_2226
+pdnc,qID,Q367-0,you,200018,200021,3,740,27,M_2227
+exp,exp_name,arobin,Arobin,200030,200036,1,740,27,M_2228
+pdnc,qID,Q367-1,you,200066,200069,3,740,27,M_2229
+exp,exp_name,edna,Edna,200093,200097,3,740,27,M_2230
+pdnc,qID,Q368-0,you,200179,200182,1,741,27,M_2231
+booknlp,COREF,77,he,200296,200298,1,742,27,M_2232
+pdnc,qID,Q369-1,You,200312,200315,3,742,27,M_2233
+booknlp,COREF,77,me,200330,200332,1,742,27,M_2234
+booknlp,COREF,77,I,200344,200345,1,742,27,M_2235
+pdnc,qID,Q369-1,you,200375,200378,3,742,27,M_2236
+booknlp,COREF,77,He,200381,200383,1,742,27,M_2237
+booknlp,COREF,77,he,200427,200429,1,742,27,M_2238
+booknlp,COREF,77,his,200436,200439,1,742,27,M_2239
+booknlp,COREF,77,his,200534,200537,1,742,27,M_2240
+pdnc,qID,Q371-0,you,200963,200966,3,744,27,M_2241
+booknlp,COREF,77,I,200997,200998,1,744,27,M_2242
+pdnc,qID,Q371-0,you,201008,201011,3,744,27,M_2243
+pdnc,qID,Q371-0,you,201033,201036,3,744,27,M_2244
+booknlp,COREF,77,His,201043,201046,1,744,27,M_2245
+pdnc,qID,Q372-0,You,201178,201181,1,745,27,M_2246
+booknlp,COREF,77,me,201192,201194,1,745,27,M_2247
+booknlp,COREF,77,I,201200,201201,1,745,27,M_2248
+pdnc,qID,Q373-0,you,201295,201298,3,746,27,M_2249
+pdnc,qID,Q374-0,you,201365,201368,1,747,27,M_2250
+pdnc,qID,Q374-0,Mademoiselle Reisz,201374,201392,7,747,27,M_2251
+pdnc,qID,Q375-0,her,201441,201444,7,748,27,M_2252
+pdnc,qID,Q375-0,her,201466,201469,7,748,27,M_2253
+pdnc,qID,Q376-0,She,201479,201482,7,749,27,M_2254
+pdnc,qID,Q376-0,you,201535,201538,1,749,27,M_2255
+pdnc,qID,Q376-0,you,201568,201571,1,749,27,M_2256
+pdnc,qID,Q378-0,her,201664,201667,7,751,27,M_2257
+pdnc,qID,Q378-0,she,201676,201679,7,751,27,M_2258
+pdnc,qID,Q378-0,her,201684,201687,7,751,27,M_2259
+pdnc,qID,Q378-0,she,201764,201767,7,751,27,M_2260
+pdnc,qID,Q379-0,you,201980,201983,3,752,27,M_2261
+pdnc,qID,Q380-0,her,202063,202066,7,753,27,M_2262
+booknlp,COREF,77,I,202071,202072,1,754,27,M_2263
+pdnc,qID,Q381-0,she,202082,202085,7,754,27,M_2264
+exp,exp_name,arobin,Arobin,202114,202120,1,754,27,M_2265
+pdnc,qID,Q382-0,She,202124,202127,7,755,27,M_2266
+exp,exp_name,edna,Edna,202159,202163,3,755,27,M_2267
+pdnc,qID,Q383-0,she,202184,202187,7,756,27,M_2268
+pdnc,qID,Q383-0,you,202238,202241,3,756,27,M_2269
+pdnc,qID,Q383-0,her,202253,202256,7,756,27,M_2270
+pdnc,qID,Q383-0,you,202295,202298,3,756,27,M_2271
+pdnc,qID,Q384-0,you,202321,202324,1,757,27,M_2272
+exp,exp_name,edna,Edna,202338,202342,3,757,27,M_2273
+pdnc,qID,Q384-1,you,202423,202426,1,757,27,M_2274
+pdnc,qID,Q385-0,your,202449,202453,3,758,27,M_2275
+pdnc,qID,Q385-0,you,202488,202491,3,758,27,M_2276
+exp,exp_name,edna,Edna,203043,203047,3,761,28,M_2277
+exp,exp_name,arobin,Arobin,203080,203086,1,761,28,M_2278
+exp,exp_name,robert,Robert,203441,203447,15,761,28,M_2279
+booknlp,COREF,53,him,203562,203565,15,761,28,M_2280
+exp,exp_name,edna,Edna,204130,204134,3,763,29,M_2281
+exp,exp_name,arobin,Arobin,204473,204479,1,763,29,M_2282
+exp,exp_name,edna,Edna,204491,204495,3,763,29,M_2283
+exp,exp_name,arobin,Arobin,204971,204977,1,765,29,M_2284
+exp,exp_name,maid,maid,205043,205047,8,765,29,M_2285
+booknlp,COREF,77,he,205053,205055,1,765,29,M_2286
+booknlp,COREF,77,he,205354,205356,1,765,29,M_2287
+booknlp,COREF,77,He,205366,205368,1,765,29,M_2288
+booknlp,COREF,77,his,205417,205420,1,765,29,M_2289
+booknlp,COREF,77,he,205471,205473,1,766,29,M_2290
+pdnc,qID,Q386-1,you,205484,205487,3,766,29,M_2291
+booknlp,COREF,77,him,205524,205527,1,766,29,M_2292
+booknlp,COREF,77,he,205601,205603,1,767,29,M_2293
+booknlp,COREF,77,he,205690,205692,1,767,29,M_2294
+booknlp,COREF,77,He,205728,205730,1,768,29,M_2295
+booknlp,COREF,77,he,205826,205828,1,768,29,M_2296
+booknlp,COREF,77,himself,205834,205841,1,768,29,M_2297
+booknlp,COREF,77,him,205897,205900,1,768,29,M_2298
+booknlp,COREF,77,he,205923,205925,1,769,29,M_2299
+exp,exp_name,arobin,Arobin,206194,206200,1,771,29,M_2300
+booknlp,COREF,77,his,206212,206215,1,771,29,M_2301
+booknlp,COREF,77,himself,206236,206243,1,771,29,M_2302
+booknlp,COREF,77,him,206304,206307,1,771,29,M_2303
+booknlp,COREF,77,him,206421,206424,1,771,29,M_2304
+booknlp,COREF,77,he,206471,206473,1,771,29,M_2305
+exp,exp_name,edna,Edna,206481,206485,3,771,29,M_2306
+booknlp,COREF,77,his,206549,206552,1,771,29,M_2307
+booknlp,COREF,77,he,206572,206574,1,771,29,M_2308
+exp,exp_name,edna,Edna,206668,206672,3,771,29,M_2309
+booknlp,COREF,77,he,206688,206690,1,771,29,M_2310
+booknlp,COREF,77,he,206704,206706,1,771,29,M_2311
+booknlp,COREF,77,his,206716,206719,1,771,29,M_2312
+booknlp,COREF,77,his,206750,206753,1,771,29,M_2313
+exp,exp_name,edna,Edna,206762,206766,3,772,29,M_2314
+booknlp,COREF,77,he,206861,206863,1,772,29,M_2315
+pdnc,qID,Q389-0,you,206904,206907,3,773,29,M_2316
+booknlp,COREF,77,me,206917,206919,1,773,29,M_2317
+booknlp,COREF,77,he,206925,206927,1,773,29,M_2318
+exp,exp_name,arobin,Arobin,207081,207087,1,774,29,M_2319
+booknlp,COREF,77,he,207115,207117,1,775,29,M_2320
+pdnc,qID,Q392-0,you,207204,207207,1,776,29,M_2321
+pdnc,qID,Q392-0,L once,207374,207380,5,776,29,M_2322
+pdnc,qID,Q392-0,he,207410,207412,5,776,29,M_2323
+pdnc,qID,Q392-0,he,207425,207427,5,776,29,M_2324
+pdnc,qID,Q393-0,you,207451,207454,3,777,29,M_2325
+booknlp,COREF,77,me,207459,207461,1,777,29,M_2326
+booknlp,COREF,77,I,207466,207467,1,777,29,M_2327
+exp,exp_name,arobin,Arobin,207494,207500,1,777,29,M_2328
+booknlp,COREF,77,his,207512,207515,1,777,29,M_2329
+booknlp,COREF,77,he,207526,207528,1,777,29,M_2330
+booknlp,COREF,77,his,207559,207562,1,777,29,M_2331
+booknlp,COREF,77,him,207590,207593,1,777,29,M_2332
+booknlp,COREF,77,his,207636,207639,1,777,29,M_2333
+pdnc,qID,Q394-0,you,207658,207661,3,778,29,M_2334
+booknlp,COREF,77,I,207768,207769,1,779,29,M_2335
+booknlp,COREF,77,me,207824,207826,1,780,29,M_2336
+exp,exp_name,arobin,Arobin,207852,207858,1,780,29,M_2337
+pdnc,qID,Q396-1,you,207890,207893,3,780,29,M_2338
+booknlp,COREF,77,me,207906,207908,1,780,29,M_2339
+booknlp,COREF,77,my,207947,207949,1,780,29,M_2340
+exp,exp_name,edna,Edna,208006,208010,3,781,29,M_2341
+pdnc,qID,Q397-1,you,208048,208051,1,781,29,M_2342
+booknlp,COREF,77,I,208148,208149,1,782,29,M_2343
+pdnc,qID,Q398-0,you,208154,208157,3,782,29,M_2344
+exp,exp_name,arobin,Arobin,208166,208172,1,782,29,M_2345
+exp,exp_name,maid,maid,208201,208205,8,782,29,M_2346
+pdnc,qID,Q399-0,You,208256,208259,1,783,29,M_2347
+pdnc,qID,Q400-0,you,208390,208393,3,784,29,M_2348
+pdnc,qID,Q400-0,you,208427,208430,3,784,29,M_2349
+booknlp,COREF,77,He,208458,208460,1,785,29,M_2350
+booknlp,COREF,77,him,208587,208590,1,785,29,M_2351
+booknlp,COREF,77,him,208658,208661,1,786,29,M_2352
+booknlp,COREF,77,him,208690,208693,1,786,29,M_2353
+exp,exp_name,edna,Edna,208752,208756,3,788,30,M_2354
+exp,exp_name,madame ratignolle,Madame Ratignolle,209054,209071,0,788,30,M_2355
+exp,exp_name,madame lebrun,Madame Lebrun,209151,209164,6,788,30,M_2356
+exp,exp_name,mrs. merriman,Mrs. Merriman,209309,209322,14,789,30,M_2357
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,209535,209548,13,789,30,M_2358
+exp,exp_name,arobin,Arobin,209598,209604,1,789,30,M_2359
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,209610,209628,7,789,30,M_2360
+exp,exp_name,edna,Edna,209652,209656,3,789,30,M_2361
+exp,exp_name,ratignolle,Ratignolle,209744,209754,0,789,30,M_2362
+exp,exp_name,victor lebrun,Victor Lebrun,209795,209808,18,789,30,M_2363
+exp,exp_name,miss mayblunt,Miss Mayblunt,209904,209917,10,789,30,M_2364
+booknlp,COREF,132,her,209932,209935,10,789,30,M_2365
+exp,exp_name,edna,Edna,210331,210335,3,789,30,M_2366
+exp,exp_name,arobin,Arobin,210416,210422,1,789,30,M_2367
+exp,exp_name,ratignolle,Ratignolle,210436,210446,0,789,30,M_2368
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,210481,210494,13,790,30,M_2369
+exp,exp_name,arobin,Arobin,210507,210513,1,790,30,M_2370
+exp,exp_name,victor lebrun,Victor Lebrun,210518,210531,18,790,30,M_2371
+exp,exp_name,mrs. merriman,Mrs. Merriman,210543,210556,14,790,30,M_2372
+exp,exp_name,miss mayblunt,Miss Mayblunt,210574,210587,10,790,30,M_2373
+exp,exp_name,mr. merriman,Mr. Merriman,210589,210601,12,790,30,M_2374
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,210607,210625,7,790,30,M_2375
+exp,exp_name,ratignolle,Ratignolle,210643,210653,0,790,30,M_2376
+booknlp,COREF,107,she,210993,210996,13,791,30,M_2377
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,211253,211271,7,792,30,M_2378
+pdnc,qID,Q402-0,Edna,211417,211421,3,793,30,M_2379
+exp,exp_name,miss mayblunt,Miss Mayblunt,211434,211447,10,793,30,M_2380
+exp,exp_name,edna,Edna,211555,211559,3,793,30,M_2381
+pdnc,qID,Q403-0,my husband,211656,211666,5,794,30,M_2382
+booknlp,COREF,132,I,211707,211708,10,794,30,M_2383
+booknlp,COREF,132,my,211740,211742,10,794,30,M_2384
+booknlp,COREF,132,I,211762,211763,10,794,30,M_2385
+booknlp,COREF,132,I,211793,211794,10,794,30,M_2386
+pdnc,qID,Q403-0,you,211802,211805,10,794,30,M_2387
+booknlp,COREF,132,my,211815,211817,10,794,30,M_2388
+booknlp,COREF,132,I,211837,211838,10,794,30,M_2389
+pdnc,qID,Q403-0,you,211849,211852,10,794,30,M_2390
+pdnc,qID,Q403-0,you,211897,211900,10,794,30,M_2391
+exp,exp_name,miss mayblunt,Miss Mayblunt,211936,211949,10,794,30,M_2392
+pdnc,qID,Q404-0,my father,211963,211972,16,794,30,M_2393
+exp,exp_name,arobin,Arobin,212130,212136,1,796,30,M_2394
+pdnc,qID,Q405-1,the Colonel,212186,212197,16,796,30,M_2395
+pdnc,qID,Q405-1,he,212229,212231,16,796,30,M_2396
+pdnc,qID,Q405-1,the most charming of women,212261,212287,3,796,30,M_2397
+pdnc,qID,Q405-1,the daughter,212288,212300,3,796,30,M_2398
+pdnc,qID,Q405-1,he,212306,212308,16,796,30,M_2399
+exp,exp_name,mr. merriman,Mr. Merriman,212321,212333,12,797,30,M_2400
+exp,exp_name,miss mayblunt,Miss Mayblunt,212476,212489,10,798,30,M_2401
+booknlp,COREF,132,her,212519,212522,10,798,30,M_2402
+booknlp,COREF,132,her,212549,212552,10,798,30,M_2403
+booknlp,COREF,132,She,212596,212599,10,798,30,M_2404
+booknlp,COREF,132,she,212628,212631,10,798,30,M_2405
+booknlp,COREF,132,She,212709,212712,10,798,30,M_2406
+exp,exp_name,the colonel,the Colonel,212724,212735,16,798,30,M_2407
+exp,exp_name,ratignolle,Ratignolle,212774,212784,0,799,30,M_2408
+exp,exp_name,arobin,Arobin,212947,212953,1,799,30,M_2409
+booknlp,COREF,77,he,212957,212959,1,799,30,M_2410
+exp,exp_name,arobin,Arobin,213045,213051,1,799,30,M_2411
+exp,exp_name,arobin,Arobin,213140,213146,1,799,30,M_2412
+exp,exp_name,arobin,Arobin,213319,213325,1,800,30,M_2413
+exp,exp_name,ratignolle,Ratignolle,213458,213468,0,800,30,M_2414
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,213504,213522,7,800,30,M_2415
+booknlp,COREF,84,she,213526,213529,7,800,30,M_2416
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,213622,213640,7,800,30,M_2417
+exp,exp_name,ratignolle,Ratignolle,213659,213669,0,800,30,M_2418
+exp,exp_name,edna,Edna,213687,213691,3,800,30,M_2419
+booknlp,COREF,84,Mademoiselle,213760,213772,7,800,30,M_2420
+booknlp,COREF,84,her,213931,213934,7,800,30,M_2421
+booknlp,COREF,84,her,214000,214003,7,800,30,M_2422
+exp,exp_name,mr. merriman,Mr. Merriman,214006,214018,12,801,30,M_2423
+exp,exp_name,arobin,Arobin,214033,214039,1,801,30,M_2424
+booknlp,COREF,134,him,214083,214086,12,801,30,M_2425
+exp,exp_name,mr. merriman,Mr. Merriman,214152,214164,12,801,30,M_2426
+booknlp,COREF,134,his,214211,214214,12,801,30,M_2427
+booknlp,COREF,134,him,214237,214240,12,801,30,M_2428
+booknlp,COREF,134,him,214275,214278,12,801,30,M_2429
+booknlp,COREF,134,he,214289,214291,12,801,30,M_2430
+exp,exp_name,miss mayblunt,Miss Mayblunt,214569,214582,10,801,30,M_2431
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,214654,214667,13,802,30,M_2432
+booknlp,COREF,107,her,214752,214755,13,802,30,M_2433
+exp,exp_name,victor lebrun,Victor Lebrun,214776,214789,18,802,30,M_2434
+booknlp,COREF,107,Her,214791,214794,13,802,30,M_2435
+booknlp,COREF,134,him,214843,214846,12,802,30,M_2436
+booknlp,COREF,107,herself,214861,214868,13,802,30,M_2437
+booknlp,COREF,134,he,214888,214890,12,802,30,M_2438
+exp,exp_name,mrs. merriman,Mrs. Merriman,214901,214914,14,802,30,M_2439
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,214957,214970,13,802,30,M_2440
+booknlp,COREF,107,she,214972,214975,13,802,30,M_2441
+booknlp,COREF,134,his,215036,215039,12,802,30,M_2442
+exp,exp_name,edna,Edna,215402,215406,3,803,30,M_2443
+exp,exp_name,ratignolle,Ratignolle,216559,216569,0,805,30,M_2444
+exp,exp_name,madame ratignolle,Madame Ratignolle,216648,216665,0,805,30,M_2445
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,216807,216825,7,806,30,M_2446
+exp,exp_name,ratignolle,Ratignolle,216846,216856,0,806,30,M_2447
+booknlp,COREF,84,her,216880,216883,7,806,30,M_2448
+booknlp,COREF,84,She,216896,216899,7,806,30,M_2449
+booknlp,COREF,84,she,216916,216919,7,806,30,M_2450
+booknlp,COREF,84,her,216979,216982,7,806,30,M_2451
+booknlp,COREF,84,she,216993,216996,7,806,30,M_2452
+booknlp,COREF,84,she,217024,217027,7,806,30,M_2453
+booknlp,COREF,84,She,217049,217052,7,806,30,M_2454
+exp,exp_name,edna,Edna,217060,217064,3,806,30,M_2455
+pdnc,qID,Q407-0,ma reine,217113,217121,3,806,30,M_2456
+booknlp,COREF,84,She,217137,217140,7,806,30,M_2457
+booknlp,COREF,84,her,217210,217213,7,806,30,M_2458
+exp,exp_name,ratignolle,Ratignolle,217237,217247,0,806,30,M_2459
+booknlp,COREF,84,her,217263,217266,7,806,30,M_2460
+booknlp,COREF,84,her,217279,217282,7,806,30,M_2461
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,217290,217303,13,807,30,M_2462
+booknlp,COREF,107,she,217357,217360,13,807,30,M_2463
+booknlp,COREF,107,she,217387,217390,13,807,30,M_2464
+exp,exp_name,victor,Victor,217412,217418,18,807,30,M_2465
+booknlp,COREF,78,He,217434,217436,18,807,30,M_2466
+booknlp,COREF,78,him,217564,217567,18,808,30,M_2467
+booknlp,COREF,78,him,217602,217605,18,808,30,M_2468
+booknlp,COREF,78,His,217640,217643,18,808,30,M_2469
+booknlp,COREF,78,his,217689,217692,18,808,30,M_2470
+exp,exp_name,arobin,Arobin,217761,217767,1,809,30,M_2471
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,217774,217787,13,810,30,M_2472
+booknlp,COREF,107,She,217830,217833,13,810,30,M_2473
+booknlp,COREF,107,her,217856,217859,13,810,30,M_2474
+booknlp,COREF,107,she,217899,217902,13,810,30,M_2475
+booknlp,COREF,107,her,217915,217918,13,810,30,M_2476
+booknlp,COREF,107,She,217963,217966,13,810,30,M_2477
+booknlp,COREF,78,his,218035,218038,18,810,30,M_2478
+booknlp,COREF,78,He,218074,218076,18,810,30,M_2479
+booknlp,COREF,107,she,218103,218106,13,810,30,M_2480
+booknlp,COREF,78,him,218114,218117,18,810,30,M_2481
+booknlp,COREF,78,he,218176,218178,18,810,30,M_2482
+booknlp,COREF,78,his,218238,218241,18,810,30,M_2483
+exp,exp_name,miss mayblunt,Miss Mayblunt,218330,218343,10,811,30,M_2484
+booknlp,COREF,132,herself,218352,218359,10,811,30,M_2485
+booknlp,COREF,132,she,218384,218387,10,811,30,M_2486
+booknlp,COREF,78,him,218398,218401,18,811,30,M_2487
+exp,exp_name,victor,Victor,218564,218570,18,814,30,M_2488
+booknlp,COREF,78,his,218585,218588,18,814,30,M_2489
+booknlp,COREF,78,He,218625,218627,18,814,30,M_2490
+booknlp,COREF,78,himself,218653,218660,18,814,30,M_2491
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,218747,218760,13,815,30,M_2492
+pdnc,qID,Q410-1,you,218769,218772,18,815,30,M_2493
+pdnc,qID,Q411-0,him,218792,218795,18,816,30,M_2494
+exp,exp_name,arobin,Arobin,218809,218815,1,816,30,M_2495
+pdnc,qID,Q412-0,He,218819,218821,18,817,30,M_2496
+exp,exp_name,mr. merriman,Mr. Merriman,218841,218853,12,817,30,M_2497
+pdnc,qID,Q412-1,him,218860,218863,18,817,30,M_2498
+booknlp,COREF,122,I,218880,218881,14,818,30,M_2499
+pdnc,qID,Q413-0,he,218890,218892,18,818,30,M_2500
+exp,exp_name,mrs. merriman,Mrs. Merriman,218915,218928,14,818,30,M_2501
+booknlp,COREF,122,she,218966,218969,14,818,30,M_2502
+booknlp,COREF,78,his,218990,218993,18,818,30,M_2503
+booknlp,COREF,78,his,219014,219017,18,818,30,M_2504
+booknlp,COREF,78,He,219024,219026,18,818,30,M_2505
+booknlp,COREF,78,he,219060,219062,18,818,30,M_2506
+booknlp,COREF,122,she,219085,219088,14,818,30,M_2507
+booknlp,COREF,78,his,219122,219125,18,818,30,M_2508
+booknlp,COREF,122,her,219136,219139,14,818,30,M_2509
+booknlp,COREF,78,I,219174,219175,18,819,30,M_2510
+booknlp,COREF,78,he,219194,219196,18,819,30,M_2511
+booknlp,COREF,78,his,219214,219217,18,819,30,M_2512
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,219231,219244,13,819,30,M_2513
+booknlp,COREF,78,He,219246,219248,18,819,30,M_2514
+booknlp,COREF,78,his,219257,219260,18,819,30,M_2515
+booknlp,COREF,78,his,219274,219277,18,819,30,M_2516
+booknlp,COREF,78,his,219344,219347,18,819,30,M_2517
+exp,exp_name,edna,Edna,219409,219413,3,819,30,M_2518
+booknlp,COREF,78,he,219415,219417,18,819,30,M_2519
+booknlp,COREF,122,she,219467,219470,14,821,30,M_2520
+booknlp,COREF,122,I,219496,219497,14,821,30,M_2521
+pdnc,qID,Q415-1,you,219509,219512,18,821,30,M_2522
+booknlp,COREF,122,she,219530,219533,14,821,30,M_2523
+booknlp,COREF,122,her,219539,219542,14,821,30,M_2524
+exp,exp_name,arobin,Arobin,219648,219654,1,821,30,M_2525
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,219696,219709,13,821,30,M_2526
+exp,exp_name,victor,Victor,219730,219736,18,821,30,M_2527
+booknlp,COREF,78,he,219776,219778,18,821,30,M_2528
+booknlp,COREF,78,his,219787,219790,18,821,30,M_2529
+booknlp,COREF,78,he,219823,219825,18,821,30,M_2530
+booknlp,COREF,78,me,219890,219892,18,822,30,M_2531
+pdnc,qID,Q416-0,you,219908,219911,18,823,30,M_2532
+pdnc,qID,Q416-0,you,219921,219924,18,823,30,M_2533
+exp,exp_name,edna,Edna,219945,219949,3,823,30,M_2534
+booknlp,COREF,78,him,220007,220010,18,823,30,M_2535
+booknlp,COREF,78,his,220032,220035,18,823,30,M_2536
+booknlp,COREF,78,He,220043,220045,18,823,30,M_2537
+booknlp,COREF,78,his,220085,220088,18,823,30,M_2538
+pdnc,qID,Q417-0,Mrs. Pontellier,220114,220129,3,824,30,M_2539
+pdnc,qID,Q417-0,you,220145,220148,3,824,30,M_2540
+booknlp,COREF,78,his,220212,220215,18,824,30,M_2541
+booknlp,COREF,78,his,220297,220300,18,824,30,M_2542
+pdnc,qID,Q418-0,Victor,220344,220350,18,825,30,M_2543
+pdnc,qID,Q418-0,you,220352,220355,18,825,30,M_2544
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,220383,220396,13,825,30,M_2545
+booknlp,COREF,107,her,220397,220400,13,825,30,M_2546
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,220410,220423,13,826,30,M_2547
+booknlp,COREF,78,him,220454,220457,18,826,30,M_2548
+booknlp,COREF,107,her,220463,220466,13,826,30,M_2549
+exp,exp_name,miss mayblunt,Miss Mayblunt,220478,220491,10,826,30,M_2550
+exp,exp_name,mrs. merriman,Mrs. Merriman,220589,220602,14,826,30,M_2551
+exp,exp_name,victor,Victor,220658,220664,18,827,30,M_2552
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,220666,220679,13,827,30,M_2553
+booknlp,COREF,78,him,220688,220691,18,827,30,M_2554
+booknlp,COREF,107,her,220705,220708,13,827,30,M_2555
+booknlp,COREF,107,she,220723,220726,13,827,30,M_2556
+booknlp,COREF,78,him,220757,220760,18,827,30,M_2557
+booknlp,COREF,78,him,220804,220807,18,827,30,M_2558
+exp,exp_name,victor,Victor,220809,220815,18,827,30,M_2559
+booknlp,COREF,78,his,220826,220829,18,827,30,M_2560
+exp,exp_name,highcamp,Highcamp,220869,220877,21,827,30,M_2561
+booknlp,COREF,78,He,220927,220929,18,827,30,M_2562
+exp,exp_name,arobin,Arobin,220939,220945,1,827,30,M_2563
+booknlp,COREF,78,his,220957,220960,18,827,30,M_2564
+exp,exp_name,arobin,Arobin,220966,220972,1,827,30,M_2565
+exp,exp_name,edna,Edna,221112,221116,3,828,30,M_2566
+exp,exp_name,arobin,Arobin,221230,221236,1,830,31,M_2567
+exp,exp_name,edna,Edna,221260,221264,3,830,31,M_2568
+booknlp,COREF,128,he,221446,221448,1,832,31,M_2569
+booknlp,COREF,128,He,221698,221700,1,834,31,M_2570
+booknlp,COREF,128,he,221782,221784,1,835,31,M_2571
+pdnc,qID,Q424-0,you,221886,221889,1,836,31,M_2572
+booknlp,COREF,128,He,221993,221995,1,837,31,M_2573
+exp,exp_name,edna,Edna,222024,222028,3,837,31,M_2574
+exp,exp_name,arobin,Arobin,222120,222126,1,837,31,M_2575
+booknlp,COREF,128,he,222157,222159,1,837,31,M_2576
+exp,exp_name,arobin,Arobin,222286,222292,1,838,31,M_2577
+booknlp,COREF,128,he,222330,222332,1,838,31,M_2578
+exp,exp_name,edna,Edna,222345,222349,3,838,31,M_2579
+booknlp,COREF,128,He,222351,222353,1,838,31,M_2580
+pdnc,qID,Q425-0,you,222388,222391,3,839,31,M_2581
+booknlp,COREF,128,he,222420,222422,1,839,31,M_2582
+booknlp,COREF,128,he,222461,222463,1,839,31,M_2583
+booknlp,COREF,128,I,222478,222479,1,840,31,M_2584
+booknlp,COREF,128,his,222561,222564,1,841,31,M_2585
+booknlp,COREF,128,he,222576,222578,1,841,31,M_2586
+booknlp,COREF,128,his,222698,222701,1,841,31,M_2587
+exp,exp_name,edna,Edna,223265,223269,3,843,31,M_2588
+exp,exp_name,arobin,Arobin,223618,223624,1,843,31,M_2589
+exp,exp_name,edna,Edna,223685,223689,3,843,31,M_2590
+exp,exp_name,edna,Edna,223790,223794,3,844,31,M_2591
+pdnc,qID,Q427-0,you,223853,223856,3,845,31,M_2592
+booknlp,COREF,128,he,223865,223867,1,845,31,M_2593
+pdnc,qID,Q429-0,You,224072,224075,3,847,31,M_2594
+booknlp,COREF,128,he,224091,224093,1,847,31,M_2595
+booknlp,COREF,128,I,224118,224119,1,847,31,M_2596
+booknlp,COREF,128,I,224127,224128,1,847,31,M_2597
+pdnc,qID,Q429-1,you,224138,224141,3,847,31,M_2598
+pdnc,qID,Q429-1,you,224150,224153,3,847,31,M_2599
+booknlp,COREF,128,He,224183,224185,1,849,31,M_2600
+booknlp,COREF,128,his,224233,224236,1,849,31,M_2601
+booknlp,COREF,128,His,224258,224261,1,849,31,M_2602
+booknlp,COREF,128,he,224358,224360,1,849,31,M_2603
+booknlp,COREF,128,his,224383,224386,1,849,31,M_2604
+booknlp,COREF,128,He,224407,224409,1,849,31,M_2605
+booknlp,COREF,128,I,224463,224464,1,850,31,M_2606
+pdnc,qID,Q431-0,you,224470,224473,3,850,31,M_2607
+booknlp,COREF,128,he,224520,224522,1,850,31,M_2608
+pdnc,qID,Q431-1,You,224530,224533,3,850,31,M_2609
+pdnc,qID,Q431-1,you,224613,224616,3,850,31,M_2610
+pdnc,qID,Q433-0,you,224728,224731,3,852,31,M_2611
+booknlp,COREF,128,His,224738,224741,1,852,31,M_2612
+booknlp,COREF,128,he,224791,224793,1,852,31,M_2613
+booknlp,COREF,128,his,224834,224837,1,852,31,M_2614
+booknlp,COREF,128,He,224845,224847,1,852,31,M_2615
+booknlp,COREF,128,himself,224855,224862,1,852,31,M_2616
+pdnc,qID,Q434-0,you,224928,224931,1,853,31,M_2617
+booknlp,COREF,128,He,225049,225051,1,856,31,M_2618
+booknlp,COREF,128,He,225102,225104,1,856,31,M_2619
+booknlp,COREF,128,his,225159,225162,1,856,31,M_2620
+exp,exp_name,mr. pontellier,Mr. Pontellier,225206,225220,5,858,32,M_2621
+booknlp,COREF,49,his,225232,225235,5,858,32,M_2622
+booknlp,COREF,49,he,225310,225312,5,858,32,M_2623
+booknlp,COREF,49,he,225417,225419,5,858,32,M_2624
+booknlp,COREF,49,He,225462,225464,5,858,32,M_2625
+booknlp,COREF,49,he,225516,225518,5,858,32,M_2626
+booknlp,COREF,49,He,225602,225604,5,858,32,M_2627
+booknlp,COREF,49,he,225638,225640,5,858,32,M_2628
+booknlp,COREF,49,his,225716,225719,5,858,32,M_2629
+booknlp,COREF,49,his,225756,225759,5,858,32,M_2630
+booknlp,COREF,49,his,225775,225778,5,858,32,M_2631
+booknlp,COREF,49,He,225784,225786,5,858,32,M_2632
+booknlp,COREF,49,his,225810,225813,5,858,32,M_2633
+booknlp,COREF,49,his,226020,226023,5,858,32,M_2634
+exp,exp_name,edna,Edna,226061,226065,3,859,32,M_2635
+booknlp,COREF,49,he,226180,226182,5,859,32,M_2636
+booknlp,COREF,49,his,226210,226213,5,859,32,M_2637
+booknlp,COREF,49,his,226251,226254,5,859,32,M_2638
+exp,exp_name,edna,Edna,226328,226332,3,860,32,M_2639
+booknlp,COREF,49,his,226333,226336,5,860,32,M_2640
+booknlp,COREF,49,his,226464,226467,5,860,32,M_2641
+booknlp,COREF,49,he,226488,226490,5,860,32,M_2642
+booknlp,COREF,49,he,226524,226526,5,860,32,M_2643
+booknlp,COREF,49,his,226558,226561,5,860,32,M_2644
+exp,exp_name,pontellier,Pontellier,226765,226775,5,861,32,M_2645
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,227083,227098,3,862,32,M_2646
+exp,exp_name,mr. pontellier,Mr. Pontellier,227292,227306,5,862,32,M_2647
+exp,exp_name,edna,Edna,227331,227335,3,863,32,M_2648
+booknlp,COREF,49,his,227357,227360,5,863,32,M_2649
+booknlp,COREF,49,his,227404,227407,5,863,32,M_2650
+exp,exp_name,mr. pontellier,Mr. Pontellier,227455,227469,5,863,32,M_2651
+exp,exp_name,edna,Edna,228197,228201,3,865,32,M_2652
+exp,exp_name,madame,Madame,229977,229983,17,868,32,M_2653
+exp,exp_name,edna,Edna,230001,230005,3,868,32,M_2654
+exp,exp_name,edna,Edna,230270,230274,3,869,32,M_2655
+exp,exp_name,edna,Edna,230616,230620,3,871,33,M_2656
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,230633,230651,7,871,33,M_2657
+exp,exp_name,edna,Edna,230825,230829,3,871,33,M_2658
+booknlp,COREF,84,Mademoiselle,230839,230851,7,871,33,M_2659
+exp,exp_name,edna,Edna,230873,230877,3,871,33,M_2660
+booknlp,COREF,84,her,230911,230914,7,871,33,M_2661
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,230944,230962,7,872,33,M_2662
+exp,exp_name,robert,Robert,231196,231202,15,872,33,M_2663
+exp,exp_name,madame ratignolle,Madame Ratignolle,231467,231484,0,874,33,M_2664
+exp,exp_name,edna,Edna,231580,231584,3,874,33,M_2665
+exp,exp_name,ratignolle,Ratignolle,231780,231790,0,874,33,M_2666
+exp,exp_name,edna,Edna,231876,231880,3,874,33,M_2667
+exp,exp_name,mr. pontellier,Mr. Pontellier,232019,232033,5,874,33,M_2668
+exp,exp_name,edna,Edna,232088,232092,3,874,33,M_2669
+exp,exp_name,edna,Edna,232202,232206,3,875,33,M_2670
+exp,exp_name,madame ratignolle,Madame Ratignolle,232236,232253,0,876,33,M_2671
+pdnc,qID,Q438-0,you,232274,232277,3,877,33,M_2672
+pdnc,qID,Q438-0,Edna,232303,232307,3,877,33,M_2673
+pdnc,qID,Q438-0,You,232309,232312,3,877,33,M_2674
+pdnc,qID,Q438-0,you,232430,232433,3,877,33,M_2675
+pdnc,qID,Q438-0,you,232459,232462,3,877,33,M_2676
+pdnc,qID,Q438-0,you,232492,232495,3,877,33,M_2677
+pdnc,qID,Q438-0,you,232529,232532,3,877,33,M_2678
+pdnc,qID,Q438-0,you,232566,232569,3,877,33,M_2679
+pdnc,qID,Q438-0,Mademoiselle Reisz,232580,232598,7,877,33,M_2680
+pdnc,qID,Q439-0,she,232612,232615,7,878,33,M_2681
+pdnc,qID,Q439-0,her,232660,232663,7,878,33,M_2682
+pdnc,qID,Q440-0,you,232700,232703,3,879,33,M_2683
+pdnc,qID,Q440-0,Alc e Arobin,232762,232774,1,879,33,M_2684
+pdnc,qID,Q440-0,you,232784,232787,3,879,33,M_2685
+pdnc,qID,Q440-0,Mr. Arobin,232822,232832,1,879,33,M_2686
+exp,exp_name,ratignolle,Ratignolle,232878,232888,0,879,33,M_2687
+pdnc,qID,Q440-0,his,232909,232912,1,879,33,M_2688
+pdnc,qID,Q441-0,he,232984,232986,1,880,33,M_2689
+pdnc,qID,Q441-0,his,232996,232999,1,880,33,M_2690
+exp,exp_name,edna,Edna,233018,233022,3,880,33,M_2691
+pdnc,qID,Q442-0,he,233094,233096,1,881,33,M_2692
+pdnc,qID,Q442-0,his,233141,233144,1,881,33,M_2693
+pdnc,qID,Q442-0,you,233225,233228,3,881,33,M_2694
+exp,exp_name,edna,Edna,233291,233295,3,882,33,M_2695
+exp,exp_name,madame ratignolle,Madame Ratignolle,233328,233345,0,883,33,M_2696
+pdnc,qID,Q444-1,Arobin,233381,233387,1,883,33,M_2697
+pdnc,qID,Q444-1,you,233421,233424,3,883,33,M_2698
+exp,exp_name,edna,Edna,233445,233449,3,884,33,M_2699
+pdnc,qID,Q445-1,You,233460,233463,0,884,33,M_2700
+pdnc,qID,Q445-1,you,233481,233484,0,884,33,M_2701
+exp,exp_name,madame ratignolle,Madame Ratignolle,233530,233547,0,884,33,M_2702
+exp,exp_name,edna,Edna,233571,233575,3,884,33,M_2703
+exp,exp_name,mrs. merriman,Mrs. Merriman,233661,233674,14,885,33,M_2704
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,233679,233692,13,885,33,M_2705
+exp,exp_name,edna,Edna,233722,233726,3,885,33,M_2706
+exp,exp_name,mrs. merriman,Mrs. Merriman,233853,233866,14,885,33,M_2707
+exp,exp_name,mr. merriman,Mr. Merriman,233912,233924,12,885,33,M_2708
+exp,exp_name,arobin,Arobin,233932,233938,1,885,33,M_2709
+exp,exp_name,edna,Edna,233960,233964,3,885,33,M_2710
+exp,exp_name,mrs. highcamp,Mrs. Highcamp,234030,234043,13,885,33,M_2711
+exp,exp_name,mrs. merriman,Mrs. Merriman,234048,234061,14,885,33,M_2712
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,234109,234127,7,886,33,M_2713
+booknlp,COREF,84,her,234165,234168,7,886,33,M_2714
+exp,exp_name,edna,Edna,234274,234278,3,887,33,M_2715
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,234697,234715,7,887,33,M_2716
+exp,exp_name,edna,Edna,234868,234872,3,888,33,M_2717
+booknlp,COREF,84,Mademoiselle,235262,235274,7,888,33,M_2718
+exp,exp_name,robert lebrun,Robert Lebrun,235369,235382,15,889,33,M_2719
+booknlp,COREF,53,himself,235397,235404,15,889,33,M_2720
+booknlp,COREF,53,him,235519,235522,15,889,33,M_2721
+pdnc,qID,Q447-0,Robert,235580,235586,15,889,33,M_2722
+booknlp,COREF,53,He,235590,235592,15,890,33,M_2723
+booknlp,COREF,53,he,235651,235653,15,890,33,M_2724
+pdnc,qID,Q448-0,Mrs. Pontellier,235677,235692,3,891,33,M_2725
+pdnc,qID,Q448-0,you,235701,235704,3,891,33,M_2726
+pdnc,qID,Q448-0,you,235725,235728,3,891,33,M_2727
+pdnc,qID,Q448-0,Mademoiselle Reisz,235738,235756,7,891,33,M_2728
+booknlp,COREF,53,I,235767,235768,15,891,33,M_2729
+pdnc,qID,Q448-0,you,235791,235794,3,891,33,M_2730
+pdnc,qID,Q449-0,you,235808,235811,15,892,33,M_2731
+exp,exp_name,edna,Edna,235830,235834,3,892,33,M_2732
+booknlp,COREF,53,he,235943,235945,15,892,33,M_2733
+booknlp,COREF,53,he,236023,236025,15,893,33,M_2734
+booknlp,COREF,53,himself,236033,236040,15,893,33,M_2735
+booknlp,COREF,53,I,236057,236058,15,894,33,M_2736
+booknlp,COREF,53,he,236091,236093,15,894,33,M_2737
+booknlp,COREF,53,he,236110,236112,15,894,33,M_2738
+booknlp,COREF,53,his,236120,236123,15,894,33,M_2739
+booknlp,COREF,53,him,236342,236345,15,895,33,M_2740
+booknlp,COREF,53,he,236386,236388,15,895,33,M_2741
+booknlp,COREF,53,he,236473,236475,15,895,33,M_2742
+booknlp,COREF,84,Mademoiselle,236495,236507,7,895,33,M_2743
+booknlp,COREF,53,he,236550,236552,15,895,33,M_2744
+booknlp,COREF,84,Mademoiselle,236628,236640,7,896,33,M_2745
+pdnc,qID,Q453-1,you,236662,236665,15,896,33,M_2746
+pdnc,qID,Q453-1,you,236693,236696,15,896,33,M_2747
+pdnc,qID,Q453-1,you,236727,236730,15,896,33,M_2748
+booknlp,COREF,53,I,236770,236771,15,897,33,M_2749
+pdnc,qID,Q454-0,you,236796,236799,3,897,33,M_2750
+booknlp,COREF,53,he,236834,236836,15,897,33,M_2751
+booknlp,COREF,84,Mademoiselle,236858,236870,7,897,33,M_2752
+booknlp,COREF,53,I,236891,236892,15,897,33,M_2753
+booknlp,COREF,53,me,236979,236981,15,897,33,M_2754
+booknlp,COREF,53,I,237015,237016,15,897,33,M_2755
+booknlp,COREF,53,he,237095,237097,15,898,33,M_2756
+booknlp,COREF,53,he,237242,237244,15,898,33,M_2757
+booknlp,COREF,53,his,237333,237336,15,898,33,M_2758
+booknlp,COREF,53,he,237412,237414,15,899,33,M_2759
+booknlp,COREF,53,his,237435,237438,15,899,33,M_2760
+booknlp,COREF,53,him,237490,237493,15,899,33,M_2761
+booknlp,COREF,53,he,237506,237508,15,899,33,M_2762
+booknlp,COREF,53,His,237564,237567,15,899,33,M_2763
+booknlp,COREF,53,his,237607,237610,15,899,33,M_2764
+booknlp,COREF,53,His,237646,237649,15,899,33,M_2765
+booknlp,COREF,53,his,237720,237723,15,899,33,M_2766
+booknlp,COREF,53,he,237735,237737,15,899,33,M_2767
+exp,exp_name,edna,Edna,237973,237977,3,900,33,M_2768
+exp,exp_name,robert,Robert,237991,237997,15,900,33,M_2769
+booknlp,COREF,53,he,238078,238080,15,900,33,M_2770
+booknlp,COREF,53,him,238128,238131,15,900,33,M_2771
+booknlp,COREF,53,his,238168,238171,15,900,33,M_2772
+booknlp,COREF,53,he,238317,238319,15,900,33,M_2773
+booknlp,COREF,53,I,238366,238367,15,901,33,M_2774
+pdnc,qID,Q456-0,Mr. Pontellier,238403,238417,5,901,33,M_2775
+pdnc,qID,Q456-0,Mademoiselle Reisz,238443,238461,7,901,33,M_2776
+booknlp,COREF,53,me,238475,238477,15,901,33,M_2777
+booknlp,COREF,53,me,238507,238509,15,901,33,M_2778
+booknlp,COREF,53,I,238521,238522,15,901,33,M_2779
+pdnc,qID,Q456-0,him,238573,238576,5,901,33,M_2780
+booknlp,COREF,53,I,238692,238693,15,901,33,M_2781
+pdnc,qID,Q456-0,Mademoiselle Reisz,238779,238797,7,901,33,M_2782
+pdnc,qID,Q456-0,She,238799,238802,7,901,33,M_2783
+pdnc,qID,Q456-0,she,238841,238844,7,901,33,M_2784
+pdnc,qID,Q457-0,you,238858,238861,15,902,33,M_2785
+pdnc,qID,Q457-0,you,238876,238879,15,902,33,M_2786
+pdnc,qID,Q457-0,you,238909,238912,15,902,33,M_2787
+booknlp,COREF,53,I,238962,238963,15,903,33,M_2788
+booknlp,COREF,53,my,238986,238988,15,903,33,M_2789
+pdnc,qID,Q458-0,you,239025,239028,3,903,33,M_2790
+exp,exp_name,edna,Edna,239073,239077,3,904,33,M_2791
+pdnc,qID,Q460-0,you,239211,239214,3,905,33,M_2792
+pdnc,qID,Q460-0,Mademoiselle Reisz,239237,239255,7,905,33,M_2793
+exp,exp_name,robert,Robert,239264,239270,15,905,33,M_2794
+pdnc,qID,Q461-0,she,239296,239299,7,906,33,M_2795
+pdnc,qID,Q461-0,she,239321,239324,7,906,33,M_2796
+exp,exp_name,robert,Robert,239392,239398,15,906,33,M_2797
+booknlp,COREF,53,his,239409,239412,15,906,33,M_2798
+pdnc,qID,Q462-0,you,239426,239429,15,907,33,M_2799
+pdnc,qID,Q462-0,her,239439,239442,7,907,33,M_2800
+exp,exp_name,edna,Edna,239451,239455,3,907,33,M_2801
+pdnc,qID,Q463-0,you,239466,239469,3,908,33,M_2802
+pdnc,qID,Q463-0,she,239476,239479,7,908,33,M_2803
+booknlp,COREF,53,his,239561,239564,15,908,33,M_2804
+pdnc,qID,Q464-0,you,239626,239629,3,908,33,M_2805
+exp,exp_name,edna,Edna,239632,239636,3,908,33,M_2806
+exp,exp_name,pontellier,Pontellier,239901,239911,5,909,33,M_2807
+exp,exp_name,robert,Robert,239964,239970,15,909,33,M_2808
+booknlp,COREF,53,I,240032,240033,15,910,33,M_2809
+pdnc,qID,Q465-0,you,240045,240048,3,910,33,M_2810
+pdnc,qID,Q465-0,your,240052,240056,3,910,33,M_2811
+booknlp,COREF,53,he,240064,240066,15,910,33,M_2812
+pdnc,qID,Q466-0,you,240089,240092,15,911,33,M_2813
+booknlp,COREF,53,he,240227,240229,15,912,33,M_2814
+pdnc,qID,Q468-0,You,240268,240271,15,913,33,M_2815
+pdnc,qID,Q468-0,Robert,240300,240306,15,913,33,M_2816
+pdnc,qID,Q468-0,You,240308,240311,15,913,33,M_2817
+pdnc,qID,Q468-0,you,240368,240371,15,913,33,M_2818
+pdnc,qID,Q468-0,you,240404,240407,15,913,33,M_2819
+booknlp,COREF,53,He,240444,240446,15,914,33,M_2820
+booknlp,COREF,53,his,240490,240493,15,914,33,M_2821
+booknlp,COREF,53,him,240514,240517,15,914,33,M_2822
+booknlp,COREF,53,he,240519,240521,15,914,33,M_2823
+booknlp,COREF,53,he,240643,240645,15,914,33,M_2824
+booknlp,COREF,53,he,240734,240736,15,914,33,M_2825
+booknlp,COREF,53,his,240743,240746,15,914,33,M_2826
+booknlp,COREF,53,himself,240768,240775,15,914,33,M_2827
+pdnc,qID,Q469-0,you,240783,240786,3,915,33,M_2828
+booknlp,COREF,53,I,240792,240793,15,915,33,M_2829
+pdnc,qID,Q469-0,you,240810,240813,3,915,33,M_2830
+booknlp,COREF,53,me,240823,240825,15,915,33,M_2831
+booknlp,COREF,53,he,240828,240830,15,915,33,M_2832
+booknlp,COREF,53,his,240912,240915,15,915,33,M_2833
+pdnc,qID,Q470-0,you,240953,240956,15,916,33,M_2834
+pdnc,qID,Q470-0,the old Robert,240974,240988,15,916,33,M_2835
+exp,exp_name,robert,Robert,241290,241296,15,917,33,M_2836
+booknlp,COREF,53,He,241389,241391,15,917,33,M_2837
+pdnc,qID,Q471-0,Alc e Arobin,241433,241445,1,918,33,M_2838
+pdnc,qID,Q471-0,his,241464,241467,1,918,33,M_2839
+pdnc,qID,Q472-0,his,241519,241522,1,919,33,M_2840
+exp,exp_name,edna,Edna,241547,241551,3,919,33,M_2841
+pdnc,qID,Q472-1,he,241558,241560,1,919,33,M_2842
+booknlp,COREF,53,I,241715,241716,15,920,33,M_2843
+pdnc,qID,Q473-0,you,241730,241733,3,920,33,M_2844
+pdnc,qID,Q473-0,him,241756,241759,1,920,33,M_2845
+pdnc,qID,Q473-0,you,241763,241766,3,920,33,M_2846
+booknlp,COREF,53,I,241797,241798,15,921,33,M_2847
+booknlp,COREF,53,I,241835,241836,15,921,33,M_2848
+exp,exp_name,robert,Robert,241900,241906,15,921,33,M_2849
+booknlp,COREF,53,me,241953,241955,15,922,33,M_2850
+pdnc,qID,Q475-0,you,241959,241962,3,922,33,M_2851
+pdnc,qID,Q475-0,his,241969,241972,1,922,33,M_2852
+pdnc,qID,Q475-0,he,241996,241998,1,922,33,M_2853
+pdnc,qID,Q475-0,Mr. Pontellier,242011,242025,5,922,33,M_2854
+pdnc,qID,Q475-0,You,242029,242032,3,922,33,M_2855
+pdnc,qID,Q475-0,you,242044,242047,3,922,33,M_2856
+pdnc,qID,Q475-0,him,242053,242056,1,922,33,M_2857
+pdnc,qID,Q476-0,He,242061,242063,1,923,33,M_2858
+pdnc,qID,Q476-0,Mr. Pontellier,242082,242096,5,923,33,M_2859
+pdnc,qID,Q476-0,he,242100,242102,1,923,33,M_2860
+booknlp,COREF,53,I,242123,242124,15,923,33,M_2861
+pdnc,qID,Q476-0,him,242137,242140,1,923,33,M_2862
+booknlp,COREF,53,I,242174,242175,15,923,33,M_2863
+pdnc,qID,Q476-0,him,242181,242184,1,923,33,M_2864
+booknlp,COREF,53,I,242202,242203,15,923,33,M_2865
+pdnc,qID,Q476-0,you,242224,242227,15,923,33,M_2866
+pdnc,qID,Q476-0,you,242243,242246,15,923,33,M_2867
+exp,exp_name,robert,Robert,242308,242314,15,923,33,M_2868
+booknlp,COREF,53,I,242342,242343,15,924,33,M_2869
+booknlp,COREF,53,I,242478,242479,15,924,33,M_2870
+pdnc,qID,Q478-0,you,242659,242662,3,926,33,M_2871
+booknlp,COREF,53,he,242714,242716,15,926,33,M_2872
+pdnc,qID,Q480-0,Mrs. Pontellier,243014,243029,3,928,33,M_2873
+pdnc,qID,Q480-0,you,243031,243034,3,928,33,M_2874
+booknlp,COREF,53,he,243047,243049,15,928,33,M_2875
+booknlp,COREF,53,his,243078,243081,15,928,33,M_2876
+booknlp,COREF,53,his,243099,243102,15,928,33,M_2877
+booknlp,COREF,53,his,243116,243119,15,928,33,M_2878
+exp,exp_name,edna,Edna,243229,243233,3,930,34,M_2879
+exp,exp_name,robert,Robert,243574,243580,15,931,34,M_2880
+booknlp,COREF,53,his,243602,243605,15,931,34,M_2881
+exp,exp_name,edna,Edna,243629,243633,3,931,34,M_2882
+booknlp,COREF,53,him,243670,243673,15,931,34,M_2883
+booknlp,COREF,53,his,243701,243704,15,931,34,M_2884
+exp,exp_name,robert,Robert,243991,243997,15,931,34,M_2885
+booknlp,COREF,53,He,244029,244031,15,932,34,M_2886
+booknlp,COREF,53,he,244109,244111,15,932,34,M_2887
+booknlp,COREF,53,he,244122,244124,15,932,34,M_2888
+booknlp,COREF,53,I,244199,244200,15,933,34,M_2889
+booknlp,COREF,53,he,244228,244230,15,933,34,M_2890
+pdnc,qID,Q480-2,you,244243,244246,3,933,34,M_2891
+booknlp,COREF,53,me,244260,244262,15,933,34,M_2892
+booknlp,COREF,53,me,244269,244271,15,933,34,M_2893
+pdnc,qID,Q481-0,You,244282,244285,15,934,34,M_2894
+booknlp,COREF,53,me,244297,244299,15,934,34,M_2895
+pdnc,qID,Q481-0,You,244301,244304,15,934,34,M_2896
+booknlp,COREF,53,I,244432,244433,15,935,34,M_2897
+booknlp,COREF,53,he,244473,244475,15,935,34,M_2898
+booknlp,COREF,53,His,244527,244530,15,935,34,M_2899
+booknlp,COREF,53,he,244552,244554,15,935,34,M_2900
+pdnc,qID,Q483-0,You,244655,244658,15,936,34,M_2901
+pdnc,qID,Q483-0,your,244673,244677,15,936,34,M_2902
+exp,exp_name,edna,Edna,244711,244715,3,936,34,M_2903
+pdnc,qID,Q485-0,you,244801,244804,15,938,34,M_2904
+booknlp,COREF,53,me,244849,244851,15,939,34,M_2905
+booknlp,COREF,53,he,244898,244900,15,939,34,M_2906
+booknlp,COREF,53,his,244940,244943,15,939,34,M_2907
+booknlp,COREF,53,you,245117,245120,15,941,34,M_2908
+pdnc,qID,Q489-0,you,245182,245185,15,942,34,M_2909
+pdnc,qID,Q489-0,You,245197,245200,15,942,34,M_2910
+pdnc,qID,Q491-0,you,245329,245332,15,944,34,M_2911
+pdnc,qID,Q491-0,you,245421,245424,15,944,34,M_2912
+pdnc,qID,Q491-0,you,245463,245466,15,944,34,M_2913
+exp,exp_name,arobin,Arobin,245786,245792,1,948,34,M_2914
+exp,exp_name,mrs. merriman,Mrs. Merriman,245824,245837,14,948,34,M_2915
+booknlp,COREF,122,her,245916,245919,14,948,34,M_2916
+pdnc,qID,Q495-0,you,245939,245942,1,949,34,M_2917
+pdnc,qID,Q495-0,Arobin,245947,245953,1,949,34,M_2918
+exp,exp_name,robert,Robert,245961,245967,15,949,34,M_2919
+pdnc,qID,Q496-0,Lebrun,246002,246008,15,950,34,M_2920
+booknlp,COREF,122,I,246022,246023,14,950,34,M_2921
+pdnc,qID,Q496-0,you,246040,246043,15,950,34,M_2922
+pdnc,qID,Q496-0,you,246074,246077,15,950,34,M_2923
+pdnc,qID,Q498-0,you,246142,246145,15,952,34,M_2924
+booknlp,COREF,122,I,246188,246189,14,952,34,M_2925
+booknlp,COREF,122,I,246198,246199,14,952,34,M_2926
+booknlp,COREF,122,I,246242,246243,14,952,34,M_2927
+pdnc,qID,Q499-0,you,246362,246365,1,953,34,M_2928
+exp,exp_name,edna,Edna,246374,246378,3,953,34,M_2929
+booknlp,COREF,122,my,246386,246388,14,954,34,M_2930
+booknlp,COREF,122,I,246394,246395,14,954,34,M_2931
+booknlp,COREF,122,I,246432,246433,14,954,34,M_2932
+booknlp,COREF,122,me,246468,246470,14,954,34,M_2933
+booknlp,COREF,122,I,246476,246477,14,954,34,M_2934
+pdnc,qID,Q501-0,You,246495,246498,1,955,34,M_2935
+pdnc,qID,Q501-0,Robert,246524,246530,15,955,34,M_2936
+booknlp,COREF,122,I,246541,246542,14,956,34,M_2937
+pdnc,qID,Q502-0,Robert,246573,246579,15,956,34,M_2938
+pdnc,qID,Q502-0,he,246585,246587,15,956,34,M_2939
+booknlp,COREF,53,I,246626,246627,15,957,34,M_2940
+booknlp,COREF,53,myself,246645,246651,15,957,34,M_2941
+exp,exp_name,robert,Robert,246671,246677,15,957,34,M_2942
+exp,exp_name,edna,Edna,246710,246714,3,957,34,M_2943
+booknlp,COREF,53,my,246731,246733,15,957,34,M_2944
+pdnc,qID,Q503-1,Mr. Pontellier,246745,246759,5,957,34,M_2945
+pdnc,qID,Q503-1,you,246765,246768,3,957,34,M_2946
+booknlp,COREF,53,He,246778,246780,15,958,34,M_2947
+exp,exp_name,arobin,Arobin,246798,246804,1,958,34,M_2948
+pdnc,qID,Q504-0,Lebrun,246840,246846,15,959,34,M_2949
+exp,exp_name,arobin,Arobin,246854,246860,1,959,34,M_2950
+exp,exp_name,robert,Robert,246866,246872,15,959,34,M_2951
+booknlp,COREF,53,I,246884,246885,15,959,34,M_2952
+pdnc,qID,Q504-1,you,246898,246901,3,959,34,M_2953
+pdnc,qID,Q504-1,him,246911,246914,15,959,34,M_2954
+pdnc,qID,Q505-0,him,246926,246929,15,960,34,M_2955
+pdnc,qID,Q505-1,you,247012,247015,1,960,34,M_2956
+pdnc,qID,Q507-0,Mrs. Merriman,247119,247132,14,962,34,M_2957
+pdnc,qID,Q507-1,you,247151,247154,1,962,34,M_2958
+pdnc,qID,Q507-1,her,247159,247162,14,962,34,M_2959
+pdnc,qID,Q507-1,her,247169,247172,14,962,34,M_2960
+pdnc,qID,Q507-1,her,247260,247263,14,962,34,M_2961
+pdnc,qID,Q507-1,her,247288,247291,14,962,34,M_2962
+exp,exp_name,arobin,Arobin,247354,247360,1,963,34,M_2963
+booknlp,COREF,77,I,247363,247364,1,963,34,M_2964
+pdnc,qID,Q508-1,you,247377,247380,3,963,34,M_2965
+exp,exp_name,edna,Edna,247396,247400,3,964,34,M_2966
+exp,exp_name,arobin,Arobin,247481,247487,1,964,34,M_2967
+booknlp,COREF,77,he,247534,247536,1,964,34,M_2968
+booknlp,COREF,77,his,247544,247547,1,964,34,M_2969
+booknlp,COREF,77,He,247588,247590,1,965,34,M_2970
+booknlp,COREF,77,me,247626,247628,1,966,34,M_2971
+booknlp,COREF,77,He,247661,247663,1,967,34,M_2972
+pdnc,qID,Q512-0,you,247764,247767,3,968,34,M_2973
+booknlp,COREF,77,he,247781,247783,1,968,34,M_2974
+pdnc,qID,Q512-1,you,247821,247824,3,968,34,M_2975
+booknlp,COREF,77,I,247917,247918,1,969,34,M_2976
+pdnc,qID,Q513-0,You,247964,247967,1,969,34,M_2977
+booknlp,COREF,77,I,248011,248012,1,970,34,M_2978
+booknlp,COREF,77,I,248027,248028,1,970,34,M_2979
+booknlp,COREF,77,I,248039,248040,1,970,34,M_2980
+booknlp,COREF,77,myself,248054,248060,1,970,34,M_2981
+pdnc,qID,Q514-0,You,248062,248065,3,970,34,M_2982
+booknlp,COREF,77,I,248076,248077,1,970,34,M_2983
+booknlp,COREF,77,I,248093,248094,1,970,34,M_2984
+pdnc,qID,Q514-0,you,248103,248106,3,970,34,M_2985
+booknlp,COREF,77,He,248110,248112,1,971,34,M_2986
+pdnc,qID,Q515-0,you,248173,248176,1,972,34,M_2987
+booknlp,COREF,77,I,248201,248202,1,973,34,M_2988
+booknlp,COREF,77,I,248228,248229,1,973,34,M_2989
+booknlp,COREF,77,I,248242,248243,1,973,34,M_2990
+booknlp,COREF,77,he,248275,248277,1,973,34,M_2991
+booknlp,COREF,77,I,248382,248383,1,974,34,M_2992
+pdnc,qID,Q517-0,you,248390,248393,3,974,34,M_2993
+booknlp,COREF,77,he,248408,248410,1,974,34,M_2994
+booknlp,COREF,77,he,248421,248423,1,974,34,M_2995
+exp,exp_name,robert,Robert,248584,248590,15,975,34,M_2996
+booknlp,COREF,53,he,248597,248599,15,975,34,M_2997
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,248612,248630,7,975,34,M_2998
+booknlp,COREF,53,his,248652,248655,15,975,34,M_2999
+booknlp,COREF,53,his,248663,248666,15,975,34,M_3000
+booknlp,COREF,53,he,248859,248861,15,975,34,M_3001
+booknlp,COREF,53,He,248879,248881,15,975,34,M_3002
+booknlp,COREF,53,he,248895,248897,15,975,34,M_3003
+booknlp,COREF,53,him,248933,248936,15,975,34,M_3004
+booknlp,COREF,53,his,248948,248951,15,975,34,M_3005
+booknlp,COREF,53,his,248970,248973,15,975,34,M_3006
+booknlp,COREF,53,he,248993,248995,15,975,34,M_3007
+exp,exp_name,edna,Edna,249092,249096,3,977,35,M_3008
+booknlp,COREF,53,He,249224,249226,15,977,35,M_3009
+exp,exp_name,robert,Robert,249496,249502,15,977,35,M_3010
+booknlp,COREF,53,he,249567,249569,15,977,35,M_3011
+booknlp,COREF,53,he,249639,249641,15,977,35,M_3012
+booknlp,COREF,53,him,249685,249688,15,977,35,M_3013
+booknlp,COREF,53,his,249698,249701,15,977,35,M_3014
+booknlp,COREF,53,he,249742,249744,15,977,35,M_3015
+booknlp,COREF,53,he,249762,249764,15,977,35,M_3016
+booknlp,COREF,53,him,249827,249830,15,977,35,M_3017
+booknlp,COREF,53,his,249844,249847,15,977,35,M_3018
+booknlp,COREF,53,his,249905,249908,15,977,35,M_3019
+booknlp,COREF,53,He,249960,249962,15,977,35,M_3020
+booknlp,COREF,53,his,250023,250026,15,977,35,M_3021
+booknlp,COREF,53,he,250068,250070,15,977,35,M_3022
+booknlp,COREF,53,him,250136,250139,15,977,35,M_3023
+booknlp,COREF,53,his,250205,250208,15,977,35,M_3024
+booknlp,COREF,53,he,250220,250222,15,977,35,M_3025
+exp,exp_name,edna,Edna,250248,250252,3,978,35,M_3026
+exp,exp_name,maid,maid,250294,250298,8,978,35,M_3027
+exp,exp_name,arobin,Arobin,250908,250914,1,980,35,M_3028
+exp,exp_name,arobin,Arobin,251528,251534,1,983,35,M_3029
+exp,exp_name,edna,Edna,251602,251606,3,984,35,M_3030
+exp,exp_name,robert,Robert,251898,251904,15,986,35,M_3031
+booknlp,COREF,53,He,251957,251959,15,986,35,M_3032
+booknlp,COREF,53,him,252110,252113,15,986,35,M_3033
+booknlp,COREF,53,his,252207,252210,15,986,35,M_3034
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,252234,252252,7,986,35,M_3035
+exp,exp_name,madame lebrun,Madame Lebrun,252267,252280,6,986,35,M_3036
+booknlp,COREF,53,he,252310,252312,15,986,35,M_3037
+exp,exp_name,arobin,Arobin,252345,252351,1,987,35,M_3038
+booknlp,COREF,77,him,252388,252391,1,987,35,M_3039
+booknlp,COREF,77,His,252438,252441,1,987,35,M_3040
+exp,exp_name,arobin,Arobin,252666,252672,1,987,35,M_3041
+exp,exp_name,edna,Edna,252750,252754,3,987,35,M_3042
+booknlp,COREF,77,he,252840,252842,1,988,35,M_3043
+exp,exp_name,arobin,Arobin,252904,252910,1,988,35,M_3044
+booknlp,COREF,77,He,252939,252941,1,988,35,M_3045
+booknlp,COREF,77,his,252999,253002,1,988,35,M_3046
+exp,exp_name,edna,Edna,253834,253838,3,992,36,M_3047
+exp,exp_name,robert,Robert,254781,254787,15,994,36,M_3048
+pdnc,qID,Q518-0,you,254844,254847,15,995,36,M_3049
+booknlp,COREF,53,He,254919,254921,15,995,36,M_3050
+pdnc,qID,Q519-0,you,255011,255014,3,996,36,M_3051
+booknlp,COREF,53,he,255033,255035,15,996,36,M_3052
+booknlp,COREF,53,I,255078,255079,15,998,36,M_3053
+booknlp,COREF,53,I,255172,255173,15,998,36,M_3054
+pdnc,qID,Q522-0,you,255201,255204,15,999,36,M_3055
+pdnc,qID,Q522-0,you,255218,255221,15,999,36,M_3056
+booknlp,COREF,53,my,255233,255235,15,999,36,M_3057
+exp,exp_name,edna,Edna,255287,255291,3,999,36,M_3058
+booknlp,COREF,53,he,255342,255344,15,999,36,M_3059
+booknlp,COREF,53,him,255358,255361,15,999,36,M_3060
+booknlp,COREF,53,him,255509,255512,15,999,36,M_3061
+booknlp,COREF,53,him,255549,255552,15,999,36,M_3062
+pdnc,qID,Q523-0,you,255579,255582,15,1000,36,M_3063
+pdnc,qID,Q523-0,Robert,255602,255608,15,1000,36,M_3064
+pdnc,qID,Q524-0,you,255679,255682,3,1001,36,M_3065
+pdnc,qID,Q524-0,Mrs. Pontellier,255696,255711,3,1001,36,M_3066
+pdnc,qID,Q524-0,you,255720,255723,3,1001,36,M_3067
+booknlp,COREF,53,me,255730,255732,15,1001,36,M_3068
+booknlp,COREF,53,he,255758,255760,15,1001,36,M_3069
+booknlp,COREF,53,I,255792,255793,15,1001,36,M_3070
+pdnc,qID,Q524-1,you,255825,255828,3,1001,36,M_3071
+booknlp,COREF,53,I,255829,255830,15,1001,36,M_3072
+booknlp,COREF,53,I,255858,255859,15,1001,36,M_3073
+booknlp,COREF,53,I,255882,255883,15,1001,36,M_3074
+pdnc,qID,Q524-1,you,255899,255902,3,1001,36,M_3075
+pdnc,qID,Q524-1,you,255917,255920,3,1001,36,M_3076
+booknlp,COREF,53,me,255941,255943,15,1001,36,M_3077
+pdnc,qID,Q525-0,You,255982,255985,15,1002,36,M_3078
+pdnc,qID,Q525-1,You,256033,256036,15,1002,36,M_3079
+booknlp,COREF,53,yourself,256042,256050,15,1002,36,M_3080
+booknlp,COREF,53,yourself,256128,256136,15,1002,36,M_3081
+pdnc,qID,Q525-1,you,256137,256140,15,1002,36,M_3082
+pdnc,qID,Q525-1,your,256197,256201,15,1002,36,M_3083
+pdnc,qID,Q525-1,you,256251,256254,15,1002,36,M_3084
+pdnc,qID,Q525-1,you,256356,256359,15,1002,36,M_3085
+pdnc,qID,Q525-1,you,256386,256389,15,1002,36,M_3086
+booknlp,COREF,53,I,256403,256404,15,1003,36,M_3087
+pdnc,qID,Q526-0,you,256416,256419,3,1003,36,M_3088
+booknlp,COREF,53,I,256430,256431,15,1003,36,M_3089
+pdnc,qID,Q526-0,you,256487,256490,3,1003,36,M_3090
+booknlp,COREF,53,me,256510,256512,15,1003,36,M_3091
+pdnc,qID,Q526-0,you,256565,256568,3,1003,36,M_3092
+booknlp,COREF,53,me,256580,256582,15,1003,36,M_3093
+pdnc,qID,Q527-0,your,256693,256697,15,1004,36,M_3094
+pdnc,qID,Q527-0,Robert,256706,256712,15,1004,36,M_3095
+pdnc,qID,Q527-0,You,256737,256740,15,1004,36,M_3096
+pdnc,qID,Q529-1,you,256996,256999,15,1006,36,M_3097
+pdnc,qID,Q529-2,you,257484,257487,15,1007,36,M_3098
+pdnc,qID,Q529-2,your,257535,257539,15,1007,36,M_3099
+pdnc,qID,Q529-2,your,257627,257631,15,1007,36,M_3100
+pdnc,qID,Q529-2,you,257673,257676,15,1007,36,M_3101
+pdnc,qID,Q531-0,you,257767,257770,15,1009,36,M_3102
+exp,exp_name,edna,Edna,258081,258085,3,1011,36,M_3103
+exp,exp_name,robert,Robert,258621,258627,15,1013,36,M_3104
+booknlp,COREF,53,he,258684,258686,15,1013,36,M_3105
+booknlp,COREF,53,his,258718,258721,15,1013,36,M_3106
+exp,exp_name,edna,Edna,258765,258769,3,1013,36,M_3107
+pdnc,qID,Q533-0,Robert,258938,258944,15,1014,36,M_3108
+pdnc,qID,Q533-1,you,258962,258965,15,1014,36,M_3109
+pdnc,qID,Q535-0,you,259453,259456,3,1017,36,M_3110
+pdnc,qID,Q535-1,you,259478,259481,3,1017,36,M_3111
+pdnc,qID,Q536-0,you,259610,259613,15,1018,36,M_3112
+pdnc,qID,Q537-0,you,259701,259704,3,1019,36,M_3113
+pdnc,qID,Q537-0,you,259720,259723,3,1019,36,M_3114
+pdnc,qID,Q537-0,L once Pontellier,259729,259746,5,1019,36,M_3115
+pdnc,qID,Q537-0,you,259778,259781,3,1019,36,M_3116
+pdnc,qID,Q537-0,you,259785,259788,3,1019,36,M_3117
+pdnc,qID,Q537-0,his,259804,259807,5,1019,36,M_3118
+pdnc,qID,Q537-0,you,259846,259849,3,1019,36,M_3119
+pdnc,qID,Q537-0,you,259885,259888,3,1019,36,M_3120
+pdnc,qID,Q538-0,you,260071,260074,3,1020,36,M_3121
+pdnc,qID,Q538-0,you,260105,260108,3,1020,36,M_3122
+pdnc,qID,Q540-0,you,260188,260191,3,1022,36,M_3123
+pdnc,qID,Q540-0,your,260268,260272,3,1022,36,M_3124
+pdnc,qID,Q541-0,Your,260303,260307,15,1023,36,M_3125
+pdnc,qID,Q542-0,you,260370,260373,3,1024,36,M_3126
+pdnc,qID,Q543-0,you,260389,260392,15,1025,36,M_3127
+pdnc,qID,Q543-0,L once Pontellier,260424,260441,5,1025,36,M_3128
+pdnc,qID,Q547-0,you,260697,260700,15,1029,36,M_3129
+pdnc,qID,Q547-0,you,260710,260713,15,1029,36,M_3130
+pdnc,qID,Q548-0,you,260834,260837,3,1030,36,M_3131
+pdnc,qID,Q549-0,You,261029,261032,15,1032,36,M_3132
+pdnc,qID,Q549-0,your,261077,261081,15,1032,36,M_3133
+pdnc,qID,Q549-0,you,261122,261125,15,1032,36,M_3134
+pdnc,qID,Q549-0,Mr. Pontellier,261135,261149,5,1032,36,M_3135
+pdnc,qID,Q549-0,Mr. Pontellier,261189,261203,5,1032,36,M_3136
+pdnc,qID,Q549-0,he,261273,261275,5,1032,36,M_3137
+exp,exp_name,robert,Robert,261296,261302,15,1032,36,M_3138
+booknlp,COREF,53,yours,261334,261339,15,1032,36,M_3139
+booknlp,COREF,53,you,261360,261363,15,1032,36,M_3140
+pdnc,qID,Q550-0,you,261411,261414,3,1033,36,M_3141
+exp,exp_name,madame ratignolle,Madame Ratignolle,261498,261515,0,1034,36,M_3142
+exp,exp_name,madame,Madame,261575,261581,17,1034,36,M_3143
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,261613,261628,3,1034,36,M_3144
+exp,exp_name,edna,Edna,261673,261677,3,1035,36,M_3145
+booknlp,COREF,53,me,261759,261761,15,1036,36,M_3146
+pdnc,qID,Q552-0,you,261777,261780,3,1036,36,M_3147
+exp,exp_name,robert,Robert,261791,261797,15,1036,36,M_3148
+booknlp,COREF,53,him,261954,261957,15,1037,36,M_3149
+booknlp,COREF,53,He,261959,261961,15,1037,36,M_3150
+booknlp,COREF,53,his,262002,262005,15,1037,36,M_3151
+pdnc,qID,Q554-0,my sweet Robert,262023,262038,15,1038,36,M_3152
+booknlp,COREF,53,me,262045,262047,15,1038,36,M_3153
+booknlp,COREF,53,He,262058,262060,15,1038,36,M_3154
+booknlp,COREF,53,his,262131,262134,15,1038,36,M_3155
+booknlp,COREF,53,him,262163,262166,15,1038,36,M_3156
+pdnc,qID,Q555-0,you,262177,262180,15,1039,36,M_3157
+pdnc,qID,Q555-1,you,262204,262207,15,1039,36,M_3158
+pdnc,qID,Q555-1,you,262220,262223,15,1039,36,M_3159
+pdnc,qID,Q555-1,you,262232,262235,15,1039,36,M_3160
+pdnc,qID,Q555-1,you,262299,262302,15,1039,36,M_3161
+pdnc,qID,Q555-1,your,262332,262336,15,1039,36,M_3162
+pdnc,qID,Q555-1,you,262386,262389,15,1039,36,M_3163
+pdnc,qID,Q555-1,my Robert,262425,262434,15,1039,36,M_3164
+pdnc,qID,Q555-1,We,262436,262438,15,1039,36,M_3165
+pdnc,qID,Q555-1,my friend,262536,262545,0,1039,36,M_3166
+pdnc,qID,Q555-1,you,262551,262554,15,1039,36,M_3167
+pdnc,qID,Q555-1,you,262593,262596,15,1039,36,M_3168
+pdnc,qID,Q555-1,Robert,262615,262621,15,1039,36,M_3169
+pdnc,qID,Q556-0,Edna,262650,262654,3,1040,36,M_3170
+pdnc,qID,Q556-1,you,262695,262698,3,1040,36,M_3171
+pdnc,qID,Q557-0,you,262783,262786,15,1041,36,M_3172
+exp,exp_name,edna,Edna,263022,263026,3,1043,37,M_3173
+exp,exp_name,ratignolle,Ratignolle,263065,263075,0,1043,37,M_3174
+exp,exp_name,edna,Edna,263186,263190,3,1043,37,M_3175
+exp,exp_name,madame ratignolle,Madame Ratignolle,263253,263270,0,1043,37,M_3176
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,263420,263435,3,1043,37,M_3177
+exp,exp_name,the nurse,The nurse,263471,263480,4,1043,37,M_3178
+booknlp,COREF,1626,she,263531,263534,4,1043,37,M_3179
+exp,exp_name,edna,Edna,263670,263674,3,1044,37,M_3180
+exp,exp_name,madame ratignolle,Madame Ratignolle,263823,263840,0,1044,37,M_3181
+exp,exp_name,the nurse,The nurse,264236,264245,4,1044,37,M_3182
+booknlp,COREF,1626,she,264384,264387,4,1045,37,M_3183
+exp,exp_name,edna,Edna,264404,264408,3,1045,37,M_3184
+pdnc,qID,Q558-1,Mandelet,264430,264438,2,1045,37,M_3185
+pdnc,qID,Q558-1,he,264440,264442,2,1045,37,M_3186
+pdnc,qID,Q558-1,He,264476,264478,2,1045,37,M_3187
+pdnc,qID,Q558-1,he,264484,264486,2,1045,37,M_3188
+pdnc,qID,Q558-1,Jos phine,264564,264573,4,1045,37,M_3189
+exp,exp_name,madame,Madame,264737,264743,17,1046,37,M_3190
+exp,exp_name,madame,Madame,264778,264784,17,1046,37,M_3191
+exp,exp_name,edna,Edna,264833,264837,3,1046,37,M_3192
+exp,exp_name,the nurse,The nurse,265024,265033,4,1046,37,M_3193
+booknlp,COREF,1626,she,265116,265119,4,1047,37,M_3194
+pdnc,qID,Q559-1,Mandelet,265128,265136,2,1047,37,M_3195
+booknlp,COREF,1626,I,265191,265192,4,1047,37,M_3196
+exp,exp_name,the nurse,the nurse,265279,265288,4,1048,37,M_3197
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,265321,265336,3,1048,37,M_3198
+exp,exp_name,ratignolle,Ratignolle,265421,265431,0,1048,37,M_3199
+exp,exp_name,doctor mandelet,Doctor Mandelet,265518,265533,2,1048,37,M_3200
+exp,exp_name,doctor mandelet,Doctor Mandelet,265681,265696,2,1050,37,M_3201
+exp,exp_name,madame ratignolle,Madame Ratignolle,265718,265735,0,1050,37,M_3202
+booknlp,COREF,120,He,265751,265753,2,1050,37,M_3203
+booknlp,COREF,120,He,265848,265850,2,1051,37,M_3204
+exp,exp_name,edna,Edna,265867,265871,3,1051,37,M_3205
+booknlp,COREF,120,him,265899,265902,2,1051,37,M_3206
+booknlp,COREF,120,him,265932,265935,2,1051,37,M_3207
+exp,exp_name,madame ratignolle,Madame Ratignolle,265941,265958,0,1051,37,M_3208
+exp,exp_name,edna,Edna,265982,265986,3,1051,37,M_3209
+exp,exp_name,edna,Edna,266116,266120,3,1052,37,M_3210
+exp,exp_name,edna,Edna,266676,266680,3,1053,37,M_3211
+pdnc,qID,Q561-0,Edna,267021,267025,3,1054,37,M_3212
+exp,exp_name,edna,Edna,267079,267083,3,1056,38,M_3213
+exp,exp_name,the doctor,The Doctor,267139,267149,2,1056,38,M_3214
+booknlp,COREF,352,him,267175,267178,2,1056,38,M_3215
+exp,exp_name,doctor mandelet,Doctor Mandelet,267263,267278,2,1056,38,M_3216
+booknlp,COREF,120,He,267335,267337,2,1056,38,M_3217
+booknlp,COREF,120,his,267347,267350,2,1056,38,M_3218
+booknlp,COREF,120,him,267368,267371,2,1056,38,M_3219
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,267375,267390,3,1056,38,M_3220
+booknlp,COREF,120,he,267398,267400,2,1056,38,M_3221
+exp,exp_name,the doctor,the Doctor,267619,267629,2,1057,38,M_3222
+booknlp,COREF,120,his,267663,267666,2,1057,38,M_3223
+booknlp,COREF,120,him,267680,267683,2,1057,38,M_3224
+exp,exp_name,edna,Edna,267685,267689,3,1057,38,M_3225
+pdnc,qID,Q562-0,You,267841,267844,3,1058,38,M_3226
+pdnc,qID,Q562-0,Mrs. Pontellier,267872,267887,3,1058,38,M_3227
+booknlp,COREF,120,he,267890,267892,2,1058,38,M_3228
+pdnc,qID,Q562-1,you,267922,267925,3,1058,38,M_3229
+pdnc,qID,Q562-1,Ad le,267927,267932,0,1058,38,M_3230
+pdnc,qID,Q562-1,she,267990,267993,0,1058,38,M_3231
+pdnc,qID,Q562-1,her,268014,268017,0,1058,38,M_3232
+pdnc,qID,Q562-1,unimpressionable women,268019,268041,0,1058,38,M_3233
+booknlp,COREF,120,I,268043,268044,2,1058,38,M_3234
+pdnc,qID,Q562-1,You,268076,268079,3,1058,38,M_3235
+pdnc,qID,Q564-0,L once,268272,268278,5,1060,38,M_3236
+pdnc,qID,Q566-0,you,268334,268337,3,1062,38,M_3237
+exp,exp_name,the doctor,the Doctor,268695,268705,2,1064,38,M_3238
+booknlp,COREF,352,me,269268,269270,2,1066,38,M_3239
+pdnc,qID,Q570-0,my dear child,269272,269285,3,1066,38,M_3240
+exp,exp_name,the doctor,the Doctor,269293,269303,2,1066,38,M_3241
+pdnc,qID,Q570-1,you,269335,269338,3,1066,38,M_3242
+booknlp,COREF,352,me,269347,269349,2,1066,38,M_3243
+booknlp,COREF,352,I,269368,269369,2,1066,38,M_3244
+pdnc,qID,Q570-1,your,269394,269398,3,1066,38,M_3245
+booknlp,COREF,352,I,269411,269412,2,1066,38,M_3246
+pdnc,qID,Q570-1,you,269440,269443,3,1066,38,M_3247
+booknlp,COREF,352,me,269469,269471,2,1066,38,M_3248
+booknlp,COREF,352,I,269481,269482,2,1066,38,M_3249
+pdnc,qID,Q570-1,you,269494,269497,3,1066,38,M_3250
+booknlp,COREF,352,I,269499,269500,2,1066,38,M_3251
+booknlp,COREF,352,I,269506,269507,2,1066,38,M_3252
+booknlp,COREF,352,I,269530,269531,2,1066,38,M_3253
+pdnc,qID,Q570-1,you,269537,269540,3,1066,38,M_3254
+pdnc,qID,Q570-1,my dear,269580,269587,3,1066,38,M_3255
+pdnc,qID,Q571-0,your,269711,269715,2,1067,38,M_3256
+pdnc,qID,Q571-0,you,269889,269892,2,1067,38,M_3257
+pdnc,qID,Q571-0,Doctor,270068,270074,2,1067,38,M_3258
+booknlp,COREF,352,I,270125,270126,2,1068,38,M_3259
+pdnc,qID,Q572-0,you,270138,270141,3,1068,38,M_3260
+pdnc,qID,Q572-0,you,270145,270148,3,1068,38,M_3261
+booknlp,COREF,352,me,270168,270170,2,1068,38,M_3262
+pdnc,qID,Q572-0,you,270200,270203,3,1068,38,M_3263
+booknlp,COREF,352,I,270272,270273,2,1068,38,M_3264
+pdnc,qID,Q572-0,you,270285,270288,3,1068,38,M_3265
+pdnc,qID,Q572-0,my child,270336,270344,3,1068,38,M_3266
+exp,exp_name,robert,Robert,270732,270738,15,1069,38,M_3267
+booknlp,COREF,53,his,270764,270767,15,1069,38,M_3268
+booknlp,COREF,53,his,270793,270796,15,1069,38,M_3269
+booknlp,COREF,53,His,270911,270914,15,1069,38,M_3270
+booknlp,COREF,53,him,270952,270955,15,1069,38,M_3271
+booknlp,COREF,53,he,270994,270996,15,1069,38,M_3272
+booknlp,COREF,53,he,271100,271102,15,1069,38,M_3273
+booknlp,COREF,53,him,271145,271148,15,1069,38,M_3274
+booknlp,COREF,53,he,271172,271174,15,1069,38,M_3275
+booknlp,COREF,53,him,271213,271216,15,1069,38,M_3276
+exp,exp_name,robert,Robert,271483,271489,15,1071,38,M_3277
+booknlp,COREF,53,He,271536,271538,15,1071,38,M_3278
+booknlp,COREF,53,he,271585,271587,15,1071,38,M_3279
+booknlp,COREF,53,I,271650,271651,15,1072,38,M_3280
+booknlp,COREF,53,I,271678,271679,15,1072,38,M_3281
+exp,exp_name,edna,Edna,271692,271696,3,1073,38,M_3282
+exp,exp_name,victor,Victor,272016,272022,18,1075,39,M_3283
+exp,exp_name,mariequita,Mariequita,272118,272128,9,1075,39,M_3284
+booknlp,COREF,90,her,272151,272154,9,1075,39,M_3285
+booknlp,COREF,78,him,272170,272173,18,1075,39,M_3286
+booknlp,COREF,78,him,272192,272195,18,1075,39,M_3287
+booknlp,COREF,90,She,272371,272374,9,1075,39,M_3288
+exp,exp_name,victor,Victor,272402,272408,18,1075,39,M_3289
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,272432,272447,3,1075,39,M_3290
+booknlp,COREF,78,He,272451,272453,18,1075,39,M_3291
+booknlp,COREF,78,he,272552,272554,18,1075,39,M_3292
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,272697,272712,3,1075,39,M_3293
+booknlp,COREF,90,She,272863,272866,9,1075,39,M_3294
+booknlp,COREF,90,her,272879,272882,9,1075,39,M_3295
+exp,exp_name,victor,Victor,272893,272899,18,1075,39,M_3296
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,272917,272932,3,1075,39,M_3297
+booknlp,COREF,78,he,272938,272940,18,1075,39,M_3298
+booknlp,COREF,90,her,272946,272949,9,1075,39,M_3299
+booknlp,COREF,90,her,272991,272994,9,1075,39,M_3300
+booknlp,COREF,90,She,273003,273006,9,1075,39,M_3301
+booknlp,COREF,78,him,273071,273074,18,1075,39,M_3302
+booknlp,COREF,78,his,273078,273081,18,1075,39,M_3303
+booknlp,COREF,90,her,273130,273133,9,1075,39,M_3304
+booknlp,COREF,90,she,273222,273225,9,1075,39,M_3305
+booknlp,COREF,90,she,273250,273253,9,1075,39,M_3306
+booknlp,COREF,90,her,273368,273371,9,1076,39,M_3307
+exp,exp_name,victor,Victor,273373,273379,18,1076,39,M_3308
+booknlp,COREF,78,his,273399,273402,18,1076,39,M_3309
+booknlp,COREF,78,he,273435,273437,18,1076,39,M_3310
+booknlp,COREF,78,him,273450,273453,18,1076,39,M_3311
+exp,exp_name,mariequita,Mariequita,273492,273502,9,1076,39,M_3312
+booknlp,COREF,90,She,273504,273507,9,1076,39,M_3313
+booknlp,COREF,90,her,273514,273517,9,1076,39,M_3314
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,273636,273651,3,1077,39,M_3315
+pdnc,qID,Q573-1,you,273965,273968,18,1078,39,M_3316
+exp,exp_name,victor,Victor,274119,274125,18,1079,39,M_3317
+pdnc,qID,Q574-0,you,274287,274290,3,1080,39,M_3318
+pdnc,qID,Q574-0,you,274306,274309,3,1080,39,M_3319
+booknlp,COREF,78,him,274376,274379,18,1081,39,M_3320
+pdnc,qID,Q576-0,you,274390,274393,3,1082,39,M_3321
+booknlp,COREF,78,he,274425,274427,18,1082,39,M_3322
+booknlp,COREF,78,I,274445,274446,18,1082,39,M_3323
+pdnc,qID,Q576-1,you,274481,274484,3,1082,39,M_3324
+booknlp,COREF,78,you,274498,274501,18,1082,39,M_3325
+exp,exp_name,mariequita,Mariequita,274536,274546,9,1082,39,M_3326
+exp,exp_name,mariequita,Mariequita,274549,274559,9,1083,39,M_3327
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,274655,274670,3,1084,39,M_3328
+exp,exp_name,victor,Victor,274749,274755,18,1084,39,M_3329
+exp,exp_name,mrs. pontellier,Mrs. Pontellier,274791,274806,3,1084,39,M_3330
+booknlp,COREF,90,her,274884,274887,9,1084,39,M_3331
+booknlp,COREF,90,She,274895,274898,9,1084,39,M_3332
+pdnc,qID,Q577-0,you,275067,275070,18,1085,39,M_3333
+exp,exp_name,edna,Edna,275091,275095,3,1085,39,M_3334
+booknlp,COREF,78,I,275148,275149,18,1086,39,M_3335
+booknlp,COREF,78,he,275190,275192,18,1086,39,M_3336
+booknlp,COREF,78,his,275225,275228,18,1086,39,M_3337
+pdnc,qID,Q578-1,You,275237,275240,3,1086,39,M_3338
+booknlp,COREF,78,my,275251,275253,18,1086,39,M_3339
+pdnc,qID,Q578-1,Mariequita,275290,275300,9,1086,39,M_3340
+pdnc,qID,Q578-1,you,275311,275314,3,1086,39,M_3341
+pdnc,qID,Q579-0,you,275325,275328,9,1087,39,M_3342
+exp,exp_name,edna,Edna,275336,275340,3,1087,39,M_3343
+pdnc,qID,Q579-1,you,275351,275354,9,1087,39,M_3344
+booknlp,COREF,90,I,275538,275539,9,1089,39,M_3345
+booknlp,COREF,90,my,275566,275568,9,1089,39,M_3346
+booknlp,COREF,90,me,275595,275597,9,1089,39,M_3347
+pdnc,qID,Q580-0,you,275671,275674,9,1089,39,M_3348
+booknlp,COREF,90,me,275679,275681,9,1089,39,M_3349
+booknlp,COREF,90,I,275702,275703,9,1089,39,M_3350
+booknlp,COREF,90,I,275789,275790,9,1089,39,M_3351
+exp,exp_name,mariequita,Mariequita,275821,275831,9,1090,39,M_3352
+exp,exp_name,victor,Victor,275844,275850,18,1090,39,M_3353
+booknlp,COREF,90,she,275896,275899,9,1090,39,M_3354
+exp,exp_name,edna,Edna,275908,275912,3,1090,39,M_3355
+pdnc,qID,Q581-0,you,275923,275926,18,1091,39,M_3356
+exp,exp_name,edna,Edna,275955,275959,3,1091,39,M_3357
+pdnc,qID,Q581-1,you,276022,276025,18,1091,39,M_3358
+exp,exp_name,victor,Victor,276071,276077,18,1092,39,M_3359
+booknlp,COREF,78,I,276100,276101,18,1092,39,M_3360
+booknlp,COREF,78,I,276136,276137,18,1092,39,M_3361
+pdnc,qID,Q582-1,She,276187,276190,3,1092,39,M_3362
+booknlp,COREF,78,me,276207,276209,18,1092,39,M_3363
+exp,exp_name,edna,Edna,276218,276222,3,1093,39,M_3364
+exp,exp_name,robert,Robert,276446,276452,15,1093,39,M_3365
+pdnc,qID,Q583-0,Arobin,276565,276571,1,1094,39,M_3366
+pdnc,qID,Q583-0,L once Pontellier,276663,276680,5,1094,39,M_3367
+exp,exp_name,ratignolle,Ratignolle,276783,276793,0,1094,39,M_3368
+exp,exp_name,robert,Robert,277082,277088,15,1095,39,M_3369
+booknlp,COREF,53,he,277141,277143,15,1095,39,M_3370
+booknlp,COREF,53,him,277169,277172,15,1095,39,M_3371
+exp,exp_name,edna,Edna,277920,277924,3,1097,39,M_3372
+booknlp,COREF,57,L,279208,279209,5,1103,39,M_3373
+exp,exp_name,mademoiselle reisz,Mademoiselle Reisz,279342,279360,7,1103,39,M_3374
+booknlp,COREF,84,she,279401,279404,7,1103,39,M_3375
+exp,exp_name,madame,Madame,279463,279469,17,1103,39,M_3376
+exp,exp_name,doctor mandelet,Doctor Mandelet,279697,279712,2,1105,39,M_3377
+exp,exp_name,edna,Edna,279926,279930,3,1106,39,M_3378
