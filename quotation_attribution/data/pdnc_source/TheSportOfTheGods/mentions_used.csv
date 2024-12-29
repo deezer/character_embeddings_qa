@@ -1,0 +1,3600 @@
+source,idColName,iden,text,startByte,endByte,pdncID,paraID,chapID,mID
+exp,exp_name,berry hamilton,Berry Hamilton,244,258,4,6,1,M_0
+booknlp,COREF,34,he,386,388,4,7,1,M_1
+booknlp,COREF,34,his,400,403,4,7,1,M_2
+exp,exp_name,fannie,Fannie,410,416,7,7,1,M_3
+booknlp,COREF,34,his,458,461,4,7,1,M_4
+exp,exp_name,joe,Joe,480,483,15,7,1,M_5
+exp,exp_name,kit,Kit,488,491,16,7,1,M_6
+booknlp,COREF,34,his,553,556,4,7,1,M_7
+exp,exp_name,berry hamilton,Berry Hamilton,852,866,4,7,1,M_8
+exp,exp_name,maurice oakley,Maurice Oakley,887,901,20,7,1,M_9
+booknlp,COREF,39,He,903,905,20,7,1,M_10
+booknlp,COREF,39,he,1190,1192,20,8,1,M_11
+exp,exp_name,maurice oakley,Maurice Oakley,1201,1215,20,8,1,M_12
+booknlp,COREF,39,he,1253,1255,20,8,1,M_13
+booknlp,COREF,39,him,1270,1273,20,8,1,M_14
+booknlp,COREF,39,his,1313,1316,20,8,1,M_15
+booknlp,COREF,39,his,1332,1335,20,8,1,M_16
+exp,exp_name,oakley,Oakley,1397,1403,20,8,1,M_17
+booknlp,COREF,39,he,1436,1438,20,8,1,M_18
+booknlp,COREF,39,he,1450,1452,20,8,1,M_19
+booknlp,COREF,39,he,1508,1510,20,8,1,M_20
+pdnc,qID,Q0-0,Berry,1554,1559,4,8,1,M_21
+booknlp,COREF,39,my,1578,1580,20,8,1,M_22
+pdnc,qID,Q0-0,himself,1615,1622,4,8,1,M_23
+booknlp,COREF,39,His,1626,1629,20,9,1,M_24
+exp,exp_name,berry,Berry,1667,1672,4,9,1,M_25
+exp,exp_name,fannie,Fannie,1703,1709,7,9,1,M_26
+booknlp,COREF,35,she,1731,1734,7,9,1,M_27
+booknlp,COREF,35,her,1744,1747,7,9,1,M_28
+exp,exp_name,mrs. oakley,Mrs. Oakley,1767,1778,17,9,1,M_29
+booknlp,COREF,34,his,1816,1819,4,9,1,M_30
+exp,exp_name,fannie,Fannie,1899,1905,7,9,1,M_31
+exp,exp_name,fannie,Fannie,1951,1957,7,10,1,M_32
+booknlp,COREF,35,her,1978,1981,7,10,1,M_33
+exp,exp_name,berry,Berry,1998,2003,4,10,1,M_34
+booknlp,COREF,34,his,2028,2031,4,10,1,M_35
+exp,exp_name,berry,Berry,2362,2367,4,12,1,M_36
+booknlp,COREF,34,his,2381,2384,4,12,1,M_37
+exp,exp_name,fannie,Fannie,2396,2402,7,12,1,M_38
+booknlp,COREF,35,her,2421,2424,7,12,1,M_39
+exp,exp_name,joe,Joe,2795,2798,15,14,1,M_40
+exp,exp_name,kitty,Kitty,2803,2808,16,14,1,M_41
+exp,exp_name,kitty,Kitty,3041,3046,16,14,1,M_42
+booknlp,COREF,38,her,3055,3058,16,14,1,M_43
+exp,exp_name,joe,Joe,3070,3073,15,14,1,M_44
+exp,exp_name,kit,Kit,3105,3108,16,15,1,M_45
+booknlp,COREF,38,her,3128,3131,16,15,1,M_46
+booknlp,COREF,38,She,3147,3150,16,15,1,M_47
+exp,exp_name,joe,Joe,3214,3217,15,15,1,M_48
+pdnc,qID,Q2-0,dat boy,3574,3581,15,16,1,M_49
+pdnc,qID,Q2-0,Be'y,3592,3596,4,16,1,M_50
+exp,exp_name,fannie,Fannie,3599,3605,7,16,1,M_51
+booknlp,COREF,35,she,3628,3631,7,16,1,M_52
+booknlp,COREF,35,her,3664,3667,7,16,1,M_53
+pdnc,qID,Q2-1,him ,3695,3699,15,16,1,M_54
+booknlp,COREF,35,I,3780,3781,7,16,1,M_55
+pdnc,qID,Q2-1,you,3816,3819,4,16,1,M_56
+pdnc,qID,Q2-1,you,3825,3828,4,16,1,M_57
+pdnc,qID,Q2-1,Joe,3850,3853,15,16,1,M_58
+booknlp,COREF,35,Her,3857,3860,7,17,1,M_59
+booknlp,COREF,35,she,3920,3923,7,17,1,M_60
+booknlp,COREF,35,She,3932,3935,7,17,1,M_61
+exp,exp_name,berry,Berry,3973,3978,4,17,1,M_62
+booknlp,COREF,35,she,4005,4008,7,17,1,M_63
+exp,exp_name,kit,Kit,4022,4025,16,17,1,M_64
+exp,exp_name,mrs. oakley,Mrs. Oakley,4335,4346,17,17,1,M_65
+exp,exp_name,joe,Joe,4805,4808,15,20,1,M_66
+exp,exp_name,kit,Kit,4813,4816,16,20,1,M_67
+exp,exp_name,maurice oakley,Maurice Oakley,4894,4908,20,20,1,M_68
+booknlp,COREF,39,his,4930,4933,20,20,1,M_69
+exp,exp_name,francis,Francis,4942,4949,8,20,1,M_70
+exp,exp_name,hamilton,Hamilton,4975,4983,4,20,1,M_71
+exp,exp_name,joe,Joe,5031,5034,15,20,1,M_72
+exp,exp_name,kit,Kit,5059,5062,16,20,1,M_73
+exp,exp_name,mrs. oakley,Mrs. Oakley,5074,5085,17,20,1,M_74
+exp,exp_name,berry,Berry,5223,5228,4,20,1,M_75
+booknlp,COREF,39,he,5292,5294,20,20,1,M_76
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,5380,5393,7,21,1,M_77
+exp,exp_name,kit,Kit,5480,5483,16,21,1,M_78
+booknlp,COREF,38,herself,5505,5512,16,21,1,M_79
+booknlp,COREF,38,she,5519,5522,16,21,1,M_80
+exp,exp_name,joe,Joe,5546,5549,15,21,1,M_81
+exp,exp_name,berry,Berry,5633,5638,4,21,1,M_82
+exp,exp_name,berry,Berry,5640,5645,4,21,1,M_83
+booknlp,COREF,34,his,5662,5665,4,21,1,M_84
+booknlp,COREF,34,he,5708,5710,4,21,1,M_85
+exp,exp_name,maurice oakley,Maurice Oakley,5787,5801,20,24,2,M_86
+booknlp,COREF,34,his,5911,5914,4,24,2,M_87
+booknlp,COREF,34,his,6001,6004,4,24,2,M_88
+booknlp,COREF,34,him,6062,6065,4,25,2,M_89
+booknlp,COREF,34,his,6101,6104,4,25,2,M_90
+booknlp,COREF,34,he,6112,6114,4,25,2,M_91
+booknlp,COREF,34,his,6143,6146,4,25,2,M_92
+booknlp,COREF,34,he,6176,6178,4,25,2,M_93
+booknlp,COREF,34,himself,6279,6286,4,25,2,M_94
+booknlp,COREF,34,he,6306,6308,4,25,2,M_95
+booknlp,COREF,34,his,6489,6492,4,26,2,M_96
+booknlp,COREF,34,He,6613,6615,4,26,2,M_97
+booknlp,COREF,34,His,6631,6634,4,26,2,M_98
+booknlp,COREF,34,his,6642,6645,4,26,2,M_99
+booknlp,COREF,34,his,6658,6661,4,26,2,M_100
+booknlp,COREF,34,he,6700,6702,4,26,2,M_101
+booknlp,COREF,34,he,6736,6738,4,27,2,M_102
+booknlp,COREF,34,his,6753,6756,4,27,2,M_103
+exp,exp_name,francis,Francis,6774,6781,8,27,2,M_104
+booknlp,COREF,34,he,6798,6800,4,27,2,M_105
+booknlp,COREF,34,His,6828,6831,4,27,2,M_106
+exp,exp_name,francis oakley,Francis Oakley,6993,7007,8,28,2,M_107
+exp,exp_name,maurice,Maurice,7035,7042,20,28,2,M_108
+exp,exp_name,francis,Francis,7219,7226,8,29,2,M_109
+exp,exp_name,maurice,Maurice,7494,7501,20,29,2,M_110
+exp,exp_name,francis,Francis,7516,7523,8,29,2,M_111
+exp,exp_name,maurice oakley,Maurice Oakley,8035,8049,20,30,2,M_112
+booknlp,COREF,39,his,8086,8089,20,30,2,M_113
+exp,exp_name,francis,Francis,8530,8537,8,30,2,M_114
+exp,exp_name,mrs. oakley,Mrs. Oakley,8898,8909,17,31,2,M_115
+exp,exp_name,maurice oakley,Maurice Oakley,9356,9370,20,32,2,M_116
+booknlp,COREF,39,his,9375,9378,20,32,2,M_117
+booknlp,COREF,39,he,9415,9417,20,32,2,M_118
+exp,exp_name,claire lessing,Claire Lessing,9431,9445,5,32,2,M_119
+booknlp,COREF,39,He,9447,9449,20,32,2,M_120
+booknlp,COREF,39,him,9617,9620,20,32,2,M_121
+exp,exp_name,maurice,Maurice,9716,9723,20,33,2,M_122
+booknlp,COREF,39,his,9728,9731,20,33,2,M_123
+booknlp,COREF,39,him,9746,9749,20,33,2,M_124
+exp,exp_name,francis,Francis,9852,9859,8,33,2,M_125
+exp,exp_name,claire lessing,Claire Lessing,9866,9880,5,33,2,M_126
+exp,exp_name,francis,Francis,10241,10248,8,33,2,M_127
+exp,exp_name,claire lessing,Claire Lessing,10606,10620,5,34,2,M_128
+booknlp,COREF,46,her,10722,10725,5,34,2,M_129
+booknlp,COREF,46,her,10845,10848,5,34,2,M_130
+exp,exp_name,claire,Claire,10963,10969,5,34,2,M_131
+exp,exp_name,francis,Francis,10982,10989,8,34,2,M_132
+exp,exp_name,claire,Claire,11080,11086,5,34,2,M_133
+booknlp,COREF,46,her,11114,11117,5,34,2,M_134
+exp,exp_name,francis,Francis,11865,11872,8,37,2,M_135
+pdnc,qID,Q4-0,He,12108,12110,8,38,2,M_136
+pdnc,qID,Q6-0,that some dark-eyed mademoiselle,12319,12351,5,40,2,M_137
+pdnc,qID,Q6-0,you,12367,12370,8,40,2,M_138
+exp,exp_name,francis,Francis,12378,12385,8,41,2,M_139
+exp,exp_name,claire,Claire,12413,12419,5,41,2,M_140
+booknlp,COREF,46,she,12460,12463,5,41,2,M_141
+booknlp,COREF,46,her,12596,12599,5,41,2,M_142
+booknlp,COREF,46,She,12608,12611,5,41,2,M_143
+booknlp,COREF,46,her,12755,12758,5,41,2,M_144
+booknlp,COREF,46,she,12813,12816,5,41,2,M_145
+booknlp,COREF,46,herself,12826,12833,5,41,2,M_146
+booknlp,COREF,46,her,12930,12933,5,42,2,M_147
+pdnc,qID,Q7-0,Miss Claire,12940,12951,5,42,2,M_148
+pdnc,qID,Q7-0,you,12953,12956,5,42,2,M_149
+pdnc,qID,Q7-0,our friend,13003,13013,8,42,2,M_150
+pdnc,qID,Q7-0,he,13019,13021,8,42,2,M_151
+pdnc,qID,Q7-0,his,13038,13041,8,42,2,M_152
+pdnc,qID,Q7-0,his,13054,13057,8,42,2,M_153
+pdnc,qID,Q7-0,you,13099,13102,8,42,2,M_154
+pdnc,qID,Q7-0,Frank,13104,13109,8,42,2,M_155
+pdnc,qID,Q8-0,You,13114,13117,14,43,2,M_156
+pdnc,qID,Q8-0,Esterton,13135,13143,14,43,2,M_157
+exp,exp_name,francis,Francis,13151,13158,8,43,2,M_158
+pdnc,qID,Q9-0,this wily friend of mine,13359,13383,8,45,2,M_159
+pdnc,qID,Q9-0,his,13389,13392,8,45,2,M_160
+pdnc,qID,Q10-0,Frank,13444,13449,8,46,2,M_161
+exp,exp_name,an old military man,an old military man,13452,13471,0,46,2,M_162
+pdnc,qID,Q10-1,Esterton,13483,13491,14,46,2,M_163
+pdnc,qID,Q10-1,you,13514,13517,8,46,2,M_164
+exp,exp_name,claire,Claire,13573,13579,5,47,2,M_165
+booknlp,COREF,47,her,13595,13598,5,47,2,M_166
+booknlp,COREF,47,her,13729,13732,5,47,2,M_167
+booknlp,COREF,47,She,13734,13737,5,47,2,M_168
+booknlp,COREF,47,She,13756,13759,5,47,2,M_169
+booknlp,COREF,47,her,13814,13817,5,47,2,M_170
+booknlp,COREF,47,her,13928,13931,5,47,2,M_171
+booknlp,COREF,47,She,13972,13975,5,47,2,M_172
+booknlp,COREF,47,she,13986,13989,5,47,2,M_173
+exp,exp_name,francis oakley,Francis Oakley,14170,14184,8,48,2,M_174
+exp,exp_name,maurice,Maurice,14461,14468,20,49,2,M_175
+pdnc,qID,Q11-0,Francis,14598,14605,8,50,2,M_176
+booknlp,COREF,39,he,14608,14610,20,50,2,M_177
+pdnc,qID,Q17-0,Frank,15211,15216,8,56,2,M_178
+pdnc,qID,Q17-0,old man,15218,15225,8,56,2,M_179
+pdnc,qID,Q17-0,you,15264,15267,8,56,2,M_180
+pdnc,qID,Q18-0,Leslie,15726,15732,17,59,2,M_181
+pdnc,qID,Q18-0,you,15783,15786,20,59,2,M_182
+pdnc,qID,Q19-0,"Poor, foolish Frank",15829,15848,8,60,2,M_183
+pdnc,qID,Q19-1,him,15902,15905,8,60,2,M_184
+exp,exp_name,frank,Frank,15929,15934,8,63,3,M_185
+pdnc,qID,Q20-0,Frank,16091,16096,8,64,3,M_186
+pdnc,qID,Q21-0,you,16235,16238,20,66,3,M_187
+pdnc,qID,Q21-0,Maurice,16256,16263,20,66,3,M_188
+pdnc,qID,Q22-0,yourself,16363,16371,8,67,3,M_189
+pdnc,qID,Q23-0,You,16825,16828,20,68,3,M_190
+pdnc,qID,Q25-0,you,17052,17055,20,70,3,M_191
+pdnc,qID,Q26-0,You,17060,17063,8,71,3,M_192
+pdnc,qID,Q26-0,Frank,17096,17101,8,71,3,M_193
+pdnc,qID,Q26-0,you,17103,17106,8,71,3,M_194
+pdnc,qID,Q26-0,you,17137,17140,8,71,3,M_195
+pdnc,qID,Q26-0,you,17278,17281,8,71,3,M_196
+pdnc,qID,Q26-0,you,17353,17356,8,71,3,M_197
+pdnc,qID,Q27-0,Maurice,17417,17424,20,72,3,M_198
+pdnc,qID,Q27-1,you,17463,17466,20,72,3,M_199
+pdnc,qID,Q27-1,yours,17524,17529,20,72,3,M_200
+pdnc,qID,Q28-0,Frank,17777,17782,8,73,3,M_201
+pdnc,qID,Q28-0,Frank,17784,17789,8,73,3,M_202
+pdnc,qID,Q28-0,your,17828,17832,8,73,3,M_203
+pdnc,qID,Q28-0,You,17838,17841,8,73,3,M_204
+pdnc,qID,Q28-0,You,17859,17862,8,73,3,M_205
+pdnc,qID,Q28-0,Leslie,17891,17897,17,73,3,M_206
+pdnc,qID,Q28-0,you,17926,17929,8,73,3,M_207
+pdnc,qID,Q28-0,You,17931,17934,8,73,3,M_208
+pdnc,qID,Q28-0,you,18028,18031,8,73,3,M_209
+pdnc,qID,Q30-0,You,18141,18144,8,75,3,M_210
+pdnc,qID,Q30-0,you,18181,18184,8,75,3,M_211
+pdnc,qID,Q31-0,Frank,18279,18284,8,77,3,M_212
+pdnc,qID,Q31-0,You,18328,18331,8,77,3,M_213
+pdnc,qID,Q31-0,your,18355,18359,8,77,3,M_214
+pdnc,qID,Q31-0,you,18386,18389,8,77,3,M_215
+pdnc,qID,Q31-0,you,18455,18458,8,77,3,M_216
+pdnc,qID,Q31-0,you,18478,18481,8,77,3,M_217
+pdnc,qID,Q32-0,You,18486,18489,20,78,3,M_218
+pdnc,qID,Q32-0,Maurice,18504,18511,20,78,3,M_219
+exp,exp_name,frank,Frank,18519,18524,8,78,3,M_220
+pdnc,qID,Q33-0,yourself,18619,18627,8,79,3,M_221
+pdnc,qID,Q33-0,you,18652,18655,8,79,3,M_222
+pdnc,qID,Q33-0,yourself,18680,18688,8,79,3,M_223
+exp,exp_name,frank,Frank,18760,18765,8,80,3,M_224
+pdnc,qID,Q35-0,you,18925,18928,8,81,3,M_225
+pdnc,qID,Q35-0,your,19002,19006,8,81,3,M_226
+pdnc,qID,Q36-0,you,19160,19163,20,82,3,M_227
+pdnc,qID,Q37-0,you,19263,19266,8,83,3,M_228
+pdnc,qID,Q37-0,your,19279,19283,8,83,3,M_229
+pdnc,qID,Q38-0,Esterton,19297,19305,14,84,3,M_230
+pdnc,qID,Q38-0,he,19345,19347,14,84,3,M_231
+pdnc,qID,Q39-0,he,19383,19385,14,85,3,M_232
+pdnc,qID,Q40-0,Hamilton,19436,19444,4,86,3,M_233
+pdnc,qID,Q42-0,His boy,19494,19501,15,88,3,M_234
+pdnc,qID,Q42-0,Joe,19503,19506,15,88,3,M_235
+pdnc,qID,Q42-0,Jack,19523,19527,14,88,3,M_236
+pdnc,qID,Q43-0,Jack,19592,19596,14,89,3,M_237
+pdnc,qID,Q43-0,Joe,19601,19604,15,89,3,M_238
+exp,exp_name,frank,Frank,19608,19613,8,90,3,M_239
+pdnc,qID,Q45-0,Hamilton,19676,19684,4,92,3,M_240
+pdnc,qID,Q45-0,Esterton,19689,19697,14,92,3,M_241
+pdnc,qID,Q45-0,your,19730,19734,8,92,3,M_242
+pdnc,qID,Q45-0,you,19746,19749,8,92,3,M_243
+pdnc,qID,Q45-0,your,19766,19770,8,92,3,M_244
+pdnc,qID,Q46-0,Esterton,19931,19939,14,93,3,M_245
+pdnc,qID,Q46-0,Hamilton,19943,19951,4,93,3,M_246
+pdnc,qID,Q47-0,Esterton,19960,19968,14,94,3,M_247
+pdnc,qID,Q48-0,Hamilton,19981,19989,4,95,3,M_248
+pdnc,qID,Q50-0,Hamilton,20063,20071,4,97,3,M_249
+exp,exp_name,frank,Frank,20088,20093,8,97,3,M_250
+pdnc,qID,Q51-0,you,20143,20146,8,98,3,M_251
+pdnc,qID,Q51-0,Frank,20148,20153,8,98,3,M_252
+pdnc,qID,Q51-0,Hamilton,20413,20421,4,98,3,M_253
+pdnc,qID,Q52-0,him,20468,20471,4,99,3,M_254
+pdnc,qID,Q53-0,his,20539,20542,4,100,3,M_255
+pdnc,qID,Q54-0,you,20641,20644,20,101,3,M_256
+pdnc,qID,Q54-0,old Hamilton,20673,20685,4,101,3,M_257
+pdnc,qID,Q55-0,you,20716,20719,8,102,3,M_258
+pdnc,qID,Q55-0,Frank,20728,20733,8,102,3,M_259
+pdnc,qID,Q55-0,you,20761,20764,8,102,3,M_260
+exp,exp_name,hamilton,Hamilton,20807,20815,4,102,3,M_261
+pdnc,qID,Q55-0,he,20882,20884,8,102,3,M_262
+pdnc,qID,Q55-0,he,20996,20998,8,102,3,M_263
+pdnc,qID,Q55-0,he,21006,21008,8,102,3,M_264
+pdnc,qID,Q55-0,his,21055,21058,8,102,3,M_265
+pdnc,qID,Q55-0,he,21096,21098,8,102,3,M_266
+pdnc,qID,Q55-0,he,21211,21213,8,102,3,M_267
+pdnc,qID,Q55-0,his,21273,21276,8,102,3,M_268
+exp,exp_name,frank,Frank,21286,21291,8,103,3,M_269
+booknlp,COREF,39,me,21319,21321,20,104,3,M_270
+pdnc,qID,Q56-0,you,21333,21336,8,104,3,M_271
+booknlp,COREF,39,I,21338,21339,20,104,3,M_272
+pdnc,qID,Q56-0,you,21345,21348,8,104,3,M_273
+booknlp,COREF,39,me,21395,21397,20,104,3,M_274
+exp,exp_name,maurice,Maurice,21441,21448,20,105,3,M_275
+exp,exp_name,maurice,Maurice,21507,21514,20,106,3,M_276
+booknlp,COREF,39,he,21525,21527,20,106,3,M_277
+booknlp,COREF,39,him,21598,21601,20,106,3,M_278
+exp,exp_name,oakley,Oakley,21969,21975,20,107,3,M_279
+exp,exp_name,the detective,the detective,21991,22004,31,107,3,M_280
+pdnc,qID,Q57-0,you,22352,22355,8,108,3,M_281
+pdnc,qID,Q57-0,Frank,22363,22368,8,108,3,M_282
+pdnc,qID,Q58-0,you,22405,22408,20,109,3,M_283
+pdnc,qID,Q59-0,The detective,22413,22426,31,110,3,M_284
+pdnc,qID,Q60-0,he,22446,22448,31,111,3,M_285
+exp,exp_name,the detective,the detective,22644,22657,31,115,3,M_286
+exp,exp_name,frank,Frank,22860,22865,8,115,3,M_287
+pdnc,qID,Q63-0,you,23030,23033,8,116,3,M_288
+pdnc,qID,Q63-0,your,23055,23059,8,116,3,M_289
+pdnc,qID,Q65-0,your,23099,23103,8,118,3,M_290
+pdnc,qID,Q67-0,your,23140,23144,8,120,3,M_291
+exp,exp_name,the detective,The detective,23198,23211,31,122,3,M_292
+booknlp,COREF,311,He,23284,23286,31,122,3,M_293
+pdnc,qID,Q69-0,you,23362,23365,8,123,3,M_294
+exp,exp_name,frank,Frank,23518,23523,8,128,3,M_295
+exp,exp_name,maurice,Maurice,23528,23535,20,128,3,M_296
+exp,exp_name,maurice,Maurice,23614,23621,20,128,3,M_297
+pdnc,qID,Q74-0,My butler,23640,23649,4,128,3,M_298
+pdnc,qID,Q75-0,your butler,23714,23725,4,129,3,M_299
+pdnc,qID,Q75-0,Hamilton,23745,23753,4,129,3,M_300
+pdnc,qID,Q75-0,the young gentleman,23759,23778,8,129,3,M_301
+exp,exp_name,frank,Frank,23814,23819,8,131,3,M_302
+exp,exp_name,the detective,The detective,23854,23867,31,131,3,M_303
+booknlp,COREF,311,I,23884,23885,31,132,3,M_304
+booknlp,COREF,311,I,23892,23893,31,132,3,M_305
+booknlp,COREF,311,he,23908,23910,31,132,3,M_306
+booknlp,COREF,311,I,23925,23926,31,132,3,M_307
+exp,exp_name,frank,Frank,23995,24000,8,133,3,M_308
+pdnc,qID,Q79-0,You,24004,24007,8,134,3,M_309
+exp,exp_name,the detective,the detective,24175,24188,31,135,3,M_310
+exp,exp_name,the officer,the officer,24201,24212,31,135,3,M_311
+exp,exp_name,frank,Frank,24249,24254,8,135,3,M_312
+pdnc,qID,Q80-0,Frank,24358,24363,8,136,3,M_313
+pdnc,qID,Q80-0,you,24365,24368,8,136,3,M_314
+exp,exp_name,oakley,Oakley,24412,24418,20,136,3,M_315
+pdnc,qID,Q82-0,you,24492,24495,8,138,3,M_316
+exp,exp_name,maurice,Maurice,24575,24582,20,139,3,M_317
+booknlp,COREF,39,his,24610,24613,20,139,3,M_318
+booknlp,COREF,39,himself,24626,24633,20,139,3,M_319
+booknlp,COREF,39,he,24664,24666,20,139,3,M_320
+booknlp,COREF,39,he,24677,24679,20,139,3,M_321
+booknlp,COREF,39,his,24687,24690,20,139,3,M_322
+booknlp,COREF,39,me,24811,24813,20,141,3,M_323
+pdnc,qID,Q85-0,the man,24843,24850,4,141,3,M_324
+booknlp,COREF,39,I,24851,24852,20,141,3,M_325
+booknlp,COREF,39,I,24878,24879,20,141,3,M_326
+booknlp,COREF,39,me,24986,24988,20,141,3,M_327
+pdnc,qID,Q86-0,Maurice,25062,25069,20,142,3,M_328
+pdnc,qID,Q86-0,him,25100,25103,20,142,3,M_329
+booknlp,COREF,39,me,25182,25184,20,143,3,M_330
+pdnc,qID,Q87-0,You,25186,25189,8,143,3,M_331
+pdnc,qID,Q87-0,Frank,25221,25226,8,143,3,M_332
+booknlp,COREF,39,I,25232,25233,20,143,3,M_333
+pdnc,qID,Q87-0,you,25263,25266,8,143,3,M_334
+pdnc,qID,Q87-0,You,25272,25275,8,143,3,M_335
+pdnc,qID,Q87-0,you,25320,25323,8,143,3,M_336
+exp,exp_name,frank,Frank,25385,25390,8,144,3,M_337
+exp,exp_name,oakley,Oakley,25391,25397,20,144,3,M_338
+pdnc,qID,Q88-0,Poor fellow,25550,25561,8,145,3,M_339
+pdnc,qID,Q88-1,he,25574,25576,8,145,3,M_340
+pdnc,qID,Q88-1,he,25611,25613,8,145,3,M_341
+pdnc,qID,Q89-0,that black hound,25682,25698,4,145,3,M_342
+pdnc,qID,Q89-0,him,25723,25726,4,145,3,M_343
+pdnc,qID,Q89-0,him,25758,25761,4,145,3,M_344
+exp,exp_name,mrs. oakley,Mrs. Oakley,25774,25785,17,146,3,M_345
+exp,exp_name,hamilton,Hamilton,25981,25989,4,146,3,M_346
+exp,exp_name,oakley,Oakley,26237,26243,20,150,4,M_347
+exp,exp_name,hamilton,Hamilton,26289,26297,4,150,4,M_348
+booknlp,COREF,34,his,26309,26312,4,150,4,M_349
+booknlp,COREF,34,his,26325,26328,4,150,4,M_350
+pdnc,qID,Q90-0,You,26353,26356,15,151,4,M_351
+pdnc,qID,Q90-0,Joe,26358,26361,15,151,4,M_352
+pdnc,qID,Q90-1,You,26426,26429,15,151,4,M_353
+pdnc,qID,Q90-1,he,26437,26439,7,151,4,M_354
+pdnc,qID,Q90-1,you,26451,26454,15,151,4,M_355
+pdnc,qID,Q90-1,You,26483,26486,16,151,4,M_356
+pdnc,qID,Q90-1,Kitty,26488,26493,16,151,4,M_357
+pdnc,qID,Q90-1,miss,26512,26516,16,151,4,M_358
+pdnc,qID,Q90-1,yo' ma,26525,26531,7,151,4,M_359
+pdnc,qID,Q90-1,she,26554,26557,7,151,4,M_360
+pdnc,qID,Q90-1,Mistah Frank,26689,26701,8,151,4,M_361
+exp,exp_name,berry,Berry,27046,27051,4,152,4,M_362
+booknlp,COREF,34,himself,27071,27078,4,152,4,M_363
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,27215,27228,7,152,4,M_364
+exp,exp_name,hamilton,Hamilton,27574,27582,4,154,4,M_365
+pdnc,qID,Q93-0,"ma, an",27912,27918,7,156,4,M_366
+pdnc,qID,Q93-0,Miss Lessing,27920,27932,5,156,4,M_367
+pdnc,qID,Q93-0,her,27956,27959,5,156,4,M_368
+exp,exp_name,kitty,Kitty,27969,27974,16,156,4,M_369
+exp,exp_name,joe,Joe,27977,27980,15,157,4,M_370
+booknlp,COREF,34,I,28178,28179,4,158,4,M_371
+exp,exp_name,berry,Berry,28203,28208,4,158,4,M_372
+pdnc,qID,Q94-1,Mistah Frank,28281,28293,8,158,4,M_373
+booknlp,COREF,34,He,28321,28323,4,159,4,M_374
+booknlp,COREF,34,his,28345,28348,4,159,4,M_375
+booknlp,COREF,34,his,28397,28400,4,159,4,M_376
+booknlp,COREF,34,his,28428,28431,4,159,4,M_377
+booknlp,COREF,34,He,28437,28439,4,159,4,M_378
+booknlp,COREF,34,he,28468,28470,4,159,4,M_379
+booknlp,COREF,34,he,28516,28518,4,159,4,M_380
+booknlp,COREF,34,He,28601,28603,4,159,4,M_381
+exp,exp_name,berry,Berry,28786,28791,4,160,4,M_382
+booknlp,COREF,34,him,28803,28806,4,160,4,M_383
+booknlp,COREF,34,him,28814,28817,4,160,4,M_384
+booknlp,COREF,34,He,28828,28830,4,160,4,M_385
+booknlp,COREF,34,his,28840,28843,4,160,4,M_386
+booknlp,COREF,34,him,28852,28855,4,160,4,M_387
+booknlp,COREF,34,his,28878,28881,4,160,4,M_388
+exp,exp_name,frank,Frank,28891,28896,8,160,4,M_389
+pdnc,qID,Q95-0,Berry,28940,28945,4,160,4,M_390
+booknlp,COREF,34,he,28948,28950,4,160,4,M_391
+exp,exp_name,maurice,Maurice,28957,28964,20,160,4,M_392
+booknlp,COREF,39,his,28987,28990,20,160,4,M_393
+booknlp,COREF,39,his,29015,29018,20,160,4,M_394
+exp,exp_name,berry,Berry,29156,29161,4,161,4,M_395
+pdnc,qID,Q96-0,you,29238,29241,8,162,4,M_396
+pdnc,qID,Q96-0,Frank,29249,29254,8,162,4,M_397
+booknlp,COREF,34,his,29264,29267,4,162,4,M_398
+pdnc,qID,Q97-0,Maurice,29333,29340,20,163,4,M_399
+exp,exp_name,mrs. oakley,Mrs. Oakley,29348,29359,17,163,4,M_400
+booknlp,COREF,34,him,29398,29401,4,163,4,M_401
+booknlp,COREF,52,I,29410,29411,8,164,4,M_402
+pdnc,qID,Q98-0,the poor fellow,29427,29442,4,164,4,M_403
+exp,exp_name,frank,Frank,29449,29454,8,164,4,M_404
+booknlp,COREF,52,me,29473,29475,8,164,4,M_405
+pdnc,qID,Q98-1,you,29476,29479,20,164,4,M_406
+pdnc,qID,Q98-1,him,29501,29504,4,164,4,M_407
+pdnc,qID,Q98-1,Maurice,29506,29513,20,164,4,M_408
+pdnc,qID,Q98-1,him,29520,29523,4,164,4,M_409
+pdnc,qID,Q98-1,He,29555,29557,4,164,4,M_410
+pdnc,qID,Q99-0,him,29617,29620,4,165,4,M_411
+pdnc,qID,Q99-0,he,29624,29626,4,165,4,M_412
+pdnc,qID,Q100-0,you,29725,29728,20,167,4,M_413
+pdnc,qID,Q100-0,Maurice,29759,29766,20,167,4,M_414
+pdnc,qID,Q100-1,your,29816,29820,20,167,4,M_415
+pdnc,qID,Q101-0,You,29897,29900,8,168,4,M_416
+pdnc,qID,Q101-0,Frank,29941,29946,8,168,4,M_417
+pdnc,qID,Q101-1,he,29965,29967,8,168,4,M_418
+pdnc,qID,Q101-1,Leslie,29969,29975,17,168,4,M_419
+pdnc,qID,Q102-0,He,29980,29982,8,169,4,M_420
+pdnc,qID,Q102-0,our Frank,29998,30007,8,169,4,M_421
+pdnc,qID,Q102-0,"our good, generous-hearted, noble boy",30009,30046,8,169,4,M_422
+pdnc,qID,Q102-0,him,30058,30061,8,169,4,M_423
+pdnc,qID,Q103-0,He,30289,30291,8,171,4,M_424
+exp,exp_name,mrs. oakley,Mrs. Oakley,30324,30335,17,171,4,M_425
+pdnc,qID,Q104-0,Poor fellow,30339,30350,8,172,4,M_426
+pdnc,qID,Q104-0,him,30388,30391,8,172,4,M_427
+pdnc,qID,Q104-0,Berry,30424,30429,4,172,4,M_428
+pdnc,qID,Q104-0,my brother,30465,30475,8,172,4,M_429
+pdnc,qID,Q105-0,Maurice,30514,30521,20,173,4,M_430
+pdnc,qID,Q105-0,you,30523,30526,20,173,4,M_431
+pdnc,qID,Q105-0,brother Frank,30537,30550,8,173,4,M_432
+pdnc,qID,Q105-0,you,30560,30563,20,173,4,M_433
+pdnc,qID,Q106-0,He,30568,30570,8,174,4,M_434
+exp,exp_name,the detective,The detective,30652,30665,31,175,4,M_435
+exp,exp_name,maurice oakley,Maurice Oakley,30695,30709,20,175,4,M_436
+exp,exp_name,oakley,Oakley,30758,30764,20,175,4,M_437
+exp,exp_name,the officer,the officer,30852,30863,31,175,4,M_438
+booknlp,COREF,39,his,30935,30938,20,175,4,M_439
+booknlp,COREF,331,I,31122,31123,31,178,4,M_440
+pdnc,qID,Q110-0,your butler,31193,31204,4,179,4,M_441
+pdnc,qID,Q110-0,his,31226,31229,4,179,4,M_442
+booknlp,COREF,331,I,31305,31306,31,180,4,M_443
+pdnc,qID,Q111-0,him,31311,31314,4,180,4,M_444
+pdnc,qID,Q111-0,his wife,31343,31351,7,180,4,M_445
+pdnc,qID,Q111-0,his,31389,31392,4,180,4,M_446
+pdnc,qID,Q111-0,he,31412,31414,4,180,4,M_447
+pdnc,qID,Q111-0,that girl,31423,31432,16,180,4,M_448
+pdnc,qID,Q111-0,he,31434,31436,4,180,4,M_449
+pdnc,qID,Q112-0,You,31462,31465,20,181,4,M_450
+pdnc,qID,Q112-0,he,31476,31478,4,181,4,M_451
+pdnc,qID,Q114-0,he,31518,31520,4,183,4,M_452
+pdnc,qID,Q115-0,Berry,31563,31568,4,184,4,M_453
+pdnc,qID,Q117-0,The scoundrel,31663,31676,4,186,4,M_454
+pdnc,qID,Q118-0,your brother,31689,31701,8,187,4,M_455
+pdnc,qID,Q120-0,Berry,31777,31782,4,189,4,M_456
+pdnc,qID,Q123-0,He,31950,31952,4,192,4,M_457
+pdnc,qID,Q124-0,he,31993,31995,4,193,4,M_458
+pdnc,qID,Q125-0,his,32056,32059,4,194,4,M_459
+pdnc,qID,Q127-0,he,32177,32179,4,196,4,M_460
+pdnc,qID,Q127-0,his,32267,32270,4,196,4,M_461
+pdnc,qID,Q130-0,this servant,32401,32413,4,199,4,M_462
+pdnc,qID,Q130-0,his,32450,32453,4,199,4,M_463
+booknlp,COREF,331,me,32499,32501,31,200,4,M_464
+booknlp,COREF,331,I,32555,32556,31,200,4,M_465
+pdnc,qID,Q131-0,his,32564,32567,4,200,4,M_466
+pdnc,qID,Q132-0,you,32592,32595,20,201,4,M_467
+pdnc,qID,Q132-0,sir,32602,32605,20,201,4,M_468
+pdnc,qID,Q132-0,you,32612,32615,20,201,4,M_469
+pdnc,qID,Q132-0,him,32621,32624,4,201,4,M_470
+pdnc,qID,Q132-0,him,32650,32653,4,201,4,M_471
+pdnc,qID,Q132-0,you,32663,32666,20,201,4,M_472
+pdnc,qID,Q132-0,him,32683,32686,4,201,4,M_473
+exp,exp_name,oakley,Oakley,32706,32712,20,203,4,M_474
+exp,exp_name,berry,Berry,32734,32739,4,203,4,M_475
+booknlp,COREF,34,himself,32740,32747,4,203,4,M_476
+pdnc,qID,Q134-0,You,32763,32766,4,204,4,M_477
+exp,exp_name,oakley,Oakley,32799,32805,20,204,4,M_478
+exp,exp_name,berry,Berry,32817,32822,4,205,4,M_479
+booknlp,COREF,331,I,32850,32851,31,206,4,M_480
+pdnc,qID,Q135-0,him,32861,32864,4,206,4,M_481
+exp,exp_name,the officer,the officer,32873,32884,31,206,4,M_482
+pdnc,qID,Q135-1,you,32895,32898,20,206,4,M_483
+booknlp,COREF,34,I,32903,32904,4,207,4,M_484
+pdnc,qID,Q136-0,Berry,32911,32916,4,207,4,M_485
+pdnc,qID,Q136-0,you,32918,32921,4,207,4,M_486
+pdnc,qID,Q137-0,suh,32985,32988,20,208,4,M_487
+pdnc,qID,Q137-0,Mistah Oakley,32990,33003,20,208,4,M_488
+pdnc,qID,Q138-0,you,33034,33037,20,208,4,M_489
+booknlp,COREF,331,I,33080,33081,31,208,4,M_490
+exp,exp_name,the detective,the detective,33184,33197,31,209,4,M_491
+booknlp,COREF,55,You,33227,33230,20,210,4,M_492
+booknlp,COREF,331,me,33246,33248,31,210,4,M_493
+pdnc,qID,Q139-0,Berry,33257,33262,4,210,4,M_494
+pdnc,qID,Q139-0,Mr. Oakley,33264,33274,20,210,4,M_495
+exp,exp_name,the officer,the officer,33282,33293,31,210,4,M_496
+exp,exp_name,oakley,Oakley,33296,33302,20,211,4,M_497
+exp,exp_name,berry,Berry,33311,33316,4,211,4,M_498
+booknlp,COREF,34,He,33353,33355,4,211,4,M_499
+pdnc,qID,Q140-0,Berry,33394,33399,4,212,4,M_500
+exp,exp_name,the officer,the officer,33402,33413,31,212,4,M_501
+pdnc,qID,Q140-1,you,33424,33427,4,212,4,M_502
+booknlp,COREF,55,Dey,33506,33509,20,213,4,M_503
+booknlp,COREF,331,I,33530,33531,31,213,4,M_504
+pdnc,qID,Q142-0,you,33631,33634,4,214,4,M_505
+booknlp,COREF,331,I,33659,33660,31,215,4,M_506
+pdnc,qID,Q143-0,you,33692,33695,31,215,4,M_507
+booknlp,COREF,331,I,33703,33704,31,215,4,M_508
+booknlp,COREF,331,I,33742,33743,31,215,4,M_509
+pdnc,qID,Q144-0,You,33789,33792,4,216,4,M_510
+pdnc,qID,Q144-0,You,33808,33811,4,216,4,M_511
+booknlp,COREF,331,I,33892,33893,31,217,4,M_512
+booknlp,COREF,331,I,33930,33931,31,217,4,M_513
+pdnc,qID,Q146-0,you,34014,34017,4,218,4,M_514
+pdnc,qID,Q146-0,you,34040,34043,4,218,4,M_515
+booknlp,COREF,331,I,34092,34093,31,219,4,M_516
+booknlp,COREF,331,I,34122,34123,31,219,4,M_517
+pdnc,qID,Q147-0,Fannie,34129,34135,7,219,4,M_518
+booknlp,COREF,331,I,34189,34190,31,219,4,M_519
+booknlp,COREF,331,I,34196,34197,31,219,4,M_520
+pdnc,qID,Q147-0,She,34216,34219,7,219,4,M_521
+booknlp,COREF,331,I,34289,34290,31,219,4,M_522
+pdnc,qID,Q147-0,huh,34301,34304,7,219,4,M_523
+booknlp,COREF,331,I,34423,34424,31,219,4,M_524
+pdnc,qID,Q147-0,huh,34437,34440,7,219,4,M_525
+pdnc,qID,Q148-0,You,34470,34473,4,220,4,M_526
+pdnc,qID,Q148-0,you,34486,34489,4,220,4,M_527
+pdnc,qID,Q148-0,you black thief,34502,34517,4,220,4,M_528
+exp,exp_name,oakley,Oakley,34520,34526,20,220,4,M_529
+pdnc,qID,Q148-1,You,34550,34553,4,220,4,M_530
+pdnc,qID,Q148-1,your,34567,34571,4,220,4,M_531
+pdnc,qID,Q148-1,you,34589,34592,4,220,4,M_532
+booknlp,COREF,55,me,34605,34607,20,220,4,M_533
+booknlp,COREF,55,I,34609,34610,20,220,4,M_534
+pdnc,qID,Q149-0,yourself,34652,34660,20,221,4,M_535
+pdnc,qID,Q149-0,Mr. Oakley,34662,34672,20,221,4,M_536
+pdnc,qID,Q149-0,yourself,34679,34687,20,221,4,M_537
+booknlp,COREF,55,I,34692,34693,20,222,4,M_538
+booknlp,COREF,55,myself,34708,34714,20,222,4,M_539
+pdnc,qID,Q150-0,him,34721,34724,4,222,4,M_540
+pdnc,qID,Q150-0,He,34731,34733,4,222,4,M_541
+booknlp,COREF,55,me,34766,34768,20,222,4,M_542
+exp,exp_name,berry,Berry,34772,34777,4,223,4,M_543
+pdnc,qID,Q151-0,You,34807,34810,20,224,4,M_544
+pdnc,qID,Q151-0,you,34815,34818,20,224,4,M_545
+pdnc,qID,Q152-0,You,34861,34864,4,225,4,M_546
+pdnc,qID,Q152-0,you,34875,34878,4,225,4,M_547
+pdnc,qID,Q152-0,my brother Frank,34891,34907,8,225,4,M_548
+booknlp,COREF,331,My,34929,34931,31,226,4,M_549
+pdnc,qID,Q153-0,Mistah Oakley,34938,34951,20,226,4,M_550
+pdnc,qID,Q153-0,you,34953,34956,20,226,4,M_551
+booknlp,COREF,331,I,35001,35002,31,226,4,M_552
+pdnc,qID,Q153-0,you,35012,35015,20,226,4,M_553
+pdnc,qID,Q154-0,You,35020,35023,4,227,4,M_554
+pdnc,qID,Q155-1,you,35116,35119,20,228,4,M_555
+pdnc,qID,Q155-1,Mistah Oakley,35121,35134,20,228,4,M_556
+pdnc,qID,Q155-1,Fannie,35140,35146,7,228,4,M_557
+pdnc,qID,Q155-1,She,35148,35151,7,228,4,M_558
+booknlp,COREF,331,I,35200,35201,31,229,4,M_559
+pdnc,qID,Q157-0,his wife,35256,35264,7,230,4,M_560
+pdnc,qID,Q157-0,Oakley,35266,35272,20,230,4,M_561
+pdnc,qID,Q158-0,her,35288,35291,7,231,4,M_562
+exp,exp_name,fannie,Fannie,35334,35340,7,232,4,M_563
+booknlp,COREF,35,her,35392,35395,7,232,4,M_564
+exp,exp_name,the detective,the detective,35451,35464,31,232,4,M_565
+booknlp,COREF,35,her,35483,35486,7,232,4,M_566
+booknlp,COREF,35,she,35488,35491,7,232,4,M_567
+booknlp,COREF,35,herself,35499,35506,7,232,4,M_568
+booknlp,COREF,35,her,35537,35540,7,232,4,M_569
+exp,exp_name,oakley,Oakley,35578,35584,20,233,4,M_570
+pdnc,qID,Q159-1,that man,35594,35602,4,233,4,M_571
+exp,exp_name,berry,Berry,35606,35611,4,234,4,M_572
+exp,exp_name,fannie,Fannie,35650,35656,7,234,4,M_573
+booknlp,COREF,34,his,35706,35709,4,234,4,M_574
+booknlp,COREF,34,his,35737,35740,4,234,4,M_575
+pdnc,qID,Q160-0, the woman,35809,35819,7,235,4,M_576
+booknlp,COREF,35,I,35829,35830,7,236,4,M_577
+exp,exp_name,fannie,Fannie,35848,35854,7,236,4,M_578
+booknlp,COREF,35,I,35865,35866,7,236,4,M_579
+pdnc,qID,Q161-1,my husband,35891,35901,4,236,4,M_580
+pdnc,qID,Q161-1,You,35903,35906,20,236,4,M_581
+booknlp,COREF,35,me,35921,35923,7,236,4,M_582
+pdnc,qID,Q161-1,him,35934,35937,4,236,4,M_583
+exp,exp_name,berry,Berry,35941,35946,4,237,4,M_584
+booknlp,COREF,34,his,35957,35960,4,237,4,M_585
+pdnc,qID,Q162-0,You,35972,35975,20,237,4,M_586
+booknlp,COREF,34,I,35988,35989,4,237,4,M_587
+booknlp,COREF,34,I,36030,36031,4,237,4,M_588
+booknlp,COREF,34,I,36062,36063,4,237,4,M_589
+pdnc,qID,Q162-0,yo,36072,36074,20,237,4,M_590
+pdnc,qID,Q162-0,yo,36086,36088,20,237,4,M_591
+booknlp,COREF,34,I,36113,36114,4,237,4,M_592
+pdnc,qID,Q162-0,you,36123,36126,20,237,4,M_593
+pdnc,qID,Q162-0,you,36158,36161,20,237,4,M_594
+pdnc,qID,Q162-0,yo,36182,36184,20,237,4,M_595
+pdnc,qID,Q162-0,you,36207,36210,20,237,4,M_596
+booknlp,COREF,34,His,36226,36229,4,238,4,M_597
+booknlp,COREF,34,he,36247,36249,4,238,4,M_598
+booknlp,COREF,34,I,36275,36276,4,239,4,M_599
+pdnc,qID,Q163-0,you thief,36289,36298,4,239,4,M_600
+pdnc,qID,Q163-0,him,36310,36313,4,239,4,M_601
+exp,exp_name,berry,Berry,36322,36327,4,240,4,M_602
+booknlp,COREF,34,he,36353,36355,4,240,4,M_603
+pdnc,qID,Q164-0,you,36376,36379,20,240,4,M_604
+pdnc,qID,Q164-0,you,36386,36389,20,240,4,M_605
+booknlp,COREF,34,I,36429,36430,4,240,4,M_606
+booknlp,COREF,34,I,36436,36437,4,240,4,M_607
+exp,exp_name,oakley,Oakley,36457,36463,20,241,4,M_608
+booknlp,COREF,55,his,36489,36492,20,241,4,M_609
+exp,exp_name,the officer,the officer,36515,36526,31,241,4,M_610
+pdnc,qID,Q165-0,that damned hound,36556,36573,4,242,4,M_611
+booknlp,COREF,34,I,36592,36593,4,242,4,M_612
+pdnc,qID,Q165-0,him,36601,36604,4,242,4,M_613
+exp,exp_name,fannie,Fannie,36739,36745,7,244,4,M_614
+booknlp,COREF,35,my,36780,36782,7,244,4,M_615
+pdnc,qID,Q166-1,he,36789,36791,4,244,4,M_616
+booknlp,COREF,35,I,36809,36810,7,244,4,M_617
+pdnc,qID,Q166-1,Mis' Oakley,36821,36832,17,244,4,M_618
+pdnc,qID,Q166-1,She,36834,36837,17,244,4,M_619
+booknlp,COREF,35,She,36862,36865,7,244,4,M_620
+exp,exp_name,fannie,Fannie,36955,36961,7,245,4,M_621
+booknlp,COREF,35,she,36981,36984,7,245,4,M_622
+booknlp,COREF,35,her,37015,37018,7,245,4,M_623
+booknlp,COREF,35,she,37041,37044,7,245,4,M_624
+exp,exp_name,mrs. oakley,Mrs. Oakley,37064,37075,17,245,4,M_625
+pdnc,qID,Q167-0,Miss Leslie,37115,37126,17,246,4,M_626
+pdnc,qID,Q167-0,you,37132,37135,17,246,4,M_627
+pdnc,qID,Q167-0,Berry,37174,37179,4,246,4,M_628
+pdnc,qID,Q168-0,Fannie,37189,37195,7,247,4,M_629
+pdnc,qID,Q168-0,Mr. Oakley,37252,37262,20,247,4,M_630
+pdnc,qID,Q168-0,you,37292,37295,7,247,4,M_631
+exp,exp_name,fannie,Fannie,37304,37310,7,248,4,M_632
+booknlp,COREF,35,her,37312,37315,7,248,4,M_633
+booknlp,COREF,35,herself,37338,37345,7,248,4,M_634
+pdnc,qID,Q169-0,he,37385,37387,4,248,4,M_635
+booknlp,COREF,35,Her,37408,37411,7,249,4,M_636
+booknlp,COREF,35,her,37430,37433,7,249,4,M_637
+pdnc,qID,Q170-0,Fannie,37482,37488,7,249,4,M_638
+booknlp,COREF,35,She,37551,37554,7,250,4,M_639
+booknlp,COREF,35,her,37562,37565,7,250,4,M_640
+booknlp,COREF,35,her,37619,37622,7,250,4,M_641
+booknlp,COREF,35,her,37689,37692,7,251,4,M_642
+exp,exp_name,berry,Berry,37708,37713,4,251,4,M_643
+pdnc,qID,Q172-0,her,37727,37730,7,252,4,M_644
+exp,exp_name,oakley,Oakley,37742,37748,20,252,4,M_645
+booknlp,COREF,35,her,37790,37793,7,252,4,M_646
+booknlp,COREF,35,her,37809,37812,7,252,4,M_647
+booknlp,COREF,35,her,37877,37880,7,253,4,M_648
+booknlp,COREF,35,her,37884,37887,7,253,4,M_649
+booknlp,COREF,35,her,37913,37916,7,253,4,M_650
+booknlp,COREF,35,she,37928,37931,7,253,4,M_651
+booknlp,COREF,35,herself,37946,37953,7,253,4,M_652
+booknlp,COREF,35,her,37977,37980,7,253,4,M_653
+booknlp,COREF,35,her,38002,38005,7,253,4,M_654
+exp,exp_name,berry hamilton,Berry Hamilton,38049,38063,4,256,5,M_655
+booknlp,COREF,34,his,38091,38094,4,256,5,M_656
+exp,exp_name,maurice oakley,Maurice Oakley,38236,38250,20,256,5,M_657
+exp,exp_name,berry,Berry,38283,38288,4,256,5,M_658
+exp,exp_name,berry,Berry,40266,40271,4,259,5,M_659
+booknlp,COREF,34,him,40318,40321,4,259,5,M_660
+booknlp,COREF,34,him,40354,40357,4,259,5,M_661
+booknlp,COREF,34,him,40370,40373,4,259,5,M_662
+booknlp,COREF,34,he,40379,40381,4,259,5,M_663
+booknlp,COREF,34,him,40450,40453,4,259,5,M_664
+booknlp,COREF,34,his,40489,40492,4,259,5,M_665
+booknlp,COREF,34,you,40543,40546,4,260,5,M_666
+pdnc,qID,Q173-1,he,40595,40597,4,260,5,M_667
+pdnc,qID,Q173-1,he,40641,40643,4,260,5,M_668
+pdnc,qID,Q173-1,he,40674,40676,4,260,5,M_669
+pdnc,qID,Q174-0,Mistah Rich Niggah,40686,40704,4,261,5,M_670
+pdnc,qID,Q174-1,He,40722,40724,4,261,5,M_671
+pdnc,qID,Q174-1,his wife,40741,40749,7,261,5,M_672
+pdnc,qID,Q174-1,he,40783,40785,4,261,5,M_673
+pdnc,qID,Q174-1,he,40793,40795,4,261,5,M_674
+pdnc,qID,Q174-1,he,40807,40809,4,261,5,M_675
+pdnc,qID,Q174-1,him,40854,40857,4,261,5,M_676
+pdnc,qID,Q174-1,he,40858,40860,4,261,5,M_677
+pdnc,qID,Q174-1,his,40878,40881,4,261,5,M_678
+exp,exp_name,isaac brown,Isaac Brown,40935,40946,13,262,5,M_679
+pdnc,qID,Q175-1,she,40966,40969,7,262,5,M_680
+pdnc,qID,Q175-1,"my gal, Minty",40988,41001,21,262,5,M_681
+pdnc,qID,Q175-1,she,41043,41046,7,262,5,M_682
+pdnc,qID,Q175-1,huh,41063,41066,7,262,5,M_683
+exp,exp_name,minty brown,Minty Brown,41116,41127,21,263,5,M_684
+booknlp,COREF,63,she,41147,41150,21,263,5,M_685
+exp,exp_name,aunt chloe,Aunt Chloe,41688,41698,2,266,5,M_686
+pdnc,qID,Q177-0,Ol' Chloe,42001,42010,2,267,5,M_687
+pdnc,qID,Q177-0,she,42058,42061,2,267,5,M_688
+pdnc,qID,Q177-0,huh,42104,42107,2,267,5,M_689
+exp,exp_name,horace talbot,Horace Talbot,42482,42495,12,270,5,M_690
+pdnc,qID,Q178-1,him,42605,42608,4,270,5,M_691
+pdnc,qID,Q179-0,Berry,43395,43400,4,270,5,M_692
+pdnc,qID,Q179-0,him,43418,43421,4,270,5,M_693
+pdnc,qID,Q179-0,him,43475,43478,4,270,5,M_694
+pdnc,qID,Q179-0,he,43562,43564,4,270,5,M_695
+pdnc,qID,Q179-0,He,43637,43639,4,270,5,M_696
+pdnc,qID,Q179-0,He,43648,43650,4,270,5,M_697
+pdnc,qID,Q179-0,his,43667,43670,4,270,5,M_698
+pdnc,qID,Q179-0,him,43714,43717,4,270,5,M_699
+pdnc,qID,Q179-0,His,43790,43793,4,270,5,M_700
+pdnc,qID,Q179-0,his,43884,43887,4,270,5,M_701
+booknlp,COREF,68,I,44097,44098,3,271,5,M_702
+pdnc,qID,Q180-0,you,44113,44116,12,271,5,M_703
+pdnc,qID,Q180-0,Mr. Talbot,44127,44137,12,271,5,M_704
+exp,exp_name,beachfield davis,Beachfield Davis,44153,44169,3,271,5,M_705
+pdnc,qID,Q180-1,you,44267,44270,12,271,5,M_706
+booknlp,COREF,68,I,44426,44427,3,271,5,M_707
+pdnc,qID,Q180-1,You,44477,44480,12,271,5,M_708
+pdnc,qID,Q180-1,Mr. Talbot,44510,44520,12,271,5,M_709
+booknlp,COREF,68,I,44527,44528,3,271,5,M_710
+booknlp,COREF,68,I,44581,44582,3,271,5,M_711
+booknlp,COREF,68,my,44600,44602,3,271,5,M_712
+booknlp,COREF,68,I,44664,44665,3,271,5,M_713
+pdnc,qID,Q180-1,you,44722,44725,12,271,5,M_714
+booknlp,COREF,68,I,44732,44733,3,271,5,M_715
+booknlp,COREF,68,I,44794,44795,3,271,5,M_716
+booknlp,COREF,68,I,44884,44885,3,271,5,M_717
+booknlp,COREF,68,I,44983,44984,3,271,5,M_718
+booknlp,COREF,68,I,44993,44994,3,271,5,M_719
+booknlp,COREF,68,I,45053,45054,3,271,5,M_720
+booknlp,COREF,68,my,45158,45160,3,271,5,M_721
+booknlp,COREF,68,my,45219,45221,3,271,5,M_722
+pdnc,qID,Q180-1,sir,45265,45268,12,271,5,M_723
+booknlp,COREF,68,I,45275,45276,3,271,5,M_724
+pdnc,qID,Q181-0,Beachfield,45387,45397,3,272,5,M_725
+booknlp,COREF,73,I,45399,45400,12,272,5,M_726
+booknlp,COREF,73,I,45450,45451,12,272,5,M_727
+booknlp,COREF,73,I,45481,45482,12,272,5,M_728
+exp,exp_name,old horace,Old Horace,45654,45664,12,272,5,M_729
+pdnc,qID,Q182-0,you,45704,45707,12,273,5,M_730
+exp,exp_name,colonel saunders,Colonel Saunders,45762,45778,6,273,5,M_731
+booknlp,COREF,74,He,45793,45795,6,273,5,M_732
+booknlp,COREF,74,him,45872,45875,6,273,5,M_733
+booknlp,COREF,74,he,45882,45884,6,273,5,M_734
+exp,exp_name,old horace,Old Horace,45946,45956,12,274,5,M_735
+booknlp,COREF,68,Mr. Davis,45982,45991,3,275,5,M_736
+exp,exp_name,colonel,Colonel,46067,46074,6,276,5,M_737
+booknlp,COREF,74,you,46085,46088,6,276,5,M_738
+booknlp,COREF,74,he,46135,46137,6,276,5,M_739
+booknlp,COREF,74,he,46195,46197,6,276,5,M_740
+exp,exp_name,colonel,Colonel,46313,46320,6,277,5,M_741
+pdnc,qID,Q185-1,he,46349,46351,4,277,5,M_742
+booknlp,COREF,74,you,46408,46411,6,277,5,M_743
+booknlp,COREF,74,you,46564,46567,6,278,5,M_744
+exp,exp_name,colonel,Colonel,46579,46586,6,279,5,M_745
+exp,exp_name,berry,Berry,46664,46669,4,279,5,M_746
+booknlp,COREF,34,His,46703,46706,4,279,5,M_747
+booknlp,COREF,34,his,46725,46728,4,279,5,M_748
+exp,exp_name,kitty,Kitty,46741,46746,16,279,5,M_749
+exp,exp_name,fannie,Fannie,46751,46757,7,279,5,M_750
+exp,exp_name,fannie,Fannie,46860,46866,7,279,5,M_751
+booknlp,COREF,35,herself,46867,46874,7,279,5,M_752
+exp,exp_name,joe,Joe,46928,46931,15,279,5,M_753
+exp,exp_name,berry,Berry,47073,47078,4,279,5,M_754
+exp,exp_name,fannie,Fannie,47569,47575,7,280,5,M_755
+pdnc,qID,Q186-0,Fannie,47699,47705,7,281,5,M_756
+pdnc,qID,Q186-0,you,47707,47710,7,281,5,M_757
+exp,exp_name,fannie,Fannie,48273,48279,7,283,5,M_758
+booknlp,COREF,35,She,48302,48305,7,283,5,M_759
+booknlp,COREF,35,hers,48344,48348,7,283,5,M_760
+exp,exp_name,maurice oakley,Maurice Oakley,48372,48386,20,283,5,M_761
+booknlp,COREF,35,her,48391,48394,7,283,5,M_762
+booknlp,COREF,35,she,48418,48421,7,283,5,M_763
+booknlp,COREF,35,She,48451,48454,7,283,5,M_764
+booknlp,COREF,35,her,48469,48472,7,283,5,M_765
+exp,exp_name,berry,Berry,48503,48508,4,283,5,M_766
+pdnc,qID,Q187-0,Mis' Oakley,48532,48543,17,284,5,M_767
+booknlp,COREF,35,she,48546,48549,7,284,5,M_768
+pdnc,qID,Q187-1,he,48561,48563,4,284,5,M_769
+pdnc,qID,Q187-1,him,48628,48631,4,284,5,M_770
+pdnc,qID,Q187-1,him,48640,48643,4,284,5,M_771
+pdnc,qID,Q188-0,you,48656,48659,7,285,5,M_772
+pdnc,qID,Q188-0,he,48671,48673,4,285,5,M_773
+exp,exp_name,mrs. oakley,Mrs. Oakley,48686,48697,17,285,5,M_774
+booknlp,COREF,35,her,48708,48711,7,285,5,M_775
+booknlp,COREF,35,I,48730,48731,7,286,5,M_776
+booknlp,COREF,35,I,48749,48750,7,286,5,M_777
+pdnc,qID,Q190-0,Fannie,48786,48792,7,287,5,M_778
+booknlp,COREF,35,I,48794,48795,7,287,5,M_779
+pdnc,qID,Q190-0,You,48818,48821,7,287,5,M_780
+booknlp,COREF,35,I,48866,48867,7,288,5,M_781
+booknlp,COREF,35,I,48886,48887,7,288,5,M_782
+pdnc,qID,Q191-0,He,48895,48897,4,288,5,M_783
+pdnc,qID,Q192-0,You,48913,48916,7,289,5,M_784
+exp,exp_name,mrs. oakley,Mrs. Oakley,48989,49000,17,290,5,M_785
+exp,exp_name,fannie,Fannie,49084,49090,7,290,5,M_786
+exp,exp_name,berry hamilton,Berry Hamilton,49256,49270,4,290,5,M_787
+exp,exp_name,joe,Joe,49291,49294,15,291,5,M_788
+exp,exp_name,kit,Kit,49816,49819,16,291,5,M_789
+booknlp,COREF,38,her,49915,49918,16,291,5,M_790
+booknlp,COREF,38,her,49933,49936,16,291,5,M_791
+exp,exp_name,joe,Joe,50019,50022,15,292,5,M_792
+exp,exp_name,berry,Berry,50427,50432,4,293,5,M_793
+booknlp,COREF,34,His,50447,50450,4,293,5,M_794
+booknlp,COREF,34,his,50548,50551,4,293,5,M_795
+booknlp,COREF,34,his,50595,50598,4,293,5,M_796
+booknlp,COREF,34,he,50630,50632,4,293,5,M_797
+booknlp,COREF,34,him,50678,50681,4,293,5,M_798
+booknlp,COREF,34,he,50706,50708,4,293,5,M_799
+booknlp,COREF,34,he,50778,50780,4,293,5,M_800
+exp,exp_name,berry,Berry,50855,50860,4,293,5,M_801
+booknlp,COREF,34,He,50876,50878,4,293,5,M_802
+booknlp,COREF,34,He,50916,50918,4,294,5,M_803
+booknlp,COREF,34,he,50939,50941,4,294,5,M_804
+booknlp,COREF,34,he,50964,50966,4,294,5,M_805
+booknlp,COREF,34,his,50973,50976,4,294,5,M_806
+booknlp,COREF,34,him,51020,51023,4,294,5,M_807
+booknlp,COREF,34,his,51056,51059,4,294,5,M_808
+booknlp,COREF,34,he,51081,51083,4,294,5,M_809
+booknlp,COREF,34,his,51115,51118,4,294,5,M_810
+exp,exp_name,maurice oakley,Maurice Oakley,51341,51355,20,295,5,M_811
+booknlp,COREF,39,he,51431,51433,20,295,5,M_812
+exp,exp_name,fannie,Fannie,51443,51449,7,295,5,M_813
+pdnc,qID,Q193-0,You,51493,51496,7,296,5,M_814
+booknlp,COREF,39,he,51507,51509,20,296,5,M_815
+pdnc,qID,Q193-1,You,51517,51520,7,296,5,M_816
+booknlp,COREF,39,I,51549,51550,20,296,5,M_817
+booknlp,COREF,35,your,51564,51568,7,296,5,M_818
+booknlp,COREF,39,me,51581,51583,20,296,5,M_819
+exp,exp_name,fannie,Fannie,51591,51597,7,297,5,M_820
+booknlp,COREF,35,her,51604,51607,7,297,5,M_821
+booknlp,COREF,39,him,51632,51635,20,297,5,M_822
+exp,exp_name,hamilton,Hamilton,51685,51693,4,298,5,M_823
+exp,exp_name,joe,Joe,51768,51771,15,298,5,M_824
+exp,exp_name,maurice oakley,Maurice Oakley,51961,51975,20,301,6,M_825
+exp,exp_name,berry,Berry,51985,51990,4,301,6,M_826
+booknlp,COREF,34,his,52023,52026,4,301,6,M_827
+booknlp,COREF,39,He,52047,52049,20,301,6,M_828
+booknlp,COREF,34,him,52116,52119,4,301,6,M_829
+exp,exp_name,oakley,Oakley,52222,52228,20,301,6,M_830
+booknlp,COREF,39,He,52306,52308,20,301,6,M_831
+booknlp,COREF,39,his,52453,52456,20,301,6,M_832
+exp,exp_name,joe,Joe,53201,53204,15,303,6,M_833
+exp,exp_name,kit,Kit,53209,53212,16,303,6,M_834
+exp,exp_name,oakley,Oakley,53358,53364,20,303,6,M_835
+exp,exp_name,fannie,Fannie,53817,53823,7,304,6,M_836
+booknlp,COREF,35,her,53853,53856,7,304,6,M_837
+booknlp,COREF,35,she,53888,53891,7,304,6,M_838
+exp,exp_name,joe,Joe,53901,53904,15,304,6,M_839
+booknlp,COREF,35,her,53923,53926,7,304,6,M_840
+booknlp,COREF,35,I,53962,53963,7,305,6,M_841
+booknlp,COREF,35,I,53984,53985,7,305,6,M_842
+pdnc,qID,Q194-0,Kit,54002,54005,16,305,6,M_843
+booknlp,COREF,35,I,54026,54027,7,305,6,M_844
+booknlp,COREF,35,I,54143,54144,7,305,6,M_845
+exp,exp_name,berry hamilton,Berry Hamilton,54224,54238,4,306,6,M_846
+exp,exp_name,berry hamilton,Berry Hamilton,54691,54705,4,307,6,M_847
+pdnc,qID,Q195-0,suh,54815,54818,15,308,6,M_848
+exp,exp_name,the proprietor,the proprietor,54826,54840,34,308,6,M_849
+booknlp,COREF,531,I,54843,54844,34,308,6,M_850
+pdnc,qID,Q195-1,you,54877,54880,15,308,6,M_851
+pdnc,qID,Q195-1,you,54888,54891,15,308,6,M_852
+booknlp,COREF,531,I,55330,55331,34,311,6,M_853
+exp,exp_name,the proprietor,the proprietor,55340,55354,34,311,6,M_854
+booknlp,COREF,531,I,55370,55371,34,311,6,M_855
+pdnc,qID,Q196-1,you,55380,55383,15,311,6,M_856
+pdnc,qID,Q196-1,you,55388,55391,15,311,6,M_857
+pdnc,qID,Q196-1,Josy,55429,55433,15,311,6,M_858
+pdnc,qID,Q196-1,my son,55435,55441,15,311,6,M_859
+booknlp,COREF,531,I,55443,55444,34,311,6,M_860
+exp,exp_name,joe hamilton,Joe Hamilton,55537,55549,15,312,6,M_861
+exp,exp_name,joe,Joe,56741,56744,15,315,6,M_862
+exp,exp_name,the clerk,The clerk,56866,56875,30,315,6,M_863
+pdnc,qID,Q197-0,you,57007,57010,15,316,6,M_864
+pdnc,qID,Q197-1,your,57034,57038,15,316,6,M_865
+pdnc,qID,Q198-0,Joe,57048,57051,15,317,6,M_866
+pdnc,qID,Q199-0,Joe,57113,57116,15,318,6,M_867
+pdnc,qID,Q199-0,you,57118,57121,15,318,6,M_868
+pdnc,qID,Q199-0,you,57150,57153,15,318,6,M_869
+exp,exp_name,hamilton,Hamilton,57232,57240,4,319,6,M_870
+exp,exp_name,joe,Joe,57439,57442,15,319,6,M_871
+exp,exp_name,the clerk,the clerk,57624,57633,30,319,6,M_872
+exp,exp_name,the clerk,The clerk,57731,57740,30,319,6,M_873
+booknlp,COREF,544,I,57758,57759,30,320,6,M_874
+booknlp,COREF,544,he,57775,57777,30,320,6,M_875
+pdnc,qID,Q200-1,you,57806,57809,15,320,6,M_876
+pdnc,qID,Q200-1,Berry Hamilton's boy,57815,57835,15,320,6,M_877
+booknlp,COREF,544,I,57842,57843,30,320,6,M_878
+pdnc,qID,Q200-1,you,57868,57871,15,320,6,M_879
+booknlp,COREF,544,myself,57872,57878,30,320,6,M_880
+booknlp,COREF,544,I,57880,57881,30,320,6,M_881
+pdnc,qID,Q200-1,you,57893,57896,15,320,6,M_882
+pdnc,qID,Q200-1,your father,57918,57929,4,320,6,M_883
+booknlp,COREF,544,I,57939,57940,30,320,6,M_884
+pdnc,qID,Q200-1,you,57980,57983,15,320,6,M_885
+booknlp,COREF,544,I,57985,57986,30,320,6,M_886
+pdnc,qID,Q200-1,you,57998,58001,15,320,6,M_887
+exp,exp_name,joe,Joe,58008,58011,15,321,6,M_888
+exp,exp_name,joe hamilton,Joe Hamilton,58318,58330,15,322,6,M_889
+pdnc,qID,Q201-0,you,58653,58656,15,324,6,M_890
+exp,exp_name,kit,Kit,58673,58676,16,324,6,M_891
+pdnc,qID,Q203-0,you,58762,58765,15,326,6,M_892
+pdnc,qID,Q203-0,Joe,58772,58775,15,326,6,M_893
+pdnc,qID,Q204-0,you,58863,58866,16,327,6,M_894
+pdnc,qID,Q205-0,you,58919,58922,15,328,6,M_895
+exp,exp_name,joe,Joe,59320,59323,15,331,6,M_896
+exp,exp_name,kit,Kit,59639,59642,16,332,6,M_897
+pdnc,qID,Q208-0,ma,59753,59755,7,332,6,M_898
+exp,exp_name,fannie,Fannie,59759,59765,7,333,6,M_899
+pdnc,qID,Q209-0,child,59848,59853,16,333,6,M_900
+pdnc,qID,Q211-0,you,59999,60002,7,334,6,M_901
+pdnc,qID,Q211-1,you,60067,60070,7,334,6,M_902
+pdnc,qID,Q211-1,you,60132,60135,7,334,6,M_903
+pdnc,qID,Q211-1,you,60141,60144,7,334,6,M_904
+exp,exp_name,fannie,Fannie,60164,60170,7,335,6,M_905
+booknlp,COREF,35,her,60199,60202,7,335,6,M_906
+booknlp,COREF,35,she,60212,60215,7,335,6,M_907
+booknlp,COREF,35,her,60239,60242,7,335,6,M_908
+booknlp,COREF,35,her,60277,60280,7,335,6,M_909
+exp,exp_name,joe,Joe,60317,60320,15,335,6,M_910
+pdnc,qID,Q212-0,you,60446,60449,7,336,6,M_911
+pdnc,qID,Q212-0,ma,60473,60475,7,336,6,M_912
+booknlp,COREF,35,Her,60479,60482,7,337,6,M_913
+pdnc,qID,Q213-0,you,60588,60591,16,337,6,M_914
+pdnc,qID,Q213-0,Kitty,60593,60598,16,337,6,M_915
+exp,exp_name,joe,Joe,60636,60639,15,338,6,M_916
+pdnc,qID,Q214-0,You,60648,60651,7,338,6,M_917
+pdnc,qID,Q214-0,Kitty,60673,60678,16,338,6,M_918
+pdnc,qID,Q214-0,ma,60684,60686,7,338,6,M_919
+pdnc,qID,Q214-0,she,60692,60695,16,338,6,M_920
+pdnc,qID,Q215-0,you,60737,60740,15,339,6,M_921
+pdnc,qID,Q215-0,you,60762,60765,15,339,6,M_922
+exp,exp_name,jones,Jones,60821,60826,25,340,6,M_923
+exp,exp_name,brown,brown,60882,60887,21,340,6,M_924
+exp,exp_name,kitty,Kitty,60989,60994,16,341,6,M_925
+booknlp,COREF,38,her,61038,61041,16,341,6,M_926
+pdnc,qID,Q218-0,you,61070,61073,7,342,6,M_927
+pdnc,qID,Q218-0,ma,61079,61081,7,342,6,M_928
+booknlp,COREF,38,she,61084,61087,16,342,6,M_929
+pdnc,qID,Q219-0,Kitty,61119,61124,16,343,6,M_930
+pdnc,qID,Q219-0,Kitty,61126,61131,16,343,6,M_931
+pdnc,qID,Q219-0,you,61133,61136,16,343,6,M_932
+booknlp,COREF,38,me,61181,61183,16,343,6,M_933
+booknlp,COREF,38,I,61232,61233,16,343,6,M_934
+booknlp,COREF,38,me,61293,61295,16,343,6,M_935
+booknlp,COREF,38,I,61459,61460,16,343,6,M_936
+booknlp,COREF,38,my,61480,61482,16,343,6,M_937
+booknlp,COREF,38,I,61494,61495,16,343,6,M_938
+booknlp,COREF,38,I,61525,61526,16,343,6,M_939
+pdnc,qID,Q220-1,pa,61779,61781,4,345,6,M_940
+exp,exp_name,joe,Joe,61885,61888,15,346,6,M_941
+pdnc,qID,Q222-0,Joe,61961,61964,15,347,6,M_942
+exp,exp_name,kitty,Kitty,62257,62262,16,349,6,M_943
+booknlp,COREF,38,I,62276,62277,16,349,6,M_944
+booknlp,COREF,38,I,62291,62292,16,349,6,M_945
+booknlp,COREF,38,I,62301,62302,16,349,6,M_946
+pdnc,qID,Q225-0,you,62344,62347,16,350,6,M_947
+pdnc,qID,Q225-0,child,62361,62366,16,350,6,M_948
+pdnc,qID,Q225-0,Minty,62500,62505,21,350,6,M_949
+booknlp,COREF,63,she,62511,62514,21,350,6,M_950
+pdnc,qID,Q225-0,you,62566,62569,16,350,6,M_951
+exp,exp_name,oakley,Oakley,62690,62696,20,351,6,M_952
+booknlp,COREF,39,he,62709,62711,20,351,6,M_953
+exp,exp_name,fannie,Fannie,62883,62889,7,352,6,M_954
+booknlp,COREF,35,her,62910,62913,7,352,6,M_955
+booknlp,COREF,35,she,62966,62969,7,353,6,M_956
+exp,exp_name,kitty,Kitty,63026,63031,16,354,6,M_957
+pdnc,qID,Q229-0,Joe,63306,63309,15,356,6,M_958
+pdnc,qID,Q229-0,Joe,63311,63314,15,356,6,M_959
+pdnc,qID,Q229-1,you,63328,63331,15,356,6,M_960
+pdnc,qID,Q229-1,You,63352,63355,15,356,6,M_961
+pdnc,qID,Q229-1,you,63397,63400,15,356,6,M_962
+pdnc,qID,Q229-1,you,63422,63425,15,356,6,M_963
+pdnc,qID,Q229-1,you,63438,63441,15,356,6,M_964
+exp,exp_name,joe,Joe,63459,63462,15,357,6,M_965
+exp,exp_name,joe,Joe,63756,63759,15,359,6,M_966
+booknlp,COREF,38,I,64251,64252,16,364,6,M_967
+pdnc,qID,Q235-0,pa,64265,64267,4,364,6,M_968
+pdnc,qID,Q235-0,he,64289,64291,4,364,6,M_969
+exp,exp_name,kitty,Kitty,64310,64315,16,364,6,M_970
+pdnc,qID,Q236-0,he,64327,64329,4,365,6,M_971
+pdnc,qID,Q237-0,Joe,64385,64388,15,366,6,M_972
+pdnc,qID,Q237-1,you,64486,64489,15,366,6,M_973
+pdnc,qID,Q237-1,yo' pa,64521,64527,4,366,6,M_974
+pdnc,qID,Q237-1,him,64538,64541,4,366,6,M_975
+exp,exp_name,maurice oakley,Maurice Oakley,65071,65085,20,369,6,M_976
+exp,exp_name,fannie,Fannie,65136,65142,7,369,6,M_977
+booknlp,COREF,35,her,65167,65170,7,369,6,M_978
+booknlp,COREF,35,her,65198,65201,7,369,6,M_979
+booknlp,COREF,35,her,65219,65222,7,369,6,M_980
+booknlp,COREF,35,she,65226,65229,7,369,6,M_981
+booknlp,COREF,35,her,65236,65239,7,369,6,M_982
+exp,exp_name,mrs. oakley,Mrs. Oakley,65420,65431,17,371,6,M_983
+exp,exp_name,joe,Joe,65537,65540,15,372,6,M_984
+exp,exp_name,fannie,Fannie,65887,65893,7,372,6,M_985
+booknlp,COREF,35,her,65898,65901,7,372,6,M_986
+exp,exp_name,fannie,Fannie,68365,68371,7,376,7,M_987
+exp,exp_name,joe,Joe,68573,68576,15,376,7,M_988
+exp,exp_name,kitty,Kitty,68581,68586,16,376,7,M_989
+exp,exp_name,joe,Joe,68970,68973,15,377,7,M_990
+exp,exp_name,kitty,Kitty,69127,69132,16,377,7,M_991
+exp,exp_name,mrs. jones,Mrs. Jones,69629,69639,25,377,7,M_992
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,69717,69730,7,378,7,M_993
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,69748,69761,7,378,7,M_994
+exp,exp_name,fannie,Fannie,69787,69793,7,378,7,M_995
+exp,exp_name,mrs. jones,Mrs. Jones,69816,69826,25,378,7,M_996
+booknlp,COREF,79,she,69828,69831,25,378,7,M_997
+booknlp,COREF,79,She,69858,69861,25,378,7,M_998
+booknlp,COREF,79,she,69931,69934,25,379,7,M_999
+booknlp,COREF,79,I,69942,69943,25,379,7,M_1000
+booknlp,COREF,79,I,69950,69951,25,379,7,M_1001
+booknlp,COREF,79,I,69979,69980,25,379,7,M_1002
+booknlp,COREF,79,my,70029,70031,25,379,7,M_1003
+booknlp,COREF,79,I,70100,70101,25,379,7,M_1004
+booknlp,COREF,79,myself,70122,70128,25,379,7,M_1005
+booknlp,COREF,79,I,70134,70135,25,379,7,M_1006
+booknlp,COREF,79,I,70164,70165,25,379,7,M_1007
+booknlp,COREF,79,my,70252,70254,25,379,7,M_1008
+booknlp,COREF,79,I,70295,70296,25,379,7,M_1009
+pdnc,qID,Q240-1,Mr. Thomas,70320,70330,23,379,7,M_1010
+booknlp,COREF,80,He,70357,70359,23,380,7,M_1011
+pdnc,qID,Q241-0,him,70418,70421,23,381,7,M_1012
+pdnc,qID,Q241-0,Mr. Thomas,70431,70441,23,381,7,M_1013
+pdnc,qID,Q241-0,He,70443,70445,23,381,7,M_1014
+pdnc,qID,Q241-0,he,70499,70501,23,381,7,M_1015
+pdnc,qID,Q241-0,he,70539,70541,23,381,7,M_1016
+booknlp,COREF,79,my,70556,70558,25,381,7,M_1017
+exp,exp_name,mrs. jones,Mrs. Jones,70609,70619,25,382,7,M_1018
+booknlp,COREF,79,her,70708,70711,25,382,7,M_1019
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,70831,70844,7,383,7,M_1020
+booknlp,COREF,79,her,70910,70913,25,383,7,M_1021
+booknlp,COREF,79,She,71110,71113,25,383,7,M_1022
+booknlp,COREF,79,she,71132,71135,25,383,7,M_1023
+booknlp,COREF,79,her,71252,71255,25,383,7,M_1024
+booknlp,COREF,79,her,71265,71268,25,383,7,M_1025
+booknlp,COREF,79,she,71285,71288,25,383,7,M_1026
+booknlp,COREF,79,She,71372,71375,25,383,7,M_1027
+booknlp,COREF,79,her,71487,71490,25,383,7,M_1028
+booknlp,COREF,79,her,71527,71530,25,383,7,M_1029
+exp,exp_name,joe,Joe,71538,71541,15,384,7,M_1030
+exp,exp_name,kit,Kit,71546,71549,16,384,7,M_1031
+exp,exp_name,kit,Kit,73408,73411,16,386,7,M_1032
+booknlp,COREF,38,She,73420,73423,16,386,7,M_1033
+booknlp,COREF,38,she,73541,73544,16,386,7,M_1034
+booknlp,COREF,38,she,73614,73617,16,386,7,M_1035
+booknlp,COREF,38,herself,73623,73630,16,386,7,M_1036
+booknlp,COREF,38,she,73685,73688,16,386,7,M_1037
+booknlp,COREF,38,her,73768,73771,16,386,7,M_1038
+booknlp,COREF,38,her,73931,73934,16,386,7,M_1039
+booknlp,COREF,38,She,74018,74021,16,386,7,M_1040
+booknlp,COREF,38,her,74060,74063,16,386,7,M_1041
+booknlp,COREF,38,herself,74070,74077,16,386,7,M_1042
+booknlp,COREF,38,her,74082,74085,16,386,7,M_1043
+booknlp,COREF,38,her,74113,74116,16,386,7,M_1044
+exp,exp_name,thomas,Thomas,74240,74246,23,387,7,M_1045
+booknlp,COREF,80,his,74275,74278,23,387,7,M_1046
+exp,exp_name,joe,Joe,74327,74330,15,387,7,M_1047
+exp,exp_name,thomas,Thomas,74346,74352,23,387,7,M_1048
+booknlp,COREF,80,him,74369,74372,23,387,7,M_1049
+exp,exp_name,mr. thomas,Mr. Thomas,74415,74425,23,388,7,M_1050
+booknlp,COREF,80,himself,74508,74515,23,388,7,M_1051
+booknlp,COREF,80,He,74517,74519,23,388,7,M_1052
+booknlp,COREF,80,I,74632,74633,23,389,7,M_1053
+pdnc,qID,Q242-0,you,74639,74642,16,389,7,M_1054
+pdnc,qID,Q242-0,Miss Kitty,74644,74654,16,389,7,M_1055
+booknlp,COREF,80,he,74657,74659,23,389,7,M_1056
+pdnc,qID,Q242-1,you,74756,74759,16,389,7,M_1057
+pdnc,qID,Q242-1,you,74777,74780,16,389,7,M_1058
+pdnc,qID,Q242-1,You,74846,74849,16,389,7,M_1059
+pdnc,qID,Q242-1,your,74858,74862,16,389,7,M_1060
+booknlp,COREF,80,my,74983,74985,23,389,7,M_1061
+exp,exp_name,joe,Joe,75067,75070,15,390,7,M_1062
+exp,exp_name,kitty,Kitty,75307,75312,16,390,7,M_1063
+pdnc,qID,Q245-0,you,75431,75434,16,391,7,M_1064
+pdnc,qID,Q246-0,Thomas,75555,75561,23,392,7,M_1065
+exp,exp_name,mrs. jones,Mrs. Jones,75564,75574,25,392,7,M_1066
+pdnc,qID,Q246-1,you,75588,75591,23,392,7,M_1067
+pdnc,qID,Q247-0,you,75881,75884,16,393,7,M_1068
+pdnc,qID,Q247-0,Mis' Jones,75911,75921,25,393,7,M_1069
+exp,exp_name,mr. thomas,Mr. Thomas,76053,76063,23,394,7,M_1070
+booknlp,COREF,80,he,76105,76107,23,394,7,M_1071
+exp,exp_name,mrs. jones,Mrs. Jones,76123,76133,25,394,7,M_1072
+booknlp,COREF,79,her,76142,76145,25,394,7,M_1073
+booknlp,COREF,79,her,76169,76172,25,394,7,M_1074
+pdnc,qID,Q248-0,Mr. Thomas,76198,76208,23,395,7,M_1075
+booknlp,COREF,79,she,76227,76230,25,395,7,M_1076
+pdnc,qID,Q248-1,he,76242,76244,23,395,7,M_1077
+pdnc,qID,Q248-1,you all,76251,76258,16,395,7,M_1078
+booknlp,COREF,79,I,76264,76265,25,395,7,M_1079
+pdnc,qID,Q248-1,he,76292,76294,23,395,7,M_1080
+pdnc,qID,Q248-1,he,76334,76336,23,395,7,M_1081
+exp,exp_name,joe,Joe,76363,76366,15,396,7,M_1082
+exp,exp_name,kitty,Kitty,76484,76489,16,396,7,M_1083
+booknlp,COREF,38,she,76499,76502,16,396,7,M_1084
+booknlp,COREF,38,I,76614,76615,16,398,7,M_1085
+booknlp,COREF,38,I,76649,76650,16,398,7,M_1086
+booknlp,COREF,38,my,76685,76687,16,398,7,M_1087
+exp,exp_name,mrs. jones,Mrs. Jones,76696,76706,25,399,7,M_1088
+exp,exp_name,kitty,Kitty,76774,76779,16,399,7,M_1089
+booknlp,COREF,79,she,76796,76799,25,400,7,M_1090
+pdnc,qID,Q251-0,you,76842,76845,16,401,7,M_1091
+pdnc,qID,Q251-0,you,76872,76875,16,401,7,M_1092
+pdnc,qID,Q252-0,Kitty,76900,76905,16,402,7,M_1093
+booknlp,COREF,38,her,76937,76940,16,402,7,M_1094
+pdnc,qID,Q252-1,she,76998,77001,16,402,7,M_1095
+exp,exp_name,joe,Joe,77055,77058,15,403,7,M_1096
+exp,exp_name,kitty,Kitty,77114,77119,16,403,7,M_1097
+exp,exp_name,mrs. jones,Mrs. Jones,77194,77204,25,405,7,M_1098
+booknlp,COREF,79,I,77267,77268,25,405,7,M_1099
+booknlp,COREF,79,my,77274,77276,25,405,7,M_1100
+booknlp,COREF,79,me,77289,77291,25,405,7,M_1101
+booknlp,COREF,79,I,77311,77312,25,405,7,M_1102
+booknlp,COREF,79,I,77333,77334,25,405,7,M_1103
+booknlp,COREF,79,I,77341,77342,25,405,7,M_1104
+exp,exp_name,mr. thomas,Mr. Thomas,77443,77453,23,406,7,M_1105
+booknlp,COREF,80,he,77458,77460,23,406,7,M_1106
+exp,exp_name,joe,Joe,77497,77500,15,406,7,M_1107
+pdnc,qID,Q254-1,You,77503,77506,15,406,7,M_1108
+pdnc,qID,Q256-0,Joe,77595,77598,15,408,7,M_1109
+pdnc,qID,Q256-1,you,77620,77623,15,408,7,M_1110
+pdnc,qID,Q256-1,you,77639,77642,15,408,7,M_1111
+pdnc,qID,Q256-1,yo' pa,77667,77673,4,408,7,M_1112
+exp,exp_name,joe,Joe,77713,77716,15,408,7,M_1113
+exp,exp_name,kitty,Kitty,77737,77742,16,408,7,M_1114
+booknlp,COREF,38,her,77772,77775,16,408,7,M_1115
+pdnc,qID,Q257-0,Miss Kitty,77810,77820,16,409,7,M_1116
+exp,exp_name,thomas,Thomas,77865,77871,23,409,7,M_1117
+booknlp,COREF,80,I,77962,77963,23,409,7,M_1118
+pdnc,qID,Q257-1,you,77969,77972,16,409,7,M_1119
+exp,exp_name,kitty,Kitty,78013,78018,16,410,7,M_1120
+booknlp,COREF,38,she,78069,78072,16,410,7,M_1121
+booknlp,COREF,38,Her,78079,78082,16,410,7,M_1122
+exp,exp_name,mr. thomas,Mr. Thomas,78121,78131,23,410,7,M_1123
+booknlp,COREF,80,I,78135,78136,23,411,7,M_1124
+booknlp,COREF,80,I,78163,78164,23,411,7,M_1125
+pdnc,qID,Q258-0,you,78170,78173,16,411,7,M_1126
+booknlp,COREF,80,he,78176,78178,23,411,7,M_1127
+pdnc,qID,Q258-1,You,78187,78190,16,411,7,M_1128
+pdnc,qID,Q258-1,you,78249,78252,16,411,7,M_1129
+booknlp,COREF,80,I,78268,78269,23,411,7,M_1130
+pdnc,qID,Q258-1,you,78275,78278,16,411,7,M_1131
+booknlp,COREF,80,I,78299,78300,23,411,7,M_1132
+pdnc,qID,Q258-1,you,78311,78314,16,411,7,M_1133
+pdnc,qID,Q258-1,you,78333,78336,16,411,7,M_1134
+booknlp,COREF,80,I,78397,78398,23,411,7,M_1135
+booknlp,COREF,80,I,78440,78441,23,411,7,M_1136
+booknlp,COREF,80,him,78455,78458,23,411,7,M_1137
+pdnc,qID,Q258-1,you,78465,78468,16,411,7,M_1138
+pdnc,qID,Q259-0,You,78473,78476,16,412,7,M_1139
+pdnc,qID,Q259-0,Mr. Thomas,78490,78500,23,412,7,M_1140
+pdnc,qID,Q259-0,you,78509,78512,16,412,7,M_1141
+pdnc,qID,Q259-0,He,78540,78542,23,412,7,M_1142
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,78738,78751,7,414,7,M_1143
+booknlp,COREF,80,I,78765,78766,23,415,7,M_1144
+booknlp,COREF,38,you,78821,78824,16,415,7,M_1145
+booknlp,COREF,38,you,78839,78842,16,415,7,M_1146
+exp,exp_name,joe,Joe,78876,78879,15,416,7,M_1147
+pdnc,qID,Q263-1,Ma,78934,78936,7,417,7,M_1148
+pdnc,qID,Q263-1,you,78951,78954,7,417,7,M_1149
+pdnc,qID,Q264-0,you ,78989,78993,7,418,7,M_1150
+pdnc,qID,Q264-0,your ,79014,79019,7,418,7,M_1151
+booknlp,COREF,80,I,79091,79092,23,418,7,M_1152
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,79139,79152,7,419,7,M_1153
+exp,exp_name,mr. thomas,Mr. Thomas,79311,79321,23,420,7,M_1154
+exp,exp_name,mrs. jones,Mrs. Jones,79326,79336,25,420,7,M_1155
+exp,exp_name,joe,Joe,79392,79395,15,420,7,M_1156
+exp,exp_name,kit,Kit,79431,79434,16,420,7,M_1157
+exp,exp_name,mr. thomas,Mr. Thomas,79509,79519,23,421,7,M_1158
+pdnc,qID,Q266-1,that little girl ,79541,79558,16,421,7,M_1159
+pdnc,qID,Q266-1,you,79570,79573,25,421,7,M_1160
+booknlp,COREF,80,I,79595,79596,23,421,7,M_1161
+pdnc,qID,Q266-1,she,79608,79611,16,421,7,M_1162
+exp,exp_name,fannie hamilton,Fannie Hamilton,79662,79677,7,424,8,M_1163
+booknlp,COREF,35,she,79688,79691,7,424,8,M_1164
+booknlp,COREF,35,her,79726,79729,7,424,8,M_1165
+booknlp,COREF,35,She,79858,79861,7,424,8,M_1166
+booknlp,COREF,35,her,79888,79891,7,424,8,M_1167
+booknlp,COREF,35,She,80019,80022,7,424,8,M_1168
+exp,exp_name,kitty,Kitty,80080,80085,16,424,8,M_1169
+booknlp,COREF,35,She,80118,80121,7,424,8,M_1170
+booknlp,COREF,35,she,80340,80343,7,424,8,M_1171
+exp,exp_name,thomas,Thomas,80356,80362,23,424,8,M_1172
+booknlp,COREF,80,himself,80419,80426,23,424,8,M_1173
+booknlp,COREF,80,he,80436,80438,23,424,8,M_1174
+booknlp,COREF,80,He,80501,80503,23,424,8,M_1175
+exp,exp_name,mrs. jones,Mrs. Jones,80608,80618,25,424,8,M_1176
+booknlp,COREF,79,her,80636,80639,25,424,8,M_1177
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,80720,80733,7,424,8,M_1178
+booknlp,COREF,79,She,80794,80797,25,425,8,M_1179
+booknlp,COREF,79,her,80822,80825,25,425,8,M_1180
+booknlp,COREF,79,her,80873,80876,25,425,8,M_1181
+booknlp,COREF,80,his,80902,80905,23,425,8,M_1182
+booknlp,COREF,79,She,80925,80928,25,425,8,M_1183
+exp,exp_name,mr. thomas,Mr. Thomas,80992,81002,23,425,8,M_1184
+booknlp,COREF,80,himself,81021,81028,23,425,8,M_1185
+exp,exp_name,kitty,Kitty,81032,81037,16,425,8,M_1186
+exp,exp_name,joe,Joe,81067,81070,15,425,8,M_1187
+exp,exp_name,mrs. jones,Mrs. Jones,81099,81109,25,425,8,M_1188
+exp,exp_name,thomas,Thomas,81213,81219,23,425,8,M_1189
+booknlp,COREF,80,him,81275,81278,23,425,8,M_1190
+exp,exp_name,thomas,Thomas,81514,81520,23,425,8,M_1191
+booknlp,COREF,80,He,81539,81541,23,425,8,M_1192
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,81566,81579,7,426,8,M_1193
+exp,exp_name,joe,Joe,81635,81638,15,426,8,M_1194
+exp,exp_name,kit,Kit,81643,81646,16,426,8,M_1195
+exp,exp_name,kitty,Kitty,82203,82208,16,427,8,M_1196
+booknlp,COREF,38,her,82269,82272,16,427,8,M_1197
+booknlp,COREF,38,her,82286,82289,16,427,8,M_1198
+booknlp,COREF,38,she,82301,82304,16,427,8,M_1199
+booknlp,COREF,38,her,82318,82321,16,427,8,M_1200
+booknlp,COREF,38,her,82334,82337,16,427,8,M_1201
+booknlp,COREF,38,her,82355,82358,16,427,8,M_1202
+booknlp,COREF,38,her,82393,82396,16,427,8,M_1203
+booknlp,COREF,38,she,82429,82432,16,427,8,M_1204
+booknlp,COREF,38,her,82492,82495,16,427,8,M_1205
+booknlp,COREF,38,her,82596,82599,16,427,8,M_1206
+booknlp,COREF,38,she,82681,82684,16,427,8,M_1207
+booknlp,COREF,38,her,82755,82758,16,427,8,M_1208
+booknlp,COREF,38,She,82783,82786,16,427,8,M_1209
+exp,exp_name,joe,Joe,82911,82914,15,428,8,M_1210
+exp,exp_name,kitty,Kitty,85728,85733,16,432,8,M_1211
+booknlp,COREF,38,her,85784,85787,16,432,8,M_1212
+exp,exp_name,kitty,Kitty,85995,86000,16,432,8,M_1213
+booknlp,COREF,38,she,86113,86116,16,432,8,M_1214
+booknlp,COREF,38,She,86142,86145,16,433,8,M_1215
+booknlp,COREF,38,her,86186,86189,16,433,8,M_1216
+booknlp,COREF,38,her,86218,86221,16,433,8,M_1217
+booknlp,COREF,38,her,86439,86442,16,433,8,M_1218
+exp,exp_name,joe,Joe,86502,86505,15,433,8,M_1219
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,86511,86524,7,433,8,M_1220
+exp,exp_name,mr. thomas,Mr. Thomas,86746,86756,23,434,8,M_1221
+booknlp,COREF,80,He,86793,86795,23,434,8,M_1222
+booknlp,COREF,80,his,86824,86827,23,434,8,M_1223
+pdnc,qID,Q267-0,you,87158,87161,16,435,8,M_1224
+pdnc,qID,Q267-0,yourself,87171,87179,16,435,8,M_1225
+booknlp,COREF,80,he,87182,87184,23,435,8,M_1226
+booknlp,COREF,80,His,87219,87222,23,435,8,M_1227
+booknlp,COREF,80,his,87255,87258,23,435,8,M_1228
+pdnc,qID,Q269-0,you,87401,87404,16,437,8,M_1229
+booknlp,COREF,80,he,87470,87472,23,439,8,M_1230
+booknlp,COREF,80,I,87487,87488,23,439,8,M_1231
+exp,exp_name,thomas,Thomas,87558,87564,23,440,8,M_1232
+booknlp,COREF,80,he,87596,87598,23,440,8,M_1233
+exp,exp_name,kitty,Kitty,87632,87637,16,440,8,M_1234
+booknlp,COREF,38,her,87673,87676,16,440,8,M_1235
+booknlp,COREF,38,her,87726,87729,16,440,8,M_1236
+booknlp,COREF,38,her,87774,87777,16,440,8,M_1237
+booknlp,COREF,38,Her,87785,87788,16,440,8,M_1238
+exp,exp_name,mrs. jones,Mrs. Jones,87904,87914,25,440,8,M_1239
+exp,exp_name,joe,Joe,88014,88017,15,440,8,M_1240
+exp,exp_name,one of the men,one of the men,88318,88332,27,442,8,M_1241
+exp,exp_name,thomas,Thomas,88362,88368,23,442,8,M_1242
+pdnc,qID,Q273-0,You,88413,88416,27,443,8,M_1243
+exp,exp_name,hamilton,Hamilton,88530,88538,4,444,8,M_1244
+pdnc,qID,Q274-0,old Bill,88562,88570,23,444,8,M_1245
+exp,exp_name,kitty,Kitty,89363,89368,16,446,8,M_1246
+exp,exp_name,thomas,Thomas,89412,89418,23,446,8,M_1247
+booknlp,COREF,80,he,89463,89465,23,446,8,M_1248
+booknlp,COREF,80,he,89573,89575,23,447,8,M_1249
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,89625,89638,7,448,8,M_1250
+exp,exp_name,joe,Joe,89861,89864,15,449,8,M_1251
+exp,exp_name,thomas,Thomas,89896,89902,23,450,8,M_1252
+booknlp,COREF,80,his,89907,89910,23,450,8,M_1253
+booknlp,COREF,80,he,89979,89981,23,450,8,M_1254
+booknlp,COREF,80,Mebbe,89989,89994,23,450,8,M_1255
+pdnc,qID,Q277-0,Miss Kitty,89995,90005,16,450,8,M_1256
+pdnc,qID,Q278-0,you,90063,90066,23,451,8,M_1257
+exp,exp_name,joe,Joe,90146,90149,15,452,8,M_1258
+exp,exp_name,kitty,Kitty,90168,90173,16,452,8,M_1259
+pdnc,qID,Q279-0,you,90500,90503,23,453,8,M_1260
+exp,exp_name,joe,Joe,90558,90561,15,454,8,M_1261
+pdnc,qID,Q282-0,you,90697,90700,23,457,8,M_1262
+exp,exp_name,joe,Joe,90895,90898,15,460,8,M_1263
+exp,exp_name,joe,Joe,91086,91089,15,463,9,M_1264
+exp,exp_name,thomas,Thomas,91756,91762,23,463,9,M_1265
+exp,exp_name,thomas,Thomas,91827,91833,23,464,9,M_1266
+exp,exp_name,joe,Joe,91849,91852,15,464,9,M_1267
+booknlp,COREF,80,he,91972,91974,23,464,9,M_1268
+booknlp,COREF,80,him,91987,91990,23,464,9,M_1269
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,92106,92119,7,464,9,M_1270
+exp,exp_name,kitty,Kitty,92301,92306,16,464,9,M_1271
+exp,exp_name,joe,Joe,92485,92488,15,464,9,M_1272
+exp,exp_name,joe,Joe,92505,92508,15,464,9,M_1273
+exp,exp_name,thomas,Thomas,92558,92564,23,464,9,M_1274
+booknlp,COREF,80,his,92570,92573,23,464,9,M_1275
+booknlp,COREF,80,he,92608,92610,23,464,9,M_1276
+booknlp,COREF,80,he,92624,92626,23,464,9,M_1277
+booknlp,COREF,80,he,92660,92662,23,464,9,M_1278
+exp,exp_name,the proprietor,the proprietor,92690,92704,34,464,9,M_1279
+booknlp,COREF,80,I,92747,92748,23,465,9,M_1280
+booknlp,COREF,80,he,92755,92757,23,465,9,M_1281
+booknlp,COREF,80,I,92765,92766,23,465,9,M_1282
+pdnc,qID,Q285-1,a friend,92775,92783,15,465,9,M_1283
+booknlp,COREF,80,me,92789,92791,23,465,9,M_1284
+pdnc,qID,Q285-1,He,92802,92804,15,465,9,M_1285
+pdnc,qID,Q285-1,him,92826,92829,15,465,9,M_1286
+pdnc,qID,Q285-1,He,92831,92833,15,465,9,M_1287
+exp,exp_name,the proprietor,the proprietor,92883,92897,34,466,9,M_1288
+pdnc,qID,Q287-0,he,92906,92908,15,467,9,M_1289
+pdnc,qID,Q287-0,he,92968,92970,15,467,9,M_1290
+pdnc,qID,Q288-0,Thomas,92994,93000,23,468,9,M_1291
+pdnc,qID,Q288-0,your,93017,93021,23,468,9,M_1292
+exp,exp_name,sadness,Sadness,93126,93133,29,468,9,M_1293
+pdnc,qID,Q288-1,you,93225,93228,23,468,9,M_1294
+pdnc,qID,Q288-1,he,93235,93237,15,468,9,M_1295
+pdnc,qID,Q288-1,our ,93284,93288,29,468,9,M_1296
+pdnc,qID,Q289-0,you,93311,93314,29,469,9,M_1297
+pdnc,qID,Q289-0,you,93324,93327,29,469,9,M_1298
+pdnc,qID,Q289-0,him,93345,93348,15,469,9,M_1299
+pdnc,qID,Q289-0,him,93359,93362,15,469,9,M_1300
+pdnc,qID,Q289-0,you,93376,93379,29,469,9,M_1301
+pdnc,qID,Q289-0,you,93437,93440,29,469,9,M_1302
+pdnc,qID,Q290-0,you,93450,93453,23,470,9,M_1303
+pdnc,qID,Q290-0,he,93460,93462,15,470,9,M_1304
+pdnc,qID,Q291-0,he,93544,93546,15,471,9,M_1305
+pdnc,qID,Q293-0,him,93637,93640,15,473,9,M_1306
+pdnc,qID,Q294-0,Thomas,93645,93651,23,474,9,M_1307
+pdnc,qID,Q294-0,my boy,93653,93659,23,474,9,M_1308
+pdnc,qID,Q294-0,you,93661,93664,23,474,9,M_1309
+booknlp,COREF,90,I,93679,93680,29,474,9,M_1310
+booknlp,COREF,90,me,93729,93731,29,474,9,M_1311
+booknlp,COREF,90,I,93764,93765,29,474,9,M_1312
+exp,exp_name,sadness,Sadness,93801,93808,29,474,9,M_1313
+pdnc,qID,Q295-0,old Sadness,93849,93860,29,475,9,M_1314
+pdnc,qID,Q295-0,his,93867,93870,29,475,9,M_1315
+exp,exp_name,thomas,Thomas,93910,93916,23,475,9,M_1316
+booknlp,COREF,80,he,93967,93969,23,476,9,M_1317
+exp,exp_name,thomas,Thomas,94022,94028,23,477,9,M_1318
+exp,exp_name,joe,Joe,94070,94073,15,478,9,M_1319
+exp,exp_name,jack,Jack,94196,94200,14,479,9,M_1320
+pdnc,qID,Q298-1,yourself,94220,94228,14,479,9,M_1321
+exp,exp_name,joe,Joe,94332,94335,15,480,9,M_1322
+exp,exp_name,the proprietor,The proprietor,94467,94481,34,480,9,M_1323
+exp,exp_name,mr. turner,Mr. Turner,94483,94493,24,480,9,M_1324
+exp,exp_name,joe,Joe,94598,94601,15,480,9,M_1325
+exp,exp_name,mr. hamilton,Mr. Hamilton,94746,94758,4,480,9,M_1326
+exp,exp_name,sadness,Sadness,94783,94790,29,481,9,M_1327
+booknlp,COREF,90,He,94812,94814,29,481,9,M_1328
+exp,exp_name,joe,Joe,94824,94827,15,481,9,M_1329
+pdnc,qID,Q299-0,you,94845,94848,29,481,9,M_1330
+pdnc,qID,Q299-0,Mr. Williams,94850,94862,29,481,9,M_1331
+pdnc,qID,Q300-0,Sadness,94883,94890,29,482,9,M_1332
+booknlp,COREF,90,he,94893,94895,29,482,9,M_1333
+booknlp,COREF,90,mine,94959,94963,29,482,9,M_1334
+booknlp,COREF,90,I,94988,94989,29,482,9,M_1335
+exp,exp_name,joe,Joe,95022,95025,15,483,9,M_1336
+booknlp,COREF,90,I,95234,95235,29,484,9,M_1337
+booknlp,COREF,90,I,95250,95251,29,484,9,M_1338
+exp,exp_name,sadness,Sadness,95268,95275,29,484,9,M_1339
+pdnc,qID,Q302-0,Mr. Hamilton,95379,95391,15,486,9,M_1340
+booknlp,COREF,90,me,95405,95407,29,486,9,M_1341
+booknlp,COREF,90,I,95413,95414,29,486,9,M_1342
+booknlp,COREF,90,I,95424,95425,29,486,9,M_1343
+booknlp,COREF,90,I,95478,95479,29,486,9,M_1344
+booknlp,COREF,90,I,95526,95527,29,486,9,M_1345
+booknlp,COREF,90,me,95599,95601,29,486,9,M_1346
+pdnc,qID,Q303-0,Sadness,95619,95626,29,487,9,M_1347
+exp,exp_name,thomas,Thomas,95634,95640,23,487,9,M_1348
+pdnc,qID,Q303-1,My friend Mr. Hamilton,95643,95665,15,487,9,M_1349
+pdnc,qID,Q303-1,you,95683,95686,29,487,9,M_1350
+pdnc,qID,Q303-1,him,95704,95707,15,487,9,M_1351
+exp,exp_name,joe,Joe,95734,95737,15,488,9,M_1352
+exp,exp_name,joe,Joe,95879,95882,15,489,9,M_1353
+exp,exp_name,sadness,Sadness,96008,96015,29,489,9,M_1354
+booknlp,COREF,90,his,96020,96023,29,489,9,M_1355
+booknlp,COREF,90,his,96075,96078,29,489,9,M_1356
+exp,exp_name,sadness,Sadness,96151,96158,29,490,9,M_1357
+exp,exp_name,sadness,Sadness,96200,96207,29,491,9,M_1358
+booknlp,COREF,90,his,96215,96218,29,491,9,M_1359
+booknlp,COREF,90,I,96252,96253,29,491,9,M_1360
+booknlp,COREF,90,he,96262,96264,29,491,9,M_1361
+exp,exp_name,joe,Joe,96359,96362,15,491,9,M_1362
+pdnc,qID,Q306-0,another lamb,96487,96499,15,492,9,M_1363
+exp,exp_name,thomas,Thomas,96581,96587,23,494,9,M_1364
+exp,exp_name,joe,Joe,96592,96595,15,494,9,M_1365
+exp,exp_name,the proprietor,The proprietor,96836,96850,34,494,9,M_1366
+pdnc,qID,Q307-0,Mr. Hamilton,96945,96957,15,495,9,M_1367
+booknlp,COREF,531,he,96960,96962,34,495,9,M_1368
+pdnc,qID,Q307-1,you,96974,96977,15,495,9,M_1369
+pdnc,qID,Q307-1,We,97011,97013,24,495,9,M_1370
+exp,exp_name,joe,Joe,97122,97125,15,496,9,M_1371
+exp,exp_name,the proprietor,the proprietor,97256,97270,34,496,9,M_1372
+exp,exp_name,mr. turner,Mr. Turner,97314,97324,24,496,9,M_1373
+exp,exp_name,joe,Joe,97427,97430,15,496,9,M_1374
+exp,exp_name,joe,Joe,97691,97694,15,497,9,M_1375
+exp,exp_name,maurice oakley,Maurice Oakley,97800,97814,20,497,9,M_1376
+exp,exp_name,mr. skaggs,Mr. Skaggs,99172,99182,22,500,9,M_1377
+exp,exp_name,maudie,Maudie,99296,99302,19,500,9,M_1378
+exp,exp_name,thomas,Thomas,99728,99734,23,501,9,M_1379
+exp,exp_name,joe,Joe,99758,99761,15,501,9,M_1380
+exp,exp_name,joe,Joe,99930,99933,15,501,9,M_1381
+pdnc,qID,Q308-0,Skaggsy,100019,100026,22,502,9,M_1382
+pdnc,qID,Q308-0,Maudie,100031,100037,20,502,9,M_1383
+pdnc,qID,Q308-0,Maudie,100039,100045,20,502,9,M_1384
+pdnc,qID,Q308-0,his,100049,100052,22,502,9,M_1385
+pdnc,qID,Q308-0,he,100072,100074,22,502,9,M_1386
+pdnc,qID,Q308-0,Skaggsy,100129,100136,22,502,9,M_1387
+exp,exp_name,maudie,Maudie,100140,100146,19,503,9,M_1388
+exp,exp_name,skaggs,Skaggs,100323,100329,22,504,9,M_1389
+exp,exp_name,thomas,Thomas,100372,100378,23,504,9,M_1390
+booknlp,COREF,95,him,100386,100389,22,504,9,M_1391
+pdnc,qID,Q309-0,Skaggsy,100408,100415,22,504,9,M_1392
+exp,exp_name,joe,Joe,100475,100478,15,505,9,M_1393
+exp,exp_name,skaggsy,Skaggsy,100556,100563,22,505,9,M_1394
+exp,exp_name,maudie,Maudie,100577,100583,19,505,9,M_1395
+pdnc,qID,Q310-0,you,100638,100641,22,506,9,M_1396
+pdnc,qID,Q310-0,my friend,100650,100659,15,506,9,M_1397
+pdnc,qID,Q310-0,Mr. Hamilton,100661,100673,15,506,9,M_1398
+pdnc,qID,Q310-0,Mr. Skaggs,100675,100685,22,506,9,M_1399
+pdnc,qID,Q311-0,Hamilton,100709,100717,15,507,9,M_1400
+pdnc,qID,Q311-0,you,100737,100740,15,507,9,M_1401
+pdnc,qID,Q311-0,you,100766,100769,15,507,9,M_1402
+pdnc,qID,Q311-0,old Thomas,100774,100784,23,507,9,M_1403
+pdnc,qID,Q311-0,you,100797,100800,15,507,9,M_1404
+pdnc,qID,Q311-0,'Mr!' Skaggs,100824,100836,22,507,9,M_1405
+pdnc,qID,Q311-0,Skaggsy,100843,100850,22,507,9,M_1406
+pdnc,qID,Q311-0,you,100889,100892,15,507,9,M_1407
+exp,exp_name,joe,Joe,100940,100943,15,508,9,M_1408
+exp,exp_name,skaggsy,Skaggsy,101033,101040,22,509,9,M_1409
+booknlp,COREF,97,I,101065,101066,22,509,9,M_1410
+booknlp,COREF,97,my,101072,101074,22,509,9,M_1411
+booknlp,COREF,97,I,101083,101084,22,509,9,M_1412
+booknlp,COREF,97,myself,101103,101109,22,509,9,M_1413
+booknlp,COREF,97,me,101168,101170,22,509,9,M_1414
+exp,exp_name,skaggsy,Skaggsy,101236,101243,22,510,9,M_1415
+pdnc,qID,Q313-0,you,101299,101302,15,511,9,M_1416
+pdnc,qID,Q313-0,Hamilton,101304,101312,15,511,9,M_1417
+pdnc,qID,Q313-0,you,101363,101366,15,511,9,M_1418
+exp,exp_name,joe,Joe,101381,101384,15,512,9,M_1419
+exp,exp_name,skaggsy,Skaggsy,101410,101417,22,512,9,M_1420
+pdnc,qID,Q314-0,You,101479,101482,15,513,9,M_1421
+pdnc,qID,Q314-3,you,101920,101923,15,513,9,M_1422
+pdnc,qID,Q314-3,You,101980,101983,15,513,9,M_1423
+exp,exp_name,skaggsy,Skaggsy,102475,102482,22,515,9,M_1424
+exp,exp_name,skaggs,Skaggs,102735,102741,22,515,9,M_1425
+pdnc,qID,Q315-0,Maudie,102861,102867,20,516,9,M_1426
+booknlp,COREF,95,he,102870,102872,22,516,9,M_1427
+pdnc,qID,Q315-1,you,102889,102892,15,516,9,M_1428
+pdnc,qID,Q315-1,she,102909,102912,20,516,9,M_1429
+pdnc,qID,Q315-1,she,102968,102971,20,516,9,M_1430
+pdnc,qID,Q315-1,her,103003,103006,20,516,9,M_1431
+booknlp,COREF,95,me,103033,103035,22,516,9,M_1432
+exp,exp_name,joe,Joe,103075,103078,15,517,9,M_1433
+exp,exp_name,thomas,Thomas,103174,103180,23,517,9,M_1434
+booknlp,COREF,80,him,103223,103226,23,517,9,M_1435
+exp,exp_name,joe,Joe,103284,103287,15,518,9,M_1436
+exp,exp_name,skaggsy,Skaggsy,103347,103354,22,518,9,M_1437
+pdnc,qID,Q316-0,Maudie,103444,103450,20,518,9,M_1438
+pdnc,qID,Q316-0,her,103523,103526,20,518,9,M_1439
+pdnc,qID,Q316-0,Skaggsy,103533,103540,22,518,9,M_1440
+pdnc,qID,Q316-0,he,103574,103576,22,518,9,M_1441
+exp,exp_name,thomas,Thomas,103663,103669,23,519,9,M_1442
+booknlp,COREF,80,he,103762,103764,23,519,9,M_1443
+booknlp,COREF,80,him,103779,103782,23,519,9,M_1444
+booknlp,COREF,80,his,103798,103801,23,519,9,M_1445
+exp,exp_name,joe,Joe,104376,104379,15,521,9,M_1446
+exp,exp_name,joe,Joe,104525,104528,15,521,9,M_1447
+exp,exp_name,brown,brown,104585,104590,21,521,9,M_1448
+exp,exp_name,joe,Joe,104896,104899,15,521,9,M_1449
+exp,exp_name,joe,Joe,105598,105601,15,523,9,M_1450
+exp,exp_name,thomas,Thomas,106023,106029,23,523,9,M_1451
+pdnc,qID,Q317-0,Hattie Sterling,106100,106115,11,523,9,M_1452
+pdnc,qID,Q317-0,her,106130,106133,11,523,9,M_1453
+exp,exp_name,hattie,Hattie,106180,106186,11,524,9,M_1454
+exp,exp_name,thomas,Thomas,106244,106250,23,524,9,M_1455
+booknlp,COREF,80,he,106264,106266,23,525,9,M_1456
+pdnc,qID,Q319-0,she,106287,106290,11,526,9,M_1457
+exp,exp_name,joe,Joe,106318,106321,15,526,9,M_1458
+pdnc,qID,Q320-0,your young friend,106388,106405,15,528,9,M_1459
+exp,exp_name,hattie,Hattie,106414,106420,11,528,9,M_1460
+pdnc,qID,Q321-0,A fellah from the South,106424,106447,15,529,9,M_1461
+pdnc,qID,Q322-0,him,106458,106461,15,530,9,M_1462
+exp,exp_name,joe,Joe,106475,106478,15,531,9,M_1463
+booknlp,COREF,100,she,106658,106661,11,531,9,M_1464
+booknlp,COREF,100,she,106737,106740,11,531,9,M_1465
+booknlp,COREF,100,she,106859,106862,11,532,9,M_1466
+exp,exp_name,thomas,Thomas,106871,106877,23,532,9,M_1467
+pdnc,qID,Q323-0,old man,106885,106892,23,532,9,M_1468
+pdnc,qID,Q323-0,you,106894,106897,23,532,9,M_1469
+pdnc,qID,Q323-0,you,106930,106933,23,532,9,M_1470
+pdnc,qID,Q323-0,your,106938,106942,23,532,9,M_1471
+pdnc,qID,Q323-0,you,106957,106960,23,532,9,M_1472
+pdnc,qID,Q323-0,You,106994,106997,23,532,9,M_1473
+exp,exp_name,thomas,Thomas,107017,107023,23,533,9,M_1474
+booknlp,COREF,80,I,107041,107042,23,533,9,M_1475
+booknlp,COREF,80,his,107077,107080,23,533,9,M_1476
+exp,exp_name,joe,Joe,107109,107112,15,533,9,M_1477
+exp,exp_name,thomas,Thomas,107255,107261,23,534,9,M_1478
+booknlp,COREF,80,he,107311,107313,23,535,9,M_1479
+pdnc,qID,Q325-1,you,107327,107330,15,535,9,M_1480
+pdnc,qID,Q325-1,your,107340,107344,15,535,9,M_1481
+pdnc,qID,Q325-1,Mr. Hamilton,107355,107367,15,535,9,M_1482
+booknlp,COREF,80,he,107374,107376,23,535,9,M_1483
+exp,exp_name,joe,Joe,107382,107385,15,535,9,M_1484
+exp,exp_name,joe,Joe,107419,107422,15,536,9,M_1485
+exp,exp_name,hattie,Hattie,107490,107496,11,537,9,M_1486
+exp,exp_name,joe,Joe,107593,107596,15,539,9,M_1487
+exp,exp_name,hattie,Hattie,107730,107736,11,540,9,M_1488
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,107790,107803,7,543,10,M_1489
+exp,exp_name,kitty,Kitty,108274,108279,16,543,10,M_1490
+booknlp,COREF,38,her,108284,108287,16,543,10,M_1491
+exp,exp_name,mrs. jones,Mrs. Jones,108479,108489,25,544,10,M_1492
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,108559,108572,7,544,10,M_1493
+exp,exp_name,joe,Joe,108761,108764,15,544,10,M_1494
+exp,exp_name,thomas,Thomas,108959,108965,23,544,10,M_1495
+exp,exp_name,joe,Joe,109098,109101,15,544,10,M_1496
+exp,exp_name,kit,Kit,109296,109299,16,544,10,M_1497
+booknlp,COREF,38,her,109359,109362,16,544,10,M_1498
+exp,exp_name,thomas,Thomas,109378,109384,23,544,10,M_1499
+exp,exp_name,hattie,Hattie,109470,109476,11,544,10,M_1500
+exp,exp_name,kit,Kit,109520,109523,16,544,10,M_1501
+booknlp,COREF,38,her,109584,109587,16,544,10,M_1502
+booknlp,COREF,38,her,109616,109619,16,544,10,M_1503
+booknlp,COREF,38,She,109631,109634,16,544,10,M_1504
+booknlp,COREF,38,she,109716,109719,16,544,10,M_1505
+booknlp,COREF,38,her,109804,109807,16,544,10,M_1506
+booknlp,COREF,38,she,109813,109816,16,544,10,M_1507
+booknlp,COREF,38,she,109846,109849,16,544,10,M_1508
+booknlp,COREF,38,She,109922,109925,16,545,10,M_1509
+booknlp,COREF,38,her,109961,109964,16,545,10,M_1510
+booknlp,COREF,38,her,110031,110034,16,545,10,M_1511
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,110054,110067,7,545,10,M_1512
+exp,exp_name,berry,Berry,110276,110281,4,545,10,M_1513
+booknlp,COREF,34,He,110316,110318,4,545,10,M_1514
+booknlp,COREF,34,his,110362,110365,4,545,10,M_1515
+booknlp,COREF,34,him,110391,110394,4,545,10,M_1516
+exp,exp_name,joe,Joe,110658,110661,15,546,10,M_1517
+exp,exp_name,hattie sterling,Hattie Sterling,110722,110737,11,546,10,M_1518
+booknlp,COREF,100,her,110765,110768,11,546,10,M_1519
+booknlp,COREF,100,She,110770,110773,11,546,10,M_1520
+booknlp,COREF,100,her,110813,110816,11,546,10,M_1521
+booknlp,COREF,100,she,110977,110980,11,546,10,M_1522
+booknlp,COREF,100,her,111083,111086,11,546,10,M_1523
+booknlp,COREF,100,her,111172,111175,11,546,10,M_1524
+booknlp,COREF,100,her,111203,111206,11,546,10,M_1525
+exp,exp_name,hattie,Hattie,111261,111267,11,546,10,M_1526
+booknlp,COREF,100,She,111269,111272,11,546,10,M_1527
+booknlp,COREF,100,she,111376,111379,11,546,10,M_1528
+booknlp,COREF,100,her,111402,111405,11,546,10,M_1529
+booknlp,COREF,100,she,111422,111425,11,546,10,M_1530
+booknlp,COREF,100,she,111500,111503,11,547,10,M_1531
+booknlp,COREF,100,I,111526,111527,11,547,10,M_1532
+pdnc,qID,Q328-1,you,111534,111537,15,547,10,M_1533
+pdnc,qID,Q328-1, a young lady,111569,111582,21,547,10,M_1534
+pdnc,qID,Q328-1,you,111602,111605,15,547,10,M_1535
+booknlp,COREF,100,I,111618,111619,11,547,10,M_1536
+booknlp,COREF,100,her,111657,111660,11,548,10,M_1537
+booknlp,COREF,100,her,111714,111717,11,548,10,M_1538
+booknlp,COREF,100,her,111739,111742,11,548,10,M_1539
+booknlp,COREF,100,her,111754,111757,11,548,10,M_1540
+pdnc,qID,Q329-0,you,111769,111772,11,548,10,M_1541
+pdnc,qID,Q332-0,Minty Brown,111868,111879,21,551,10,M_1542
+pdnc,qID,Q332-0,your,111885,111889,15,551,10,M_1543
+pdnc,qID,Q333-0,Minty Brown,111946,111957,21,552,10,M_1544
+exp,exp_name,hattie,Hattie,112018,112024,11,553,10,M_1545
+booknlp,COREF,100,her,112044,112047,11,553,10,M_1546
+pdnc,qID,Q334-0,her,112123,112126,21,554,10,M_1547
+booknlp,COREF,100,she,112129,112132,11,554,10,M_1548
+pdnc,qID,Q334-1,She,112155,112158,21,554,10,M_1549
+booknlp,COREF,100,I,112202,112203,11,554,10,M_1550
+pdnc,qID,Q334-1,her,112216,112219,21,554,10,M_1551
+pdnc,qID,Q334-1,She,112231,112234,21,554,10,M_1552
+booknlp,COREF,100,she,112284,112287,11,555,10,M_1553
+booknlp,COREF,100,she,112305,112308,11,555,10,M_1554
+booknlp,COREF,100,her,112321,112324,11,555,10,M_1555
+booknlp,COREF,100,her,112407,112410,11,555,10,M_1556
+booknlp,COREF,100,her,112452,112455,11,555,10,M_1557
+pdnc,qID,Q336-0,old Minty,112505,112514,21,556,10,M_1558
+pdnc,qID,Q336-1,her,112571,112574,21,556,10,M_1559
+exp,exp_name,joe,Joe,112630,112633,15,557,10,M_1560
+exp,exp_name,minty brown,Minty Brown,112686,112697,21,557,10,M_1561
+booknlp,COREF,100,she,112737,112740,11,557,10,M_1562
+booknlp,COREF,100,she,112758,112761,11,557,10,M_1563
+exp,exp_name,hattie,Hattie,112824,112830,11,557,10,M_1564
+exp,exp_name,minty,Minty,112967,112972,21,558,10,M_1565
+booknlp,COREF,63,her,113018,113021,21,558,10,M_1566
+booknlp,COREF,63,Her,113037,113040,21,558,10,M_1567
+booknlp,COREF,63,she,113072,113075,21,558,10,M_1568
+booknlp,COREF,63,her,113102,113105,21,558,10,M_1569
+pdnc,qID,Q337-0,Joe Hamilton,113126,113138,15,559,10,M_1570
+booknlp,COREF,63,she,113141,113144,21,559,10,M_1571
+booknlp,COREF,63,I,113160,113161,21,559,10,M_1572
+pdnc,qID,Q337-1,you,113191,113194,15,559,10,M_1573
+pdnc,qID,Q337-1,you,113204,113207,15,559,10,M_1574
+pdnc,qID,Q338-0,Minty,113227,113232,21,560,10,M_1575
+pdnc,qID,Q338-0,yourself,113241,113249,21,560,10,M_1576
+booknlp,COREF,63,her,113293,113296,21,560,10,M_1577
+pdnc,qID,Q339-0,the boy,113322,113329,15,561,10,M_1578
+pdnc,qID,Q339-0,he,113334,113336,15,561,10,M_1579
+pdnc,qID,Q339-0,You,113391,113394,15,561,10,M_1580
+booknlp,COREF,63,yo,113431,113433,21,561,10,M_1581
+booknlp,COREF,63,me,113468,113470,21,561,10,M_1582
+pdnc,qID,Q339-0,you,113488,113491,15,561,10,M_1583
+pdnc,qID,Q340-0,you,113513,113516,21,562,10,M_1584
+booknlp,COREF,63,I,113536,113537,21,563,10,M_1585
+booknlp,COREF,63,me,113642,113644,21,563,10,M_1586
+booknlp,COREF,63,I,113649,113650,21,563,10,M_1587
+booknlp,COREF,63,me,113678,113680,21,563,10,M_1588
+pdnc,qID,Q341-0,you,113703,113706,15,563,10,M_1589
+booknlp,COREF,63,I,113718,113719,21,563,10,M_1590
+booknlp,COREF,63,I,113724,113725,21,563,10,M_1591
+booknlp,COREF,63,me,113784,113786,21,563,10,M_1592
+pdnc,qID,Q341-0,Kit,113795,113798,16,563,10,M_1593
+pdnc,qID,Q341-0,yo' ma,113803,113809,7,563,10,M_1594
+exp,exp_name,minty,Minty,113882,113887,21,564,10,M_1595
+pdnc,qID,Q343-0,you,113900,113903,15,565,10,M_1596
+booknlp,COREF,63,'em,113935,113938,21,565,10,M_1597
+exp,exp_name,kit,Kit,114000,114003,16,566,10,M_1598
+pdnc,qID,Q344-0,You,114195,114198,15,567,10,M_1599
+pdnc,qID,Q345-0,Minty,114284,114289,21,568,10,M_1600
+exp,exp_name,minty,Minty,114396,114401,21,568,10,M_1601
+exp,exp_name,joe,Joe,114412,114415,15,568,10,M_1602
+exp,exp_name,minty,Minty,114523,114528,21,568,10,M_1603
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,114568,114581,7,568,10,M_1604
+pdnc,qID,Q346-0,you,114776,114779,7,569,10,M_1605
+pdnc,qID,Q346-0,she,114789,114792,21,569,10,M_1606
+pdnc,qID,Q346-0,ma,114808,114810,7,569,10,M_1607
+pdnc,qID,Q346-0,She,114812,114815,21,569,10,M_1608
+pdnc,qID,Q346-0,she,114846,114849,21,569,10,M_1609
+pdnc,qID,Q346-0,them,114867,114871,4,569,10,M_1610
+pdnc,qID,Q347-0,Minty Brown,114907,114918,21,570,10,M_1611
+pdnc,qID,Q348-0,ma,114989,114991,7,571,10,M_1612
+exp,exp_name,kitty,Kitty,114994,114999,16,571,10,M_1613
+pdnc,qID,Q348-1,you,115009,115012,7,571,10,M_1614
+pdnc,qID,Q348-1,you,115056,115059,7,571,10,M_1615
+pdnc,qID,Q349-0,dat Brown gal,115222,115235,21,572,10,M_1616
+pdnc,qID,Q349-0,you,115279,115282,16,572,10,M_1617
+pdnc,qID,Q349-0,Kitty,115284,115289,16,572,10,M_1618
+pdnc,qID,Q350-0,You,115381,115384,7,574,10,M_1619
+pdnc,qID,Q350-1,you,115422,115425,7,574,10,M_1620
+exp,exp_name,fannie,Fannie,115437,115443,7,575,10,M_1621
+booknlp,COREF,35,her,115454,115457,7,575,10,M_1622
+booknlp,COREF,35,she,115467,115470,7,575,10,M_1623
+booknlp,COREF,35,she,115507,115510,7,575,10,M_1624
+booknlp,COREF,35,she,115589,115592,7,576,10,M_1625
+pdnc,qID,Q352-0,You,115669,115672,7,577,10,M_1626
+pdnc,qID,Q352-0,you,115682,115685,7,577,10,M_1627
+exp,exp_name,minty brown,Minty Brown,115717,115728,21,578,10,M_1628
+booknlp,COREF,63,her,115776,115779,21,578,10,M_1629
+booknlp,COREF,63,She,115795,115798,21,578,10,M_1630
+exp,exp_name,hattie sterling,Hattie Sterling,115804,115819,11,578,10,M_1631
+exp,exp_name,joe,Joe,115833,115836,15,578,10,M_1632
+booknlp,COREF,63,she,115908,115911,21,578,10,M_1633
+exp,exp_name,mrs. jones,Mrs. Jones,115962,115972,25,579,10,M_1634
+booknlp,COREF,63,her,115981,115984,21,579,10,M_1635
+booknlp,COREF,63,her,115990,115993,21,579,10,M_1636
+booknlp,COREF,63,her,116059,116062,21,579,10,M_1637
+pdnc,qID,Q353-0,huh,116147,116150,21,580,10,M_1638
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,116158,116171,7,580,10,M_1639
+exp,exp_name,kitty,Kitty,116231,116236,16,581,10,M_1640
+booknlp,COREF,38,her,116262,116265,16,582,10,M_1641
+booknlp,COREF,38,you,116294,116297,16,582,10,M_1642
+booknlp,COREF,79,I,116326,116327,25,583,10,M_1643
+pdnc,qID,Q356-0,you,116345,116348,7,583,10,M_1644
+pdnc,qID,Q356-0,Mis' Hamilton,116350,116363,7,583,10,M_1645
+exp,exp_name,mrs. jones,Mrs. Jones,116373,116383,25,583,10,M_1646
+pdnc,qID,Q356-1,She,116386,116389,21,583,10,M_1647
+pdnc,qID,Q356-1,she,116418,116421,21,583,10,M_1648
+pdnc,qID,Q356-1,she,116427,116430,21,583,10,M_1649
+pdnc,qID,Q356-1,you,116438,116441,7,583,10,M_1650
+pdnc,qID,Q357-0,you,116458,116461,25,584,10,M_1651
+pdnc,qID,Q357-0,dat ooman,116483,116492,21,584,10,M_1652
+exp,exp_name,minty brown,Minty Brown,116512,116523,21,585,10,M_1653
+booknlp,COREF,63,her,116646,116649,21,585,10,M_1654
+pdnc,qID,Q358-0,lady,116773,116777,25,586,10,M_1655
+booknlp,COREF,63,I,116779,116780,21,586,10,M_1656
+booknlp,COREF,63,I,116807,116808,21,586,10,M_1657
+booknlp,COREF,63,I,116838,116839,21,586,10,M_1658
+booknlp,COREF,63,me,116866,116868,21,586,10,M_1659
+pdnc,qID,Q358-0,de ol' man,116876,116886,4,586,10,M_1660
+exp,exp_name,mrs. jones,Mrs. Jones,116937,116947,25,587,10,M_1661
+exp,exp_name,kit,Kit,117002,117005,16,588,10,M_1662
+exp,exp_name,joe,Joe,117035,117038,15,588,10,M_1663
+exp,exp_name,mrs. jones,Mrs. Jones,117155,117165,25,588,10,M_1664
+booknlp,COREF,79,She,117197,117200,25,588,10,M_1665
+booknlp,COREF,79,her,117231,117234,25,588,10,M_1666
+pdnc,qID,Q359-0,Mis' Hamilton,117271,117284,7,589,10,M_1667
+booknlp,COREF,79,she,117287,117290,25,589,10,M_1668
+booknlp,COREF,79,I,117298,117299,25,589,10,M_1669
+pdnc,qID,Q359-1,the lady downstairs,117320,117339,21,589,10,M_1670
+pdnc,qID,Q359-1,she,117345,117348,21,589,10,M_1671
+booknlp,COREF,79,me,117357,117359,25,589,10,M_1672
+booknlp,COREF,79,I,117372,117373,25,589,10,M_1673
+pdnc,qID,Q359-1,you,117388,117391,7,589,10,M_1674
+booknlp,COREF,79,me,117399,117401,25,589,10,M_1675
+booknlp,COREF,79,my,117407,117409,25,589,10,M_1676
+pdnc,qID,Q360-0,you,117443,117446,25,590,10,M_1677
+booknlp,COREF,79,me,117460,117462,25,590,10,M_1678
+pdnc,qID,Q360-0,a stranger,117481,117491,21,590,10,M_1679
+booknlp,COREF,79,I,117496,117497,25,591,10,M_1680
+pdnc,qID,Q361-0,Mis' Brown,117554,117564,21,591,10,M_1681
+booknlp,COREF,79,my,117641,117643,25,591,10,M_1682
+booknlp,COREF,79,I,117654,117655,25,592,10,M_1683
+pdnc,qID,Q363-0,your daughter,117739,117752,16,593,10,M_1684
+pdnc,qID,Q363-0,Mr. Thomas,117770,117780,23,593,10,M_1685
+pdnc,qID,Q363-0,his ,117811,117815,23,593,10,M_1686
+pdnc,qID,Q364-0,You,117927,117930,25,594,10,M_1687
+pdnc,qID,Q364-0,Mis' Jones,117948,117958,25,594,10,M_1688
+pdnc,qID,Q364-0,you,117960,117963,25,594,10,M_1689
+pdnc,qID,Q364-0,my gal,117984,117990,16,594,10,M_1690
+pdnc,qID,Q364-0,dat man,117994,118001,23,594,10,M_1691
+pdnc,qID,Q364-0,huh,118010,118013,16,594,10,M_1692
+pdnc,qID,Q364-0,him,118028,118031,23,594,10,M_1693
+pdnc,qID,Q364-0,you,118042,118045,25,594,10,M_1694
+exp,exp_name,mrs. jones,Mrs. Jones,118070,118080,25,595,10,M_1695
+exp,exp_name,fannie,Fannie,118091,118097,7,595,10,M_1696
+exp,exp_name,joe,Joe,118158,118161,15,596,10,M_1697
+pdnc,qID,Q365-0,you,118197,118200,7,596,10,M_1698
+pdnc,qID,Q365-0,your,118215,118219,7,596,10,M_1699
+exp,exp_name,fannie,Fannie,118242,118248,7,597,10,M_1700
+pdnc,qID,Q366-0,you,118286,118289,15,597,10,M_1701
+booknlp,COREF,35,me,118307,118309,7,597,10,M_1702
+booknlp,COREF,35,I,118311,118312,7,597,10,M_1703
+pdnc,qID,Q366-0,you,118331,118334,15,597,10,M_1704
+booknlp,COREF,35,I,118349,118350,7,597,10,M_1705
+pdnc,qID,Q366-0,you,118383,118386,15,597,10,M_1706
+booknlp,COREF,35,she,118460,118463,7,597,10,M_1707
+pdnc,qID,Q367-0,you,118484,118487,15,597,10,M_1708
+pdnc,qID,Q368-1,your,118745,118749,7,599,10,M_1709
+booknlp,COREF,35,she,118770,118773,7,600,10,M_1710
+pdnc,qID,Q369-1,you,118817,118820,15,600,10,M_1711
+pdnc,qID,Q369-1,my son,118826,118832,15,600,10,M_1712
+pdnc,qID,Q369-1,You,118834,118837,15,600,10,M_1713
+pdnc,qID,Q369-1,yo',118841,118844,15,600,10,M_1714
+pdnc,qID,Q369-1,you,118862,118865,15,600,10,M_1715
+exp,exp_name,joe,Joe,118899,118902,15,601,10,M_1716
+exp,exp_name,kit,Kit,118965,118968,16,601,10,M_1717
+exp,exp_name,kit,Kit,119186,119189,16,602,10,M_1718
+exp,exp_name,kit,Kit,119244,119247,16,602,10,M_1719
+booknlp,COREF,38,her,119262,119265,16,602,10,M_1720
+booknlp,COREF,38,Dey,119274,119277,16,603,10,M_1721
+pdnc,qID,Q370-0,you,119301,119304,16,603,10,M_1722
+pdnc,qID,Q370-0,Kit,119310,119313,16,603,10,M_1723
+pdnc,qID,Q371-0,you,119443,119446,16,604,10,M_1724
+pdnc,qID,Q371-0,Kit,119448,119451,16,604,10,M_1725
+exp,exp_name,joe,Joe,119521,119524,15,605,10,M_1726
+exp,exp_name,hattie,Hattie,119653,119659,11,605,10,M_1727
+exp,exp_name,joe hamilton,Joe Hamilton,119704,119716,15,608,11,M_1728
+exp,exp_name,joe,Joe,120004,120007,15,609,11,M_1729
+exp,exp_name,joe,Joe,120872,120875,15,611,11,M_1730
+exp,exp_name,thomas,Thomas,121193,121199,23,612,11,M_1731
+booknlp,COREF,80,he,121209,121211,23,612,11,M_1732
+exp,exp_name,hattie,Hattie,121262,121268,11,612,11,M_1733
+booknlp,COREF,100,she,121288,121291,11,612,11,M_1734
+exp,exp_name,minty brown,Minty Brown,121361,121372,21,612,11,M_1735
+booknlp,COREF,100,her,121386,121389,11,612,11,M_1736
+booknlp,COREF,100,her,121479,121482,11,612,11,M_1737
+exp,exp_name,sadness,Sadness,121833,121840,29,613,11,M_1738
+exp,exp_name,joe,Joe,121873,121876,15,613,11,M_1739
+pdnc,qID,Q372-0,Mr. Hamilton,121903,121915,15,613,11,M_1740
+pdnc,qID,Q372-0,Jack,121935,121939,24,613,11,M_1741
+pdnc,qID,Q372-1,old man,122001,122008,15,613,11,M_1742
+pdnc,qID,Q372-1,You,122010,122013,15,613,11,M_1743
+pdnc,qID,Q374-0,Hattie,122062,122068,11,615,11,M_1744
+pdnc,qID,Q374-0,she,122106,122109,11,615,11,M_1745
+pdnc,qID,Q374-0,The dear old girl,122111,122128,11,615,11,M_1746
+pdnc,qID,Q374-0,her,122164,122167,11,615,11,M_1747
+exp,exp_name,joe,Joe,122192,122195,15,616,11,M_1748
+pdnc,qID,Q375-0,Hamilton,122342,122350,15,617,11,M_1749
+pdnc,qID,Q375-0,you,122355,122358,15,617,11,M_1750
+pdnc,qID,Q375-0,you,122414,122417,15,617,11,M_1751
+exp,exp_name,hamilton,Hamilton,122601,122609,4,618,11,M_1752
+pdnc,qID,Q376-0,you fellows,122643,122654,29,618,11,M_1753
+pdnc,qID,Q377-0,you,122797,122800,15,619,11,M_1754
+exp,exp_name,joe,Joe,122823,122826,15,620,11,M_1755
+exp,exp_name,sadness,Sadness,122968,122975,29,620,11,M_1756
+pdnc,qID,Q378-0,you,123261,123264,15,621,11,M_1757
+pdnc,qID,Q378-0,you,123298,123301,15,621,11,M_1758
+pdnc,qID,Q378-0,you,123384,123387,15,621,11,M_1759
+pdnc,qID,Q378-0,Mr. Hamilton,123525,123537,15,621,11,M_1760
+pdnc,qID,Q378-0,you,123551,123554,15,621,11,M_1761
+pdnc,qID,Q378-0,you,123560,123563,15,621,11,M_1762
+pdnc,qID,Q378-0,you,123592,123595,15,621,11,M_1763
+pdnc,qID,Q378-0,Your,123608,123612,15,621,11,M_1764
+exp,exp_name,joe,Joe,123739,123742,15,622,11,M_1765
+pdnc,qID,Q380-0,You,124550,124553,15,624,11,M_1766
+pdnc,qID,Q380-0,Hamilton,124559,124567,15,624,11,M_1767
+pdnc,qID,Q380-0,you,124709,124712,15,624,11,M_1768
+pdnc,qID,Q380-0,you,124742,124745,15,624,11,M_1769
+pdnc,qID,Q380-0,you,124779,124782,15,624,11,M_1770
+pdnc,qID,Q380-0,you,124968,124971,15,624,11,M_1771
+pdnc,qID,Q380-0,you,125057,125060,15,624,11,M_1772
+pdnc,qID,Q380-0,my lad,125842,125848,15,624,11,M_1773
+pdnc,qID,Q380-0,you,125857,125860,15,624,11,M_1774
+pdnc,qID,Q380-0,you,125881,125884,15,624,11,M_1775
+pdnc,qID,Q380-0,you,125912,125915,15,624,11,M_1776
+exp,exp_name,sadness,Sadness,126058,126065,29,625,11,M_1777
+booknlp,COREF,90,his,126116,126119,29,625,11,M_1778
+exp,exp_name,joe,Joe,126151,126154,15,625,11,M_1779
+exp,exp_name,sadness,Sadness,126342,126349,29,625,11,M_1780
+exp,exp_name,hattie,Hattie,126503,126509,11,625,11,M_1781
+exp,exp_name,sadness,Sadness,126535,126542,29,626,11,M_1782
+pdnc,qID,Q381-0,Sadness,126573,126580,29,626,11,M_1783
+pdnc,qID,Q381-1,you,126593,126596,29,626,11,M_1784
+exp,exp_name,sadness,Sadness,126619,126626,29,627,11,M_1785
+pdnc,qID,Q382-0,You,126675,126678,15,627,11,M_1786
+exp,exp_name,joe,Joe,126784,126787,15,628,11,M_1787
+booknlp,COREF,90,he,126938,126940,29,628,11,M_1788
+exp,exp_name,sadness,Sadness,126984,126991,29,629,11,M_1789
+booknlp,COREF,90,He,127046,127048,29,629,11,M_1790
+exp,exp_name,sadness,Sadness,127879,127886,29,630,11,M_1791
+exp,exp_name,joe,Joe,127913,127916,15,630,11,M_1792
+exp,exp_name,joe,Joe,127922,127925,15,630,11,M_1793
+exp,exp_name,minty brown,Minty Brown,128322,128333,21,631,11,M_1794
+booknlp,COREF,63,she,128401,128404,21,631,11,M_1795
+booknlp,COREF,63,she,128451,128454,21,631,11,M_1796
+booknlp,COREF,63,she,128459,128462,21,631,11,M_1797
+booknlp,COREF,63,her,128470,128473,21,631,11,M_1798
+booknlp,COREF,63,she,128562,128565,21,632,11,M_1799
+booknlp,COREF,63,her,128598,128601,21,632,11,M_1800
+exp,exp_name,sadness,Sadness,128679,128686,29,632,11,M_1801
+exp,exp_name,minty,Minty,128698,128703,21,632,11,M_1802
+exp,exp_name,joe,Joe,129065,129068,15,632,11,M_1803
+exp,exp_name,minty,Minty,129085,129090,21,632,11,M_1804
+booknlp,COREF,63,She,129147,129150,21,632,11,M_1805
+booknlp,COREF,63,her,129197,129200,21,633,11,M_1806
+pdnc,qID,Q384-0,Minty,129215,129220,21,634,11,M_1807
+pdnc,qID,Q384-1,you,129252,129255,21,634,11,M_1808
+pdnc,qID,Q384-1,you,129277,129280,21,634,11,M_1809
+booknlp,COREF,63,she,129309,129312,21,635,11,M_1810
+booknlp,COREF,63,I,129328,129329,21,635,11,M_1811
+exp,exp_name,berry hamilton,Berry Hamilton,129358,129372,4,635,11,M_1812
+booknlp,COREF,63,me,129394,129396,21,635,11,M_1813
+pdnc,qID,Q386-0,you,129406,129409,21,636,11,M_1814
+booknlp,COREF,63,you,129473,129476,21,637,11,M_1815
+booknlp,COREF,63,you,129493,129496,21,637,11,M_1816
+booknlp,COREF,63,I,129508,129509,21,637,11,M_1817
+booknlp,COREF,63,you,129521,129524,21,637,11,M_1818
+exp,exp_name,minty's young man,Minty's young man,129557,129574,10,638,11,M_1819
+exp,exp_name,joe,Joe,129601,129604,15,639,11,M_1820
+exp,exp_name,hattie,Hattie,129773,129779,11,639,11,M_1821
+booknlp,COREF,100,her,129841,129844,11,639,11,M_1822
+exp,exp_name,hattie,Hattie,129953,129959,11,640,11,M_1823
+booknlp,COREF,100,Her,129990,129993,11,640,11,M_1824
+booknlp,COREF,100,she,130082,130085,11,640,11,M_1825
+booknlp,COREF,100,she,130114,130117,11,640,11,M_1826
+booknlp,COREF,100,she,130219,130222,11,640,11,M_1827
+booknlp,COREF,100,she,130238,130241,11,640,11,M_1828
+booknlp,COREF,100,she,130299,130302,11,641,11,M_1829
+booknlp,COREF,100,I,130310,130311,11,641,11,M_1830
+booknlp,COREF,100,I,130328,130329,11,641,11,M_1831
+pdnc,qID,Q389-1,you,130347,130350,15,641,11,M_1832
+booknlp,COREF,100,I,130383,130384,11,642,11,M_1833
+booknlp,COREF,100,I,130416,130417,11,643,11,M_1834
+pdnc,qID,Q391-0,you,130423,130426,15,643,11,M_1835
+pdnc,qID,Q391-0,that long-tongued Brown woman,130441,130470,21,643,11,M_1836
+pdnc,qID,Q391-0,your,130478,130482,15,643,11,M_1837
+pdnc,qID,Q391-0,you,130493,130496,15,643,11,M_1838
+booknlp,COREF,100,She,130533,130536,11,644,11,M_1839
+booknlp,COREF,100,I,130599,130600,11,646,11,M_1840
+pdnc,qID,Q393-0,You,130605,130608,15,646,11,M_1841
+pdnc,qID,Q393-0,she,130620,130623,21,646,11,M_1842
+booknlp,COREF,100,me,130635,130637,11,646,11,M_1843
+pdnc,qID,Q393-0,her,130649,130652,21,646,11,M_1844
+booknlp,COREF,100,me,130697,130699,11,647,11,M_1845
+pdnc,qID,Q395-0,Joe,130719,130722,15,648,11,M_1846
+pdnc,qID,Q395-0,you,130727,130730,15,648,11,M_1847
+booknlp,COREF,100,I,130750,130751,11,648,11,M_1848
+pdnc,qID,Q395-0,you,130764,130767,15,648,11,M_1849
+pdnc,qID,Q395-0,you,130772,130775,15,648,11,M_1850
+pdnc,qID,Q395-0,you,130783,130786,15,648,11,M_1851
+booknlp,COREF,100,me,130803,130805,11,648,11,M_1852
+pdnc,qID,Q395-0,you,130820,130823,15,648,11,M_1853
+booknlp,COREF,100,me,130829,130831,11,648,11,M_1854
+pdnc,qID,Q395-0,you,130840,130843,15,648,11,M_1855
+booknlp,COREF,100,I,130850,130851,11,648,11,M_1856
+pdnc,qID,Q395-0,you,130921,130924,15,648,11,M_1857
+pdnc,qID,Q395-0,Hat Sterling,130936,130948,11,648,11,M_1858
+pdnc,qID,Q395-0,Minty,130955,130960,21,648,11,M_1859
+booknlp,COREF,100,me,130966,130968,11,648,11,M_1860
+pdnc,qID,Q395-0,she,130981,130984,21,648,11,M_1861
+booknlp,COREF,100,my,130997,130999,11,648,11,M_1862
+booknlp,COREF,100,I,131019,131020,11,648,11,M_1863
+pdnc,qID,Q395-0,her,131026,131029,21,648,11,M_1864
+pdnc,qID,Q395-0,she,131084,131087,21,648,11,M_1865
+pdnc,qID,Q396-0,she,131157,131160,21,649,11,M_1866
+exp,exp_name,sadness,Sadness,131244,131251,29,649,11,M_1867
+pdnc,qID,Q397-0,she,131345,131348,21,650,11,M_1868
+pdnc,qID,Q397-0,you,131359,131362,15,650,11,M_1869
+pdnc,qID,Q397-0,she,131373,131376,21,650,11,M_1870
+pdnc,qID,Q397-0,The cat,131378,131385,21,650,11,M_1871
+pdnc,qID,Q398-0,she,131394,131397,21,651,11,M_1872
+booknlp,COREF,100,me,131421,131423,11,651,11,M_1873
+pdnc,qID,Q399-0,Joe,131434,131437,15,652,11,M_1874
+booknlp,COREF,100,I,131461,131462,11,652,11,M_1875
+pdnc,qID,Q399-0,you,131479,131482,15,652,11,M_1876
+booknlp,COREF,100,I,131498,131499,11,652,11,M_1877
+booknlp,COREF,100,I,131534,131535,11,652,11,M_1878
+booknlp,COREF,100,I,131617,131618,11,652,11,M_1879
+booknlp,COREF,100,my,131628,131630,11,652,11,M_1880
+pdnc,qID,Q399-0,old chap,131645,131653,15,652,11,M_1881
+booknlp,COREF,100,I,131655,131656,11,652,11,M_1882
+booknlp,COREF,100,I,131665,131666,11,652,11,M_1883
+pdnc,qID,Q399-0,you,131672,131675,15,652,11,M_1884
+pdnc,qID,Q399-0,you,131707,131710,15,652,11,M_1885
+pdnc,qID,Q400-0,Hattie,131752,131758,11,653,11,M_1886
+pdnc,qID,Q400-1,you,131814,131817,11,653,11,M_1887
+pdnc,qID,Q400-1,you,131823,131826,11,653,11,M_1888
+booknlp,COREF,100,I,131842,131843,11,654,11,M_1889
+pdnc,qID,Q401-0,Hat Sterling,131858,131870,11,654,11,M_1890
+pdnc,qID,Q401-0,her,131893,131896,11,654,11,M_1891
+pdnc,qID,Q401-0,her,131999,132002,21,654,11,M_1892
+pdnc,qID,Q401-0,her,132017,132020,21,654,11,M_1893
+pdnc,qID,Q401-0,She,132039,132042,21,654,11,M_1894
+pdnc,qID,Q401-0,she,132050,132053,21,654,11,M_1895
+booknlp,COREF,100,I,132077,132078,11,654,11,M_1896
+pdnc,qID,Q401-0,her,132088,132091,21,654,11,M_1897
+pdnc,qID,Q401-0,her,132106,132109,21,654,11,M_1898
+pdnc,qID,Q401-0,she,132115,132118,21,654,11,M_1899
+exp,exp_name,minty,Minty,132185,132190,21,655,11,M_1900
+exp,exp_name,joe,Joe,132285,132288,15,655,11,M_1901
+exp,exp_name,hattie sterling,Hattie Sterling,132376,132391,11,655,11,M_1902
+exp,exp_name,joe,Joe,132464,132467,15,655,11,M_1903
+exp,exp_name,minty,Minty,132571,132576,21,655,11,M_1904
+exp,exp_name,hattie,Hattie,132681,132687,11,655,11,M_1905
+booknlp,COREF,100,She,132714,132717,11,655,11,M_1906
+exp,exp_name,sadness,Sadness,132732,132739,29,655,11,M_1907
+booknlp,COREF,100,her,132743,132746,11,655,11,M_1908
+booknlp,COREF,90,He,132753,132755,29,655,11,M_1909
+booknlp,COREF,100,she,132793,132796,11,656,11,M_1910
+pdnc,qID,Q402-1,you,132804,132807,29,656,11,M_1911
+pdnc,qID,Q402-1,you,132838,132841,29,656,11,M_1912
+pdnc,qID,Q402-1,you,132919,132922,29,656,11,M_1913
+pdnc,qID,Q402-1,You,132924,132927,29,656,11,M_1914
+pdnc,qID,Q402-1,you,133000,133003,29,656,11,M_1915
+pdnc,qID,Q402-1,You,133035,133038,29,656,11,M_1916
+pdnc,qID,Q402-1,Your,133069,133073,29,656,11,M_1917
+pdnc,qID,Q402-1,Jack,133103,133107,24,656,11,M_1918
+booknlp,COREF,100,she,133110,133113,11,656,11,M_1919
+booknlp,COREF,100,I,133191,133192,11,656,11,M_1920
+pdnc,qID,Q402-2,you,133209,133212,29,656,11,M_1921
+pdnc,qID,Q402-2,that woman,133218,133228,21,656,11,M_1922
+pdnc,qID,Q402-2,the big light woman,133272,133291,21,656,11,M_1923
+pdnc,qID,Q402-2,Griggs,133297,133303,10,656,11,M_1924
+pdnc,qID,Q402-2,she,133311,133314,21,656,11,M_1925
+pdnc,qID,Q402-2,Joe,133357,133360,15,656,11,M_1926
+booknlp,COREF,100,I,133371,133372,11,656,11,M_1927
+pdnc,qID,Q402-2,you,133378,133381,29,656,11,M_1928
+booknlp,COREF,100,me,133390,133392,11,656,11,M_1929
+pdnc,qID,Q402-2,her,133396,133399,21,656,11,M_1930
+pdnc,qID,Q403-0,the one,133416,133423,21,657,11,M_1931
+pdnc,qID,Q403-0,our young friend,133435,133451,21,657,11,M_1932
+exp,exp_name,sadness,Sadness,133466,133473,29,657,11,M_1933
+booknlp,COREF,90,his,133483,133486,29,657,11,M_1934
+exp,exp_name,minty,Minty,133506,133511,21,657,11,M_1935
+pdnc,qID,Q404-0,her,133523,133526,21,658,11,M_1936
+pdnc,qID,Q404-0,you,133531,133534,29,658,11,M_1937
+pdnc,qID,Q404-0,you,133553,133556,29,658,11,M_1938
+booknlp,COREF,90,I,133570,133571,29,659,11,M_1939
+pdnc,qID,Q405-0,her,133584,133587,21,659,11,M_1940
+pdnc,qID,Q405-0,She,133589,133592,21,659,11,M_1941
+pdnc,qID,Q405-0,you,133631,133634,11,659,11,M_1942
+booknlp,COREF,90,He,133642,133644,29,659,11,M_1943
+booknlp,COREF,90,his,133650,133653,29,659,11,M_1944
+exp,exp_name,sadness,Sadness,134046,134053,29,660,11,M_1945
+exp,exp_name,minty,Minty,134222,134227,21,660,11,M_1946
+pdnc,qID,Q406-0,you,134289,134292,7,661,11,M_1947
+pdnc,qID,Q406-0,Joe,134320,134323,15,661,11,M_1948
+pdnc,qID,Q406-0,you,134334,134337,11,661,11,M_1949
+pdnc,qID,Q407-0,the one,134367,134374,21,663,11,M_1950
+pdnc,qID,Q407-0,she,134389,134392,21,663,11,M_1951
+pdnc,qID,Q407-0,him,134422,134425,15,663,11,M_1952
+pdnc,qID,Q407-0,she,134442,134445,21,663,11,M_1953
+exp,exp_name,minty,Minty,134557,134562,21,664,11,M_1954
+exp,exp_name,griggs,Griggs,134678,134684,10,664,11,M_1955
+exp,exp_name,hattie,Hattie,134686,134692,11,664,11,M_1956
+exp,exp_name,joe,Joe,134815,134818,15,666,11,M_1957
+exp,exp_name,kitty,Kitty,134890,134895,16,666,11,M_1958
+exp,exp_name,minty,Minty,134924,134929,21,666,11,M_1959
+pdnc,qID,Q409-0,You,135000,135003,15,667,11,M_1960
+pdnc,qID,Q409-0,Joe,135009,135012,15,667,11,M_1961
+booknlp,COREF,38,she,135015,135018,16,667,11,M_1962
+pdnc,qID,Q409-1,we,135032,135034,16,667,11,M_1963
+pdnc,qID,Q409-1,we,135057,135059,16,667,11,M_1964
+pdnc,qID,Q409-1,Mis' Jones,135071,135081,25,667,11,M_1965
+pdnc,qID,Q409-1,we,135088,135090,16,667,11,M_1966
+pdnc,qID,Q409-1,We,135110,135112,16,667,11,M_1967
+pdnc,qID,Q409-1,ma,135176,135178,7,667,11,M_1968
+booknlp,COREF,38,me,135183,135185,16,667,11,M_1969
+pdnc,qID,Q409-1,we,135214,135216,16,667,11,M_1970
+exp,exp_name,joe,Joe,135244,135247,15,668,11,M_1971
+booknlp,COREF,38,her,135288,135291,16,668,11,M_1972
+exp,exp_name,hattie,Hattie,135386,135392,11,669,11,M_1973
+pdnc,qID,Q410-0,You,135396,135399,15,670,11,M_1974
+booknlp,COREF,100,me,135409,135411,11,670,11,M_1975
+pdnc,qID,Q410-0,your sister,135431,135442,16,670,11,M_1976
+pdnc,qID,Q410-0,her,135461,135464,16,670,11,M_1977
+booknlp,COREF,100,me,135478,135480,11,670,11,M_1978
+pdnc,qID,Q410-0,she,135489,135492,16,670,11,M_1979
+booknlp,COREF,100,I,135510,135511,11,670,11,M_1980
+pdnc,qID,Q410-0,her,135520,135523,16,670,11,M_1981
+exp,exp_name,hattie,Hattie,135551,135557,11,670,11,M_1982
+exp,exp_name,kitty,Kitty,135574,135579,16,671,11,M_1983
+booknlp,COREF,38,she,135589,135592,16,671,11,M_1984
+booknlp,COREF,38,her,135610,135613,16,671,11,M_1985
+exp,exp_name,kitty,Kitty,135718,135723,16,674,12,M_1986
+booknlp,COREF,38,herself,135731,135738,16,674,12,M_1987
+exp,exp_name,joe,Joe,135739,135742,15,674,12,M_1988
+exp,exp_name,hattie sterling,Hattie Sterling,135788,135803,11,674,12,M_1989
+pdnc,qID,Q412-0,Joe,135970,135973,15,675,12,M_1990
+pdnc,qID,Q412-0,you,135990,135993,16,675,12,M_1991
+pdnc,qID,Q412-0,We,136009,136011,11,675,12,M_1992
+pdnc,qID,Q413-0,He,136058,136060,15,676,12,M_1993
+pdnc,qID,Q413-0,you,136069,136072,11,676,12,M_1994
+pdnc,qID,Q413-0,him,136077,136080,15,676,12,M_1995
+exp,exp_name,joe,Joe,136115,136118,15,677,12,M_1996
+pdnc,qID,Q414-0,you,136260,136263,16,678,12,M_1997
+pdnc,qID,Q414-0,you,136270,136273,16,678,12,M_1998
+pdnc,qID,Q414-0,you,136302,136305,16,678,12,M_1999
+pdnc,qID,Q415-0,'m,136315,136317,11,679,12,M_2000
+pdnc,qID,Q416-0,Joe,136374,136377,15,680,12,M_2001
+pdnc,qID,Q416-0,your sister,136432,136443,16,680,12,M_2002
+exp,exp_name,joe,Joe,136550,136553,15,681,12,M_2003
+exp,exp_name,kitty,Kitty,136579,136584,16,681,12,M_2004
+booknlp,COREF,38,She,136600,136603,16,681,12,M_2005
+booknlp,COREF,38,she,136625,136628,16,681,12,M_2006
+booknlp,COREF,38,her,136646,136649,16,681,12,M_2007
+booknlp,COREF,38,she,136670,136673,16,681,12,M_2008
+booknlp,COREF,38,her,136708,136711,16,681,12,M_2009
+pdnc,qID,Q417-0,child,136876,136881,16,682,12,M_2010
+pdnc,qID,Q417-0,you,136883,136886,16,682,12,M_2011
+pdnc,qID,Q417-0,Joe,136914,136917,15,682,12,M_2012
+pdnc,qID,Q417-0,you,136919,136922,15,682,12,M_2013
+pdnc,qID,Q417-0,her,136940,136943,16,682,12,M_2014
+pdnc,qID,Q417-0,You,136967,136970,15,682,12,M_2015
+pdnc,qID,Q417-0,yourself,136994,137002,15,682,12,M_2016
+exp,exp_name,kitty,Kitty,137054,137059,16,683,12,M_2017
+booknlp,COREF,38,her,137116,137119,16,683,12,M_2018
+booknlp,COREF,38,her,137174,137177,16,683,12,M_2019
+exp,exp_name,kitty,Kitty,137278,137283,16,684,12,M_2020
+booknlp,COREF,38,she,137388,137391,16,684,12,M_2021
+booknlp,COREF,100,I,137418,137419,11,685,12,M_2022
+pdnc,qID,Q418-0,you,137425,137428,16,685,12,M_2023
+exp,exp_name,hattie sterling,Hattie Sterling,137436,137451,11,685,12,M_2024
+pdnc,qID,Q418-1,your,137512,137516,16,685,12,M_2025
+booknlp,COREF,100,me,137555,137557,11,685,12,M_2026
+pdnc,qID,Q418-1,Joe,137571,137574,15,685,12,M_2027
+pdnc,qID,Q418-1,Kitty,137586,137591,16,685,12,M_2028
+pdnc,qID,Q418-1,you,137613,137616,16,685,12,M_2029
+pdnc,qID,Q418-1,Kitty,137617,137622,16,685,12,M_2030
+pdnc,qID,Q418-1,you,137688,137691,16,685,12,M_2031
+exp,exp_name,kitty,Kitty,137700,137705,16,686,12,M_2032
+booknlp,COREF,38,her,137761,137764,16,686,12,M_2033
+booknlp,COREF,38,her,137811,137814,16,686,12,M_2034
+pdnc,qID,Q419-0,Kitty,137841,137846,16,687,12,M_2035
+pdnc,qID,Q419-0,child,137848,137853,16,687,12,M_2036
+pdnc,qID,Q419-0,you,137870,137873,16,687,12,M_2037
+pdnc,qID,Q419-0,You,137892,137895,16,687,12,M_2038
+exp,exp_name,joe,Joe,137921,137924,15,688,12,M_2039
+exp,exp_name,hattie,Hattie,138041,138047,11,688,12,M_2040
+pdnc,qID,Q420-1,you,138143,138146,16,689,12,M_2041
+pdnc,qID,Q420-1,your,138196,138200,16,689,12,M_2042
+pdnc,qID,Q420-1,you,138236,138239,16,689,12,M_2043
+pdnc,qID,Q420-1,your,138246,138250,16,689,12,M_2044
+exp,exp_name,hattie sterling,Hattie Sterling,138588,138603,11,690,12,M_2045
+booknlp,COREF,38,I,138648,138649,16,691,12,M_2046
+exp,exp_name,kit,Kit,138687,138690,16,691,12,M_2047
+pdnc,qID,Q422-0,you,138723,138726,16,692,12,M_2048
+pdnc,qID,Q422-0,you,138779,138782,16,692,12,M_2049
+pdnc,qID,Q422-0,he,139033,139035,18,692,12,M_2050
+exp,exp_name,joe,Joe,139088,139091,15,693,12,M_2051
+pdnc,qID,Q423-0,Hat,139149,139152,11,693,12,M_2052
+pdnc,qID,Q423-1,you,139180,139183,11,693,12,M_2053
+booknlp,COREF,38,She,139218,139221,16,694,12,M_2054
+pdnc,qID,Q424-0,you,139288,139291,16,695,12,M_2055
+pdnc,qID,Q424-0,you,139313,139316,16,695,12,M_2056
+pdnc,qID,Q424-0,Kitty,139326,139331,16,695,12,M_2057
+pdnc,qID,Q424-0,You,139333,139336,16,695,12,M_2058
+pdnc,qID,Q424-0,you,139370,139373,16,695,12,M_2059
+pdnc,qID,Q424-0,you,139441,139444,16,695,12,M_2060
+pdnc,qID,Q424-0,you,139503,139506,16,695,12,M_2061
+pdnc,qID,Q424-0,you,139581,139584,16,695,12,M_2062
+pdnc,qID,Q424-0,the manager,139588,139599,18,695,12,M_2063
+pdnc,qID,Q424-0,He,139601,139603,18,695,12,M_2064
+pdnc,qID,Q424-0,him,139639,139642,18,695,12,M_2065
+pdnc,qID,Q424-0,you,139660,139663,16,695,12,M_2066
+pdnc,qID,Q425-0,you,139678,139681,11,696,12,M_2067
+booknlp,COREF,38,I,139683,139684,16,696,12,M_2068
+pdnc,qID,Q426-0,you,139786,139789,16,697,12,M_2069
+pdnc,qID,Q426-0,him,139799,139802,18,697,12,M_2070
+pdnc,qID,Q426-0,he,139821,139823,18,697,12,M_2071
+pdnc,qID,Q426-0,he,139845,139847,18,697,12,M_2072
+pdnc,qID,Q426-0,he,139877,139879,18,697,12,M_2073
+pdnc,qID,Q426-0,you,139892,139895,16,697,12,M_2074
+pdnc,qID,Q426-0,he,139899,139901,18,697,12,M_2075
+pdnc,qID,Q426-0,you,139930,139933,16,697,12,M_2076
+pdnc,qID,Q426-0,he,139938,139940,18,697,12,M_2077
+exp,exp_name,kitty,Kitty,139959,139964,16,698,12,M_2078
+booknlp,COREF,38,herself,139970,139977,16,698,12,M_2079
+exp,exp_name,joe,Joe,140004,140007,15,698,12,M_2080
+pdnc,qID,Q427-0,you,140034,140037,16,699,12,M_2081
+pdnc,qID,Q427-0,Kit,140045,140048,16,699,12,M_2082
+pdnc,qID,Q428-1,you,140128,140131,11,699,12,M_2083
+pdnc,qID,Q428-1,you,140155,140158,11,699,12,M_2084
+pdnc,qID,Q428-1,her,140172,140175,16,699,12,M_2085
+pdnc,qID,Q428-1,She,140194,140197,16,699,12,M_2086
+pdnc,qID,Q429-0,Joe,140219,140222,15,700,12,M_2087
+exp,exp_name,hattie,Hattie,140230,140236,11,700,12,M_2088
+pdnc,qID,Q429-1,you,140245,140248,15,700,12,M_2089
+booknlp,COREF,100,I,140295,140296,11,700,12,M_2090
+pdnc,qID,Q429-1,you,140310,140313,15,700,12,M_2091
+booknlp,COREF,100,I,140329,140330,11,700,12,M_2092
+booknlp,COREF,100,I,140342,140343,11,700,12,M_2093
+pdnc,qID,Q429-1,you,140356,140359,15,700,12,M_2094
+booknlp,COREF,100,I,140361,140362,11,700,12,M_2095
+pdnc,qID,Q429-1,you,140383,140386,15,700,12,M_2096
+pdnc,qID,Q429-1,you,140402,140405,15,700,12,M_2097
+booknlp,COREF,100,me,140412,140414,11,700,12,M_2098
+pdnc,qID,Q429-1,your sister,140456,140467,16,700,12,M_2099
+booknlp,COREF,100,I,140478,140479,11,700,12,M_2100
+pdnc,qID,Q429-1,she,140484,140487,16,700,12,M_2101
+booknlp,COREF,100,I,140512,140513,11,700,12,M_2102
+pdnc,qID,Q429-1,she,140548,140551,16,700,12,M_2103
+booknlp,COREF,100,me,140575,140577,11,700,12,M_2104
+pdnc,qID,Q430-0,Kit,140582,140585,16,701,12,M_2105
+exp,exp_name,joe,Joe,140616,140619,15,701,12,M_2106
+exp,exp_name,joe,Joe,140893,140896,15,703,12,M_2107
+exp,exp_name,kit,Kit,140947,140950,16,704,12,M_2108
+booknlp,COREF,38,her,140987,140990,16,704,12,M_2109
+booknlp,COREF,38,her,141001,141004,16,704,12,M_2110
+booknlp,COREF,38,She,141021,141024,16,704,12,M_2111
+pdnc,qID,Q432-0,ma,141059,141061,7,704,12,M_2112
+pdnc,qID,Q432-0,ma,141063,141065,7,704,12,M_2113
+pdnc,qID,Q432-0,Miss Hattie,141067,141078,11,704,12,M_2114
+booknlp,COREF,38,I,141086,141087,16,704,12,M_2115
+booknlp,COREF,38,She,141133,141136,16,705,12,M_2116
+booknlp,COREF,38,her,141192,141195,16,705,12,M_2117
+pdnc,qID,Q433-0,you,141370,141373,16,706,12,M_2118
+exp,exp_name,kit,Kit,141418,141421,16,707,12,M_2119
+booknlp,COREF,38,her,141427,141430,16,707,12,M_2120
+pdnc,qID,Q435-0,you,141474,141477,16,709,12,M_2121
+booknlp,COREF,38,I,141487,141488,16,709,12,M_2122
+pdnc,qID,Q435-0,you,141503,141506,16,709,12,M_2123
+pdnc,qID,Q435-0,Kit,141525,141528,16,709,12,M_2124
+pdnc,qID,Q435-0,my little gal,141530,141543,16,709,12,M_2125
+pdnc,qID,Q435-0,you,141577,141580,16,709,12,M_2126
+pdnc,qID,Q435-0,yo' brothah Joe,141593,141608,15,709,12,M_2127
+pdnc,qID,Q435-0,Joe,141610,141613,15,709,12,M_2128
+pdnc,qID,Q436-0,ma,141631,141633,7,710,12,M_2129
+pdnc,qID,Q436-0,you,141635,141638,7,710,12,M_2130
+pdnc,qID,Q436-0,Joe,141657,141660,15,710,12,M_2131
+pdnc,qID,Q436-0,You,141678,141681,7,710,12,M_2132
+pdnc,qID,Q436-0,Miss Hattie,141705,141716,11,710,12,M_2133
+pdnc,qID,Q436-0,him,141730,141733,15,710,12,M_2134
+pdnc,qID,Q436-0,She,141735,141738,11,710,12,M_2135
+pdnc,qID,Q436-0,he,141744,141746,15,710,12,M_2136
+pdnc,qID,Q437-0,his,141808,141811,15,711,12,M_2137
+pdnc,qID,Q437-0,You,141823,141826,16,711,12,M_2138
+pdnc,qID,Q437-0,dat gal,141849,141856,11,711,12,M_2139
+pdnc,qID,Q437-0,Kit,141858,141861,16,711,12,M_2140
+pdnc,qID,Q437-0,She,141863,141866,11,711,12,M_2141
+pdnc,qID,Q437-0,Joe,141873,141876,15,711,12,M_2142
+pdnc,qID,Q437-0,she,141882,141885,11,711,12,M_2143
+pdnc,qID,Q437-0,you,141895,141898,16,711,12,M_2144
+booknlp,COREF,38,I,141980,141981,16,713,12,M_2145
+booknlp,COREF,38,I,142004,142005,16,713,12,M_2146
+pdnc,qID,Q439-0,Kit,142090,142093,16,713,12,M_2147
+booknlp,COREF,38,Ai,142108,142110,16,713,12,M_2148
+pdnc,qID,Q439-0,you,142114,142117,16,713,12,M_2149
+pdnc,qID,Q439-0,you,142137,142140,16,713,12,M_2150
+booknlp,COREF,38,Dey,142198,142201,16,713,12,M_2151
+pdnc,qID,Q439-0,you,142233,142236,16,713,12,M_2152
+pdnc,qID,Q439-0,you,142259,142262,16,713,12,M_2153
+pdnc,qID,Q439-0,you,142268,142271,16,713,12,M_2154
+pdnc,qID,Q440-0,You,142298,142301,7,714,12,M_2155
+pdnc,qID,Q440-0,ma,142327,142329,7,714,12,M_2156
+pdnc,qID,Q440-0,you,142353,142356,7,714,12,M_2157
+booknlp,COREF,38,I,142361,142362,16,715,12,M_2158
+booknlp,COREF,38,I,142386,142387,16,715,12,M_2159
+exp,exp_name,kit,Kit,142408,142411,16,716,12,M_2160
+booknlp,COREF,38,her,142456,142459,16,716,12,M_2161
+pdnc,qID,Q442-0,Kit,142470,142473,16,717,12,M_2162
+booknlp,COREF,38,her,142476,142479,16,717,12,M_2163
+booknlp,COREF,38,dey,142497,142500,16,717,12,M_2164
+pdnc,qID,Q442-1,you,142531,142534,16,717,12,M_2165
+pdnc,qID,Q442-1,you,142558,142561,16,717,12,M_2166
+pdnc,qID,Q442-1,Mistah Gibson,142567,142580,9,717,12,M_2167
+pdnc,qID,Q442-1,Mis' Jones's,142596,142608,25,717,12,M_2168
+pdnc,qID,Q442-1,he,142650,142652,9,717,12,M_2169
+pdnc,qID,Q442-2,He,142718,142720,9,717,12,M_2170
+pdnc,qID,Q442-2,my po' husban',142754,142768,4,717,12,M_2171
+pdnc,qID,Q442-2,Be'y ,142830,142835,4,717,12,M_2172
+pdnc,qID,Q442-2,Kit,142907,142910,16,717,12,M_2173
+pdnc,qID,Q442-2,he,142916,142918,9,717,12,M_2174
+pdnc,qID,Q442-2,Be'y's ,142930,142937,4,717,12,M_2175
+pdnc,qID,Q442-2,He,143084,143086,9,717,12,M_2176
+pdnc,qID,Q442-2,him,143104,143107,9,717,12,M_2177
+pdnc,qID,Q442-2,Kit,143109,143112,16,717,12,M_2178
+pdnc,qID,Q442-2,Kit,143114,143117,16,717,12,M_2179
+pdnc,qID,Q442-2,yo' fathah,143126,143136,4,717,12,M_2180
+pdnc,qID,Q442-2,he,143138,143140,4,717,12,M_2181
+pdnc,qID,Q442-2,Joe,143161,143164,15,717,12,M_2182
+pdnc,qID,Q442-2,he,143166,143168,15,717,12,M_2183
+pdnc,qID,Q442-2,yo ,143185,143188,16,717,12,M_2184
+pdnc,qID,Q442-2,Tawm Gibson,143214,143225,9,717,12,M_2185
+pdnc,qID,Q443-0,He,143492,143494,9,718,12,M_2186
+pdnc,qID,Q443-0,you,143569,143572,7,718,12,M_2187
+pdnc,qID,Q443-0,him,143579,143582,9,718,12,M_2188
+pdnc,qID,Q443-0,ma,143584,143586,7,718,12,M_2189
+pdnc,qID,Q443-0,you,143608,143611,7,718,12,M_2190
+pdnc,qID,Q443-0,you,143643,143646,7,718,12,M_2191
+pdnc,qID,Q444-0,You,143703,143706,16,719,12,M_2192
+pdnc,qID,Q444-0,him,143723,143726,9,719,12,M_2193
+pdnc,qID,Q444-0,yo' po' pa,143738,143748,4,719,12,M_2194
+pdnc,qID,Q445-0,he,143766,143768,9,720,12,M_2195
+pdnc,qID,Q445-0,ma,143784,143786,7,720,12,M_2196
+pdnc,qID,Q445-0,pa,143819,143821,4,720,12,M_2197
+pdnc,qID,Q445-0,you,143832,143835,7,720,12,M_2198
+pdnc,qID,Q445-0,You,143857,143860,7,720,12,M_2199
+pdnc,qID,Q445-0,yourself,143877,143885,7,720,12,M_2200
+pdnc,qID,Q446-1,him,143983,143986,9,721,12,M_2201
+pdnc,qID,Q446-1,Po' Be'y,144039,144047,4,721,12,M_2202
+pdnc,qID,Q446-1,po' Be'y,144049,144057,4,721,12,M_2203
+booknlp,COREF,38,you,144062,144065,16,721,12,M_2204
+pdnc,qID,Q446-1,he,144089,144091,4,721,12,M_2205
+booknlp,COREF,38,you,144094,144097,16,721,12,M_2206
+booknlp,COREF,38,you,144111,144114,16,721,12,M_2207
+exp,exp_name,mrs. hamilton,Mrs. Hamilton,144130,144143,7,721,12,M_2208
+exp,exp_name,kit,Kit,144239,144242,16,722,12,M_2209
+booknlp,COREF,38,her,144286,144289,16,722,12,M_2210
+pdnc,qID,Q447-0,Poor ma,144297,144304,7,722,12,M_2211
+booknlp,COREF,38,she,144307,144310,16,722,12,M_2212
+pdnc,qID,Q447-1,poor pa,144322,144329,4,722,12,M_2213
+booknlp,COREF,38,I,144335,144336,16,722,12,M_2214
+booknlp,COREF,38,I,144347,144348,16,722,12,M_2215
+exp,exp_name,martin,Martin,144478,144484,18,723,12,M_2216
+exp,exp_name,hattie sterling,Hattie Sterling,144534,144549,11,724,12,M_2217
+exp,exp_name,frank,frank,144563,144568,8,724,12,M_2218
+booknlp,COREF,100,I,144585,144586,11,725,12,M_2219
+pdnc,qID,Q448-0,you,144595,144598,16,725,12,M_2220
+pdnc,qID,Q448-0,Kitty,144611,144616,16,725,12,M_2221
+booknlp,COREF,100,she,144619,144622,11,725,12,M_2222
+pdnc,qID,Q448-1,you,144644,144647,16,725,12,M_2223
+pdnc,qID,Q448-1,Martin,144678,144684,18,725,12,M_2224
+pdnc,qID,Q448-1,he,144692,144694,18,725,12,M_2225
+pdnc,qID,Q448-1,He,144736,144738,18,725,12,M_2226
+pdnc,qID,Q448-1,you,144790,144793,16,725,12,M_2227
+pdnc,qID,Q448-1,him,144804,144807,18,725,12,M_2228
+pdnc,qID,Q448-1,he,144851,144853,18,725,12,M_2229
+pdnc,qID,Q448-1,you,144869,144872,16,725,12,M_2230
+pdnc,qID,Q448-1,His,144874,144877,18,725,12,M_2231
+pdnc,qID,Q448-1,his,144909,144912,18,725,12,M_2232
+exp,exp_name,mr. martin,Mr. Martin,144926,144936,18,726,12,M_2233
+booknlp,COREF,111,he,144959,144961,18,726,12,M_2234
+booknlp,COREF,111,His,145021,145024,18,726,12,M_2235
+exp,exp_name,mr. martin,Mr. Martin,145221,145231,18,726,12,M_2236
+booknlp,COREF,111,He,145302,145304,18,726,12,M_2237
+pdnc,qID,Q449-0,Mrs. Jones,145376,145386,25,727,12,M_2238
+booknlp,COREF,111,He,145426,145428,18,728,12,M_2239
+booknlp,COREF,111,his,145452,145455,18,728,12,M_2240
+booknlp,COREF,111,him,145509,145512,18,728,12,M_2241
+booknlp,COREF,111,He,145514,145516,18,728,12,M_2242
+booknlp,COREF,111,his,145566,145569,18,728,12,M_2243
+booknlp,COREF,111,his,145583,145586,18,728,12,M_2244
+booknlp,COREF,111,his,145629,145632,18,728,12,M_2245
+booknlp,COREF,111,his,145641,145644,18,728,12,M_2246
+booknlp,COREF,111,he,145650,145652,18,728,12,M_2247
+exp,exp_name,kitty,Kitty,145711,145716,16,729,12,M_2248
+booknlp,COREF,38,she,145729,145732,16,729,12,M_2249
+booknlp,COREF,111,his,145775,145778,18,729,12,M_2250
+booknlp,COREF,38,She,145789,145792,16,729,12,M_2251
+booknlp,COREF,38,She,145828,145831,16,729,12,M_2252
+booknlp,COREF,38,She,145868,145871,16,729,12,M_2253
+booknlp,COREF,38,she,145889,145892,16,729,12,M_2254
+booknlp,COREF,111,his,145899,145902,18,729,12,M_2255
+booknlp,COREF,38,her,145919,145922,16,729,12,M_2256
+booknlp,COREF,111,he,145940,145942,18,730,12,M_2257
+booknlp,COREF,38,her,145963,145966,16,730,12,M_2258
+booknlp,COREF,38,she,145974,145977,16,730,12,M_2259
+pdnc,qID,Q451-0,her,146026,146029,16,731,12,M_2260
+pdnc,qID,Q451-0,a girl friend of mine,146046,146067,16,731,12,M_2261
+exp,exp_name,hattie,Hattie,146094,146100,11,731,12,M_2262
+booknlp,COREF,100,She,146102,146105,11,731,12,M_2263
+exp,exp_name,martin,Martin,146139,146145,18,731,12,M_2264
+pdnc,qID,Q452-0,her,146160,146163,16,732,12,M_2265
+booknlp,COREF,111,He,146318,146320,18,733,12,M_2266
+booknlp,COREF,111,he,146357,146359,18,733,12,M_2267
+exp,exp_name,kitty,Kitty,147672,147677,16,735,12,M_2268
+booknlp,COREF,38,she,147765,147768,16,735,12,M_2269
+booknlp,COREF,38,her,147797,147800,16,735,12,M_2270
+booknlp,COREF,38,she,147864,147867,16,735,12,M_2271
+booknlp,COREF,38,She,147896,147899,16,735,12,M_2272
+booknlp,COREF,38,she,147933,147936,16,735,12,M_2273
+booknlp,COREF,38,she,147991,147994,16,735,12,M_2274
+exp,exp_name,hattie sterling,Hattie Sterling,148027,148042,11,735,12,M_2275
+booknlp,COREF,38,She,148048,148051,16,735,12,M_2276
+booknlp,COREF,38,her,148104,148107,16,735,12,M_2277
+booknlp,COREF,38,her,148141,148144,16,735,12,M_2278
+booknlp,COREF,38,her,148200,148203,16,736,12,M_2279
+exp,exp_name,mr. martin,Mr. Martin,148244,148254,18,736,12,M_2280
+booknlp,COREF,38,yourselves,148289,148299,16,736,12,M_2281
+booknlp,COREF,38,you,148301,148304,16,736,12,M_2282
+booknlp,COREF,111,me,148340,148342,18,736,12,M_2283
+booknlp,COREF,38,you,148350,148353,16,736,12,M_2284
+booknlp,COREF,111,I,148374,148375,18,736,12,M_2285
+pdnc,qID,Q454-0,that new girl,148395,148408,16,736,12,M_2286
+exp,exp_name,kitty,Kitty,148416,148421,16,737,12,M_2287
+booknlp,COREF,38,she,148466,148469,16,737,12,M_2288
+pdnc,qID,Q455-0,you,148500,148503,16,738,12,M_2289
+booknlp,COREF,111,I,148511,148512,18,739,12,M_2290
+pdnc,qID,Q457-0,you,148567,148570,16,740,12,M_2291
+pdnc,qID,Q457-0,you,148686,148689,16,740,12,M_2292
+booknlp,COREF,38,She,148756,148759,16,741,12,M_2293
+booknlp,COREF,80,Tom,148817,148820,23,741,12,M_2294
+pdnc,qID,Q458-0,her,148834,148837,16,741,12,M_2295
+booknlp,COREF,38,She,148886,148889,16,742,12,M_2296
+booknlp,COREF,38,her,148974,148977,16,742,12,M_2297
+booknlp,COREF,38,her,149102,149105,16,742,12,M_2298
+booknlp,COREF,38,her,149169,149172,16,742,12,M_2299
+booknlp,COREF,38,she,149178,149181,16,742,12,M_2300
+booknlp,COREF,38,her,149217,149220,16,742,12,M_2301
+booknlp,COREF,38,her,149258,149261,16,742,12,M_2302
+booknlp,COREF,38,She,149276,149279,16,742,12,M_2303
+booknlp,COREF,38,her,149292,149295,16,742,12,M_2304
+booknlp,COREF,38,her,149329,149332,16,742,12,M_2305
+booknlp,COREF,38,she,149345,149348,16,743,12,M_2306
+booknlp,COREF,38,she,149359,149362,16,743,12,M_2307
+exp,exp_name,martin,Martin,149384,149390,18,743,12,M_2308
+booknlp,COREF,38,She,149437,149440,16,743,12,M_2309
+booknlp,COREF,38,her,149476,149479,16,743,12,M_2310
+booknlp,COREF,111,he,149481,149483,18,743,12,M_2311
+booknlp,COREF,38,her,149497,149500,16,743,12,M_2312
+booknlp,COREF,38,her,149556,149559,16,743,12,M_2313
+booknlp,COREF,38,she,149570,149573,16,743,12,M_2314
+booknlp,COREF,38,she,149600,149603,16,743,12,M_2315
+exp,exp_name,hattie sterling,Hattie Sterling,149643,149658,11,743,12,M_2316
+exp,exp_name,martin,Martin,149721,149727,18,744,12,M_2317
+pdnc,qID,Q459-1,The little one,149745,149759,16,744,12,M_2318
+pdnc,qID,Q459-1,She,149777,149780,16,744,12,M_2319
+booknlp,COREF,38,you,149796,149799,16,744,12,M_2320
+booknlp,COREF,38,you,149820,149823,16,744,12,M_2321
+pdnc,qID,Q459-1,she,149837,149840,16,744,12,M_2322
+pdnc,qID,Q459-1,her,149879,149882,16,744,12,M_2323
+booknlp,COREF,111,I,149936,149937,18,744,12,M_2324
+booknlp,COREF,38,you,149951,149954,16,744,12,M_2325
+exp,exp_name,kitty,Kitty,150039,150044,16,745,12,M_2326
+booknlp,COREF,38,She,150079,150082,16,745,12,M_2327
+booknlp,COREF,38,her,150135,150138,16,745,12,M_2328
+exp,exp_name,martin,Martin,150166,150172,18,746,12,M_2329
+booknlp,COREF,111,he,150178,150180,18,746,12,M_2330
+booknlp,COREF,111,his,150205,150208,18,746,12,M_2331
+pdnc,qID,Q460-1,You,150223,150226,16,746,12,M_2332
+booknlp,COREF,111,He,150343,150345,18,747,12,M_2333
+booknlp,COREF,111,his,150365,150368,18,747,12,M_2334
+booknlp,COREF,38,her,150384,150387,16,747,12,M_2335
+booknlp,COREF,111,he,150422,150424,18,747,12,M_2336
+booknlp,COREF,38,her,150444,150447,16,747,12,M_2337
+booknlp,COREF,38,she,150489,150492,16,747,12,M_2338
+booknlp,COREF,38,She,150537,150540,16,747,12,M_2339
+booknlp,COREF,38,she,150548,150551,16,747,12,M_2340
+exp,exp_name,hattie sterling,Hattie Sterling,150578,150593,11,747,12,M_2341
+booknlp,COREF,38,She,150595,150598,16,747,12,M_2342
+exp,exp_name,joe,Joe,150617,150620,15,747,12,M_2343
+booknlp,COREF,38,herself,150635,150642,16,747,12,M_2344
+booknlp,COREF,38,her,150672,150675,16,747,12,M_2345
+exp,exp_name,kitty hamilton,Kitty Hamilton,150746,150760,16,748,12,M_2346
+exp,exp_name,gibson,Gibson,150860,150866,9,748,12,M_2347
+exp,exp_name,joe,Joe,150924,150927,15,748,12,M_2348
+exp,exp_name,mr. thomas,Mr. Thomas,151043,151053,23,749,12,M_2349
+booknlp,COREF,80,He,151065,151067,23,749,12,M_2350
+booknlp,COREF,80,he,151110,151112,23,749,12,M_2351
+exp,exp_name,kitty,Kitty,151124,151129,16,749,12,M_2352
+booknlp,COREF,38,her,151173,151176,16,749,12,M_2353
+booknlp,COREF,38,she,151180,151183,16,749,12,M_2354
+booknlp,COREF,38,she,151203,151206,16,749,12,M_2355
+booknlp,COREF,80,him,151212,151215,23,749,12,M_2356
+booknlp,COREF,80,him,151224,151227,23,749,12,M_2357
+booknlp,COREF,80,he,151233,151235,23,749,12,M_2358
+booknlp,COREF,38,her,151240,151243,16,749,12,M_2359
+booknlp,COREF,80,he,151288,151290,23,750,12,M_2360
+pdnc,qID,Q461-1,the kid,151304,151311,16,750,12,M_2361
+booknlp,COREF,80,I,151462,151463,23,750,12,M_2362
+exp,exp_name,hattie sterling,Hattie Sterling,151488,151503,11,751,12,M_2363
+exp,exp_name,joe,Joe,151509,151512,15,751,12,M_2364
+booknlp,COREF,100,she,151539,151542,11,752,12,M_2365
+pdnc,qID,Q462-1,you,151553,151556,15,752,12,M_2366
+booknlp,COREF,100,me,151575,151577,11,752,12,M_2367
+pdnc,qID,Q462-1,Your little sister,151606,151624,16,752,12,M_2368
+booknlp,COREF,100,I,151641,151642,11,752,12,M_2369
+pdnc,qID,Q462-1,her,151677,151680,16,752,12,M_2370
+exp,exp_name,joe,Joe,151684,151687,15,753,12,M_2371
+exp,exp_name,berry hamilton,Berry Hamilton,151920,151934,4,756,13,M_2372
+booknlp,COREF,34,his,151989,151992,4,756,13,M_2373
+exp,exp_name,oakley,Oakley,152098,152104,20,756,13,M_2374
+exp,exp_name,maurice oakley,Maurice Oakley,152112,152126,20,756,13,M_2375
+booknlp,COREF,39,his,152167,152170,20,756,13,M_2376
+exp,exp_name,mrs. oakley,Mrs. Oakley,152220,152231,17,756,13,M_2377
+exp,exp_name,frank,Frank,152433,152438,8,756,13,M_2378
+booknlp,COREF,34,him,152485,152488,4,756,13,M_2379
+booknlp,COREF,34,His,152594,152597,4,757,13,M_2380
+pdnc,qID,Q463-0,Frank,152675,152680,8,758,13,M_2381
+booknlp,COREF,34,he,152707,152709,4,758,13,M_2382
+pdnc,qID,Q463-1,He,152733,152735,8,758,13,M_2383
+pdnc,qID,Q463-1,Leslie,152787,152793,17,758,13,M_2384
+pdnc,qID,Q463-1,he,152833,152835,8,758,13,M_2385
+pdnc,qID,Q464-0,Maurice,152902,152909,20,758,13,M_2386
+pdnc,qID,Q464-0,Claire Lessing,152914,152928,5,758,13,M_2387
+pdnc,qID,Q464-0,him,152943,152946,8,758,13,M_2388
+exp,exp_name,frank,Frank,152997,153002,8,759,13,M_2389
+booknlp,COREF,34,him,153070,153073,4,759,13,M_2390
+booknlp,COREF,34,his,153085,153088,4,759,13,M_2391
+booknlp,COREF,34,him,153139,153142,4,759,13,M_2392
+exp,exp_name,maurice,Maurice,153220,153227,20,760,13,M_2393
+booknlp,COREF,39,his,153232,153235,20,760,13,M_2394
+exp,exp_name,frank,Frank,153334,153339,8,760,13,M_2395
+booknlp,COREF,52,his,153360,153363,8,760,13,M_2396
+exp,exp_name,mrs. oakley,Mrs. Oakley,153427,153438,17,761,13,M_2397
+pdnc,qID,Q465-0,Brother ,153463,153471,8,761,13,M_2398
+pdnc,qID,Q465-1,Berry,153503,153508,4,761,13,M_2399
+pdnc,qID,Q466-1,You,153576,153579,17,762,13,M_2400
+pdnc,qID,Q466-1,him,153609,153612,8,762,13,M_2401
+pdnc,qID,Q466-1,He,153614,153616,8,762,13,M_2402
+pdnc,qID,Q466-1,him,153652,153655,8,762,13,M_2403
+pdnc,qID,Q467-0,You,153660,153663,20,763,13,M_2404
+pdnc,qID,Q467-0,Maurice,153675,153682,20,763,13,M_2405
+pdnc,qID,Q467-0,you,153684,153687,20,763,13,M_2406
+pdnc,qID,Q467-0,Frank,153721,153726,8,763,13,M_2407
+pdnc,qID,Q467-0,him,153756,153759,8,763,13,M_2408
+pdnc,qID,Q467-0,Poor fellow,153761,153772,8,763,13,M_2409
+pdnc,qID,Q467-0,he,153774,153776,8,763,13,M_2410
+exp,exp_name,claire lessing,Claire Lessing,153882,153896,5,764,13,M_2411
+booknlp,COREF,46,She,153898,153901,5,764,13,M_2412
+exp,exp_name,frank,Frank,153999,154004,8,764,13,M_2413
+booknlp,COREF,52,him,154059,154062,8,764,13,M_2414
+booknlp,COREF,52,his,154073,154076,8,764,13,M_2415
+booknlp,COREF,52,him,154097,154100,8,764,13,M_2416
+booknlp,COREF,52,him,154162,154165,8,764,13,M_2417
+booknlp,COREF,52,he,154354,154356,8,764,13,M_2418
+booknlp,COREF,52,he,154382,154384,8,764,13,M_2419
+exp,exp_name,claire,Claire,154442,154448,5,764,13,M_2420
+exp,exp_name,maurice oakley,Maurice Oakley,154545,154559,20,765,13,M_2421
+booknlp,COREF,39,his,154567,154570,20,765,13,M_2422
+booknlp,COREF,39,him,154608,154611,20,765,13,M_2423
+booknlp,COREF,39,he,154666,154668,20,765,13,M_2424
+booknlp,COREF,39,His,154687,154690,20,765,13,M_2425
+booknlp,COREF,39,he,154723,154725,20,765,13,M_2426
+pdnc,qID,Q468-0,Frank,154760,154765,8,765,13,M_2427
+booknlp,COREF,39,he,154768,154770,20,765,13,M_2428
+booknlp,COREF,39,I,154809,154810,20,765,13,M_2429
+booknlp,COREF,39,He,154824,154826,20,766,13,M_2430
+booknlp,COREF,39,he,154837,154839,20,766,13,M_2431
+booknlp,COREF,39,his,154854,154857,20,766,13,M_2432
+exp,exp_name,mrs. oakley,Mrs. Oakley,154880,154891,17,766,13,M_2433
+booknlp,COREF,39,he,154917,154919,20,766,13,M_2434
+booknlp,COREF,39,he,154952,154954,20,766,13,M_2435
+booknlp,COREF,39,He,155004,155006,20,766,13,M_2436
+booknlp,COREF,39,his,155014,155017,20,766,13,M_2437
+booknlp,COREF,39,he,155083,155085,20,766,13,M_2438
+booknlp,COREF,39,himself,155101,155108,20,766,13,M_2439
+exp,exp_name,maurice oakley,Maurice Oakley,155299,155313,20,767,13,M_2440
+booknlp,COREF,39,he,155319,155321,20,767,13,M_2441
+booknlp,COREF,39,he,155357,155359,20,767,13,M_2442
+booknlp,COREF,39,he,155415,155417,20,767,13,M_2443
+booknlp,COREF,39,himself,155424,155431,20,767,13,M_2444
+booknlp,COREF,39,his,155459,155462,20,767,13,M_2445
+exp,exp_name,frank,Frank,155547,155552,8,768,13,M_2446
+booknlp,COREF,39,he,155631,155633,20,768,13,M_2447
+booknlp,COREF,39,his,155651,155654,20,768,13,M_2448
+booknlp,COREF,39,he,155714,155716,20,768,13,M_2449
+booknlp,COREF,39,he,155734,155736,20,768,13,M_2450
+booknlp,COREF,39,his,155798,155801,20,768,13,M_2451
+booknlp,COREF,39,him,155813,155816,20,768,13,M_2452
+booknlp,COREF,39,him,155847,155850,20,768,13,M_2453
+exp,exp_name,frank,Frank,155938,155943,8,768,13,M_2454
+booknlp,COREF,39,He,155965,155967,20,768,13,M_2455
+booknlp,COREF,39,his,155995,155998,20,768,13,M_2456
+booknlp,COREF,39,him,156019,156022,20,768,13,M_2457
+booknlp,COREF,39,him,156232,156235,20,768,13,M_2458
+booknlp,COREF,39,He,156401,156403,20,768,13,M_2459
+booknlp,COREF,39,He,156729,156731,20,768,13,M_2460
+booknlp,COREF,39,his,156740,156743,20,768,13,M_2461
+booknlp,COREF,39,his,156770,156773,20,768,13,M_2462
+booknlp,COREF,39,he,156785,156787,20,768,13,M_2463
+exp,exp_name,frank,Frank,156792,156797,8,768,13,M_2464
+booknlp,COREF,52,his,156814,156817,8,768,13,M_2465
+booknlp,COREF,52,his,156893,156896,8,768,13,M_2466
+booknlp,COREF,39,He,156948,156950,20,768,13,M_2467
+booknlp,COREF,39,his,156973,156976,20,768,13,M_2468
+booknlp,COREF,39,he,156985,156987,20,768,13,M_2469
+booknlp,COREF,39,He,157017,157019,20,768,13,M_2470
+booknlp,COREF,39,his,157045,157048,20,768,13,M_2471
+booknlp,COREF,39,he,157071,157073,20,768,13,M_2472
+booknlp,COREF,39,he,157099,157101,20,768,13,M_2473
+booknlp,COREF,39,his,157174,157177,20,768,13,M_2474
+booknlp,COREF,39,his,157213,157216,20,768,13,M_2475
+booknlp,COREF,39,him,157273,157276,20,768,13,M_2476
+exp,exp_name,frank,Frank,157306,157311,8,768,13,M_2477
+exp,exp_name,claire lessing,Claire Lessing,157417,157431,5,768,13,M_2478
+booknlp,COREF,39,He,157433,157435,20,768,13,M_2479
+booknlp,COREF,39,himself,157443,157450,20,768,13,M_2480
+booknlp,COREF,39,he,157472,157474,20,768,13,M_2481
+booknlp,COREF,39,My,157504,157506,20,769,13,M_2482
+pdnc,qID,Q469-0,my brother,157547,157557,8,769,13,M_2483
+booknlp,COREF,39,he,157560,157562,20,769,13,M_2484
+pdnc,qID,Q469-1,He,157574,157576,8,769,13,M_2485
+pdnc,qID,Q469-1,himself,157620,157627,8,769,13,M_2486
+booknlp,COREF,39,his,157647,157650,20,770,13,M_2487
+booknlp,COREF,39,him,157688,157691,20,770,13,M_2488
+booknlp,COREF,39,him,157700,157703,20,770,13,M_2489
+booknlp,COREF,39,I,157715,157716,20,770,13,M_2490
+booknlp,COREF,39,I,157733,157734,20,770,13,M_2491
+pdnc,qID,Q470-0,Leslie,157751,157757,17,770,13,M_2492
+pdnc,qID,Q470-0,She,157765,157768,17,770,13,M_2493
+booknlp,COREF,39,I,157810,157811,20,770,13,M_2494
+booknlp,COREF,39,His,157818,157821,20,771,13,M_2495
+booknlp,COREF,39,his,157865,157868,20,771,13,M_2496
+booknlp,COREF,39,he,157879,157881,20,771,13,M_2497
+booknlp,COREF,39,he,157905,157907,20,771,13,M_2498
+booknlp,COREF,39,He,157928,157930,20,772,13,M_2499
+exp,exp_name,frank,Frank,157970,157975,8,772,13,M_2500
+booknlp,COREF,39,He,158004,158006,20,772,13,M_2501
+booknlp,COREF,39,he,158078,158080,20,773,13,M_2502
+booknlp,COREF,39,my,158214,158216,20,773,13,M_2503
+pdnc,qID,Q471-1,Frank,158307,158312,8,773,13,M_2504
+pdnc,qID,Q471-1,Claire,158317,158323,5,773,13,M_2505
+booknlp,COREF,39,I,158331,158332,20,773,13,M_2506
+booknlp,COREF,39,me,158404,158406,20,773,13,M_2507
+booknlp,COREF,39,He,158456,158458,20,774,13,M_2508
+booknlp,COREF,39,his,158492,158495,20,774,13,M_2509
+booknlp,COREF,39,He,158536,158538,20,774,13,M_2510
+pdnc,qID,Q472-0,Lady Leslie,158566,158577,17,775,13,M_2511
+booknlp,COREF,39,I,158579,158580,20,775,13,M_2512
+pdnc,qID,Q472-0,you,158613,158616,17,775,13,M_2513
+booknlp,COREF,39,He,158640,158642,20,776,13,M_2514
+booknlp,COREF,39,he,158670,158672,20,776,13,M_2515
+booknlp,COREF,39,he,158683,158685,20,776,13,M_2516
+booknlp,COREF,39,himself,158723,158730,20,776,13,M_2517
+booknlp,COREF,39,his,158739,158742,20,776,13,M_2518
+booknlp,COREF,39,his,158772,158775,20,776,13,M_2519
+booknlp,COREF,39,He,158787,158789,20,776,13,M_2520
+booknlp,COREF,39,He,158835,158837,20,776,13,M_2521
+booknlp,COREF,39,He,158874,158876,20,776,13,M_2522
+booknlp,COREF,39,his,158952,158955,20,776,13,M_2523
+booknlp,COREF,39,his,158968,158971,20,776,13,M_2524
+booknlp,COREF,39,he,158983,158985,20,776,13,M_2525
+booknlp,COREF,39,he,159008,159010,20,776,13,M_2526
+booknlp,COREF,39,He,159016,159018,20,776,13,M_2527
+booknlp,COREF,39,he,159064,159066,20,776,13,M_2528
+booknlp,COREF,39,his,159088,159091,20,776,13,M_2529
+booknlp,COREF,39,he,159102,159104,20,776,13,M_2530
+booknlp,COREF,39,He,159142,159144,20,776,13,M_2531
+booknlp,COREF,39,His,159181,159184,20,776,13,M_2532
+booknlp,COREF,39,he,159205,159207,20,776,13,M_2533
+exp,exp_name,leslie,Leslie,159257,159263,17,776,13,M_2534
+booknlp,COREF,118,she,159274,159277,17,776,13,M_2535
+booknlp,COREF,39,he,159292,159294,20,776,13,M_2536
+booknlp,COREF,118,her,159311,159314,17,776,13,M_2537
+booknlp,COREF,118,She,159316,159319,17,776,13,M_2538
+booknlp,COREF,39,He,159472,159474,20,777,13,M_2539
+booknlp,COREF,39,I,159495,159496,20,777,13,M_2540
+booknlp,COREF,118,you,159526,159529,17,777,13,M_2541
+booknlp,COREF,39,him,159567,159570,20,777,13,M_2542
+exp,exp_name,oakley,Oakley,159582,159588,20,777,13,M_2543
+booknlp,COREF,39,him,159599,159602,20,777,13,M_2544
+booknlp,COREF,39,he,159621,159623,20,777,13,M_2545
+booknlp,COREF,39,he,159726,159728,20,777,13,M_2546
+booknlp,COREF,39,him,159788,159791,20,777,13,M_2547
+booknlp,COREF,39,his,159806,159809,20,777,13,M_2548
+booknlp,COREF,39,His,159816,159819,20,777,13,M_2549
+booknlp,COREF,39,his,159833,159836,20,777,13,M_2550
+exp,exp_name,leslie,Leslie,159856,159862,17,777,13,M_2551
+booknlp,COREF,118,She,159891,159894,17,777,13,M_2552
+booknlp,COREF,39,he,159910,159912,20,777,13,M_2553
+booknlp,COREF,39,he,159974,159976,20,778,13,M_2554
+booknlp,COREF,39,his,160024,160027,20,778,13,M_2555
+booknlp,COREF,39,He,160033,160035,20,778,13,M_2556
+booknlp,COREF,39,he,160056,160058,20,778,13,M_2557
+exp,exp_name,leslie,Leslie,160166,160172,17,778,13,M_2558
+booknlp,COREF,39,He,160194,160196,20,779,13,M_2559
+booknlp,COREF,39,his,160235,160238,20,779,13,M_2560
+exp,exp_name,leslie,Leslie,160240,160246,17,779,13,M_2561
+booknlp,COREF,118,her,160261,160264,17,779,13,M_2562
+booknlp,COREF,39,he,160292,160294,20,779,13,M_2563
+booknlp,COREF,39,he,160344,160346,20,779,13,M_2564
+booknlp,COREF,39,he,160374,160376,20,779,13,M_2565
+booknlp,COREF,118,her,160404,160407,17,779,13,M_2566
+booknlp,COREF,39,he,160413,160415,20,779,13,M_2567
+booknlp,COREF,39,his,160430,160433,20,779,13,M_2568
+booknlp,COREF,118,her,160459,160462,17,779,13,M_2569
+booknlp,COREF,39,He,160477,160479,20,779,13,M_2570
+booknlp,COREF,39,him,160524,160527,20,779,13,M_2571
+booknlp,COREF,39,He,160529,160531,20,779,13,M_2572
+booknlp,COREF,39,he,160624,160626,20,779,13,M_2573
+exp,exp_name,leslie,Leslie,160642,160648,17,779,13,M_2574
+booknlp,COREF,39,him,160822,160825,20,780,13,M_2575
+booknlp,COREF,39,he,160865,160867,20,780,13,M_2576
+exp,exp_name,leslie,Leslie,160899,160905,17,780,13,M_2577
+booknlp,COREF,39,his,160927,160930,20,780,13,M_2578
+booknlp,COREF,39,He,161018,161020,20,780,13,M_2579
+exp,exp_name,mrs. oakley,Mrs. Oakley,161054,161065,17,780,13,M_2580
+booknlp,COREF,118,her,161096,161099,17,780,13,M_2581
+booknlp,COREF,39,He,161108,161110,20,780,13,M_2582
+booknlp,COREF,118,her,161124,161127,17,780,13,M_2583
+booknlp,COREF,39,He,161129,161131,20,780,13,M_2584
+booknlp,COREF,39,him,161163,161166,20,780,13,M_2585
+booknlp,COREF,39,his,161168,161171,20,780,13,M_2586
+booknlp,COREF,39,his,161187,161190,20,780,13,M_2587
+booknlp,COREF,39,his,161277,161280,20,780,13,M_2588
+booknlp,COREF,39,he,161287,161289,20,780,13,M_2589
+booknlp,COREF,39,his,161334,161337,20,780,13,M_2590
+pdnc,qID,Q474-1,Maurice,161392,161399,20,781,13,M_2591
+pdnc,qID,Q474-1,Maurice,161401,161408,20,781,13,M_2592
+booknlp,COREF,39,He,161412,161414,20,782,13,M_2593
+booknlp,COREF,39,his,161482,161485,20,782,13,M_2594
+booknlp,COREF,39,him,161504,161507,20,782,13,M_2595
+booknlp,COREF,39,his,161522,161525,20,782,13,M_2596
+booknlp,COREF,39,he,161536,161538,20,782,13,M_2597
+booknlp,COREF,39,his,161775,161778,20,782,13,M_2598
+exp,exp_name,frank,Frank,162076,162081,8,783,13,M_2599
+exp,exp_name,esterton,Esterton,162637,162645,14,784,13,M_2600
+booknlp,COREF,48,he,162646,162648,14,784,13,M_2601
+exp,exp_name,berry,Berry,162705,162710,4,784,13,M_2602
+exp,exp_name,berry,Berry,163318,163323,4,785,13,M_2603
+exp,exp_name,claire,Claire,163828,163834,5,787,13,M_2604
+booknlp,COREF,46,She,163954,163957,5,787,13,M_2605
+booknlp,COREF,46,she,163981,163984,5,787,13,M_2606
+booknlp,COREF,46,she,164007,164010,5,787,13,M_2607
+booknlp,COREF,46,she,164039,164042,5,787,13,M_2608
+booknlp,COREF,46,her,164122,164125,5,788,13,M_2609
+booknlp,COREF,46,her,164152,164155,5,788,13,M_2610
+booknlp,COREF,46,her,164225,164228,5,788,13,M_2611
+booknlp,COREF,46,her,164495,164498,5,788,13,M_2612
+booknlp,COREF,46,her,164528,164531,5,789,13,M_2613
+booknlp,COREF,46,her,164550,164553,5,789,13,M_2614
+booknlp,COREF,46,her,164764,164767,5,789,13,M_2615
+booknlp,COREF,46,her,164877,164880,5,790,13,M_2616
+booknlp,COREF,46,her,164928,164931,5,790,13,M_2617
+exp,exp_name,berry,Berry,165505,165510,4,791,13,M_2618
+booknlp,COREF,1255,I,165521,165522,33,791,13,M_2619
+booknlp,COREF,1255,me,165543,165545,33,791,13,M_2620
+booknlp,COREF,1255,me,165574,165576,33,791,13,M_2621
+booknlp,COREF,1255,me,165604,165606,33,791,13,M_2622
+booknlp,COREF,1255,me,165628,165630,33,791,13,M_2623
+booknlp,COREF,1255,me,165652,165654,33,791,13,M_2624
+booknlp,COREF,1255,I,165675,165676,33,791,13,M_2625
+booknlp,COREF,1255,I,165731,165732,33,791,13,M_2626
+exp,exp_name,frank,FRANK,165873,165878,8,792,13,M_2627
+exp,exp_name,mrs. oakley,Mrs. Oakley,165923,165934,17,793,13,M_2628
+exp,exp_name,the doctor,the doctor,166033,166043,33,793,13,M_2629
+pdnc,qID,Q476-0,dear,166221,166225,20,795,13,M_2630
+pdnc,qID,Q480-0,you,166433,166436,17,799,13,M_2631
+pdnc,qID,Q480-0,Frank,166530,166535,8,799,13,M_2632
+pdnc,qID,Q480-0,Frank,166537,166542,8,799,13,M_2633
+pdnc,qID,Q480-0,Frank,166544,166549,8,799,13,M_2634
+pdnc,qID,Q481-0,Maurice,166566,166573,20,800,13,M_2635
+pdnc,qID,Q481-0,you,166587,166590,20,800,13,M_2636
+pdnc,qID,Q483-1,my brother,166788,166798,8,803,13,M_2637
+pdnc,qID,Q483-1,my brother,166800,166810,8,803,13,M_2638
+pdnc,qID,Q484-0,Frank,166849,166854,8,804,13,M_2639
+pdnc,qID,Q485-0,Frank,166918,166923,8,805,13,M_2640
+pdnc,qID,Q485-0,Frank,166926,166931,8,805,13,M_2641
+pdnc,qID,Q485-0,my brother,166933,166943,8,805,13,M_2642
+pdnc,qID,Q486-0,Leslie,167008,167014,17,807,13,M_2643
+pdnc,qID,Q487-0,Maurice,167095,167102,20,808,13,M_2644
+pdnc,qID,Q488-1,my brother,167217,167227,8,809,13,M_2645
+pdnc,qID,Q489-0,Maurice,167311,167318,20,810,13,M_2646
+exp,exp_name,the doctor,the doctor,167423,167433,33,813,13,M_2647
+booknlp,COREF,1255,he,167440,167442,33,813,13,M_2648
+exp,exp_name,maurice oakley,Maurice Oakley,167449,167463,20,813,13,M_2649
+exp,exp_name,the doctor,the doctor,167677,167687,33,813,13,M_2650
+exp,exp_name,the physician,the physician,167760,167773,33,813,13,M_2651
+pdnc,qID,Q491-1,him,167927,167930,20,814,13,M_2652
+pdnc,qID,Q491-1,his,167938,167941,20,814,13,M_2653
+pdnc,qID,Q491-1,Oakley,168014,168020,20,814,13,M_2654
+exp,exp_name,maurice oakley,Maurice Oakley,168128,168142,20,815,13,M_2655
+pdnc,qID,Q492-0,Leslie,168218,168224,17,816,13,M_2656
+pdnc,qID,Q492-0,you,168226,168229,17,816,13,M_2657
+pdnc,qID,Q493-0,Berry,168314,168319,4,817,13,M_2658
+pdnc,qID,Q494-0,Berry,168332,168337,4,818,13,M_2659
+pdnc,qID,Q494-1,Berry,168382,168387,4,818,13,M_2660
+pdnc,qID,Q494-1,Frank,168391,168396,8,818,13,M_2661
+pdnc,qID,Q494-1,my brother,168421,168431,8,818,13,M_2662
+pdnc,qID,Q494-1,his,168442,168445,4,818,13,M_2663
+pdnc,qID,Q495-0,Maurice,168509,168516,20,819,13,M_2664
+pdnc,qID,Q495-0,you,168530,168533,20,819,13,M_2665
+pdnc,qID,Q496-0,Berry,168582,168587,4,820,13,M_2666
+exp,exp_name,frank,Frank,168633,168638,8,821,13,M_2667
+exp,exp_name,oakley,Oakley,168684,168690,20,821,13,M_2668
+booknlp,COREF,39,his,168718,168721,20,821,13,M_2669
+exp,exp_name,kitty hamilton,Kitty Hamilton,169306,169320,16,824,14,M_2670
+exp,exp_name,joe,Joe,169325,169328,15,824,14,M_2671
+exp,exp_name,joe,Joe,169470,169473,15,824,14,M_2672
+booknlp,COREF,39,He,169513,169515,20,824,14,M_2673
+booknlp,COREF,39,him,169582,169585,20,824,14,M_2674
+booknlp,COREF,39,him,169630,169633,20,824,14,M_2675
+booknlp,COREF,39,him,169642,169645,20,824,14,M_2676
+booknlp,COREF,39,his,169672,169675,20,824,14,M_2677
+booknlp,COREF,39,his,169698,169701,20,824,14,M_2678
+booknlp,COREF,39,his,169718,169721,20,824,14,M_2679
+exp,exp_name,hattie sterling,Hattie Sterling,169805,169820,11,825,14,M_2680
+booknlp,COREF,39,him,169831,169834,20,825,14,M_2681
+booknlp,COREF,39,his,169840,169843,20,825,14,M_2682
+booknlp,COREF,100,She,169884,169887,11,825,14,M_2683
+booknlp,COREF,39,him,169907,169910,20,825,14,M_2684
+booknlp,COREF,39,his,169911,169914,20,825,14,M_2685
+booknlp,COREF,100,she,169937,169940,11,825,14,M_2686
+booknlp,COREF,39,his,169950,169953,20,825,14,M_2687
+booknlp,COREF,100,her,169974,169977,11,825,14,M_2688
+booknlp,COREF,100,she,170006,170009,11,825,14,M_2689
+booknlp,COREF,39,his,170030,170033,20,825,14,M_2690
+booknlp,COREF,100,Her,170042,170045,11,825,14,M_2691
+booknlp,COREF,39,him,170098,170101,20,825,14,M_2692
+booknlp,COREF,100,she,170128,170131,11,825,14,M_2693
+booknlp,COREF,39,he,170154,170156,20,825,14,M_2694
+booknlp,COREF,39,He,170173,170175,20,825,14,M_2695
+booknlp,COREF,39,he,170198,170200,20,825,14,M_2696
+booknlp,COREF,39,he,170310,170312,20,825,14,M_2697
+booknlp,COREF,100,She,170351,170354,11,825,14,M_2698
+booknlp,COREF,100,her,170360,170363,11,825,14,M_2699
+booknlp,COREF,39,him,170382,170385,20,825,14,M_2700
+booknlp,COREF,39,he,170397,170399,20,825,14,M_2701
+booknlp,COREF,39,He,170451,170453,20,825,14,M_2702
+booknlp,COREF,39,his,170469,170472,20,825,14,M_2703
+booknlp,COREF,39,he,170500,170502,20,825,14,M_2704
+exp,exp_name,sadness,Sadness,170528,170535,29,825,14,M_2705
+booknlp,COREF,39,He,170551,170553,20,825,14,M_2706
+booknlp,COREF,39,he,170576,170578,20,825,14,M_2707
+booknlp,COREF,39,his,170610,170613,20,825,14,M_2708
+booknlp,COREF,39,he,170631,170633,20,825,14,M_2709
+exp,exp_name,hattie,Hattie,170669,170675,11,825,14,M_2710
+booknlp,COREF,100,she,170721,170724,11,825,14,M_2711
+booknlp,COREF,39,him,170734,170737,20,825,14,M_2712
+booknlp,COREF,39,his,170743,170746,20,825,14,M_2713
+booknlp,COREF,39,He,170793,170795,20,825,14,M_2714
+booknlp,COREF,39,he,170872,170874,20,825,14,M_2715
+exp,exp_name,hattie sterling,Hattie Sterling,170928,170943,11,825,14,M_2716
+booknlp,COREF,39,him,170955,170958,20,825,14,M_2717
+booknlp,COREF,100,her,170959,170962,11,825,14,M_2718
+booknlp,COREF,39,him,171017,171020,20,825,14,M_2719
+booknlp,COREF,39,him,171033,171036,20,825,14,M_2720
+booknlp,COREF,39,him,171059,171062,20,825,14,M_2721
+booknlp,COREF,39,He,171064,171066,20,825,14,M_2722
+booknlp,COREF,39,his,171099,171102,20,825,14,M_2723
+booknlp,COREF,39,He,171112,171114,20,825,14,M_2724
+booknlp,COREF,100,her,171133,171136,11,825,14,M_2725
+booknlp,COREF,39,he,171158,171160,20,825,14,M_2726
+booknlp,COREF,100,She,171206,171209,11,826,14,M_2727
+booknlp,COREF,39,him,171220,171223,20,826,14,M_2728
+booknlp,COREF,39,he,171258,171260,20,826,14,M_2729
+booknlp,COREF,39,his,171273,171276,20,826,14,M_2730
+pdnc,qID,Q497-0,you,171298,171301,15,827,14,M_2731
+booknlp,COREF,100,she,171317,171320,11,827,14,M_2732
+pdnc,qID,Q497-1,You,171355,171358,15,827,14,M_2733
+booknlp,COREF,39,He,171422,171424,20,828,14,M_2734
+booknlp,COREF,39,his,171437,171440,20,828,14,M_2735
+booknlp,COREF,39,His,171493,171496,20,829,14,M_2736
+booknlp,COREF,100,her,171532,171535,11,829,14,M_2737
+booknlp,COREF,100,her,171556,171559,11,829,14,M_2738
+pdnc,qID,Q498-0,You,171626,171629,15,830,14,M_2739
+booknlp,COREF,39,I,171644,171645,20,830,14,M_2740
+booknlp,COREF,39,my,171663,171665,20,830,14,M_2741
+pdnc,qID,Q498-0,you,171679,171682,15,830,14,M_2742
+pdnc,qID,Q498-0,you,171761,171764,15,830,14,M_2743
+booknlp,COREF,39,I,171771,171772,20,830,14,M_2744
+pdnc,qID,Q498-0,you,171780,171783,15,830,14,M_2745
+pdnc,qID,Q498-0,you,171791,171794,15,830,14,M_2746
+booknlp,COREF,39,I,171853,171854,20,830,14,M_2747
+pdnc,qID,Q498-0,you,171867,171870,15,830,14,M_2748
+pdnc,qID,Q498-0,you,171896,171899,15,830,14,M_2749
+booknlp,COREF,39,me,171904,171906,20,830,14,M_2750
+pdnc,qID,Q498-0,you,171964,171967,15,830,14,M_2751
+booknlp,COREF,39,I,171978,171979,20,830,14,M_2752
+pdnc,qID,Q498-0,you,171985,171988,15,830,14,M_2753
+pdnc,qID,Q498-0,you,172003,172006,15,830,14,M_2754
+booknlp,COREF,39,I,172021,172022,20,830,14,M_2755
+pdnc,qID,Q498-0,You,172036,172039,15,830,14,M_2756
+pdnc,qID,Q499-0,Ha'ie,172324,172329,11,833,14,M_2757
+pdnc,qID,Q500-1,You,172835,172838,15,836,14,M_2758
+pdnc,qID,Q501-0,you drunken dog,173004,173019,15,837,14,M_2759
+pdnc,qID,Q501-0,your,173035,173039,15,837,14,M_2760
+pdnc,qID,Q502-0,you,173201,173204,11,838,14,M_2761
+pdnc,qID,Q502-0,you,173223,173226,11,838,14,M_2762
+pdnc,qID,Q502-0,you,173240,173243,11,838,14,M_2763
+exp,exp_name,sadness,Sadness,173310,173317,29,839,14,M_2764
+exp,exp_name,skaggsy,Skaggsy,173322,173329,22,839,14,M_2765
+exp,exp_name,maudie,Maudie,173531,173537,19,839,14,M_2766
+exp,exp_name,mr. skaggs,Mr. Skaggs,173606,173616,22,839,14,M_2767
+exp,exp_name,skaggsy,Skaggsy,173856,173863,22,840,14,M_2768
+exp,exp_name,maudie,Maudie,173937,173943,19,840,14,M_2769
+pdnc,qID,Q503-0,you,173981,173984,29,841,14,M_2770
+pdnc,qID,Q503-0,Sadness,173986,173993,29,841,14,M_2771
+exp,exp_name,sadness,Sadness,174068,174075,29,842,14,M_2772
+exp,exp_name,sadness,Sadness,174243,174250,29,843,14,M_2773
+exp,exp_name,joe,Joe,174269,174272,15,843,14,M_2774
+exp,exp_name,sadness,Sadness,174379,174386,29,844,14,M_2775
+pdnc,qID,Q505-1,Joe,174423,174426,15,844,14,M_2776
+pdnc,qID,Q507-0,Jack,174688,174692,24,846,14,M_2777
+exp,exp_name,joe,Joe,174755,174758,15,847,14,M_2778
+pdnc,qID,Q508-0,Ha'ie,174782,174787,11,848,14,M_2779
+pdnc,qID,Q509-0,Lucky dog,174811,174820,15,849,14,M_2780
+pdnc,qID,Q509-0,You,174822,174825,15,849,14,M_2781
+exp,exp_name,skaggs,Skaggs,174911,174917,22,850,14,M_2782
+exp,exp_name,joe,Joe,174950,174953,15,850,14,M_2783
+pdnc,qID,Q510-0,her,174976,174979,11,851,14,M_2784
+pdnc,qID,Q511-0,you,175006,175009,15,852,14,M_2785
+pdnc,qID,Q511-0,old Sadness,175016,175027,29,852,14,M_2786
+pdnc,qID,Q511-0,your,175047,175051,15,852,14,M_2787
+pdnc,qID,Q511-0,you,175063,175066,15,852,14,M_2788
+pdnc,qID,Q511-0,her,175078,175081,11,852,14,M_2789
+pdnc,qID,Q512-0,her,175105,175108,11,853,14,M_2790
+pdnc,qID,Q513-0,the ol' man,175233,175244,4,853,14,M_2791
+pdnc,qID,Q513-0,He,175246,175248,4,853,14,M_2792
+pdnc,qID,Q513-0,he,175278,175280,4,853,14,M_2793
+pdnc,qID,Q514-1,you,175408,175411,29,855,14,M_2794
+pdnc,qID,Q514-1,himself,175445,175452,8,855,14,M_2795
+pdnc,qID,Q514-1,the old man,175468,175479,4,855,14,M_2796
+pdnc,qID,Q514-1,Jack,175556,175560,24,855,14,M_2797
+pdnc,qID,Q514-1,your father,175573,175584,4,855,14,M_2798
+pdnc,qID,Q516-0,your father,175665,175676,4,857,14,M_2799
+pdnc,qID,Q516-0,he,175695,175697,4,857,14,M_2800
+pdnc,qID,Q517-0,Ol' man,175758,175765,4,858,14,M_2801
+pdnc,qID,Q517-0,he,175788,175790,4,858,14,M_2802
+pdnc,qID,Q518-0,him,175810,175813,15,859,14,M_2803
+pdnc,qID,Q518-0,Skaggsy,175821,175828,22,859,14,M_2804
+pdnc,qID,Q518-0,he,175830,175832,15,859,14,M_2805
+pdnc,qID,Q518-0,he,175849,175851,15,859,14,M_2806
+pdnc,qID,Q519-0,he,175871,175873,15,860,14,M_2807
+exp,exp_name,sadness,Sadness,175935,175942,29,861,14,M_2808
+pdnc,qID,Q521-0,man,175964,175967,29,862,14,M_2809
+exp,exp_name,skaggs,Skaggs,176139,176145,22,863,14,M_2810
+pdnc,qID,Q522-0,She,176276,176279,11,863,14,M_2811
+exp,exp_name,sadness,Sadness,176315,176322,29,864,14,M_2812
+pdnc,qID,Q523-1,you,176325,176328,22,864,14,M_2813
+pdnc,qID,Q523-1,you,176365,176368,22,864,14,M_2814
+pdnc,qID,Q523-1,our young friend,176405,176421,15,864,14,M_2815
+pdnc,qID,Q523-1,You,176423,176426,22,864,14,M_2816
+pdnc,qID,Q523-1,you,176453,176456,22,864,14,M_2817
+pdnc,qID,Q525-0,you,176535,176538,22,866,14,M_2818
+exp,exp_name,sadness,Sadness,176601,176608,29,866,14,M_2819
+exp,exp_name,joe,Joe,176683,176686,15,866,14,M_2820
+exp,exp_name,hattie,Hattie,177175,177181,11,867,14,M_2821
+booknlp,COREF,100,her,177360,177363,11,867,14,M_2822
+booknlp,COREF,100,She,177370,177373,11,867,14,M_2823
+booknlp,COREF,100,her,177417,177420,11,867,14,M_2824
+booknlp,COREF,100,she,177436,177439,11,868,14,M_2825
+pdnc,qID,Q528-0,you,177520,177523,15,870,14,M_2826
+pdnc,qID,Q528-0,you,177545,177548,15,870,14,M_2827
+pdnc,qID,Q528-0,you,177597,177600,15,870,14,M_2828
+booknlp,COREF,100,She,177614,177617,11,871,14,M_2829
+booknlp,COREF,100,her,177697,177700,11,872,14,M_2830
+booknlp,COREF,100,her,177758,177761,11,872,14,M_2831
+pdnc,qID,Q529-0,You,177782,177785,11,873,14,M_2832
+pdnc,qID,Q530-0,You,177855,177858,15,874,14,M_2833
+booknlp,COREF,100,She,177872,177875,11,875,14,M_2834
+booknlp,COREF,100,her,177920,177923,11,875,14,M_2835
+booknlp,COREF,100,she,177928,177931,11,875,14,M_2836
+booknlp,COREF,100,she,177953,177956,11,875,14,M_2837
+booknlp,COREF,100,She,178042,178045,11,875,14,M_2838
+booknlp,COREF,100,her,178101,178104,11,875,14,M_2839
+pdnc,qID,Q531-0,You,178108,178111,11,876,14,M_2840
+booknlp,COREF,100,She,178224,178227,11,877,14,M_2841
+booknlp,COREF,100,her,178310,178313,11,877,14,M_2842
+booknlp,COREF,100,her,178345,178348,11,877,14,M_2843
+pdnc,qID,Q532-0,Joe,178404,178407,15,878,14,M_2844
+pdnc,qID,Q532-0,Joe,178409,178412,15,878,14,M_2845
+booknlp,COREF,100,she,178415,178418,11,878,14,M_2846
+booknlp,COREF,100,me,178473,178475,11,878,14,M_2847
+booknlp,COREF,100,her,178519,178522,11,879,14,M_2848
+booknlp,COREF,100,her,178570,178573,11,879,14,M_2849
+pdnc,qID,Q533-0,You,178730,178733,11,881,14,M_2850
+pdnc,qID,Q533-0,you,178746,178749,11,881,14,M_2851
+pdnc,qID,Q533-0,you,178751,178754,11,881,14,M_2852
+pdnc,qID,Q533-0,you,178760,178763,11,881,14,M_2853
+pdnc,qID,Q534-0,You,178889,178892,11,881,14,M_2854
+pdnc,qID,Q534-0,you,178921,178924,11,881,14,M_2855
+pdnc,qID,Q534-0,You,178939,178942,11,881,14,M_2856
+pdnc,qID,Q534-0,you,178969,178972,11,881,14,M_2857
+exp,exp_name,joe,Joe,179068,179071,15,882,14,M_2858
+exp,exp_name,hattie sterling,Hattie Sterling,179758,179773,11,883,14,M_2859
+exp,exp_name,joe,Joe,179865,179868,15,886,15,M_2860
+exp,exp_name,sadness,Sadness,181375,181382,29,888,15,M_2861
+booknlp,COREF,90,I,181453,181454,29,888,15,M_2862
+pdnc,qID,Q535-0,him,181459,181462,15,888,15,M_2863
+booknlp,COREF,90,he,181465,181467,29,888,15,M_2864
+pdnc,qID,Q535-1,Jack,181524,181528,24,888,15,M_2865
+booknlp,COREF,90,me,181538,181540,29,888,15,M_2866
+pdnc,qID,Q535-1,him,181573,181576,15,888,15,M_2867
+booknlp,COREF,90,me,181584,181586,29,888,15,M_2868
+booknlp,COREF,90,me,181609,181611,29,888,15,M_2869
+pdnc,qID,Q535-1,they,181638,181642,4,888,15,M_2870
+pdnc,qID,Q535-1,him,181656,181659,15,888,15,M_2871
+pdnc,qID,Q535-1,him,181697,181700,15,888,15,M_2872
+exp,exp_name,sadness,Sadness,181754,181761,29,889,15,M_2873
+exp,exp_name,brown,brown,182416,182421,21,889,15,M_2874
+exp,exp_name,joe,Joe,183484,183487,15,891,15,M_2875
+exp,exp_name,fannie hamilton,Fannie Hamilton,183899,183914,7,892,15,M_2876
+booknlp,COREF,35,her,183930,183933,7,892,15,M_2877
+booknlp,COREF,35,her,183982,183985,7,892,15,M_2878
+booknlp,COREF,35,She,184017,184020,7,892,15,M_2879
+booknlp,COREF,35,her,184049,184052,7,892,15,M_2880
+booknlp,COREF,35,She,184084,184087,7,892,15,M_2881
+booknlp,COREF,35,her,184113,184116,7,892,15,M_2882
+booknlp,COREF,35,she,184228,184231,7,892,15,M_2883
+booknlp,COREF,35,her,184276,184279,7,892,15,M_2884
+exp,exp_name,joe hamilton,Joe Hamilton,184313,184325,15,892,15,M_2885
+booknlp,COREF,35,her,184365,184368,7,892,15,M_2886
+booknlp,COREF,35,her,184374,184377,7,892,15,M_2887
+exp,exp_name,kitty hamilton,Kitty Hamilton,184417,184431,16,893,15,M_2888
+booknlp,COREF,35,her,184499,184502,7,893,15,M_2889
+booknlp,COREF,35,She,184529,184532,7,893,15,M_2890
+booknlp,COREF,35,her,184588,184591,7,893,15,M_2891
+booknlp,COREF,35,she,184669,184672,7,893,15,M_2892
+booknlp,COREF,35,her,184773,184776,7,893,15,M_2893
+booknlp,COREF,35,she,184816,184819,7,894,15,M_2894
+booknlp,COREF,35,her,184824,184827,7,894,15,M_2895
+exp,exp_name,joe,Joe,184882,184885,15,894,15,M_2896
+booknlp,COREF,35,she,185022,185025,7,894,15,M_2897
+booknlp,COREF,35,her,185077,185080,7,894,15,M_2898
+booknlp,COREF,35,she,185128,185131,7,894,15,M_2899
+booknlp,COREF,35,she,185316,185319,7,894,15,M_2900
+booknlp,COREF,35,her,185335,185338,7,894,15,M_2901
+booknlp,COREF,35,she,185407,185410,7,895,15,M_2902
+booknlp,COREF,35,she,185429,185432,7,895,15,M_2903
+booknlp,COREF,35,her,185451,185454,7,895,15,M_2904
+booknlp,COREF,35,she,185577,185580,7,895,15,M_2905
+booknlp,COREF,35,she,185633,185636,7,895,15,M_2906
+booknlp,COREF,35,her,185647,185650,7,895,15,M_2907
+booknlp,COREF,35,her,185692,185695,7,895,15,M_2908
+exp,exp_name,joe,Joe,185738,185741,15,895,15,M_2909
+booknlp,COREF,35,she,185757,185760,7,895,15,M_2910
+booknlp,COREF,35,herself,185770,185777,7,895,15,M_2911
+booknlp,COREF,35,her,185841,185844,7,895,15,M_2912
+booknlp,COREF,35,her,185854,185857,7,895,15,M_2913
+booknlp,COREF,35,She,185895,185898,7,895,15,M_2914
+exp,exp_name,joe,Joe,185935,185938,15,895,15,M_2915
+booknlp,COREF,35,She,185949,185952,7,895,15,M_2916
+booknlp,COREF,35,her,185971,185974,7,895,15,M_2917
+booknlp,COREF,35,She,185984,185987,7,895,15,M_2918
+booknlp,COREF,35,her,186013,186016,7,895,15,M_2919
+booknlp,COREF,35,she,186031,186034,7,895,15,M_2920
+booknlp,COREF,35,she,186056,186059,7,895,15,M_2921
+booknlp,COREF,35,her,186082,186085,7,895,15,M_2922
+exp,exp_name,kitty hamilton,Kitty Hamilton,186126,186140,16,896,15,M_2923
+booknlp,COREF,38,her,186170,186173,16,896,15,M_2924
+booknlp,COREF,38,her,186185,186188,16,896,15,M_2925
+booknlp,COREF,38,She,186197,186200,16,896,15,M_2926
+booknlp,COREF,38,her,186226,186229,16,896,15,M_2927
+booknlp,COREF,38,her,186274,186277,16,896,15,M_2928
+booknlp,COREF,38,she,186318,186321,16,896,15,M_2929
+booknlp,COREF,38,her,186403,186406,16,896,15,M_2930
+exp,exp_name,berry hamilton,Berry Hamilton,186439,186453,4,897,15,M_2931
+booknlp,COREF,34,his,186457,186460,4,897,15,M_2932
+booknlp,COREF,34,him,186537,186540,4,897,15,M_2933
+booknlp,COREF,34,his,186545,186548,4,897,15,M_2934
+exp,exp_name,skaggs,SKAGGS,186656,186662,22,899,16,M_2935
+exp,exp_name,mr. skaggs,Mr. Skaggs,186708,186718,22,900,16,M_2936
+booknlp,COREF,95,him,186741,186744,22,900,16,M_2937
+booknlp,COREF,95,he,186788,186790,22,900,16,M_2938
+booknlp,COREF,95,his,186808,186811,22,900,16,M_2939
+booknlp,COREF,95,he,186855,186857,22,900,16,M_2940
+exp,exp_name,sadness,Sadness,186906,186913,29,900,16,M_2941
+booknlp,COREF,95,him,186944,186947,22,900,16,M_2942
+booknlp,COREF,95,he,186953,186955,22,900,16,M_2943
+exp,exp_name,joe,Joe,186971,186974,15,900,16,M_2944
+booknlp,COREF,95,him,187026,187029,22,900,16,M_2945
+booknlp,COREF,95,him,187101,187104,22,900,16,M_2946
+booknlp,COREF,95,He,187174,187176,22,900,16,M_2947
+booknlp,COREF,95,he,187209,187211,22,900,16,M_2948
+booknlp,COREF,95,he,187274,187276,22,900,16,M_2949
+booknlp,COREF,95,he,187321,187323,22,900,16,M_2950
+booknlp,COREF,95,his,187356,187359,22,900,16,M_2951
+exp,exp_name,the editor,the editor,187373,187383,32,900,16,M_2952
+exp,exp_name,the editor,the editor,187425,187435,32,900,16,M_2953
+booknlp,COREF,1370,he,187503,187505,32,901,16,M_2954
+pdnc,qID,Q536-1,you,187639,187642,22,901,16,M_2955
+pdnc,qID,Q536-1,Skaggs,187644,187650,22,901,16,M_2956
+booknlp,COREF,1370,I,187683,187684,32,902,16,M_2957
+pdnc,qID,Q538-0,You,187800,187803,22,903,16,M_2958
+pdnc,qID,Q538-0,You,187825,187828,22,903,16,M_2959
+pdnc,qID,Q540-0,you,187924,187927,22,905,16,M_2960
+booknlp,COREF,1370,my,187959,187961,32,905,16,M_2961
+booknlp,COREF,1370,I,187995,187996,32,905,16,M_2962
+pdnc,qID,Q540-0,you,188002,188005,22,905,16,M_2963
+exp,exp_name,skaggs,Skaggs,188014,188020,22,906,16,M_2964
+exp,exp_name,skaggs,Skaggs,188148,188154,22,907,16,M_2965
+booknlp,COREF,95,he,188179,188181,22,907,16,M_2966
+booknlp,COREF,95,himself,188191,188198,22,907,16,M_2967
+exp,exp_name,the editor,The editor,188242,188252,32,907,16,M_2968
+exp,exp_name,the detective,The detective,188346,188359,31,907,16,M_2969
+exp,exp_name,maurice oakley,Maurice Oakley,188409,188423,20,907,16,M_2970
+booknlp,COREF,39,his,188428,188431,20,907,16,M_2971
+booknlp,COREF,95,his,188533,188536,22,907,16,M_2972
+booknlp,COREF,95,him,188586,188589,22,907,16,M_2973
+exp,exp_name,skaggs,Skaggs,188597,188603,22,908,16,M_2974
+booknlp,COREF,95,he,188663,188665,22,908,16,M_2975
+booknlp,COREF,95,He,188705,188707,22,908,16,M_2976
+booknlp,COREF,95,his,188799,188802,22,908,16,M_2977
+booknlp,COREF,95,he,188811,188813,22,908,16,M_2978
+booknlp,COREF,95,His,188852,188855,22,908,16,M_2979
+booknlp,COREF,95,his,188907,188910,22,908,16,M_2980
+booknlp,COREF,95,he,189077,189079,22,908,16,M_2981
+booknlp,COREF,95,his,189090,189093,22,908,16,M_2982
+booknlp,COREF,95,him,189129,189132,22,908,16,M_2983
+booknlp,COREF,95,his,189167,189170,22,908,16,M_2984
+booknlp,COREF,95,He,189178,189180,22,909,16,M_2985
+booknlp,COREF,95,he,189197,189199,22,909,16,M_2986
+booknlp,COREF,95,his,189255,189258,22,909,16,M_2987
+exp,exp_name,skaggs,Skaggs,189337,189343,22,909,16,M_2988
+exp,exp_name,beachfield davis,Beachfield Davis,189376,189392,3,909,16,M_2989
+booknlp,COREF,95,him,189403,189406,22,909,16,M_2990
+pdnc,qID,Q541-0,you,189594,189597,22,909,16,M_2991
+pdnc,qID,Q541-0,you,189636,189639,22,909,16,M_2992
+exp,exp_name,horace talbot,Horace Talbot,189671,189684,12,910,16,M_2993
+pdnc,qID,Q542-1,Beachfield,189687,189697,3,910,16,M_2994
+pdnc,qID,Q542-1,Hamilton,189777,189785,4,910,16,M_2995
+pdnc,qID,Q542-1,Beachfield,189803,189813,3,910,16,M_2996
+pdnc,qID,Q542-1,his,189860,189863,3,910,16,M_2997
+pdnc,qID,Q542-1,his,189889,189892,3,910,16,M_2998
+pdnc,qID,Q543-0,sir,190106,190109,12,912,16,M_2999
+pdnc,qID,Q544-0,an old and trusted servant,190172,190198,4,913,16,M_3000
+pdnc,qID,Q544-0,his master,190206,190216,20,913,16,M_3001
+pdnc,qID,Q545-0,you,190243,190246,12,914,16,M_3002
+pdnc,qID,Q545-0,Mr. Talbot,190262,190272,12,914,16,M_3003
+booknlp,COREF,68,Davis,190284,190289,3,914,16,M_3004
+booknlp,COREF,68,I,190297,190298,3,914,16,M_3005
+pdnc,qID,Q545-1,your,190306,190310,12,914,16,M_3006
+booknlp,COREF,68,I,190397,190398,3,916,16,M_3007
+pdnc,qID,Q549-0,Mr. Skaggs,190610,190620,22,918,16,M_3008
+exp,exp_name,colonel saunders,Colonel Saunders,190667,190683,6,918,16,M_3009
+booknlp,COREF,74,I,190686,190687,6,918,16,M_3010
+pdnc,qID,Q549-1,you,190727,190730,22,918,16,M_3011
+pdnc,qID,Q550-0,you,191024,191027,6,919,16,M_3012
+pdnc,qID,Q550-0,Colonel,191051,191058,6,919,16,M_3013
+booknlp,COREF,74,I,191112,191113,6,920,16,M_3014
+pdnc,qID,Q551-0,Berry Hamilton,191177,191191,4,920,16,M_3015
+pdnc,qID,Q552-1,Berry,191266,191271,4,921,16,M_3016
+pdnc,qID,Q552-1,him,191321,191324,4,921,16,M_3017
+booknlp,COREF,68,Davis,191368,191373,3,922,16,M_3018
+booknlp,COREF,68,my,191388,191390,3,922,16,M_3019
+pdnc,qID,Q554-0,you,191405,191408,22,923,16,M_3020
+pdnc,qID,Q554-0,you,191462,191465,22,923,16,M_3021
+booknlp,COREF,68,Davis,191641,191646,3,924,16,M_3022
+exp,exp_name,colonel,Colonel,191744,191751,6,924,16,M_3023
+pdnc,qID,Q555-0,Mr. Skaggs,191849,191859,22,925,16,M_3024
+pdnc,qID,Q555-1,he,192060,192062,4,925,16,M_3025
+exp,exp_name,colonel,Colonel,192107,192114,6,927,16,M_3026
+pdnc,qID,Q557-1,Maurice Oakley,192217,192231,20,927,16,M_3027
+pdnc,qID,Q557-1,he,192336,192338,20,927,16,M_3028
+pdnc,qID,Q557-1,he,192443,192445,20,927,16,M_3029
+pdnc,qID,Q557-1,his,192482,192485,20,927,16,M_3030
+pdnc,qID,Q557-1,he,192528,192530,20,927,16,M_3031
+pdnc,qID,Q557-1,He,192561,192563,20,927,16,M_3032
+pdnc,qID,Q557-1,he,192579,192581,20,927,16,M_3033
+pdnc,qID,Q557-1,He,192595,192597,20,927,16,M_3034
+pdnc,qID,Q557-1,his,192649,192652,20,927,16,M_3035
+pdnc,qID,Q559-0,he,192808,192810,20,929,16,M_3036
+pdnc,qID,Q559-0,the doctor,192856,192866,33,929,16,M_3037
+pdnc,qID,Q559-0,he,192878,192880,20,929,16,M_3038
+pdnc,qID,Q559-0,he,192897,192899,20,929,16,M_3039
+pdnc,qID,Q559-0,his,192915,192918,20,929,16,M_3040
+pdnc,qID,Q559-0,his,192929,192932,20,929,16,M_3041
+pdnc,qID,Q559-0,the physician,192951,192964,33,929,16,M_3042
+pdnc,qID,Q559-0,him,192983,192986,20,929,16,M_3043
+pdnc,qID,Q559-0,him,193040,193043,20,929,16,M_3044
+pdnc,qID,Q559-0,his wife,193063,193071,17,929,16,M_3045
+pdnc,qID,Q559-0,the doctor,193083,193093,33,929,16,M_3046
+pdnc,qID,Q559-0,an old friend of the family,193095,193122,33,929,16,M_3047
+pdnc,qID,Q559-0,Maurice Oakley,193135,193149,20,929,16,M_3048
+pdnc,qID,Q562-0,His,193308,193311,20,932,16,M_3049
+pdnc,qID,Q563-0,His,193370,193373,20,933,16,M_3050
+pdnc,qID,Q563-0,his,193429,193432,20,933,16,M_3051
+exp,exp_name,skaggs,Skaggs,193493,193499,22,936,16,M_3052
+exp,exp_name,colonel,Colonel,193535,193542,6,937,16,M_3053
+pdnc,qID,Q567-1,Oakley,193643,193649,20,938,16,M_3054
+pdnc,qID,Q567-1,his old servant,193683,193698,4,938,16,M_3055
+pdnc,qID,Q567-1,he,193741,193743,20,938,16,M_3056
+pdnc,qID,Q567-1,he,193770,193772,20,938,16,M_3057
+pdnc,qID,Q567-1,he,193824,193826,20,938,16,M_3058
+pdnc,qID,Q567-1,his,193882,193885,20,938,16,M_3059
+pdnc,qID,Q567-1,he,193932,193934,20,938,16,M_3060
+pdnc,qID,Q567-1,he,193981,193983,20,938,16,M_3061
+pdnc,qID,Q567-1,he,194042,194044,20,938,16,M_3062
+pdnc,qID,Q567-1,his,194056,194059,20,938,16,M_3063
+pdnc,qID,Q567-1,him,194126,194129,20,938,16,M_3064
+pdnc,qID,Q567-1,his,194138,194141,20,938,16,M_3065
+pdnc,qID,Q567-1,his,194158,194161,20,938,16,M_3066
+pdnc,qID,Q567-1,his,194190,194193,20,938,16,M_3067
+pdnc,qID,Q568-0,Colonel,194233,194240,6,939,16,M_3068
+pdnc,qID,Q568-0,you,194272,194275,6,939,16,M_3069
+pdnc,qID,Q568-0,you,194320,194323,6,939,16,M_3070
+pdnc,qID,Q569-0,you,194376,194379,22,940,16,M_3071
+pdnc,qID,Q569-0,Mr. Skaggs,194385,194395,22,940,16,M_3072
+pdnc,qID,Q569-0,Oakley,194706,194712,20,940,16,M_3073
+pdnc,qID,Q569-0,he,194729,194731,20,940,16,M_3074
+exp,exp_name,skaggs,Skaggs,194795,194801,22,942,16,M_3075
+booknlp,COREF,95,he,194819,194821,22,942,16,M_3076
+booknlp,COREF,95,he,194855,194857,22,942,16,M_3077
+exp,exp_name,colonel,Colonel,194876,194883,6,942,16,M_3078
+booknlp,COREF,95,him,194889,194892,22,942,16,M_3079
+booknlp,COREF,95,he,194940,194942,22,942,16,M_3080
+booknlp,COREF,95,him,194990,194993,22,943,16,M_3081
+pdnc,qID,Q571-0,Colonel,195029,195036,6,943,16,M_3082
+pdnc,qID,Q571-0,yours,195106,195111,6,943,16,M_3083
+booknlp,COREF,95,He,195115,195117,22,944,16,M_3084
+booknlp,COREF,95,he,195159,195161,22,944,16,M_3085
+booknlp,COREF,95,he,195171,195173,22,944,16,M_3086
+booknlp,COREF,95,himself,195180,195187,22,944,16,M_3087
+booknlp,COREF,95,I,195203,195204,22,944,16,M_3088
+booknlp,COREF,95,I,195217,195218,22,944,16,M_3089
+pdnc,qID,Q572-1,Maurice Oakley,195231,195245,20,944,16,M_3090
+booknlp,COREF,95,me,195255,195257,22,944,16,M_3091
+booknlp,COREF,95,He,195275,195277,22,944,16,M_3092
+booknlp,COREF,95,he,195305,195307,22,944,16,M_3093
+booknlp,COREF,95,his,195341,195344,22,944,16,M_3094
+booknlp,COREF,95,he,195379,195381,22,944,16,M_3095
+booknlp,COREF,95,he,195418,195420,22,944,16,M_3096
+exp,exp_name,oakley,Oakley,195446,195452,20,944,16,M_3097
+booknlp,COREF,95,he,195468,195470,22,945,16,M_3098
+exp,exp_name,oakley,Oakley,195515,195521,20,945,16,M_3099
+booknlp,COREF,95,his,195570,195573,22,945,16,M_3100
+booknlp,COREF,95,I,195584,195585,22,946,16,M_3101
+pdnc,qID,Q573-0,Mr. Oakley,195598,195608,20,946,16,M_3102
+booknlp,COREF,95,he,195611,195613,22,946,16,M_3103
+pdnc,qID,Q574-0,You,195622,195625,22,947,16,M_3104
+pdnc,qID,Q574-0,him,195637,195640,20,947,16,M_3105
+pdnc,qID,Q574-0,Mr. Oakley,195642,195652,20,947,16,M_3106
+pdnc,qID,Q575-0,him,195710,195713,20,948,16,M_3107
+pdnc,qID,Q575-0,madam,195715,195720,17,948,16,M_3108
+pdnc,qID,Q576-0,You,195764,195767,22,949,16,M_3109
+pdnc,qID,Q576-0,him,195796,195799,20,949,16,M_3110
+pdnc,qID,Q576-0,his wife,195806,195814,17,949,16,M_3111
+pdnc,qID,Q576-0,his,195835,195838,20,949,16,M_3112
+pdnc,qID,Q577-0,the master of the house,195874,195897,20,950,16,M_3113
+pdnc,qID,Q577-0,himself,195898,195905,20,950,16,M_3114
+pdnc,qID,Q578-0,You,195910,195913,22,951,16,M_3115
+pdnc,qID,Q578-0,him,195925,195928,20,951,16,M_3116
+pdnc,qID,Q578-0,his,195944,195947,20,951,16,M_3117
+exp,exp_name,skaggs,Skaggs,195979,195985,22,952,16,M_3118
+pdnc,qID,Q579-1,his,196015,196018,20,952,16,M_3119
+booknlp,COREF,95,mine,196029,196033,22,952,16,M_3120
+booknlp,COREF,95,I,196035,196036,22,952,16,M_3121
+booknlp,COREF,95,my,196054,196056,22,952,16,M_3122
+pdnc,qID,Q579-1,him,196086,196089,20,952,16,M_3123
+booknlp,COREF,95,I,196095,196096,22,952,16,M_3124
+pdnc,qID,Q580-1,Leslie,196175,196181,17,953,16,M_3125
+pdnc,qID,Q580-1,you,196190,196193,17,953,16,M_3126
+pdnc,qID,Q580-1,the gentleman at the door,196199,196224,22,953,16,M_3127
+exp,exp_name,mrs. oakley,Mrs. Oakley,196253,196264,17,954,16,M_3128
+exp,exp_name,skaggs,Skaggs,196291,196297,22,954,16,M_3129
+booknlp,COREF,95,he,196311,196313,22,954,16,M_3130
+exp,exp_name,oakley,Oakley,196319,196325,20,954,16,M_3131
+booknlp,COREF,95,he,196333,196335,22,954,16,M_3132
+booknlp,COREF,95,his,196377,196380,22,954,16,M_3133
+booknlp,COREF,95,him,196464,196467,22,954,16,M_3134
+booknlp,COREF,95,him,196473,196476,22,954,16,M_3135
+pdnc,qID,Q581-0,You,196712,196715,22,955,16,M_3136
+pdnc,qID,Q581-0,sir,196732,196735,22,955,16,M_3137
+exp,exp_name,skaggs,Skaggs,196818,196824,22,956,16,M_3138
+exp,exp_name,oakley,Oakley,196948,196954,20,957,16,M_3139
+exp,exp_name,skaggs,Skaggs,197202,197208,22,957,16,M_3140
+booknlp,COREF,95,he,197235,197237,22,957,16,M_3141
+booknlp,COREF,95,his,197242,197245,22,957,16,M_3142
+booknlp,COREF,95,his,197278,197281,22,957,16,M_3143
+pdnc,qID,Q582-1,the man,197431,197438,20,958,16,M_3144
+pdnc,qID,Q582-1,him,197452,197455,20,958,16,M_3145
+pdnc,qID,Q582-1,his,197459,197462,20,958,16,M_3146
+exp,exp_name,oakley,Oakley,197479,197485,20,958,16,M_3147
+booknlp,COREF,95,him,197512,197515,22,958,16,M_3148
+pdnc,qID,Q583-0,You,197533,197536,22,959,16,M_3149
+pdnc,qID,Q583-0,you,197538,197541,22,959,16,M_3150
+pdnc,qID,Q583-0,my brother,197571,197581,8,959,16,M_3151
+pdnc,qID,Q583-0,my brother,197583,197593,8,959,16,M_3152
+pdnc,qID,Q583-0,him,197633,197636,8,959,16,M_3153
+exp,exp_name,skaggs,Skaggs,197654,197660,22,960,16,M_3154
+booknlp,COREF,95,He,197684,197686,22,960,16,M_3155
+exp,exp_name,colonel,Colonel,197702,197709,6,960,16,M_3156
+booknlp,COREF,95,he,197794,197796,22,960,16,M_3157
+booknlp,COREF,95,he,197809,197811,22,960,16,M_3158
+booknlp,COREF,95,I,197831,197832,22,960,16,M_3159
+pdnc,qID,Q585-0,your brother,197853,197865,8,960,16,M_3160
+pdnc,qID,Q586-0,You,197920,197923,22,961,16,M_3161
+pdnc,qID,Q586-0,you,197930,197933,22,961,16,M_3162
+pdnc,qID,Q586-0,he,197972,197974,8,961,16,M_3163
+pdnc,qID,Q587-0,Your brother,198152,198164,8,963,16,M_3164
+pdnc,qID,Q587-0,you,198183,198186,20,963,16,M_3165
+pdnc,qID,Q587-0,you,198192,198195,20,963,16,M_3166
+pdnc,qID,Q587-0,you,198225,198228,20,963,16,M_3167
+pdnc,qID,Q587-0,your,198240,198244,20,963,16,M_3168
+pdnc,qID,Q587-0,his,198272,198275,8,963,16,M_3169
+pdnc,qID,Q587-0,He,198287,198289,8,963,16,M_3170
+pdnc,qID,Q587-0,you,198295,198298,20,963,16,M_3171
+exp,exp_name,oakley,Oakley,198319,198325,20,964,16,M_3172
+exp,exp_name,skaggs,Skaggs,198557,198563,22,966,16,M_3173
+pdnc,qID,Q589-0,your brother,198681,198693,8,967,16,M_3174
+pdnc,qID,Q590-0,his,198729,198732,8,968,16,M_3175
+pdnc,qID,Q590-0,you,198785,198788,22,968,16,M_3176
+exp,exp_name,skaggs,Skaggs,198843,198849,22,969,16,M_3177
+exp,exp_name,oakley,Oakley,198862,198868,20,969,16,M_3178
+exp,exp_name,oakley,Oakley,198994,199000,20,969,16,M_3179
+exp,exp_name,mrs. oakley,Mrs. Oakley,199187,199198,17,969,16,M_3180
+pdnc,qID,Q592-0,your husband,199286,199298,20,971,16,M_3181
+pdnc,qID,Q593-0,his,199328,199331,20,972,16,M_3182
+pdnc,qID,Q593-0,Your,199348,199352,22,972,16,M_3183
+pdnc,qID,Q593-0,his,199370,199373,20,972,16,M_3184
+pdnc,qID,Q593-0,You,199381,199384,22,972,16,M_3185
+pdnc,qID,Q593-0,him,199411,199414,20,972,16,M_3186
+exp,exp_name,skaggs,Skaggs,199459,199465,22,973,16,M_3187
+booknlp,COREF,95,his,199496,199499,22,973,16,M_3188
+pdnc,qID,Q594-0,You,199527,199530,17,974,16,M_3189
+booknlp,COREF,95,he,199556,199558,22,974,16,M_3190
+pdnc,qID,Q595-0,you,199685,199688,22,975,16,M_3191
+pdnc,qID,Q596-0,some one else,199721,199734,4,976,16,M_3192
+booknlp,COREF,95,He,199754,199756,22,977,16,M_3193
+booknlp,COREF,95,him,199808,199811,22,977,16,M_3194
+booknlp,COREF,95,him,199880,199883,22,977,16,M_3195
+booknlp,COREF,95,he,199947,199949,22,977,16,M_3196
+booknlp,COREF,95,himself,199970,199977,22,977,16,M_3197
+booknlp,COREF,95,he,200050,200052,22,977,16,M_3198
+booknlp,COREF,95,He,200079,200081,22,977,16,M_3199
+booknlp,COREF,95,him,200162,200165,22,977,16,M_3200
+booknlp,COREF,95,He,200167,200169,22,977,16,M_3201
+booknlp,COREF,95,he,200218,200220,22,977,16,M_3202
+booknlp,COREF,95,his,200233,200236,22,977,16,M_3203
+booknlp,COREF,95,he,200273,200275,22,977,16,M_3204
+booknlp,COREF,95,his,200286,200289,22,977,16,M_3205
+booknlp,COREF,95,I,200327,200328,22,977,16,M_3206
+pdnc,qID,Q597-0,The brother,200383,200394,8,977,16,M_3207
+pdnc,qID,Q597-0,Berry Hamilton,200413,200427,4,977,16,M_3208
+booknlp,COREF,34,his,200539,200542,4,977,16,M_3209
+pdnc,qID,Q597-0,Saunders my man,200567,200582,6,977,16,M_3210
+pdnc,qID,Q597-0,you,200605,200608,6,977,16,M_3211
+pdnc,qID,Q597-0,old Skaggsy,200614,200625,22,977,16,M_3212
+exp,exp_name,mr. skaggs,Mr. Skaggs,200695,200705,22,980,17,M_3213
+booknlp,COREF,95,he,200760,200762,22,980,17,M_3214
+exp,exp_name,maurice oakley,Maurice Oakley,200805,200819,20,980,17,M_3215
+booknlp,COREF,95,him,200839,200842,22,980,17,M_3216
+booknlp,COREF,95,he,200848,200850,22,980,17,M_3217
+booknlp,COREF,95,he,200874,200876,22,980,17,M_3218
+booknlp,COREF,95,himself,200997,201004,22,980,17,M_3219
+booknlp,COREF,95,He,201032,201034,22,981,17,M_3220
+booknlp,COREF,95,his,201039,201042,22,981,17,M_3221
+booknlp,COREF,95,his,201110,201113,22,981,17,M_3222
+booknlp,COREF,95,his,201178,201181,22,981,17,M_3223
+booknlp,COREF,95,He,201194,201196,22,981,17,M_3224
+booknlp,COREF,95,his,201213,201216,22,981,17,M_3225
+booknlp,COREF,95,he,201243,201245,22,981,17,M_3226
+booknlp,COREF,95,him,201328,201331,22,981,17,M_3227
+booknlp,COREF,95,He,201334,201336,22,982,17,M_3228
+booknlp,COREF,95,his,201342,201345,22,982,17,M_3229
+booknlp,COREF,95,He,201406,201408,22,982,17,M_3230
+exp,exp_name,berry hamilton,Berry Hamilton,201436,201450,4,982,17,M_3231
+booknlp,COREF,34,he,201454,201456,4,982,17,M_3232
+booknlp,COREF,34,his,201485,201488,4,982,17,M_3233
+booknlp,COREF,95,He,201497,201499,22,982,17,M_3234
+exp,exp_name,oakley,Oakley,201522,201528,20,982,17,M_3235
+booknlp,COREF,34,his,201575,201578,4,982,17,M_3236
+exp,exp_name,oakley,Oakley,201648,201654,20,982,17,M_3237
+booknlp,COREF,39,his,201695,201698,20,982,17,M_3238
+booknlp,COREF,39,his,201717,201720,20,982,17,M_3239
+exp,exp_name,skaggs,Skaggs,202011,202017,22,982,17,M_3240
+booknlp,COREF,95,himself,202028,202035,22,982,17,M_3241
+exp,exp_name,the editor,the editor,202043,202053,32,983,17,M_3242
+booknlp,COREF,1370,he,202075,202077,32,983,17,M_3243
+booknlp,COREF,1370,He,202181,202183,32,983,17,M_3244
+booknlp,COREF,1370,he,202240,202242,32,983,17,M_3245
+exp,exp_name,skaggs,Skaggs,202968,202974,22,984,17,M_3246
+exp,exp_name,the editor,the editor,202983,202993,32,984,17,M_3247
+booknlp,COREF,1370,He,203055,203057,32,984,17,M_3248
+exp,exp_name,skaggs,Skaggs,203582,203588,22,992,17,M_3249
+booknlp,COREF,95,him,203619,203622,22,992,17,M_3250
+booknlp,COREF,95,He,203637,203639,22,992,17,M_3251
+booknlp,COREF,95,He,203654,203656,22,992,17,M_3252
+booknlp,COREF,95,He,203696,203698,22,992,17,M_3253
+booknlp,COREF,95,his,203728,203731,22,992,17,M_3254
+booknlp,COREF,95,he,203741,203743,22,992,17,M_3255
+booknlp,COREF,95,him,203784,203787,22,992,17,M_3256
+booknlp,COREF,95,him,203906,203909,22,992,17,M_3257
+booknlp,COREF,95,he,203945,203947,22,992,17,M_3258
+booknlp,COREF,95,his,203961,203964,22,992,17,M_3259
+booknlp,COREF,95,he,203974,203976,22,992,17,M_3260
+booknlp,COREF,95,his,203984,203987,22,992,17,M_3261
+exp,exp_name,maurice oakley,Maurice Oakley,204086,204100,20,994,17,M_3262
+exp,exp_name,colonel saunders,Colonel Saunders,204975,204991,6,995,17,M_3263
+booknlp,COREF,74,he,205154,205156,6,996,17,M_3264
+pdnc,qID,Q599-1,that man,205227,205235,22,996,17,M_3265
+booknlp,COREF,74,I,205299,205300,6,996,17,M_3266
+pdnc,qID,Q599-1,him,205319,205322,22,996,17,M_3267
+pdnc,qID,Q599-1,he,205329,205331,22,996,17,M_3268
+pdnc,qID,Q600-0,You,205353,205356,6,997,17,M_3269
+pdnc,qID,Q600-0,Colonel,205379,205386,6,997,17,M_3270
+exp,exp_name,horace talbot,Horace Talbot,205398,205411,12,997,17,M_3271
+pdnc,qID,Q600-1,You,205414,205417,6,997,17,M_3272
+pdnc,qID,Q600-1,this particular man,205572,205591,22,997,17,M_3273
+pdnc,qID,Q600-1,he,205601,205603,22,997,17,M_3274
+pdnc,qID,Q600-1,he,205820,205822,4,997,17,M_3275
+pdnc,qID,Q600-1,Berry Hamilton,205842,205856,4,997,17,M_3276
+pdnc,qID,Q600-1,he,205935,205937,4,997,17,M_3277
+pdnc,qID,Q600-1,him,205993,205996,4,997,17,M_3278
+pdnc,qID,Q600-1,his,206005,206008,4,997,17,M_3279
+pdnc,qID,Q600-1,his,206040,206043,4,997,17,M_3280
+exp,exp_name,old horace,Old Horace,206052,206062,12,998,17,M_3281
+booknlp,COREF,73,his,206101,206104,12,998,17,M_3282
+exp,exp_name,skaggs,Skaggs,206247,206253,22,998,17,M_3283
+booknlp,COREF,73,him,206277,206280,12,998,17,M_3284
+booknlp,COREF,73,he,206301,206303,12,998,17,M_3285
+booknlp,COREF,73,He,206351,206353,12,999,17,M_3286
+booknlp,COREF,73,he,206449,206451,12,999,17,M_3287
+booknlp,COREF,73,him,206502,206505,12,999,17,M_3288
+booknlp,COREF,73,his,206530,206533,12,999,17,M_3289
+exp,exp_name,the editor,the editor,206542,206552,32,999,17,M_3290
+exp,exp_name,berry hamilton,Berry Hamilton,207254,207268,4,1000,17,M_3291
+exp,exp_name,berry,Berry,207284,207289,4,1001,17,M_3292
+booknlp,COREF,34,He,207342,207344,4,1001,17,M_3293
+booknlp,COREF,34,him,207403,207406,4,1001,17,M_3294
+booknlp,COREF,34,He,207408,207410,4,1001,17,M_3295
+booknlp,COREF,34,him,207453,207456,4,1001,17,M_3296
+booknlp,COREF,34,he,207466,207468,4,1001,17,M_3297
+booknlp,COREF,34,him,207544,207547,4,1001,17,M_3298
+booknlp,COREF,34,him,207626,207629,4,1001,17,M_3299
+booknlp,COREF,34,He,207631,207633,4,1001,17,M_3300
+booknlp,COREF,34,his,207676,207679,4,1001,17,M_3301
+booknlp,COREF,34,he,207693,207695,4,1001,17,M_3302
+booknlp,COREF,34,he,207713,207715,4,1001,17,M_3303
+booknlp,COREF,34,his,207779,207782,4,1001,17,M_3304
+booknlp,COREF,34,His,207881,207884,4,1001,17,M_3305
+booknlp,COREF,34,his,207941,207944,4,1001,17,M_3306
+booknlp,COREF,34,His,207967,207970,4,1001,17,M_3307
+exp,exp_name,maurice oakley,Maurice Oakley,208031,208045,20,1001,17,M_3308
+booknlp,COREF,34,His,208053,208056,4,1001,17,M_3309
+booknlp,COREF,34,He,208104,208106,4,1001,17,M_3310
+booknlp,COREF,34,he,208172,208174,4,1001,17,M_3311
+booknlp,COREF,34,his,208202,208205,4,1001,17,M_3312
+booknlp,COREF,34,him,208236,208239,4,1001,17,M_3313
+booknlp,COREF,34,he,208240,208242,4,1001,17,M_3314
+booknlp,COREF,34,He,208319,208321,4,1001,17,M_3315
+booknlp,COREF,34,him,208337,208340,4,1001,17,M_3316
+exp,exp_name,berry hamilton,Berry Hamilton,208345,208359,4,1001,17,M_3317
+booknlp,COREF,34,his,208415,208418,4,1001,17,M_3318
+pdnc,qID,Q601-0,Mr. Hamilton,208490,208502,4,1002,17,M_3319
+exp,exp_name,skaggs,Skaggs,208510,208516,22,1002,17,M_3320
+booknlp,COREF,95,his,208526,208529,22,1002,17,M_3321
+exp,exp_name,berry,Berry,208546,208551,4,1003,17,M_3322
+booknlp,COREF,34,him,208614,208617,4,1003,17,M_3323
+booknlp,COREF,34,him,208653,208656,4,1003,17,M_3324
+booknlp,COREF,34,he,208668,208670,4,1003,17,M_3325
+pdnc,qID,Q602-0,You,208702,208705,4,1004,17,M_3326
+pdnc,qID,Q602-0,you,208711,208714,4,1004,17,M_3327
+booknlp,COREF,34,me,208739,208741,4,1004,17,M_3328
+exp,exp_name,skaggs,Skaggs,208771,208777,22,1006,17,M_3329
+booknlp,COREF,34,him,208791,208794,4,1006,17,M_3330
+booknlp,COREF,95,He,208903,208905,22,1006,17,M_3331
+pdnc,qID,Q604-0,You,208918,208921,4,1006,17,M_3332
+pdnc,qID,Q604-0,your wife,208934,208943,7,1006,17,M_3333
+exp,exp_name,berry,Berry,208958,208963,4,1007,17,M_3334
+exp,exp_name,fannie,Fannie,208978,208984,7,1007,17,M_3335
+booknlp,COREF,34,his,209009,209012,4,1007,17,M_3336
+booknlp,COREF,34,him,209035,209038,4,1007,17,M_3337
+booknlp,COREF,35,her,209064,209067,7,1007,17,M_3338
+booknlp,COREF,35,I,209077,209078,7,1008,17,M_3339
+booknlp,COREF,35,my,209098,209100,7,1008,17,M_3340
+booknlp,COREF,35,I,209125,209126,7,1008,17,M_3341
+pdnc,qID,Q605-0,Kit,209171,209174,16,1008,17,M_3342
+pdnc,qID,Q605-0,Joe,209179,209182,15,1008,17,M_3343
+exp,exp_name,skaggs,Skaggs,209223,209229,22,1009,17,M_3344
+booknlp,COREF,34,him,209245,209248,4,1009,17,M_3345
+booknlp,COREF,34,his,209276,209279,4,1009,17,M_3346
+booknlp,COREF,34,him,209293,209296,4,1009,17,M_3347
+booknlp,COREF,34,he,209428,209430,4,1010,17,M_3348
+booknlp,COREF,34,him,209463,209466,4,1010,17,M_3349
+booknlp,COREF,34,He,209530,209532,4,1010,17,M_3350
+booknlp,COREF,34,he,209573,209575,4,1010,17,M_3351
+booknlp,COREF,34,he,209598,209600,4,1010,17,M_3352
+booknlp,COREF,34,his,209629,209632,4,1010,17,M_3353
+booknlp,COREF,34,he,209644,209646,4,1010,17,M_3354
+booknlp,COREF,34,he,209658,209660,4,1010,17,M_3355
+booknlp,COREF,34,he,209683,209685,4,1010,17,M_3356
+booknlp,COREF,34,him,209883,209886,4,1010,17,M_3357
+booknlp,COREF,34,his,209887,209890,4,1010,17,M_3358
+booknlp,COREF,34,him,209958,209961,4,1011,17,M_3359
+booknlp,COREF,34,his,210041,210044,4,1011,17,M_3360
+booknlp,COREF,34,he,210055,210057,4,1011,17,M_3361
+booknlp,COREF,34,his,210068,210071,4,1011,17,M_3362
+booknlp,COREF,34,his,210184,210187,4,1011,17,M_3363
+booknlp,COREF,34,him,210240,210243,4,1011,17,M_3364
+booknlp,COREF,34,his,210273,210276,4,1011,17,M_3365
+exp,exp_name,berry,Berry,210283,210288,4,1011,17,M_3366
+booknlp,COREF,34,his,210319,210322,4,1011,17,M_3367
+exp,exp_name,fannie,Fannie,210407,210413,7,1011,17,M_3368
+exp,exp_name,berry,BERRY,210437,210442,4,1013,18,M_3369
+exp,exp_name,berry,Berry,210459,210464,4,1014,18,M_3370
+booknlp,COREF,34,him,210493,210496,4,1014,18,M_3371
+booknlp,COREF,34,he,210516,210518,4,1014,18,M_3372
+booknlp,COREF,34,he,210536,210538,4,1014,18,M_3373
+exp,exp_name,gibson,Gibson,210564,210570,9,1014,18,M_3374
+booknlp,COREF,34,him,210605,210608,4,1014,18,M_3375
+booknlp,COREF,34,his,210621,210624,4,1014,18,M_3376
+booknlp,COREF,34,he,210635,210637,4,1014,18,M_3377
+booknlp,COREF,34,him,210667,210670,4,1014,18,M_3378
+booknlp,COREF,34,he,210674,210676,4,1014,18,M_3379
+exp,exp_name,fannie,Fannie,210706,210712,7,1014,18,M_3380
+booknlp,COREF,35,herself,210713,210720,7,1014,18,M_3381
+booknlp,COREF,35,her,210780,210783,7,1014,18,M_3382
+booknlp,COREF,35,she,210789,210792,7,1014,18,M_3383
+exp,exp_name,berry,Berry,210830,210835,4,1014,18,M_3384
+booknlp,COREF,35,her,210872,210875,7,1014,18,M_3385
+booknlp,COREF,34,he,210881,210883,4,1014,18,M_3386
+booknlp,COREF,35,her,210897,210900,7,1014,18,M_3387
+booknlp,COREF,35,she,210906,210909,7,1014,18,M_3388
+booknlp,COREF,34,him,210915,210918,4,1014,18,M_3389
+booknlp,COREF,34,his,210944,210947,4,1014,18,M_3390
+pdnc,qID,Q607-0,Fannie,210971,210977,7,1015,18,M_3391
+booknlp,COREF,34,he,210980,210982,4,1015,18,M_3392
+booknlp,COREF,34,his,211001,211004,4,1015,18,M_3393
+booknlp,COREF,35,her,211013,211016,7,1015,18,M_3394
+booknlp,COREF,34,his,211073,211076,4,1015,18,M_3395
+pdnc,qID,Q607-1,you,211091,211094,7,1015,18,M_3396
+booknlp,COREF,34,me,211100,211102,4,1015,18,M_3397
+booknlp,COREF,35,She,211106,211109,7,1016,18,M_3398
+booknlp,COREF,34,him,211127,211130,4,1016,18,M_3399
+pdnc,qID,Q608-0,Be'y,211166,211170,4,1017,18,M_3400
+booknlp,COREF,34,I,211172,211173,4,1017,18,M_3401
+pdnc,qID,Q608-0,you,211180,211183,4,1017,18,M_3402
+booknlp,COREF,35,She,211196,211199,7,1018,18,M_3403
+booknlp,COREF,34,him,211204,211207,4,1018,18,M_3404
+booknlp,COREF,35,her,211241,211244,7,1018,18,M_3405
+booknlp,COREF,34,he,211251,211253,4,1018,18,M_3406
+booknlp,COREF,34,his,211289,211292,4,1018,18,M_3407
+booknlp,COREF,34,he,211327,211329,4,1018,18,M_3408
+exp,exp_name,fannie,Fannie,211348,211354,7,1018,18,M_3409
+booknlp,COREF,34,he,211388,211390,4,1019,18,M_3410
+booknlp,COREF,34,his,211411,211414,4,1019,18,M_3411
+booknlp,COREF,35,her,211423,211426,7,1019,18,M_3412
+booknlp,COREF,35,she,211438,211441,7,1019,18,M_3413
+pdnc,qID,Q609-0,you,211472,211475,7,1019,18,M_3414
+booknlp,COREF,34,me,211487,211489,4,1019,18,M_3415
+booknlp,COREF,34,he,211492,211494,4,1019,18,M_3416
+pdnc,qID,Q610-0,Be'y,211530,211534,4,1020,18,M_3417
+booknlp,COREF,35,she,211541,211544,7,1020,18,M_3418
+booknlp,COREF,35,her,211595,211598,7,1020,18,M_3419
+pdnc,qID,Q611-0,Fannie,211636,211642,7,1021,18,M_3420
+pdnc,qID,Q611-0,you,211650,211653,7,1021,18,M_3421
+booknlp,COREF,35,me,211666,211668,7,1021,18,M_3422
+pdnc,qID,Q612-0,you,211687,211690,4,1022,18,M_3423
+pdnc,qID,Q612-0,you,211714,211717,4,1022,18,M_3424
+booknlp,COREF,35,Dey,211719,211722,7,1022,18,M_3425
+booknlp,COREF,35,me,211728,211730,7,1022,18,M_3426
+pdnc,qID,Q612-0,you,211739,211742,4,1022,18,M_3427
+pdnc,qID,Q613-0,you,211752,211755,7,1023,18,M_3428
+booknlp,COREF,35,me,211764,211766,7,1023,18,M_3429
+pdnc,qID,Q613-0,Joe,211790,211793,15,1023,18,M_3430
+pdnc,qID,Q613-0,Kit,211797,211800,16,1023,18,M_3431
+booknlp,COREF,35,me,211812,211814,7,1023,18,M_3432
+pdnc,qID,Q614-0,Kit,211833,211836,16,1024,18,M_3433
+pdnc,qID,Q614-0,Be'y,211875,211879,4,1024,18,M_3434
+pdnc,qID,Q614-0,she,211881,211884,16,1024,18,M_3435
+pdnc,qID,Q614-0,she,211898,211901,16,1024,18,M_3436
+pdnc,qID,Q614-0,Joe,211913,211916,15,1024,18,M_3437
+pdnc,qID,Q614-0,Joe,211918,211921,15,1024,18,M_3438
+pdnc,qID,Q614-0,Joe,211923,211926,15,1024,18,M_3439
+pdnc,qID,Q614-0,he,211928,211930,15,1024,18,M_3440
+pdnc,qID,Q614-0,a ooman,211962,211969,11,1024,18,M_3441
+exp,exp_name,berry,Berry,211973,211978,4,1025,18,M_3442
+booknlp,COREF,34,My,212008,212010,4,1025,18,M_3443
+booknlp,COREF,34,my,212017,212019,4,1025,18,M_3444
+pdnc,qID,Q615-0,my little gal,212026,212039,16,1025,18,M_3445
+pdnc,qID,Q615-0,my boy,212041,212047,15,1025,18,M_3446
+pdnc,qID,Q616-1,yo' wife,212126,212134,7,1026,18,M_3447
+pdnc,qID,Q616-1,Be'y,212165,212169,4,1026,18,M_3448
+pdnc,qID,Q616-1,Be'y,212171,212175,4,1026,18,M_3449
+pdnc,qID,Q616-1,Kit,212224,212227,16,1026,18,M_3450
+pdnc,qID,Q616-1,Joe,212232,212235,15,1026,18,M_3451
+pdnc,qID,Q616-1,you,212283,212286,4,1026,18,M_3452
+pdnc,qID,Q616-1,you,212303,212306,4,1026,18,M_3453
+pdnc,qID,Q616-1,Be'y,212358,212362,4,1026,18,M_3454
+pdnc,qID,Q617-0,You,212367,212370,7,1027,18,M_3455
+pdnc,qID,Q617-0,my wife,212377,212384,7,1027,18,M_3456
+pdnc,qID,Q617-0,You,212419,212422,7,1027,18,M_3457
+pdnc,qID,Q617-0,my wife,212426,212433,7,1027,18,M_3458
+pdnc,qID,Q617-0,you,212479,212482,7,1027,18,M_3459
+pdnc,qID,Q619-0,Be'y,212764,212768,4,1028,18,M_3460
+pdnc,qID,Q619-0,you,212777,212780,4,1028,18,M_3461
+pdnc,qID,Q619-0,he,212802,212804,4,1028,18,M_3462
+pdnc,qID,Q620-0,Be'y,213086,213090,4,1031,18,M_3463
+pdnc,qID,Q620-1,you,213130,213133,4,1031,18,M_3464
+pdnc,qID,Q622-0,Be'y,213287,213291,4,1033,18,M_3465
+pdnc,qID,Q622-0,you,213306,213309,4,1033,18,M_3466
+pdnc,qID,Q623-0,you,213362,213365,7,1034,18,M_3467
+pdnc,qID,Q624-0,Be'y,213402,213406,4,1035,18,M_3468
+pdnc,qID,Q624-0,you,213408,213411,4,1035,18,M_3469
+pdnc,qID,Q624-0,You,213418,213421,4,1035,18,M_3470
+pdnc,qID,Q624-0,Gibson,213456,213462,9,1035,18,M_3471
+pdnc,qID,Q627-0,you,213559,213562,7,1039,18,M_3472
+pdnc,qID,Q627-0,Fannie,213583,213589,7,1039,18,M_3473
+pdnc,qID,Q627-0,You,213591,213594,7,1039,18,M_3474
+pdnc,qID,Q628-0,He,213626,213628,9,1040,18,M_3475
+pdnc,qID,Q629-0,him,213670,213673,9,1041,18,M_3476
+pdnc,qID,Q629-0,you,213679,213682,7,1041,18,M_3477
+pdnc,qID,Q629-0,You,213684,213687,7,1041,18,M_3478
+pdnc,qID,Q629-0,him,213725,213728,9,1041,18,M_3479
+pdnc,qID,Q630-1,Be'y,213806,213810,4,1042,18,M_3480
+pdnc,qID,Q630-1,he,213818,213820,9,1042,18,M_3481
+pdnc,qID,Q630-1,He,213832,213834,9,1042,18,M_3482
+pdnc,qID,Q630-1,you,213857,213860,4,1042,18,M_3483
+exp,exp_name,berry,Berry,213872,213877,4,1043,18,M_3484
+booknlp,COREF,34,I,213936,213937,4,1043,18,M_3485
+pdnc,qID,Q631-0,you,213958,213961,7,1043,18,M_3486
+pdnc,qID,Q631-0,him,213965,213968,9,1043,18,M_3487
+pdnc,qID,Q632-0,you,213978,213981,4,1044,18,M_3488
+booknlp,COREF,34,I,213988,213989,4,1044,18,M_3489
+pdnc,qID,Q632-0,his,213993,213996,9,1044,18,M_3490
+booknlp,COREF,34,He,214006,214008,4,1045,18,M_3491
+pdnc,qID,Q633-0,My wife,214041,214048,7,1045,18,M_3492
+pdnc,qID,Q633-0,Kit,214055,214058,16,1045,18,M_3493
+pdnc,qID,Q633-0,Joe,214073,214076,15,1045,18,M_3494
+pdnc,qID,Q633-0,little Joe,214078,214088,15,1045,18,M_3495
+booknlp,COREF,34,I,214111,214112,4,1045,18,M_3496
+booknlp,COREF,34,I,214114,214115,4,1045,18,M_3497
+pdnc,qID,Q633-0,him,214146,214149,9,1045,18,M_3498
+booknlp,COREF,34,He,214166,214168,4,1045,18,M_3499
+exp,exp_name,fannie,Fannie,214211,214217,7,1045,18,M_3500
+pdnc,qID,Q634-0,Be'y,214250,214254,4,1046,18,M_3501
+booknlp,COREF,35,Her,214300,214303,7,1047,18,M_3502
+booknlp,COREF,34,his,214346,214349,4,1047,18,M_3503
+booknlp,COREF,34,he,214408,214410,4,1048,18,M_3504
+booknlp,COREF,34,he,214422,214424,4,1048,18,M_3505
+booknlp,COREF,34,He,214471,214473,4,1049,18,M_3506
+booknlp,COREF,34,his,214511,214514,4,1049,18,M_3507
+booknlp,COREF,34,his,214533,214536,4,1049,18,M_3508
+booknlp,COREF,34,he,214574,214576,4,1049,18,M_3509
+booknlp,COREF,34,him,214638,214641,4,1049,18,M_3510
+booknlp,COREF,34,he,214653,214655,4,1049,18,M_3511
+booknlp,COREF,34,he,214666,214668,4,1049,18,M_3512
+booknlp,COREF,34,He,214735,214737,4,1049,18,M_3513
+booknlp,COREF,34,him,214785,214788,4,1049,18,M_3514
+booknlp,COREF,34,He,214828,214830,4,1049,18,M_3515
+booknlp,COREF,34,He,214876,214878,4,1049,18,M_3516
+booknlp,COREF,34,his,214931,214934,4,1049,18,M_3517
+booknlp,COREF,34,he,214953,214955,4,1049,18,M_3518
+booknlp,COREF,34,his,215016,215019,4,1049,18,M_3519
+booknlp,COREF,34,his,215070,215073,4,1049,18,M_3520
+booknlp,COREF,34,him,215084,215087,4,1049,18,M_3521
+booknlp,COREF,34,he,215176,215178,4,1050,18,M_3522
+exp,exp_name,gibson,Gibson,215190,215196,9,1050,18,M_3523
+booknlp,COREF,34,his,215219,215222,4,1050,18,M_3524
+booknlp,COREF,34,him,215297,215300,4,1050,18,M_3525
+booknlp,COREF,34,him,215309,215312,4,1050,18,M_3526
+booknlp,COREF,34,He,215356,215358,4,1050,18,M_3527
+booknlp,COREF,34,himself,215370,215377,4,1050,18,M_3528
+booknlp,COREF,34,him,215411,215414,4,1051,18,M_3529
+booknlp,COREF,34,him,215478,215481,4,1051,18,M_3530
+booknlp,COREF,34,he,215518,215520,4,1051,18,M_3531
+booknlp,COREF,34,him,215558,215561,4,1051,18,M_3532
+booknlp,COREF,34,he,215581,215583,4,1051,18,M_3533
+booknlp,COREF,34,him,215624,215627,4,1051,18,M_3534
+booknlp,COREF,34,he,215651,215653,4,1051,18,M_3535
+booknlp,COREF,34,him,215686,215689,4,1051,18,M_3536
+booknlp,COREF,34,his,215690,215693,4,1051,18,M_3537
+booknlp,COREF,34,his,215702,215705,4,1051,18,M_3538
+booknlp,COREF,34,his,215713,215716,4,1051,18,M_3539
+booknlp,COREF,34,his,215727,215730,4,1051,18,M_3540
+booknlp,COREF,34,his,215750,215753,4,1051,18,M_3541
+booknlp,COREF,34,He,215769,215771,4,1052,18,M_3542
+booknlp,COREF,34,he,215835,215837,4,1052,18,M_3543
+exp,exp_name,fannie,Fannie,215873,215879,7,1052,18,M_3544
+booknlp,COREF,34,He,215889,215891,4,1052,18,M_3545
+exp,exp_name,gibson,Gibson,215905,215911,9,1052,18,M_3546
+booknlp,COREF,34,he,215917,215919,4,1052,18,M_3547
+booknlp,COREF,34,he,215954,215956,4,1052,18,M_3548
+booknlp,COREF,34,His,215971,215974,4,1052,18,M_3549
+booknlp,COREF,34,him,215987,215990,4,1052,18,M_3550
+booknlp,COREF,34,his,215996,215999,4,1052,18,M_3551
+booknlp,COREF,34,he,216009,216011,4,1052,18,M_3552
+booknlp,COREF,34,him,216093,216096,4,1052,18,M_3553
+booknlp,COREF,34,he,216102,216104,4,1052,18,M_3554
+booknlp,COREF,34,he,216143,216145,4,1052,18,M_3555
+booknlp,COREF,34,him,216222,216225,4,1052,18,M_3556
+booknlp,COREF,34,he,216236,216238,4,1053,18,M_3557
+booknlp,COREF,34,his,216300,216303,4,1053,18,M_3558
+booknlp,COREF,34,his,216313,216316,4,1053,18,M_3559
+booknlp,COREF,34,He,216328,216330,4,1053,18,M_3560
+booknlp,COREF,34,His,216386,216389,4,1053,18,M_3561
+booknlp,COREF,34,He,216418,216420,4,1053,18,M_3562
+booknlp,COREF,34,my,216443,216445,4,1054,18,M_3563
+booknlp,COREF,34,he,216453,216455,4,1054,18,M_3564
+exp,exp_name,fannie,Fannie,216482,216488,7,1055,18,M_3565
+booknlp,COREF,34,His,216497,216500,4,1055,18,M_3566
+booknlp,COREF,34,he,216521,216523,4,1055,18,M_3567
+booknlp,COREF,34,he,216559,216561,4,1055,18,M_3568
+booknlp,COREF,34,He,216599,216601,4,1055,18,M_3569
+exp,exp_name,fannie,Fannie,216638,216644,7,1055,18,M_3570
+booknlp,COREF,34,he,216652,216654,4,1055,18,M_3571
+booknlp,COREF,34,He,216679,216681,4,1055,18,M_3572
+booknlp,COREF,34,his,216718,216721,4,1055,18,M_3573
+booknlp,COREF,34,him,216750,216753,4,1055,18,M_3574
+booknlp,COREF,34,He,216755,216757,4,1055,18,M_3575
+pdnc,qID,Q637-0,you,216808,216811,7,1056,18,M_3576
+booknlp,COREF,34,he,216814,216816,4,1056,18,M_3577
+pdnc,qID,Q638-0,him,216848,216851,9,1057,18,M_3578
+pdnc,qID,Q638-0,He,216853,216855,9,1057,18,M_3579
+pdnc,qID,Q638-0,his,216905,216908,9,1057,18,M_3580
+booknlp,COREF,34,He,216943,216945,4,1058,18,M_3581
+booknlp,COREF,34,his,216990,216993,4,1058,18,M_3582
+booknlp,COREF,34,him,217012,217015,4,1058,18,M_3583
+booknlp,COREF,34,he,217044,217046,4,1059,18,M_3584
+booknlp,COREF,34,his,217086,217089,4,1059,18,M_3585
+booknlp,COREF,34,he,217161,217163,4,1059,18,M_3586
+booknlp,COREF,34,him,217193,217196,4,1059,18,M_3587
+booknlp,COREF,34,his,217206,217209,4,1059,18,M_3588
+booknlp,COREF,34,He,217270,217272,4,1059,18,M_3589
+booknlp,COREF,34,his,217318,217321,4,1059,18,M_3590
+booknlp,COREF,34,his,217332,217335,4,1059,18,M_3591
+booknlp,COREF,34,my,217404,217406,4,1059,18,M_3592
+exp,exp_name,gibson,Gibson,217618,217624,9,1062,18,M_3593
+exp,exp_name,berry,Berry,217674,217679,4,1062,18,M_3594
+booknlp,COREF,34,his,217684,217687,4,1062,18,M_3595
+exp,exp_name,kit,Kit,217784,217787,16,1062,18,M_3596
+exp,exp_name,leslie oakley,Leslie Oakley,218089,218102,17,1063,18,M_3597
+booknlp,COREF,127,her,218135,218138,17,1063,18,M_3598

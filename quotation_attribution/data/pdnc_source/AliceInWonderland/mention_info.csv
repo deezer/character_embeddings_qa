@@ -1,0 +1,3241 @@
+source,idColName,iden,text,startByte,endByte,pdncID,paraID,chapID
+pdnc,qID,Q5-1,her,4264,4267,32,11,1
+pdnc,qID,Q5-1,Dinah my dear,4296,4309,32,11,1
+pdnc,qID,Q5-1,you,4318,4321,32,11,1
+pdnc,qID,Q5-1,you,4392,4395,32,11,1
+pdnc,qID,Q5-1,you,4445,4448,32,11,1
+pdnc,qID,Q6-0,Dinah,4906,4911,32,11,1
+pdnc,qID,Q6-0,you,4936,4939,32,11,1
+pdnc,qID,Q12-3,you,9971,9974,0,25,1
+pdnc,qID,Q18-1,Alice,12517,12522,0,35,2
+pdnc,qID,Q18-1,Alice,12584,12589,0,35,2
+pdnc,qID,Q19-0,You,13025,13028,0,39,2
+pdnc,qID,Q19-0,yourself,13052,13060,0,39,2
+pdnc,qID,Q19-1,you,13094,13097,0,39,2
+pdnc,qID,Q19-2,you,13182,13185,0,39,2
+pdnc,qID,Q20-0,the Duchess,13676,13687,11,40,2
+pdnc,qID,Q20-0,the Duchess,13689,13700,11,40,2
+pdnc,qID,Q20-0,she,13712,13715,11,40,2
+pdnc,qID,Q20-0,her,13739,13742,11,40,2
+pdnc,qID,Q21-0,you,13893,13896,21,40,2
+pdnc,qID,Q21-0,sir,13905,13908,21,40,2
+pdnc,qID,Q23-0,Ada,14685,14688,28,42,2
+pdnc,qID,Q23-1,her,14706,14709,28,42,2
+pdnc,qID,Q23-1,Mabel,14807,14812,35,42,2
+pdnc,qID,Q23-1,she,14850,14853,35,42,2
+pdnc,qID,Q23-1,she,14859,14862,35,42,2
+pdnc,qID,Q23-1,she,14899,14902,35,42,2
+pdnc,qID,Q23-1,she,14906,14909,35,42,2
+pdnc,qID,Q24-1,Mabel,15991,15996,35,45,2
+pdnc,qID,Q24-1,Mabel,16187,16192,35,45,2
+pdnc,qID,Q30-1,this mouse,18920,18930,18,51,2
+pdnc,qID,Q31-0,Mouse,19078,19083,18,51,2
+pdnc,qID,Q31-0,you,19088,19091,18,51,2
+pdnc,qID,Q31-0,Mouse,19165,19170,18,51,2
+pdnc,qID,Q32-1,William the Conqueror,19622,19643,50,52,2
+pdnc,qID,Q34-0,your,19952,19956,18,52,2
+pdnc,qID,Q34-1,you,20056,20059,18,52,2
+pdnc,qID,Q35-1,you,20153,20156,0,53,2
+pdnc,qID,Q35-1,you,20171,20174,0,53,2
+pdnc,qID,Q36-1,you,20292,20295,18,54,2
+pdnc,qID,Q36-1,our cat Dinah,20296,20309,32,54,2
+pdnc,qID,Q36-1,you,20319,20322,18,54,2
+pdnc,qID,Q36-1,you,20349,20352,18,54,2
+pdnc,qID,Q36-1,her,20368,20371,32,54,2
+pdnc,qID,Q36-1,She,20373,20376,32,54,2
+pdnc,qID,Q36-2,she,20481,20484,32,54,2
+pdnc,qID,Q36-2,her,20550,20553,32,54,2
+pdnc,qID,Q36-2,she,20564,20567,32,54,2
+pdnc,qID,Q36-2,she,20608,20611,32,54,2
+pdnc,qID,Q36-3,her,20813,20816,32,54,2
+pdnc,qID,Q36-3,you,20829,20832,18,54,2
+pdnc,qID,Q38-1,you,21153,21156,18,56,2
+pdnc,qID,Q38-1,you,21162,21165,18,56,2
+pdnc,qID,Q39-0,you,21308,21311,18,56,2
+pdnc,qID,Q39-0,A little bright-eyed terrier,21313,21341,27,56,2
+pdnc,qID,Q39-0,you,21343,21346,18,56,2
+pdnc,qID,Q39-0,it,21394,21396,27,56,2
+pdnc,qID,Q39-0,it,21438,21440,27,56,2
+pdnc,qID,Q39-0,its,21463,21466,27,56,2
+pdnc,qID,Q39-0,a farmer,21549,21557,26,56,2
+pdnc,qID,Q39-0,you,21559,21562,18,56,2
+pdnc,qID,Q39-0,he,21573,21575,26,56,2
+pdnc,qID,Q39-0,it,21597,21599,27,56,2
+pdnc,qID,Q39-0,He,21626,21628,26,56,2
+pdnc,qID,Q39-0,it,21634,21636,27,56,2
+pdnc,qID,Q39-1,it,21730,21732,18,56,2
+pdnc,qID,Q40-0,Mouse dear,21892,21902,18,57,2
+pdnc,qID,Q40-0,you,21972,21975,18,57,2
+pdnc,qID,Q41-0,you,22204,22207,0,57,2
+pdnc,qID,Q41-0,you,22224,22227,0,57,2
+pdnc,qID,Q42-0,you,23138,23141,0,61,3
+pdnc,qID,Q44-1,William the Conqueror,23801,23822,50,63,3
+pdnc,qID,Q44-1,the pope,23852,23860,48,63,3
+pdnc,qID,Q44-1,Edwin,23985,23990,34,63,3
+pdnc,qID,Q44-1,Morcar,23995,24001,37,63,3
+pdnc,qID,Q46-0,your,24089,24093,47,65,3
+pdnc,qID,Q46-1,you,24153,24156,47,65,3
+pdnc,qID,Q48-0,you,24210,24213,47,67,3
+pdnc,qID,Q48-1,Edwin ,24251,24257,34,67,3
+pdnc,qID,Q48-1,Morcar,24261,24267,37,67,3
+pdnc,qID,Q48-1,him,24319,24322,50,67,3
+pdnc,qID,Q48-1,Stigand,24333,24340,40,67,3
+pdnc,qID,Q48-1,the patriotic archbishop of Canterbury,24342,24380,40,67,3
+pdnc,qID,Q50-1,you,24497,24500,42,69,3
+pdnc,qID,Q51-1,the archbishop,24661,24675,40,70,3
+pdnc,qID,Q52-0,Edgar Atheling,24781,24795,33,71,3
+pdnc,qID,Q52-0,William,24804,24811,50,71,3
+pdnc,qID,Q52-0,William,24837,24844,50,71,3
+pdnc,qID,Q52-0,his,24899,24902,50,71,3
+pdnc,qID,Q52-0,you,24922,24925,0,71,3
+pdnc,qID,Q52-0,my dear,24942,24949,0,71,3
+pdnc,qID,Q61-0, all,26808,26812,0,79,3
+pdnc,qID,Q62-0,she,26906,26909,0,81,3
+pdnc,qID,Q63-0,she,27308,27311,0,83,3
+pdnc,qID,Q63-0,you,27339,27342,9,83,3
+pdnc,qID,Q65-0,you,27427,27430,0,84,3
+pdnc,qID,Q65-0,your,27438,27442,0,84,3
+pdnc,qID,Q69-0,You,28311,28314,18,90,3
+pdnc,qID,Q69-0,your,28335,28339,18,90,3
+pdnc,qID,Q69-0,you,28349,28352,18,90,3
+pdnc,qID,Q69-1,you,28387,28390,18,90,3
+pdnc,qID,Q71-1,you,28662,28665,18,92,3
+pdnc,qID,Q72-0,You,29274,29277,0,94,3
+pdnc,qID,Q72-1,you,29342,29345,0,94,3
+pdnc,qID,Q73-0,your,29368,29372,18,95,3
+pdnc,qID,Q73-1,you,29407,29410,18,95,3
+pdnc,qID,Q76-1,You,29714,29717,0,98,3
+pdnc,qID,Q77-1,you,29801,29804,18,99,3
+pdnc,qID,Q77-1,you,29828,29831,18,99,3
+pdnc,qID,Q78-0,your,29903,29907,18,101,3
+pdnc,qID,Q79-0,it,30084,30086,18,102,3
+pdnc,qID,Q80-0,my dear,30226,30233,49,102,3
+pdnc,qID,Q80-0,you,30259,30262,49,102,3
+pdnc,qID,Q80-0,your,30278,30282,49,102,3
+pdnc,qID,Q81-0,your,30299,30303,30,102,3
+pdnc,qID,Q81-0,Ma,30312,30314,30,102,3
+pdnc,qID,Q81-1,You,30360,30363,30,102,3
+pdnc,qID,Q82-0,our Dinah,30424,30433,32,103,3
+pdnc,qID,Q82-1,She,30506,30509,32,103,3
+pdnc,qID,Q83-0,Dinah,30546,30551,32,104,3
+pdnc,qID,Q84-0,Dinah,30682,30687,32,105,3
+pdnc,qID,Q84-0,she,30703,30706,32,105,3
+pdnc,qID,Q84-0,you,30778,30781,47,105,3
+pdnc,qID,Q84-0,her,30792,30795,32,105,3
+pdnc,qID,Q84-0,she,30818,30821,32,105,3
+pdnc,qID,Q87-0,Dinah,31324,31329,32,107,3
+pdnc,qID,Q87-1,her,31396,31399,32,107,3
+pdnc,qID,Q87-1,she,31425,31428,32,107,3
+pdnc,qID,Q87-1,my dear Dinah,31462,31475,32,107,3
+pdnc,qID,Q87-1,you,31506,31509,32,107,3
+pdnc,qID,Q88-0,The Duchess,32026,32037,11,109,4
+pdnc,qID,Q88-0,The Duchess,32039,32050,11,109,4
+pdnc,qID,Q88-0,She,32093,32096,11,109,4
+pdnc,qID,Q89-0,Mary Ann,32636,32644,0,110,4
+pdnc,qID,Q90-0,He,32896,32898,21,111,4
+pdnc,qID,Q90-0,his,32911,32914,21,111,4
+pdnc,qID,Q90-1,he,32974,32976,21,111,4
+pdnc,qID,Q90-1,he,32988,32990,21,111,4
+pdnc,qID,Q90-1,his,33035,33038,21,111,4
+pdnc,qID,Q91-1,Dinah,33499,33504,32,112,4
+pdnc,qID,Q91-2,Miss Alice,33603,33613,0,112,4
+pdnc,qID,Q91-2,your,33653,33657,0,112,4
+pdnc,qID,Q91-2,nurse,33686,33691,0,112,4
+pdnc,qID,Q91-3,Dinah,33799,33804,32,112,4
+pdnc,qID,Q91-3,it,33826,33828,32,112,4
+pdnc,qID,Q97-0,you,36528,36531,0,119,4
+pdnc,qID,Q97-0,Alice,36540,36545,0,119,4
+pdnc,qID,Q97-1,you,36579,36582,0,119,4
+pdnc,qID,Q97-1,you,36636,36639,0,119,4
+pdnc,qID,Q98-0,Mary Ann,36873,36881,36,121,4
+pdnc,qID,Q98-0,Mary Ann,36883,36891,36,121,4
+pdnc,qID,Q100-0,you,37472,37475,21,123,4
+pdnc,qID,Q101-0,Pat,37904,37907,39,124,4
+pdnc,qID,Q101-0,Pat,37909,37912,39,124,4
+pdnc,qID,Q101-0,you,37924,37927,39,124,4
+pdnc,qID,Q102-0,yer honour,38016,38026,21,124,4
+pdnc,qID,Q104-0,Pat,38171,38174,39,126,4
+pdnc,qID,Q105-0,yer honour,38225,38235,21,127,4
+pdnc,qID,Q106-0,you goose,38276,38285,39,128,4
+pdnc,qID,Q107-0,yer honour,38365,38375,21,129,4
+pdnc,qID,Q109-0,yer honour,38599,38609,21,131,4
+pdnc,qID,Q110-0,you,38642,38645,39,131,4
+pdnc,qID,Q110-0,you coward,38647,38657,39,131,4
+pdnc,qID,Q112-0,Bill,39820,39824,31,133,4
+pdnc,qID,Q112-0,he,39861,39863,31,133,4
+pdnc,qID,Q112-1,Bill,39928,39932,31,133,4
+pdnc,qID,Q113-0,Bill,40292,40296,31,134,4
+pdnc,qID,Q114-0,him,40474,40477,31,135,4
+pdnc,qID,Q115-0,Bill,40721,40725,31,136,4
+pdnc,qID,Q118-0,Dinah,41103,41108,32,138,4
+pdnc,qID,Q126-0,Poor little thing,43198,43215,29,145,4
+pdnc,qID,Q127-0,it,44611,44613,29,148,4
+pdnc,qID,Q127-1,it,44755,44757,29,148,4
+pdnc,qID,Q128-0,you,45970,45973,0,153,5
+pdnc,qID,Q129-0,sir,46104,46107,7,154,5
+pdnc,qID,Q130-0,you,46256,46259,0,155,5
+pdnc,qID,Q131-1,you,46408,46411,7,156,5
+pdnc,qID,Q135-0,you,46691,46694,7,160,5
+pdnc,qID,Q135-1,you,46743,46746,7,160,5
+pdnc,qID,Q135-1,you,46778,46781,7,160,5
+pdnc,qID,Q135-1,you,46797,46800,7,160,5
+pdnc,qID,Q135-1,you,46860,46863,7,160,5
+pdnc,qID,Q135-1,you,46897,46900,7,160,5
+pdnc,qID,Q137-0,your,46955,46959,7,162,5
+pdnc,qID,Q138-0,You,47053,47056,0,163,5
+pdnc,qID,Q138-1,you,47106,47109,0,163,5
+pdnc,qID,Q139-0,you,47325,47328,7,164,5
+pdnc,qID,Q139-0,you,47351,47354,7,164,5
+pdnc,qID,Q142-0,your,47736,47740,0,169,5
+pdnc,qID,Q146-0,sir,48204,48207,7,173,5
+pdnc,qID,Q152-0,you,50396,50399,0,190,5
+pdnc,qID,Q154-1,you,50710,50713,0,194,5
+pdnc,qID,Q155-0,sir,50797,50800,7,195,5
+pdnc,qID,Q159-0,You,51172,51175,0,198,5
+pdnc,qID,Q160-0,you,51580,51583,0,199,5
+pdnc,qID,Q160-0,you,51626,51629,0,199,5
+pdnc,qID,Q165-0,Serpent,53993,54000,0,211,5
+pdnc,qID,Q168-0,you,54280,54283,19,214,5
+pdnc,qID,Q171-0,you,54810,54813,19,218,5
+pdnc,qID,Q172-1,Serpent,55107,55114,0,219,5
+pdnc,qID,Q173-0,you,55151,55154,19,220,5
+pdnc,qID,Q174-0,you,55205,55208,0,221,5
+pdnc,qID,Q174-1,you,55239,55242,0,221,5
+pdnc,qID,Q176-1,You,55577,55580,0,223,5
+pdnc,qID,Q176-1,you,55636,55639,0,223,5
+pdnc,qID,Q176-1,you,55667,55670,0,223,5
+pdnc,qID,Q177-1,you,55829,55832,19,224,5
+pdnc,qID,Q179-0,You,56089,56092,0,226,5
+pdnc,qID,Q179-0,you,56179,56182,0,226,5
+pdnc,qID,Q180-1,yours,56348,56353,19,227,5
+pdnc,qID,Q184-0,Duchess,58586,58593,11,232,6
+pdnc,qID,Q184-0,Queen,58618,58623,20,232,6
+pdnc,qID,Q185-0,Queen,58751,58756,20,232,6
+pdnc,qID,Q185-0,Duchess,58780,58787,11,232,6
+pdnc,qID,Q186-1,you,59304,59307,0,236,6
+pdnc,qID,Q186-1,you,59394,59397,0,236,6
+pdnc,qID,Q188-0,your,59673,59677,0,238,6
+pdnc,qID,Q188-1,you,59784,59787,0,238,6
+pdnc,qID,Q188-1,you,59803,59806,0,238,6
+pdnc,qID,Q188-1,you,59836,59839,0,238,6
+pdnc,qID,Q188-1,you,59845,59848,0,238,6
+pdnc,qID,Q189-0,he,59972,59974,45,238,6
+pdnc,qID,Q189-1,his,60013,60016,45,238,6
+pdnc,qID,Q189-1,his,60057,60060,45,238,6
+pdnc,qID,Q189-1,he,60083,60085,45,238,6
+pdnc,qID,Q194-0,you,60580,60583,0,243,6
+pdnc,qID,Q194-1,you,60649,60652,0,243,6
+pdnc,qID,Q198-0,you,61041,61044,0,247,6
+pdnc,qID,Q199-0,him,61126,61129,45,248,6
+pdnc,qID,Q199-1,he,61157,61159,45,248,6
+pdnc,qID,Q201-0,you,61929,61932,11,252,6
+pdnc,qID,Q201-1,your cat,62057,62065,6,252,6
+pdnc,qID,Q202-0,It,62086,62088,6,253,6
+pdnc,qID,Q202-1,Pig,62143,62146,41,253,6
+pdnc,qID,Q206-0,You,62618,62621,0,258,6
+pdnc,qID,Q207-0,you,63267,63270,8,260,6
+pdnc,qID,Q207-1,his,63354,63357,41,260,6
+pdnc,qID,Q209-1,You,63787,63790,11,262,6
+pdnc,qID,Q210-1,her,63906,63909,0,263,6
+pdnc,qID,Q213-0,your little boy,64396,64411,41,266,6
+pdnc,qID,Q213-0,him,64426,64429,41,266,6
+pdnc,qID,Q213-0,he,64435,64437,41,266,6
+pdnc,qID,Q213-0,He,64447,64449,41,266,6
+pdnc,qID,Q213-0,he,64485,64487,41,266,6
+pdnc,qID,Q214-0,my boy,64781,64787,41,270,6
+pdnc,qID,Q214-0,him,64800,64803,41,270,6
+pdnc,qID,Q214-0,he,64809,64811,41,270,6
+pdnc,qID,Q214-0,he,64825,64827,41,270,6
+pdnc,qID,Q214-0,he,64869,64871,41,270,6
+pdnc,qID,Q215-0,you,64920,64923,0,273,6
+pdnc,qID,Q215-0,it,64934,64936,41,273,6
+pdnc,qID,Q215-0,you,64947,64950,0,273,6
+pdnc,qID,Q215-1,Queen,65074,65079,20,273,6
+pdnc,qID,Q216-1,this child,65858,65868,41,275,6
+pdnc,qID,Q217-0,it,65972,65974,41,275,6
+pdnc,qID,Q220-0,you,66645,66648,41,277,6
+pdnc,qID,Q220-0,my dear,66678,66685,41,277,6
+pdnc,qID,Q220-1,you,66746,66749,41,277,6
+pdnc,qID,Q221-0,this creature,66961,66974,41,278,6
+pdnc,qID,Q222-0,it,67353,67355,41,279,6
+pdnc,qID,Q222-1,it,67393,67395,41,279,6
+pdnc,qID,Q222-1,it,67441,67443,41,279,6
+pdnc,qID,Q224-0,Cheshire Puss,67943,67956,6,281,6
+pdnc,qID,Q225-0,it,68093,68095,6,281,6
+pdnc,qID,Q226-0,you,68154,68157,6,281,6
+pdnc,qID,Q227-0,you,68247,68250,0,282,6
+pdnc,qID,Q229-0,you,68358,68361,0,284,6
+pdnc,qID,Q231-0,you,68453,68456,0,286,6
+pdnc,qID,Q231-1,you,68496,68499,0,286,6
+pdnc,qID,Q233-1,Hatter,68712,68718,14,288,6
+pdnc,qID,Q233-2,March Hare,68777,68787,3,288,6
+pdnc,qID,Q235-0,you,68897,68900,0,290,6
+pdnc,qID,Q235-1,You,68963,68966,0,290,6
+pdnc,qID,Q236-0,you,68985,68988,6,291,6
+pdnc,qID,Q237-0,You,69018,69021,0,292,6
+pdnc,qID,Q237-1,you,69050,69053,0,292,6
+pdnc,qID,Q238-0,you,69156,69159,6,293,6
+pdnc,qID,Q238-0,you,69170,69173,6,293,6
+pdnc,qID,Q239-1,You,69233,69236,0,294,6
+pdnc,qID,Q241-1,you,69312,69315,0,296,6
+pdnc,qID,Q243-0,you,69537,69540,0,298,6
+pdnc,qID,Q243-1,you,69566,69569,0,298,6
+pdnc,qID,Q243-1,the Queen ,69588,69598,20,298,6
+pdnc,qID,Q245-0,You,69686,69689,0,300,6
+pdnc,qID,Q245-1,the baby,69937,69945,41,302,6
+pdnc,qID,Q246-0,It,69995,69997,41,303,6
+pdnc,qID,Q247-0,it,70096,70098,41,304,6
+pdnc,qID,Q248-1,the March Hare,70369,70383,3,305,6
+pdnc,qID,Q248-1,it,70446,70448,3,305,6
+pdnc,qID,Q248-1,it,70493,70495,3,305,6
+pdnc,qID,Q249-0,you,70610,70613,0,306,6
+pdnc,qID,Q250-1,you,70688,70691,6,307,6
+pdnc,qID,Q250-1,you,70743,70746,6,307,6
+pdnc,qID,Q253-0,it,71549,71551,3,310,6
+pdnc,qID,Q253-0,Hatter,71618,71624,14,310,6
+pdnc,qID,Q259-0,you,72554,72557,3,317,7
+pdnc,qID,Q260-0,you,72618,72621,0,318,7
+pdnc,qID,Q261-0,your,72703,72707,3,319,7
+pdnc,qID,Q263-0,You,72918,72921,14,321,7
+pdnc,qID,Q267-0,you,73275,73278,0,324,7
+pdnc,qID,Q267-0,you,73289,73292,0,324,7
+pdnc,qID,Q267-0,you,73299,73302,0,324,7
+pdnc,qID,Q269-0,you,73390,73393,0,326,7
+pdnc,qID,Q269-0,you,73410,73413,0,326,7
+pdnc,qID,Q270-1,you,73539,73542,3,327,7
+pdnc,qID,Q271-1,You,73597,73600,0,328,7
+pdnc,qID,Q272-0,You,73692,73695,0,329,7
+pdnc,qID,Q273-0,You,73814,73817,0,330,7
+pdnc,qID,Q274-0,you,74011,74014,10,331,7
+pdnc,qID,Q277-1,you,74547,74550,3,334,7
+pdnc,qID,Q279-1,you,74760,74763,3,336,7
+pdnc,qID,Q282-1,your,75253,75257,0,339,7
+pdnc,qID,Q282-1,you,75270,75273,0,339,7
+pdnc,qID,Q285-0,you,75622,75625,14,342,7
+pdnc,qID,Q286-0,The Dormouse,75666,75678,10,343,7
+pdnc,qID,Q288-0,you,75909,75912,0,345,7
+pdnc,qID,Q292-0,you,76149,76152,14,349,7
+pdnc,qID,Q293-0,you,76266,76269,0,350,7
+pdnc,qID,Q293-0,Time,76275,76279,22,350,7
+pdnc,qID,Q293-1,you,76316,76319,0,350,7
+pdnc,qID,Q293-1,it,76349,76351,22,350,7
+pdnc,qID,Q293-1,It,76354,76356,22,350,7
+pdnc,qID,Q293-1,him,76360,76363,22,350,7
+pdnc,qID,Q294-0,you,76387,76390,14,351,7
+pdnc,qID,Q295-0,you,76422,76425,0,352,7
+pdnc,qID,Q295-1,you,76496,76499,0,352,7
+pdnc,qID,Q295-1,Time,76520,76524,22,352,7
+pdnc,qID,Q297-1,He,76669,76671,22,354,7
+pdnc,qID,Q297-1,you,76701,76704,0,354,7
+pdnc,qID,Q297-1,him,76734,76737,22,354,7
+pdnc,qID,Q297-1,he,76739,76741,22,354,7
+pdnc,qID,Q297-1,you,76763,76766,0,354,7
+pdnc,qID,Q297-1,you,76876,76879,0,354,7
+pdnc,qID,Q297-1,Time,76913,76917,22,354,7
+pdnc,qID,Q299-1,you,77163,77166,14,356,7
+pdnc,qID,Q300-1,you,77222,77225,0,357,7
+pdnc,qID,Q300-1,you,77268,77271,0,357,7
+pdnc,qID,Q301-0,you,77299,77302,14,358,7
+pdnc,qID,Q302-1,you,77440,77443,0,359,7
+pdnc,qID,Q302-2,the Queen of Hearts,77541,77560,20,359,7
+pdnc,qID,Q302-3,You,77644,77647,0,361,7
+pdnc,qID,Q304-0,you,77732,77735,0,363,7
+pdnc,qID,Q306-1,his,78189,78192,14,366,7
+pdnc,qID,Q308-1,he,78308,78310,22,368,7
+pdnc,qID,Q314-1,the young lady,78900,78914,0,374,7
+pdnc,qID,Q319-1,you,79380,79383,10,380,7
+pdnc,qID,Q323-0,you,79819,79822,10,384,7
+pdnc,qID,Q328-0,You,80266,80269,0,389,7
+pdnc,qID,Q328-0,you,80275,80278,0,389,7
+pdnc,qID,Q329-0,your,80378,80382,14,390,7
+pdnc,qID,Q334-0,you,80931,80934,0,394,7
+pdnc,qID,Q334-0,you,80951,80954,0,394,7
+pdnc,qID,Q342-1,stupid,82085,82091,0,402,7
+pdnc,qID,Q348-0,you,82884,82887,0,410,7
+pdnc,qID,Q348-0,you,82893,82896,0,410,7
+pdnc,qID,Q348-1,you,82938,82941,0,410,7
+pdnc,qID,Q349-0,you,83007,83010,10,411,7
+pdnc,qID,Q350-0,you,83077,83080,0,412,7
+pdnc,qID,Q354-0,Five,84717,84721,2,418,8
+pdnc,qID,Q355-1,Seven,84820,84825,5,419,8
+pdnc,qID,Q356-0,Five,84895,84899,2,420,8
+pdnc,qID,Q357-0,You,84937,84940,5,421,8
+pdnc,qID,Q357-1,the Queen,84982,84991,20,421,8
+pdnc,qID,Q357-1,you,85011,85014,5,421,8
+pdnc,qID,Q359-0,your,85107,85111,24,423,8
+pdnc,qID,Q359-0,Two,85123,85126,24,423,8
+pdnc,qID,Q360-0,his,85156,85159,24,424,8
+pdnc,qID,Q360-1,him,85197,85200,24,424,8
+pdnc,qID,Q360-1,the cook,85222,85230,8,424,8
+pdnc,qID,Q363-0,you,85686,85689,0,427,8
+pdnc,qID,Q363-0,Miss,85695,85699,0,427,8
+pdnc,qID,Q363-0,the Queen,85794,85803,20,427,8
+pdnc,qID,Q363-0,you,85862,85865,0,427,8
+pdnc,qID,Q363-0,Miss,85884,85888,0,427,8
+pdnc,qID,Q363-0,she,85918,85921,20,427,8
+pdnc,qID,Q364-0,The Queen,86018,86027,20,427,8
+pdnc,qID,Q364-0,The Queen,86029,86038,20,427,8
+pdnc,qID,Q367-1,your,87677,87681,0,431,8
+pdnc,qID,Q367-1,child,87688,87693,0,431,8
+pdnc,qID,Q368-0,your Majesty,87726,87738,20,432,8
+pdnc,qID,Q372-0,her,88412,88415,0,435,8
+pdnc,qID,Q374-0,my dear,88573,88580,20,437,8
+pdnc,qID,Q374-0,she,88582,88585,0,437,8
+pdnc,qID,Q378-0,your Majesty,89073,89085,20,442,8
+pdnc,qID,Q381-2,you,89795,89798,0,447,8
+pdnc,qID,Q385-1,Duchess,90220,90227,11,452,8
+pdnc,qID,Q386-1,She,90420,90423,11,453,8
+pdnc,qID,Q388-0,you,90487,90490,0,455,8
+pdnc,qID,Q390-0,She,90616,90619,11,457,8
+pdnc,qID,Q390-0,the Queen,90626,90635,20,457,8
+pdnc,qID,Q390-2,The Queen,90760,90769,20,457,8
+pdnc,qID,Q390-2,you,90780,90783,0,457,8
+pdnc,qID,Q390-2,You,90785,90788,0,457,8
+pdnc,qID,Q390-2,she,90794,90797,11,457,8
+pdnc,qID,Q390-2,the Queen,90820,90829,20,457,8
+pdnc,qID,Q394-0,the Cheshire Cat,93106,93122,6,462,8
+pdnc,qID,Q395-0,you,93173,93176,0,463,8
+pdnc,qID,Q396-0,it,93340,93342,6,464,8
+pdnc,qID,Q396-1,its,93364,93367,6,464,8
+pdnc,qID,Q397-1,you,93927,93930,6,465,8
+pdnc,qID,Q397-1,the Queen,94123,94132,20,465,8
+pdnc,qID,Q398-0,you,94206,94209,0,466,8
+pdnc,qID,Q398-0,the Queen,94215,94224,20,466,8
+pdnc,qID,Q399-1,she,94284,94287,20,467,8
+pdnc,qID,Q401-0,you,94505,94508,0,469,8
+pdnc,qID,Q402-0,It,94610,94612,6,470,8
+pdnc,qID,Q402-0,a Cheshire Cat,94633,94647,6,470,8
+pdnc,qID,Q402-1,it,94685,94687,6,470,8
+pdnc,qID,Q403-0,it,94717,94719,6,471,8
+pdnc,qID,Q403-1,it,94754,94756,6,471,8
+pdnc,qID,Q403-1,it,94777,94779,6,471,8
+pdnc,qID,Q408-0,you,95164,95167,20,475,8
+pdnc,qID,Q408-0,this cat,95179,95187,6,475,8
+pdnc,qID,Q409-0,his,95282,95285,6,476,8
+pdnc,qID,Q410-0,the executioner,95344,95359,12,477,8
+pdnc,qID,Q412-0,the Duchess,97628,97639,11,486,8
+pdnc,qID,Q412-0,her,97659,97662,11,486,8
+pdnc,qID,Q413-0,She,97677,97680,11,487,8
+pdnc,qID,Q413-1,her,97737,97740,11,487,8
+pdnc,qID,Q414-0,You,98096,98099,0,490,9
+pdnc,qID,Q414-0,you,98133,98136,0,490,9
+pdnc,qID,Q414-0,you dear old thing,98144,98162,0,490,9
+pdnc,qID,Q416-0,You,99083,99086,0,493,9
+pdnc,qID,Q416-0,my dear,99116,99123,0,493,9
+pdnc,qID,Q416-0,you,99140,99143,0,493,9
+pdnc,qID,Q416-0,you,99173,99176,0,493,9
+pdnc,qID,Q418-0,child,99312,99317,0,495,9
+pdnc,qID,Q418-1,you,99373,99376,0,495,9
+pdnc,qID,Q423-0,she,100309,100312,11,501,9
+pdnc,qID,Q424-0,you,100385,100388,0,502,9
+pdnc,qID,Q424-0,your,100431,100435,0,502,9
+pdnc,qID,Q424-1,your,100530,100534,0,502,9
+pdnc,qID,Q428-1,you,100908,100911,0,506,9
+pdnc,qID,Q432-0,you,101351,101354,0,510,9
+pdnc,qID,Q432-1,you,101440,101443,0,510,9
+pdnc,qID,Q433-1,you,101805,101808,11,511,9
+pdnc,qID,Q436-1,you,102042,102045,0,514,9
+pdnc,qID,Q441-0,your Majesty,102791,102803,20,520,9
+pdnc,qID,Q442-0,you,102860,102863,11,521,9
+pdnc,qID,Q442-1,you,102943,102946,11,521,9
+pdnc,qID,Q442-1,your,102950,102954,11,521,9
+pdnc,qID,Q442-1,your,103010,103014,11,521,9
+pdnc,qID,Q445-0,you,103994,103997,0,526,9
+pdnc,qID,Q445-0,the Mock Turtle,104003,104018,17,526,9
+pdnc,qID,Q449-1,he,104240,104242,17,530,9
+pdnc,qID,Q449-1,you,104254,104257,0,530,9
+pdnc,qID,Q449-1,his,104258,104261,17,530,9
+pdnc,qID,Q452-0,lazy thing,104659,104669,13,532,9
+pdnc,qID,Q452-1,this young lady,104698,104713,0,532,9
+pdnc,qID,Q452-1,the Mock Turtle,104721,104736,17,532,9
+pdnc,qID,Q452-1,his,104750,104753,17,532,9
+pdnc,qID,Q455-0,she,105269,105272,20,535,9
+pdnc,qID,Q455-1,her,105304,105307,20,535,9
+pdnc,qID,Q455-1,you,105349,105352,0,535,9
+pdnc,qID,Q457-0,his,105740,105743,17,537,9
+pdnc,qID,Q458-0,his,105853,105856,17,537,9
+pdnc,qID,Q458-0,he,105870,105872,17,537,9
+pdnc,qID,Q458-0,you,105895,105898,0,537,9
+pdnc,qID,Q459-0,This here young lady,106022,106042,0,539,9
+pdnc,qID,Q459-1,she,106064,106067,0,539,9
+pdnc,qID,Q459-1,your,106086,106090,17,539,9
+pdnc,qID,Q459-1,she,106100,106103,0,539,9
+pdnc,qID,Q460-0,her,106124,106127,0,540,9
+pdnc,qID,Q461-0,he,106340,106342,17,541,9
+pdnc,qID,Q461-0,he,106365,106367,17,541,9
+pdnc,qID,Q464-1,The master,106998,107008,23,544,9
+pdnc,qID,Q464-1,him,107044,107047,23,544,9
+pdnc,qID,Q464-1,Tortoise,107048,107056,23,544,9
+pdnc,qID,Q465-0,you,107070,107073,17,545,9
+pdnc,qID,Q465-0,him,107079,107082,23,545,9
+pdnc,qID,Q465-0,Tortoise,107083,107091,23,545,9
+pdnc,qID,Q466-0,him,107137,107140,23,546,9
+pdnc,qID,Q466-0,Tortoise,107141,107149,23,546,9
+pdnc,qID,Q466-1,you,107211,107214,0,546,9
+pdnc,qID,Q467-0,You,107233,107236,0,547,9
+pdnc,qID,Q468-0,old fellow,107475,107485,17,547,9
+pdnc,qID,Q469-0,you,107590,107593,0,548,9
+pdnc,qID,Q471-0,You,107662,107665,0,550,9
+pdnc,qID,Q472-0,your,107701,107705,0,551,9
+pdnc,qID,Q474-1,you,107914,107917,17,553,9
+pdnc,qID,Q479-0,yours,108152,108157,0,558,9
+pdnc,qID,Q480-0,You,108326,108329,17,559,9
+pdnc,qID,Q485-1,You,108892,108895,0,564,9
+pdnc,qID,Q487-1,you,109047,109050,0,566,9
+pdnc,qID,Q487-1,you,109081,109084,0,566,9
+pdnc,qID,Q488-0,you,109230,109233,17,567,9
+pdnc,qID,Q491-0,you,109601,109604,0,570,9
+pdnc,qID,Q491-1,the Gryphon,109656,109667,13,570,9
+pdnc,qID,Q495-0,you,110044,110047,17,574,9
+pdnc,qID,Q501-0,you,110542,110545,17,580,9
+pdnc,qID,Q502-1,her,110679,110682,0,581,9
+pdnc,qID,Q503-0,he,110934,110936,17,583,10
+pdnc,qID,Q503-0,his,110951,110954,17,583,10
+pdnc,qID,Q504-0,You,111151,111154,0,584,10
+pdnc,qID,Q506-0,you,111236,111239,0,584,10
+pdnc,qID,Q509-0,you,111378,111381,0,584,10
+pdnc,qID,Q518-0,you,112011,112014,0,593,10
+pdnc,qID,Q526-0,you,112668,112671,0,601,10
+pdnc,qID,Q528-1,you,112859,112862,13,603,10
+pdnc,qID,Q529-0,you,112895,112898,17,604,10
+pdnc,qID,Q531-1,you,114564,114567,0,610,10
+pdnc,qID,Q533-1,you,114741,114744,0,612,10
+pdnc,qID,Q533-1,you,114778,114781,0,612,10
+pdnc,qID,Q535-0,You,114924,114927,0,614,10
+pdnc,qID,Q536-0,her,115137,115140,0,614,10
+pdnc,qID,Q538-0,you,115454,115457,13,616,10
+pdnc,qID,Q539-0,you,115555,115558,0,617,10
+pdnc,qID,Q539-0,you,115578,115581,0,617,10
+pdnc,qID,Q539-1,you,115611,115614,0,617,10
+pdnc,qID,Q543-0,your,115875,115879,0,621,10
+pdnc,qID,Q545-1,you,116175,116178,0,623,10
+pdnc,qID,Q547-1,you,116356,116359,0,625,10
+pdnc,qID,Q552-0,you,116869,116872,17,630,10
+pdnc,qID,Q560-1,her,118053,118056,0,637,10
+pdnc,qID,Q560-1,her,118092,118095,0,637,10
+pdnc,qID,Q565-0,She,119380,119383,0,646,10
+pdnc,qID,Q569-1,you,120423,120426,0,653,10
+pdnc,qID,Q569-1,you,120447,120450,0,653,10
+pdnc,qID,Q570-0,you,120527,120530,0,654,10
+pdnc,qID,Q571-1,you,120696,120699,0,655,10
+pdnc,qID,Q571-1,the Mock Turtle,120705,120720,17,655,10
+pdnc,qID,Q571-1,you,120729,120732,0,655,10
+pdnc,qID,Q572-0,the Mock Turtle,120767,120782,17,656,10
+pdnc,qID,Q573-0,her,120914,120917,0,656,10
+pdnc,qID,Q573-0,you,120940,120943,17,656,10
+pdnc,qID,Q573-0,old fellow,120945,120955,17,656,10
+pdnc,qID,Q585-0,Herald,125241,125247,21,674,11
+pdnc,qID,Q590-0,your Majesty,125966,125978,15,680,11
+pdnc,qID,Q591-0,You,126074,126077,14,681,11
+pdnc,qID,Q591-1,you,126128,126131,14,681,11
+pdnc,qID,Q596-0,your,126558,126562,14,686,11
+pdnc,qID,Q600-0,your,126938,126942,14,691,11
+pdnc,qID,Q600-1,you,127005,127008,14,691,11
+pdnc,qID,Q601-0,you,127579,127582,0,694,11
+pdnc,qID,Q603-0,You,127738,127741,0,696,11
+pdnc,qID,Q604-1,you,127839,127842,10,697,11
+pdnc,qID,Q604-1,you,127848,127851,10,697,11
+pdnc,qID,Q607-0,your,128338,128342,14,700,11
+pdnc,qID,Q607-1,you,128395,128398,14,700,11
+pdnc,qID,Q607-1,you,128417,128420,14,700,11
+pdnc,qID,Q608-0,your Majesty,128459,128471,15,701,11
+pdnc,qID,Q611-1,you,128814,128817,14,704,11
+pdnc,qID,Q612-1,the March Hare,128929,128943,3,705,11
+pdnc,qID,Q614-0,You,129012,129015,3,707,11
+pdnc,qID,Q616-0,He,129076,129078,3,709,11
+pdnc,qID,Q617-0,the Dormouse,129150,129162,10,710,11
+pdnc,qID,Q620-0,You,129475,129478,14,714,11
+pdnc,qID,Q620-1,you,129530,129533,14,714,11
+pdnc,qID,Q621-0,your Majesty,129652,129664,15,715,11
+pdnc,qID,Q622-0,You,129679,129682,14,716,11
+pdnc,qID,Q624-0,you,130321,130324,14,719,11
+pdnc,qID,Q624-0,you,130340,130343,14,719,11
+pdnc,qID,Q626-0,you,130459,130462,14,721,11
+pdnc,qID,Q629-0,You,130759,130762,14,725,11
+pdnc,qID,Q630-0,his,130888,130891,14,726,11
+pdnc,qID,Q632-0,your,131285,131289,8,729,11
+pdnc,qID,Q634-0,Your Majesty,131416,131428,15,731,11
+pdnc,qID,Q634-0,_this_ witness,131448,131462,8,731,11
+pdnc,qID,Q638-0,that Dormouse,131762,131775,10,735,11
+pdnc,qID,Q638-1,that Dormouse,131810,131823,10,735,11
+pdnc,qID,Q638-1,that Dormouse,131830,131843,10,735,11
+pdnc,qID,Q638-1,him,131867,131870,10,735,11
+pdnc,qID,Q638-1,him,131878,131881,10,735,11
+pdnc,qID,Q638-1,his,131892,131895,10,735,11
+pdnc,qID,Q640-0,my dear,132200,132207,20,737,11
+pdnc,qID,Q640-0,you,132210,132213,20,737,11
+pdnc,qID,Q642-0,Alice,132582,132587,0,738,11
+pdnc,qID,Q644-0,your,133040,133044,1,741,12
+pdnc,qID,Q647-0,you,134277,134280,0,745,12
+pdnc,qID,Q652-0,your Majesty,134606,134618,15,749,12
+pdnc,qID,Q658-0,You,135397,135400,0,756,12
+pdnc,qID,Q660-1,you,135549,135552,15,758,12
+pdnc,qID,Q663-0,your,135740,135744,1,761,12
+pdnc,qID,Q664-0,your Majesty,135847,135859,15,762,12
+pdnc,qID,Q666-1,the prisoner,136077,136089,16,764,12
+pdnc,qID,Q667-1,you,136203,136206,21,765,12
+pdnc,qID,Q669-0,He,136660,136662,16,770,12
+pdnc,qID,Q670-0,your Majesty,136765,136777,15,771,12
+pdnc,qID,Q671-0,you,136885,136888,16,772,12
+pdnc,qID,Q671-1,You,136956,136959,16,772,12
+pdnc,qID,Q671-1,you,137001,137004,16,772,12
+pdnc,qID,Q671-1,your,137019,137023,16,772,12
+pdnc,qID,Q672-0,his,137179,137182,16,774,12
+pdnc,qID,Q673-1,you,137259,137262,20,775,12
+pdnc,qID,Q675-0,your Majesty,137399,137411,15,777,12
+pdnc,qID,Q676-1,you,137490,137493,21,778,12
+pdnc,qID,Q679-1,you,138915,138918,0,789,12
+pdnc,qID,Q679-3,you,139141,139144,16,789,12
+pdnc,qID,Q679-3,you,139161,139164,16,789,12
+pdnc,qID,Q681-2,you,139561,139564,0,791,12
+pdnc,qID,Q684-0,you,139810,139813,20,793,12
+pdnc,qID,Q684-0,my dear,139830,139837,20,793,12
+pdnc,qID,Q686-0,you,140198,140201,20,795,12
+pdnc,qID,Q690-0,your,140605,140609,0,799,12
+pdnc,qID,Q692-0,her,140686,140689,0,801,12
+pdnc,qID,Q694-0, Alice dear,141225,141236,0,804,12
+pdnc,qID,Q694-1,you,141280,141283,0,804,12
+pdnc,qID,Q696-0,dear,141567,141571,0,805,12
+pdnc,qID,Q696-0,your,141602,141606,0,805,12
+exp,exp_name,the little crocodile,the little crocodile,15627,15647,46,43,2
+exp,exp_name,the queen of hearts,The Queen of Hearts,125411,125430,20,676,11
+exp,exp_name,the knave of hearts,the Knave of Hearts,86862,86881,16,428,8
+exp,exp_name,the knave of hearts,the Knave of Hearts,87520,87539,16,430,8
+exp,exp_name,the knave of hearts,The Knave of Hearts,125478,125497,16,676,11
+exp,exp_name,an enormous puppy,An enormous puppy,43076,43093,29,145,4
+exp,exp_name,the fish-footman,The Fish-Footman,58414,58430,44,232,6
+exp,exp_name,the fish-footman,the Fish-Footman,59004,59020,44,234,6
+exp,exp_name,the white rabbit,the White Rabbit,5220,5236,21,12,1
+exp,exp_name,the white rabbit,the White Rabbit,13475,13491,21,40,2
+exp,exp_name,the white rabbit,the White Rabbit,31873,31889,21,109,4
+exp,exp_name,the white rabbit,the White Rabbit,86715,86731,21,428,8
+exp,exp_name,the white rabbit,the White Rabbit,90125,90141,21,451,8
+exp,exp_name,the white rabbit,the White Rabbit,117446,117462,21,635,10
+exp,exp_name,the white rabbit,the White Rabbit,122525,122541,21,665,11
+exp,exp_name,the white rabbit,the White Rabbit,124262,124278,21,671,11
+exp,exp_name,the white rabbit,the White Rabbit,125295,125311,21,675,11
+exp,exp_name,the white rabbit,the White Rabbit,125749,125765,21,679,11
+exp,exp_name,the white rabbit,the White Rabbit,131372,131388,21,731,11
+exp,exp_name,the white rabbit,the White Rabbit,132301,132317,21,738,11
+exp,exp_name,the white rabbit,the White Rabbit,132506,132522,21,738,11
+exp,exp_name,the white rabbit,the White Rabbit,134560,134576,21,749,12
+exp,exp_name,the white rabbit,the White Rabbit,135867,135883,21,762,12
+exp,exp_name,the white rabbit,the White Rabbit,136018,136034,21,764,12
+exp,exp_name,the white rabbit,the White Rabbit,136299,136315,21,767,12
+exp,exp_name,the white rabbit,the White Rabbit,136567,136583,21,769,12
+exp,exp_name,the white rabbit,The White Rabbit,137330,137346,21,777,12
+exp,exp_name,the white rabbit,the White Rabbit,137546,137562,21,779,12
+exp,exp_name,the white rabbit,the White Rabbit,142477,142493,21,808,12
+exp,exp_name,the frog-footman,The Frog-Footman,58642,58658,45,232,6
+exp,exp_name,"bill, the lizard","Bill, the Lizard",125005,125021,1,673,11
+exp,exp_name,the executioner,the executioner,96661,96676,12,481,8
+exp,exp_name,the executioner,The executioner,97031,97046,12,483,8
+exp,exp_name,the executioner,the executioner,97713,97728,12,487,8
+exp,exp_name,the executioner,the executioner,97752,97767,12,487,8
+exp,exp_name,the executioner,the executioner,97947,97962,12,488,8
+exp,exp_name,the mock turtle,The Mock Turtle,98069,98084,17,489,9
+exp,exp_name,the mock turtle,the Mock Turtle,105541,105556,17,537,9
+exp,exp_name,the mock turtle,the Mock Turtle,105935,105950,17,538,9
+exp,exp_name,the mock turtle,the Mock Turtle,106135,106150,17,540,9
+exp,exp_name,the mock turtle,the Mock Turtle,106424,106439,17,542,9
+exp,exp_name,the mock turtle,the Mock Turtle,106648,106663,17,543,9
+exp,exp_name,the mock turtle,the Mock Turtle,106877,106892,17,544,9
+exp,exp_name,the mock turtle,the Mock Turtle,107178,107193,17,546,9
+exp,exp_name,the mock turtle,the Mock Turtle,107447,107462,17,547,9
+exp,exp_name,the mock turtle,the Mock Turtle,107677,107692,17,550,9
+exp,exp_name,the mock turtle,The Mock Turtle,107766,107781,17,551,9
+exp,exp_name,the mock turtle,the Mock Turtle,107974,107989,17,554,9
+exp,exp_name,the mock turtle,the Mock Turtle,108082,108097,17,556,9
+exp,exp_name,the mock turtle,the Mock Turtle,108193,108208,17,558,9
+exp,exp_name,the mock turtle,the Mock Turtle,108447,108462,17,560,9
+exp,exp_name,the mock turtle,the Mock Turtle,108595,108610,17,562,9
+exp,exp_name,the mock turtle,the Mock Turtle,109189,109204,17,567,9
+exp,exp_name,the mock turtle,the Mock Turtle,109273,109288,17,568,9
+exp,exp_name,the mock turtle,the Mock Turtle,109614,109629,17,570,9
+exp,exp_name,the mock turtle,the Mock Turtle,109815,109830,17,572,9
+exp,exp_name,the mock turtle,the Mock Turtle,110140,110155,17,575,9
+exp,exp_name,the mock turtle,the Mock Turtle,110511,110526,17,579,9
+exp,exp_name,the mock turtle,The Mock Turtle,110754,110769,17,583,10
+exp,exp_name,the mock turtle,the Mock Turtle,111051,111066,17,583,10
+exp,exp_name,the mock turtle,the Mock Turtle,111602,111617,17,587,10
+exp,exp_name,the mock turtle,the Mock Turtle,111875,111890,17,591,10
+exp,exp_name,the mock turtle,the Mock Turtle,112022,112037,17,593,10
+exp,exp_name,the mock turtle,the Mock Turtle,112247,112262,17,597,10
+exp,exp_name,the mock turtle,the Mock Turtle,112418,112433,17,599,10
+exp,exp_name,the mock turtle,the Mock Turtle,112706,112721,17,601,10
+exp,exp_name,the mock turtle,the Mock Turtle,112798,112813,17,603,10
+exp,exp_name,the mock turtle,the Mock Turtle,113126,113141,17,605,10
+exp,exp_name,the mock turtle,the Mock Turtle,114540,114555,17,610,10
+exp,exp_name,the mock turtle,the Mock Turtle,114716,114731,17,612,10
+exp,exp_name,the mock turtle,the Mock Turtle,114961,114976,17,614,10
+exp,exp_name,the mock turtle,the Mock Turtle,115088,115103,17,614,10
+exp,exp_name,the mock turtle,the Mock Turtle,116581,116596,17,627,10
+exp,exp_name,the mock turtle,the Mock Turtle,116742,116757,17,629,10
+exp,exp_name,the mock turtle,the Mock Turtle,116924,116939,17,631,10
+exp,exp_name,the mock turtle,the Mock Turtle,117238,117253,17,633,10
+exp,exp_name,the mock turtle,the Mock Turtle,117836,117851,17,635,10
+exp,exp_name,the mock turtle,the Mock Turtle,117991,118006,17,637,10
+exp,exp_name,the mock turtle,the Mock Turtle,119133,119148,17,643,10
+exp,exp_name,the mock turtle,the Mock Turtle,119361,119376,17,645,10
+exp,exp_name,the mock turtle,the Mock Turtle,119481,119496,17,647,10
+exp,exp_name,the mock turtle,the Mock Turtle,120390,120405,17,653,10
+exp,exp_name,the mock turtle,The Mock Turtle,120959,120974,17,657,10
+exp,exp_name,the mock turtle,the Mock Turtle,121682,121697,17,660,10
+exp,exp_name,the mock turtle,the Mock Turtle,143681,143696,17,809,12
+exp,exp_name,the caterpillar,The Caterpillar,45782,45797,7,152,5
+exp,exp_name,the caterpillar,the Caterpillar,45863,45878,7,152,5
+exp,exp_name,the caterpillar,the Caterpillar,45982,45997,7,153,5
+exp,exp_name,the caterpillar,the Caterpillar,46280,46295,7,155,5
+exp,exp_name,the caterpillar,the Caterpillar,46439,46454,7,157,5
+exp,exp_name,the caterpillar,the Caterpillar,46658,46673,7,159,5
+exp,exp_name,the caterpillar,the Caterpillar,46922,46937,7,161,5
+exp,exp_name,the caterpillar,the Caterpillar,47064,47079,7,163,5
+exp,exp_name,the caterpillar,the Caterpillar,47215,47230,7,164,5
+exp,exp_name,the caterpillar,the Caterpillar,47382,47397,7,165,5
+exp,exp_name,the caterpillar,the Caterpillar,47492,47507,7,166,5
+exp,exp_name,the caterpillar,the Caterpillar,47590,47605,7,167,5
+exp,exp_name,the caterpillar,the Caterpillar,47755,47770,7,169,5
+exp,exp_name,the caterpillar,the Caterpillar,47860,47875,7,171,5
+exp,exp_name,the caterpillar,the Caterpillar,48354,48369,7,174,5
+exp,exp_name,the caterpillar,the Caterpillar,48548,48563,7,176,5
+exp,exp_name,the caterpillar,the Caterpillar,50120,50135,7,186,5
+exp,exp_name,the caterpillar,the Caterpillar,50273,50288,7,188,5
+exp,exp_name,the caterpillar,The Caterpillar,50341,50356,7,189,5
+exp,exp_name,the caterpillar,the Caterpillar,50561,50576,7,192,5
+exp,exp_name,the caterpillar,the Caterpillar,50733,50748,7,194,5
+exp,exp_name,the caterpillar,the Caterpillar,50926,50941,7,196,5
+exp,exp_name,the caterpillar,the Caterpillar,51209,51224,7,198,5
+exp,exp_name,the caterpillar,the Caterpillar,51372,51387,7,199,5
+exp,exp_name,the caterpillar,the Caterpillar,51745,51760,7,201,5
+exp,exp_name,the caterpillar,the Caterpillar,117774,117789,7,635,10
+exp,exp_name,the young crab,the young Crab,30322,30336,49,102,3
+exp,exp_name,cheshire cat,Cheshire cat,62093,62105,6,253,6
+exp,exp_name,cheshire cat,Cheshire Cat,67695,67707,6,279,6
+exp,exp_name,cheshire cat,Cheshire Cat,96544,96556,6,481,8
+exp,exp_name,the dormouse,the Dormouse,71961,71973,10,312,7
+exp,exp_name,the dormouse,the Dormouse,73849,73861,10,330,7
+exp,exp_name,the dormouse,The Dormouse,75761,75773,10,344,7
+exp,exp_name,the dormouse,the Dormouse,77887,77899,10,365,7
+exp,exp_name,the dormouse,the Dormouse,79017,79029,10,376,7
+exp,exp_name,the dormouse,The Dormouse,79120,79132,10,377,7
+exp,exp_name,the dormouse,the Dormouse,79475,79487,10,381,7
+exp,exp_name,the dormouse,the Dormouse,79741,79753,10,383,7
+exp,exp_name,the dormouse,the Dormouse,79899,79911,10,385,7
+exp,exp_name,the dormouse,the Dormouse,80597,80609,10,392,7
+exp,exp_name,the dormouse,The Dormouse,80684,80696,10,393,7
+exp,exp_name,the dormouse,the Dormouse,80896,80908,10,394,7
+exp,exp_name,the dormouse,the Dormouse,81120,81132,10,396,7
+exp,exp_name,the dormouse,the Dormouse,81336,81348,10,398,7
+exp,exp_name,the dormouse,the Dormouse,81496,81508,10,400,7
+exp,exp_name,the dormouse,the Dormouse,81549,81561,10,400,7
+exp,exp_name,the dormouse,the Dormouse,81842,81854,10,401,7
+exp,exp_name,the dormouse,the Dormouse,82140,82152,10,403,7
+exp,exp_name,the dormouse,the Dormouse,82224,82236,10,404,7
+exp,exp_name,the dormouse,the Dormouse,82301,82313,10,405,7
+exp,exp_name,the dormouse,the Dormouse,82390,82402,10,406,7
+exp,exp_name,the dormouse,The Dormouse,82630,82642,10,410,7
+exp,exp_name,the dormouse,the Dormouse,83216,83228,10,413,7
+exp,exp_name,the dormouse,the Dormouse,83448,83460,10,413,7
+exp,exp_name,the dormouse,the Dormouse,126231,126243,10,682,11
+exp,exp_name,the dormouse,the Dormouse,126350,126362,10,684,11
+exp,exp_name,the dormouse,the Dormouse,127610,127622,10,694,11
+exp,exp_name,the dormouse,the Dormouse,127776,127788,10,696,11
+exp,exp_name,the dormouse,the Dormouse,127917,127929,10,698,11
+exp,exp_name,the dormouse,the Dormouse,128121,128133,10,699,11
+exp,exp_name,the dormouse,the Dormouse,129251,129263,10,710,11
+exp,exp_name,the dormouse,the Dormouse,129388,129400,10,712,11
+exp,exp_name,the dormouse,the Dormouse,131967,131979,10,736,11
+exp,exp_name,an old crab,an old Crab,30162,30173,30,102,3
+exp,exp_name,an old crab,an old crab,109767,109778,30,571,9
+exp,exp_name,the duchess,the Duchess,61312,61323,11,249,6
+exp,exp_name,the duchess,the Duchess,61648,61659,11,251,6
+exp,exp_name,the duchess,the Duchess,62113,62124,11,253,6
+exp,exp_name,the duchess,the Duchess,62468,62479,11,256,6
+exp,exp_name,the duchess,the Duchess,62645,62656,11,258,6
+exp,exp_name,the duchess,the Duchess,62961,62972,11,259,6
+exp,exp_name,the duchess,The Duchess,63071,63082,11,259,6
+exp,exp_name,the duchess,the Duchess,63500,63511,11,261,6
+exp,exp_name,the duchess,the Duchess,63883,63894,11,263,6
+exp,exp_name,the duchess,the Duchess,64181,64192,11,265,6
+exp,exp_name,the duchess,the Duchess,64584,64595,11,269,6
+exp,exp_name,the duchess,the Duchess,64958,64969,11,273,6
+exp,exp_name,the duchess,the Duchess,97889,97900,11,488,8
+exp,exp_name,the duchess,the Duchess,98170,98181,11,490,9
+exp,exp_name,the duchess,the Duchess,98987,98998,11,493,9
+exp,exp_name,the duchess,the Duchess,99325,99336,11,495,9
+exp,exp_name,the duchess,the Duchess,99521,99532,11,496,9
+exp,exp_name,the duchess,the Duchess,99877,99888,11,498,9
+exp,exp_name,the duchess,the Duchess,100118,100129,11,500,9
+exp,exp_name,the duchess,the Duchess,100444,100455,11,502,9
+exp,exp_name,the duchess,the Duchess,100694,100705,11,504,9
+exp,exp_name,the duchess,the Duchess,100877,100888,11,506,9
+exp,exp_name,the duchess,the Duchess,101004,101015,11,508,9
+exp,exp_name,the duchess,the Duchess,101362,101373,11,510,9
+exp,exp_name,the duchess,the Duchess,101868,101879,11,512,9
+exp,exp_name,the duchess,the Duchess,102021,102032,11,514,9
+exp,exp_name,the duchess,the Duchess,102251,102262,11,516,9
+exp,exp_name,the duchess,the Duchess,102441,102452,11,518,9
+exp,exp_name,the duchess,the Duchess,102527,102538,11,519,9
+exp,exp_name,the duchess,the Duchess,102806,102817,11,520,9
+exp,exp_name,the duchess,The Duchess,103025,103036,11,522,9
+exp,exp_name,the duchess,the Duchess,131088,131099,11,728,11
+exp,exp_name,the duchess,the Duchess,142805,142816,11,808,12
+exp,exp_name,the gryphon,the Gryphon,104870,104881,13,532,9
+exp,exp_name,the gryphon,The Gryphon,105055,105066,13,533,9
+exp,exp_name,the gryphon,the Gryphon,105183,105194,13,533,9
+exp,exp_name,the gryphon,the Gryphon,105281,105292,13,535,9
+exp,exp_name,the gryphon,the Gryphon,105763,105774,13,537,9
+exp,exp_name,the gryphon,the Gryphon,105780,105791,13,537,9
+exp,exp_name,the gryphon,the Gryphon,106050,106061,13,539,9
+exp,exp_name,the gryphon,the Gryphon,106601,106612,13,543,9
+exp,exp_name,the gryphon,the Gryphon,107311,107322,13,547,9
+exp,exp_name,the gryphon,the Gryphon,107427,107438,13,547,9
+exp,exp_name,the gryphon,the Gryphon,107721,107732,13,551,9
+exp,exp_name,the gryphon,The Gryphon,108794,108805,13,564,9
+exp,exp_name,the gryphon,the Gryphon,109022,109033,13,566,9
+exp,exp_name,the gryphon,the Gryphon,109707,109718,13,571,9
+exp,exp_name,the gryphon,the Gryphon,109929,109940,13,573,9
+exp,exp_name,the gryphon,the Gryphon,110271,110282,13,577,9
+exp,exp_name,the gryphon,the Gryphon,110625,110636,13,581,9
+exp,exp_name,the gryphon,the Gryphon,110969,110980,13,583,10
+exp,exp_name,the gryphon,the Gryphon,111518,111529,13,586,10
+exp,exp_name,the gryphon,the Gryphon,111767,111778,13,588,10
+exp,exp_name,the gryphon,the Gryphon,111848,111859,13,590,10
+exp,exp_name,the gryphon,the Gryphon,111990,112001,13,592,10
+exp,exp_name,the gryphon,the Gryphon,112090,112101,13,594,10
+exp,exp_name,the gryphon,the Gryphon,112195,112206,13,596,10
+exp,exp_name,the gryphon,the Gryphon,112320,112331,13,598,10
+exp,exp_name,the gryphon,the Gryphon,112817,112828,13,603,10
+exp,exp_name,the gryphon,the Gryphon,112912,112923,13,604,10
+exp,exp_name,the gryphon,the Gryphon,115184,115195,13,614,10
+exp,exp_name,the gryphon,the Gryphon,115220,115231,13,615,10
+exp,exp_name,the gryphon,the Gryphon,115594,115605,13,617,10
+exp,exp_name,the gryphon,the Gryphon,115730,115741,13,619,10
+exp,exp_name,the gryphon,the Gryphon,115904,115915,13,621,10
+exp,exp_name,the gryphon,the Gryphon,116108,116119,13,623,10
+exp,exp_name,the gryphon,the Gryphon,116288,116299,13,625,10
+exp,exp_name,the gryphon,the Gryphon,116973,116984,13,631,10
+exp,exp_name,the gryphon,the Gryphon,117293,117304,13,634,10
+exp,exp_name,the gryphon,the Gryphon,117952,117963,13,636,10
+exp,exp_name,the gryphon,the Gryphon,118120,118131,13,637,10
+exp,exp_name,the gryphon,the Gryphon,118255,118266,13,638,10
+exp,exp_name,the gryphon,the Gryphon,119081,119092,13,642,10
+exp,exp_name,the gryphon,the Gryphon,119408,119419,13,646,10
+exp,exp_name,the gryphon,the Gryphon,119726,119737,13,649,10
+exp,exp_name,the gryphon,the Gryphon,120557,120568,13,654,10
+exp,exp_name,the gryphon,the Gryphon,120665,120676,13,655,10
+exp,exp_name,the gryphon,the Gryphon,120833,120844,13,656,10
+exp,exp_name,the gryphon,the Gryphon,121665,121676,13,660,10
+exp,exp_name,the gryphon,the Gryphon,121811,121822,13,661,10
+exp,exp_name,the gryphon,the Gryphon,121962,121973,13,662,10
+exp,exp_name,the gryphon,the Gryphon,123959,123970,13,669,11
+exp,exp_name,the gryphon,the Gryphon,124079,124090,13,670,11
+exp,exp_name,the gryphon,the Gryphon,142892,142903,13,808,12
+exp,exp_name,the gryphon,the Gryphon,143494,143505,13,809,12
+exp,exp_name,the footman,the Footman,59213,59224,45,236,6
+exp,exp_name,the footman,the Footman,59689,59700,45,238,6
+exp,exp_name,the footman,the Footman,60174,60185,45,239,6
+exp,exp_name,the footman,the Footman,60309,60320,45,240,6
+exp,exp_name,the footman,the Footman,60436,60447,45,241,6
+exp,exp_name,the footman,the Footman,60608,60619,45,243,6
+exp,exp_name,the footman,The Footman,60835,60846,45,245,6
+exp,exp_name,the footman,the Footman,61057,61068,45,247,6
+exp,exp_name,her sister,her sister,86,96,4,2,1
+exp,exp_name,her sister,her sister,182,192,4,2,1
+exp,exp_name,her sister,her sister,141103,141113,4,803,12
+exp,exp_name,her sister,her sister,141244,141254,4,804,12
+exp,exp_name,her sister,her sister,141356,141366,4,805,12
+exp,exp_name,her sister,her sister,141507,141517,4,805,12
+exp,exp_name,her sister,her sister,141746,141756,4,806,12
+exp,exp_name,old magpie,old Magpie,30970,30980,38,106,3
+exp,exp_name,a dormouse,a Dormouse,71786,71796,10,312,7
+exp,exp_name,the pigeon,the Pigeon,54012,54022,19,211,5
+exp,exp_name,the pigeon,the Pigeon,54122,54132,19,213,5
+exp,exp_name,the pigeon,the Pigeon,54394,54404,19,215,5
+exp,exp_name,the pigeon,the Pigeon,54584,54594,19,216,5
+exp,exp_name,the pigeon,the Pigeon,54667,54677,19,217,5
+exp,exp_name,the pigeon,the Pigeon,54947,54957,19,219,5
+exp,exp_name,the pigeon,the Pigeon,55216,55226,19,221,5
+exp,exp_name,the pigeon,the Pigeon,55433,55443,19,223,5
+exp,exp_name,the pigeon,the Pigeon,55868,55878,19,225,5
+exp,exp_name,the pigeon,the Pigeon,56050,56060,19,226,5
+exp,exp_name,the pigeon,the Pigeon,56408,56418,19,228,5
+exp,exp_name,march hare,March Hare,70290,70300,3,305,6
+exp,exp_name,march hare,March Hare,71173,71183,3,310,6
+exp,exp_name,march hare,March Hare,71737,71747,3,312,7
+exp,exp_name,march hare,March Hare,72332,72342,3,314,7
+exp,exp_name,march hare,March Hare,72511,72521,3,316,7
+exp,exp_name,march hare,March Hare,72667,72677,3,318,7
+exp,exp_name,march hare,March Hare,73344,73354,3,324,7
+exp,exp_name,march hare,March Hare,73425,73435,3,326,7
+exp,exp_name,march hare,March Hare,73731,73741,3,329,7
+exp,exp_name,march hare,March Hare,74616,74626,3,334,7
+exp,exp_name,march hare,March Hare,74661,74671,3,335,7
+exp,exp_name,march hare,March Hare,74817,74827,3,337,7
+exp,exp_name,march hare,March Hare,76105,76115,3,348,7
+exp,exp_name,march hare,March Hare,77021,77031,3,355,7
+exp,exp_name,march hare,March Hare,77488,77498,3,359,7
+exp,exp_name,march hare,March Hare,78832,78842,3,374,7
+exp,exp_name,march hare,March Hare,79286,79296,3,378,7
+exp,exp_name,march hare,March Hare,80138,80148,3,387,7
+exp,exp_name,march hare,March Hare,80866,80876,3,394,7
+exp,exp_name,march hare,March Hare,81527,81537,3,400,7
+exp,exp_name,march hare,March Hare,81622,81632,3,400,7
+exp,exp_name,march hare,March Hare,81757,81767,3,400,7
+exp,exp_name,march hare,March Hare,82598,82608,3,408,7
+exp,exp_name,march hare,March Hare,126166,126176,3,682,11
+exp,exp_name,march hare,March Hare,126318,126328,3,683,11
+exp,exp_name,march hare,March Hare,128969,128979,3,706,11
+exp,exp_name,march hare,March Hare,129062,129072,3,708,11
+exp,exp_name,march hare,March Hare,142623,142633,3,808,12
+exp,exp_name,the eaglet,the Eaglet,25259,25269,43,74,3
+exp,exp_name,the eaglet,the Eaglet,25377,25387,43,74,3
+exp,exp_name,the hatter,the Hatter,71752,71762,14,312,7
+exp,exp_name,the hatter,the Hatter,72808,72818,14,320,7
+exp,exp_name,the hatter,The Hatter,73016,73026,14,322,7
+exp,exp_name,the hatter,the Hatter,73584,73594,14,328,7
+exp,exp_name,the hatter,the Hatter,74022,74032,14,331,7
+exp,exp_name,the hatter,The Hatter,74208,74218,14,332,7
+exp,exp_name,the hatter,the Hatter,74527,74537,14,334,7
+exp,exp_name,the hatter,the Hatter,74738,74748,14,336,7
+exp,exp_name,the hatter,the Hatter,75234,75244,14,339,7
+exp,exp_name,the hatter,the Hatter,75457,75467,14,341,7
+exp,exp_name,the hatter,The Hatter,75501,75511,14,342,7
+exp,exp_name,the hatter,the Hatter,75702,75712,14,343,7
+exp,exp_name,the hatter,the Hatter,75938,75948,14,345,7
+exp,exp_name,the hatter,the Hatter,76074,76084,14,347,7
+exp,exp_name,the hatter,the Hatter,76303,76313,14,350,7
+exp,exp_name,the hatter,the Hatter,76434,76444,14,352,7
+exp,exp_name,the hatter,the Hatter,76656,76666,14,354,7
+exp,exp_name,the hatter,the Hatter,77205,77215,14,357,7
+exp,exp_name,the hatter,The Hatter,77327,77337,14,359,7
+exp,exp_name,the hatter,the Hatter,77743,77753,14,363,7
+exp,exp_name,the hatter,the Hatter,78100,78110,14,366,7
+exp,exp_name,the hatter,the Hatter,78268,78278,14,368,7
+exp,exp_name,the hatter,the Hatter,78497,78507,14,370,7
+exp,exp_name,the hatter,the Hatter,78672,78682,14,372,7
+exp,exp_name,the hatter,the Hatter,79364,79374,14,380,7
+exp,exp_name,the hatter,the Hatter,80304,80314,14,389,7
+exp,exp_name,the hatter,the Hatter,80444,80454,14,391,7
+exp,exp_name,the hatter,the Hatter,80847,80857,14,394,7
+exp,exp_name,the hatter,the Hatter,81423,81433,14,399,7
+exp,exp_name,the hatter,The Hatter,81634,81644,14,400,7
+exp,exp_name,the hatter,the Hatter,82004,82014,14,402,7
+exp,exp_name,the hatter,the Hatter,82733,82743,14,410,7
+exp,exp_name,the hatter,the Hatter,83103,83113,14,412,7
+exp,exp_name,the hatter,the Hatter,125856,125866,14,680,11
+exp,exp_name,the hatter,The Hatter,126141,126151,14,682,11
+exp,exp_name,the hatter,the Hatter,126586,126596,14,686,11
+exp,exp_name,the hatter,the Hatter,126621,126631,14,687,11
+exp,exp_name,the hatter,the Hatter,126756,126766,14,689,11
+exp,exp_name,the hatter,the Hatter,126889,126899,14,690,11
+exp,exp_name,the hatter,the Hatter,128096,128106,14,699,11
+exp,exp_name,the hatter,the Hatter,128474,128484,14,701,11
+exp,exp_name,the hatter,the Hatter,128727,128737,14,703,11
+exp,exp_name,the hatter,the Hatter,128866,128876,14,705,11
+exp,exp_name,the hatter,the Hatter,129027,129037,14,707,11
+exp,exp_name,the hatter,the Hatter,129171,129181,14,710,11
+exp,exp_name,the hatter,the Hatter,129324,129334,14,711,11
+exp,exp_name,the hatter,the Hatter,129461,129471,14,713,11
+exp,exp_name,the hatter,the Hatter,130410,130420,14,720,11
+exp,exp_name,the hatter,the Hatter,130673,130683,14,724,11
+exp,exp_name,the hatter,the Hatter,130791,130801,14,725,11
+exp,exp_name,the hatter,the Hatter,130955,130965,14,726,11
+exp,exp_name,the rabbit,the Rabbit,16,26,21,1,1
+exp,exp_name,the rabbit,the Rabbit,738,748,21,4,1
+exp,exp_name,the rabbit,the Rabbit,954,964,21,4,1
+exp,exp_name,the rabbit,The rabbit,1481,1491,21,6,1
+exp,exp_name,the rabbit,the Rabbit,5507,5517,21,12,1
+exp,exp_name,the rabbit,the Rabbit,13829,13839,21,40,2
+exp,exp_name,the rabbit,The Rabbit,13912,13922,21,40,2
+exp,exp_name,the rabbit,the Rabbit,16718,16728,21,46,2
+exp,exp_name,the rabbit,The Rabbit,31830,31840,21,108,4
+exp,exp_name,the rabbit,the Rabbit,32537,32547,21,110,4
+exp,exp_name,the rabbit,the Rabbit,37014,37024,21,121,4
+exp,exp_name,the rabbit,the Rabbit,37161,37171,21,121,4
+exp,exp_name,the rabbit,the Rabbit,37222,37232,21,122,4
+exp,exp_name,the rabbit,the Rabbit,37545,37555,21,123,4
+exp,exp_name,the rabbit,the Rabbit,37889,37899,21,124,4
+exp,exp_name,the rabbit,the Rabbit,38065,38075,21,125,4
+exp,exp_name,the rabbit,the Rabbit,40441,40451,21,135,4
+exp,exp_name,the rabbit,the Rabbit,41019,41029,21,138,4
+exp,exp_name,the rabbit,the Rabbit,41341,41351,21,139,4
+exp,exp_name,the rabbit,the Rabbit,90250,90260,21,453,8
+exp,exp_name,the rabbit,the Rabbit,90512,90522,21,455,8
+exp,exp_name,the rabbit,the Rabbit,90646,90656,21,457,8
+exp,exp_name,the rabbit,the Rabbit,90716,90726,21,457,8
+exp,exp_name,the rabbit,the Rabbit,125627,125637,21,678,11
+exp,exp_name,the queen,the Queen,78118,78127,20,366,7
+exp,exp_name,the queen,The Queen,84381,84390,20,417,8
+exp,exp_name,the queen,the Queen,86189,86198,20,427,8
+exp,exp_name,the queen,the Queen,87466,87475,20,430,8
+exp,exp_name,the queen,the Queen,87592,87601,20,431,8
+exp,exp_name,the queen,the Queen,87900,87909,20,433,8
+exp,exp_name,the queen,The Queen,88299,88308,20,435,8
+exp,exp_name,the queen,the Queen,88485,88494,20,436,8
+exp,exp_name,the queen,The Queen,88605,88614,20,438,8
+exp,exp_name,the queen,the Queen,88751,88760,20,440,8
+exp,exp_name,the queen,the Queen,88862,88871,20,440,8
+exp,exp_name,the queen,the Queen,88941,88950,20,441,8
+exp,exp_name,the queen,the Queen,89193,89202,20,443,8
+exp,exp_name,the queen,the Queen,89660,89669,20,445,8
+exp,exp_name,the queen,the Queen,89779,89788,20,447,8
+exp,exp_name,the queen,the Queen,89955,89964,20,450,8
+exp,exp_name,the queen,the Queen,90869,90878,20,458,8
+exp,exp_name,the queen,the Queen,92371,92380,20,460,8
+exp,exp_name,the queen,the Queen,92600,92609,20,461,8
+exp,exp_name,the queen,the Queen,94333,94342,20,467,8
+exp,exp_name,the queen,The Queen,94461,94470,20,468,8
+exp,exp_name,the queen,the Queen,95105,95114,20,475,8
+exp,exp_name,the queen,The Queen,95199,95208,20,476,8
+exp,exp_name,the queen,the Queen,95502,95511,20,478,8
+exp,exp_name,the queen,the Queen,96692,96701,20,481,8
+exp,exp_name,the queen,The Queen,97356,97365,20,485,8
+exp,exp_name,the queen,the Queen,97695,97704,20,487,8
+exp,exp_name,the queen,the Queen,102697,102706,20,519,9
+exp,exp_name,the queen,the Queen,102887,102896,20,521,9
+exp,exp_name,the queen,the Queen,103110,103119,20,523,9
+exp,exp_name,the queen,the Queen,103277,103286,20,524,9
+exp,exp_name,the queen,the Queen,103394,103403,20,524,9
+exp,exp_name,the queen,the Queen,103504,103513,20,525,9
+exp,exp_name,the queen,the Queen,103851,103860,20,525,9
+exp,exp_name,the queen,the Queen,103928,103937,20,526,9
+exp,exp_name,the queen,the Queen,104141,104150,20,528,9
+exp,exp_name,the queen,the Queen,104224,104233,20,530,9
+exp,exp_name,the queen,the Queen,104504,104513,20,531,9
+exp,exp_name,the queen,the Queen,104677,104686,20,532,9
+exp,exp_name,the queen,the Queen,105111,105120,20,533,9
+exp,exp_name,the queen,the Queen,126835,126844,20,690,11
+exp,exp_name,the queen,the Queen,127149,127158,20,692,11
+exp,exp_name,the queen,the Queen,128056,128065,20,699,11
+exp,exp_name,the queen,the Queen,130709,130718,20,724,11
+exp,exp_name,the queen,the Queen,130911,130920,20,726,11
+exp,exp_name,the queen,the Queen,131778,131787,20,735,11
+exp,exp_name,the queen,the Queen,132180,132189,20,737,11
+exp,exp_name,the queen,the Queen,135454,135463,20,757,12
+exp,exp_name,the queen,the Queen,135974,135983,20,763,12
+exp,exp_name,the queen,the Queen,137196,137205,20,774,12
+exp,exp_name,the queen,the Queen,139860,139869,20,793,12
+exp,exp_name,the queen,the Queen,139886,139895,20,794,12
+exp,exp_name,the queen,the Queen,140466,140475,20,797,12
+exp,exp_name,the queen,the Queen,140624,140633,20,799,12
+exp,exp_name,the queen,the Queen,140697,140706,20,801,12
+exp,exp_name,the queen,the Queen,142706,142715,20,808,12
+exp,exp_name,the queen,the Queen,143393,143402,20,809,12
+exp,exp_name,the mouse,The Mouse,19396,19405,18,51,2
+exp,exp_name,the mouse,The Mouse,19851,19860,18,52,2
+exp,exp_name,the mouse,the Mouse,20103,20112,18,53,2
+exp,exp_name,the mouse,the Mouse,20709,20718,18,54,2
+exp,exp_name,the mouse,the Mouse,20868,20877,18,55,2
+exp,exp_name,the mouse,The Mouse,21186,21195,18,56,2
+exp,exp_name,the mouse,the Mouse,21745,21754,18,56,2
+exp,exp_name,the mouse,the Mouse,21999,22008,18,57,2
+exp,exp_name,the mouse,the Mouse,23321,23330,18,62,3
+exp,exp_name,the mouse,the Mouse,23519,23528,18,62,3
+exp,exp_name,the mouse,the Mouse,23680,23689,18,63,3
+exp,exp_name,the mouse,the Mouse,24108,24117,18,65,3
+exp,exp_name,the mouse,the Mouse,24225,24234,18,67,3
+exp,exp_name,the mouse,the Mouse,24452,24461,18,69,3
+exp,exp_name,the mouse,The Mouse,24684,24693,18,71,3
+exp,exp_name,the mouse,the Mouse,27355,27364,18,83,3
+exp,exp_name,the mouse,the Mouse,28270,28279,18,89,3
+exp,exp_name,the mouse,the Mouse,28515,28524,18,91,3
+exp,exp_name,the mouse,the Mouse,28632,28641,18,92,3
+exp,exp_name,the mouse,the Mouse,28720,28729,18,92,3
+exp,exp_name,the mouse,the mouse,29036,29045,18,93,3
+exp,exp_name,the mouse,the Mouse,29303,29312,18,94,3
+exp,exp_name,the mouse,the Mouse,29470,29479,18,96,3
+exp,exp_name,the mouse,the Mouse,29673,29682,18,98,3
+exp,exp_name,the mouse,The Mouse,29840,29849,18,100,3
+exp,exp_name,the mouse,the Mouse,29998,30007,18,101,3
+exp,exp_name,the mouse,the Mouse,31741,31750,18,107,3
+exp,exp_name,the mouse,the mouse,33718,33727,18,112,4
+exp,exp_name,a gryphon,a Gryphon,104553,104562,13,532,9
+exp,exp_name,a gryphon,a Gryphon,104618,104627,13,532,9
+exp,exp_name,the duck,the Duck,24427,24435,42,68,3
+exp,exp_name,the duck,the Duck,24591,24599,42,70,3
+exp,exp_name,a canary,a Canary,31108,31116,25,106,3
+exp,exp_name,mary ann,Mary Ann,33325,33333,36,111,4
+exp,exp_name,the baby,the baby,61693,61701,41,251,6
+exp,exp_name,the baby,the baby,62279,62287,41,254,6
+exp,exp_name,the baby,the baby,62977,62985,41,259,6
+exp,exp_name,the baby,the baby,63134,63142,41,259,6
+exp,exp_name,the baby,the baby,64539,64547,41,267,6
+exp,exp_name,the baby,the baby,64648,64656,41,269,6
+exp,exp_name,the baby,the baby,64994,65002,41,273,6
+exp,exp_name,the baby,the baby,65208,65216,41,274,6
+exp,exp_name,the baby,The baby,66182,66190,41,276,6
+exp,exp_name,the baby,the baby,143470,143478,41,809,12
+exp,exp_name,the lory,the Lory,23065,23073,47,61,3
+exp,exp_name,the lory,the Lory,23237,23245,47,61,3
+exp,exp_name,the lory,the Lory,24056,24064,47,64,3
+exp,exp_name,the lory,the Lory,24180,24188,47,66,3
+exp,exp_name,the lory,the Lory,30110,30118,47,102,3
+exp,exp_name,the lory,the Lory,30599,30607,47,104,3
+exp,exp_name,the cook,the cook,61391,61399,8,249,6
+exp,exp_name,the cook,the cook,61826,61834,8,251,6
+exp,exp_name,the cook,the cook,62848,62856,8,259,6
+exp,exp_name,the cook,the cook,63952,63960,8,264,6
+exp,exp_name,the cook,the cook,64004,64012,8,264,6
+exp,exp_name,the cook,the cook,64526,64534,8,267,6
+exp,exp_name,the cook,The cook,65115,65123,8,273,6
+exp,exp_name,the cook,the cook,131332,131340,8,730,11
+exp,exp_name,the cook,the cook,131575,131583,8,732,11
+exp,exp_name,the cook,the cook,131699,131707,8,733,11
+exp,exp_name,the cook,the cook,132038,132046,8,736,11
+exp,exp_name,the dodo,the Dodo,25106,25114,9,73,3
+exp,exp_name,the dodo,the Dodo,25499,25507,9,75,3
+exp,exp_name,the dodo,the Dodo,25672,25680,9,76,3
+exp,exp_name,the dodo,the Dodo,25803,25811,9,77,3
+exp,exp_name,the dodo,the Dodo,25943,25951,9,77,3
+exp,exp_name,the dodo,the Dodo,26386,26394,9,78,3
+exp,exp_name,the dodo,the Dodo,26521,26529,9,79,3
+exp,exp_name,the dodo,the Dodo,26768,26776,9,79,3
+exp,exp_name,the dodo,the Dodo,26929,26937,9,81,3
+exp,exp_name,the dodo,the Dodo,27380,27388,9,84,3
+exp,exp_name,the dodo,the Dodo,27546,27554,9,86,3
+exp,exp_name,the dodo,the Dodo,27606,27614,9,87,3
+exp,exp_name,the king,the King,86892,86900,15,428,8
+exp,exp_name,the king,THE KING,86983,86991,15,428,8
+exp,exp_name,the king,The King,88508,88516,15,437,8
+exp,exp_name,the king,the King,88852,88860,15,440,8
+exp,exp_name,the king,the King,94527,94535,15,469,8
+exp,exp_name,the king,the King,94734,94742,15,471,8
+exp,exp_name,the king,the King,94855,94863,15,473,8
+exp,exp_name,the king,the King,95066,95074,15,475,8
+exp,exp_name,the king,the King,95374,95382,15,477,8
+exp,exp_name,the king,the King,96678,96686,15,481,8
+exp,exp_name,the king,The King,97242,97250,15,484,8
+exp,exp_name,the king,the King,97934,97942,15,488,8
+exp,exp_name,the king,the King,103841,103849,15,525,9
+exp,exp_name,the king,the King,104314,104322,15,531,9
+exp,exp_name,the king,The King,122223,122231,15,665,11
+exp,exp_name,the king,the King,122512,122520,15,665,11
+exp,exp_name,the king,the King,123229,123237,15,667,11
+exp,exp_name,the king,the King,124318,124326,15,671,11
+exp,exp_name,the king,the King,125276,125284,15,674,11
+exp,exp_name,the king,the King,125579,125587,15,677,11
+exp,exp_name,the king,the King,125735,125743,15,679,11
+exp,exp_name,the king,the King,126108,126116,15,681,11
+exp,exp_name,the king,the King,126384,126392,15,685,11
+exp,exp_name,the king,the King,126569,126577,15,686,11
+exp,exp_name,the king,the King,126646,126654,15,688,11
+exp,exp_name,the king,the King,126959,126967,15,691,11
+exp,exp_name,the king,the King,128354,128362,15,700,11
+exp,exp_name,the king,the King,128689,128697,15,702,11
+exp,exp_name,the king,the King,128792,128800,15,704,11
+exp,exp_name,the king,the King,129096,129104,15,709,11
+exp,exp_name,the king,the King,129506,129514,15,714,11
+exp,exp_name,the king,the King,129717,129725,15,716,11
+exp,exp_name,the king,the King,130371,130379,15,719,11
+exp,exp_name,the king,the King,130480,130488,15,721,11
+exp,exp_name,the king,the King,130777,130785,15,725,11
+exp,exp_name,the king,the King,131056,131064,15,727,11
+exp,exp_name,the king,the King,131306,131314,15,729,11
+exp,exp_name,the king,The King,131343,131351,15,731,11
+exp,exp_name,the king,the King,131493,131501,15,732,11
+exp,exp_name,the king,the King,132084,132092,15,737,11
+exp,exp_name,the king,the King,133365,133373,15,742,12
+exp,exp_name,the king,the King,134308,134316,15,745,12
+exp,exp_name,the king,the King,134389,134397,15,747,12
+exp,exp_name,the king,the King,134458,134466,15,749,12
+exp,exp_name,the king,the King,134761,134769,15,750,12
+exp,exp_name,the king,the King,135134,135142,15,753,12
+exp,exp_name,the king,the King,135412,135420,15,756,12
+exp,exp_name,the king,the King,135618,135626,15,759,12
+exp,exp_name,the king,The King,135676,135684,15,761,12
+exp,exp_name,the king,the King,136140,136148,15,765,12
+exp,exp_name,the king,the King,136710,136718,15,770,12
+exp,exp_name,the king,the King,136911,136919,15,772,12
+exp,exp_name,the king,the King,137135,137143,15,773,12
+exp,exp_name,the king,the King,137319,137327,15,776,12
+exp,exp_name,the king,the King,137451,137459,15,778,12
+exp,exp_name,the king,the King,138407,138415,15,786,12
+exp,exp_name,the king,the King,138873,138881,15,789,12
+exp,exp_name,the king,the King,139355,139363,15,791,12
+exp,exp_name,the king,the King,139672,139680,15,793,12
+exp,exp_name,the king,the King,140209,140217,15,795,12
+exp,exp_name,the king,the King,140298,140306,15,796,12
+exp,exp_name,the king,the King,140396,140404,15,796,12
+exp,exp_name,the cat,the cat,4229,4236,6,11,1
+exp,exp_name,the cat,The Cat,67755,67762,6,280,6
+exp,exp_name,the cat,the Cat,68273,68280,6,282,6
+exp,exp_name,the cat,the Cat,68372,68379,6,284,6
+exp,exp_name,the cat,the Cat,68483,68490,6,286,6
+exp,exp_name,the cat,the Cat,68661,68668,6,288,6
+exp,exp_name,the cat,the Cat,68924,68931,6,290,6
+exp,exp_name,the cat,the Cat,69037,69044,6,292,6
+exp,exp_name,the cat,the Cat,69206,69213,6,294,6
+exp,exp_name,the cat,the Cat,69294,69301,6,296,6
+exp,exp_name,the cat,the Cat,69553,69560,6,298,6
+exp,exp_name,the cat,the Cat,69713,69720,6,300,6
+exp,exp_name,the cat,the Cat,69953,69960,6,302,6
+exp,exp_name,the cat,the Cat,70112,70119,6,304,6
+exp,exp_name,the cat,the Cat,70558,70565,6,305,6
+exp,exp_name,the cat,the Cat,70637,70644,6,306,6
+exp,exp_name,the cat,the Cat,70789,70796,6,308,6
+exp,exp_name,the cat,the Cat,93195,93202,6,463,8
+exp,exp_name,the cat,The Cat,93577,93584,6,464,8
+exp,exp_name,the cat,the Cat,94232,94239,6,466,8
+exp,exp_name,the cat,the Cat,94571,94578,6,469,8
+exp,exp_name,the cat,the Cat,94807,94814,6,472,8
+exp,exp_name,the cat,The Cat,97793,97800,6,488,8
+exp,exp_name,seven,seven,15098,15103,5,42,2
+exp,exp_name,seven,Seven,84854,84859,5,420,8
+exp,exp_name,seven,Seven,85134,85139,5,423,8
+exp,exp_name,seven,Seven,85264,85269,5,425,8
+exp,exp_name,seven,Seven,85603,85608,5,427,8
+exp,exp_name,alice,Alice,34,39,0,2,1
+exp,exp_name,alice,Alice,294,299,0,2,1
+exp,exp_name,alice,Alice,685,690,0,4,1
+exp,exp_name,alice,Alice,1057,1062,0,4,1
+exp,exp_name,alice,Alice,1398,1403,0,5,1
+exp,exp_name,alice,Alice,1590,1595,0,6,1
+exp,exp_name,alice,Alice,2435,2440,0,8,1
+exp,exp_name,alice,Alice,2942,2947,0,9,1
+exp,exp_name,alice,Alice,3284,3289,0,9,1
+exp,exp_name,alice,Alice,4131,4136,0,11,1
+exp,exp_name,alice,Alice,4497,4502,0,11,1
+exp,exp_name,alice,Alice,5062,5067,0,12,1
+exp,exp_name,alice,Alice,5320,5325,0,12,1
+exp,exp_name,alice,Alice,5714,5719,0,13,1
+exp,exp_name,alice,Alice,6003,6008,0,14,1
+exp,exp_name,alice,Alice,6432,6437,0,15,1
+exp,exp_name,alice,Alice,6848,6853,0,15,1
+exp,exp_name,alice,Alice,7075,7080,0,15,1
+exp,exp_name,alice,Alice,7446,7451,0,16,1
+exp,exp_name,alice,Alice,7638,7643,0,17,1
+exp,exp_name,alice,Alice,8332,8337,0,18,1
+exp,exp_name,alice,Alice,8708,8713,0,22,1
+exp,exp_name,alice,Alice,9112,9117,0,23,1
+exp,exp_name,alice,Alice,9476,9481,0,24,1
+exp,exp_name,alice,Alice,9927,9932,0,25,1
+exp,exp_name,alice,Alice,10401,10406,0,25,1
+exp,exp_name,alice,Alice,10725,10730,0,26,1
+exp,exp_name,alice,Alice,11201,11206,0,27,1
+exp,exp_name,alice,Alice,11627,11632,0,33,2
+exp,exp_name,alice,Alice,12181,12186,0,33,2
+exp,exp_name,alice,Alice,12829,12834,0,38,2
+exp,exp_name,alice,Alice,13068,13073,0,39,2
+exp,exp_name,alice,Alice,13753,13758,0,40,2
+exp,exp_name,alice,Alice,14045,14050,0,41,2
+exp,exp_name,alice,Alice,15920,15925,0,45,2
+exp,exp_name,alice,Alice,16488,16493,0,45,2
+exp,exp_name,alice,Alice,17212,17217,0,47,2
+exp,exp_name,alice,Alice,17889,17894,0,48,2
+exp,exp_name,alice,Alice,18340,18345,0,49,2
+exp,exp_name,alice,Alice,18900,18905,0,51,2
+exp,exp_name,alice,Alice,19174,19179,0,51,2
+exp,exp_name,alice,Alice,19568,19573,0,52,2
+exp,exp_name,alice,Alice,19687,19692,0,52,2
+exp,exp_name,alice,Alice,19972,19977,0,52,2
+exp,exp_name,alice,Alice,20212,20217,0,54,2
+exp,exp_name,alice,Alice,20406,20411,0,54,2
+exp,exp_name,alice,Alice,20682,20687,0,54,2
+exp,exp_name,alice,Alice,21085,21090,0,56,2
+exp,exp_name,alice,Alice,21215,21220,0,56,2
+exp,exp_name,alice,Alice,21677,21682,0,56,2
+exp,exp_name,alice,Alice,22105,22110,0,57,2
+exp,exp_name,alice,Alice,22480,22485,0,58,2
+exp,exp_name,alice,Alice,22931,22936,0,61,3
+exp,exp_name,alice,Alice,23175,23180,0,61,3
+exp,exp_name,alice,Alice,23544,23549,0,62,3
+exp,exp_name,alice,Alice,24977,24982,0,71,3
+exp,exp_name,alice,Alice,25020,25025,0,72,3
+exp,exp_name,alice,Alice,25627,25632,0,76,3
+exp,exp_name,alice,Alice,26951,26956,0,81,3
+exp,exp_name,alice,Alice,27071,27076,0,82,3
+exp,exp_name,alice,Alice,27475,27480,0,84,3
+exp,exp_name,alice,Alice,27506,27511,0,85,3
+exp,exp_name,alice,Alice,27768,27773,0,88,3
+exp,exp_name,alice,Alice,28365,28370,0,90,3
+exp,exp_name,alice,Alice,28537,28542,0,91,3
+exp,exp_name,alice,Alice,28597,28602,0,92,3
+exp,exp_name,alice,Alice,29316,29321,0,94,3
+exp,exp_name,alice,Alice,29387,29392,0,95,3
+exp,exp_name,alice,Alice,29523,29528,0,97,3
+exp,exp_name,alice,Alice,29789,29794,0,99,3
+exp,exp_name,alice,Alice,29916,29921,0,101,3
+exp,exp_name,alice,Alice,30459,30464,0,103,3
+exp,exp_name,alice,Alice,30610,30615,0,105,3
+exp,exp_name,alice,Alice,31269,31274,0,106,3
+exp,exp_name,alice,Alice,31535,31540,0,107,3
+exp,exp_name,alice,Alice,32193,32198,0,109,4
+exp,exp_name,alice,Alice,32556,32561,0,110,4
+exp,exp_name,alice,Alice,32757,32762,0,110,4
+exp,exp_name,alice,Alice,33430,33435,0,112,4
+exp,exp_name,alice,Alice,33767,33772,0,112,4
+exp,exp_name,alice,Alice,35446,35451,0,116,4
+exp,exp_name,alice,Alice,35727,35732,0,117,4
+exp,exp_name,alice,Alice,36339,36344,0,118,4
+exp,exp_name,alice,Alice,36996,37001,0,121,4
+exp,exp_name,alice,Alice,37313,37318,0,122,4
+exp,exp_name,alice,Alice,37387,37392,0,122,4
+exp,exp_name,alice,Alice,37492,37497,0,123,4
+exp,exp_name,alice,Alice,38521,38526,0,131,4
+exp,exp_name,alice,Alice,38873,38878,0,131,4
+exp,exp_name,alice,Alice,39871,39876,0,133,4
+exp,exp_name,alice,Alice,40736,40741,0,136,4
+exp,exp_name,alice,Alice,41043,41048,0,138,4
+exp,exp_name,alice,Alice,41159,41164,0,139,4
+exp,exp_name,alice,Alice,41329,41334,0,139,4
+exp,exp_name,alice,Alice,41429,41434,0,140,4
+exp,exp_name,alice,Alice,41721,41726,0,141,4
+exp,exp_name,alice,Alice,42439,42444,0,142,4
+exp,exp_name,alice,Alice,42593,42598,0,143,4
+exp,exp_name,alice,Alice,43223,43228,0,145,4
+exp,exp_name,alice,Alice,43699,43704,0,146,4
+exp,exp_name,alice,Alice,43927,43932,0,146,4
+exp,exp_name,alice,Alice,44389,44394,0,147,4
+exp,exp_name,alice,Alice,44625,44630,0,148,4
+exp,exp_name,alice,Alice,45052,45057,0,149,4
+exp,exp_name,alice,Alice,45802,45807,0,152,5
+exp,exp_name,alice,Alice,46056,46061,0,154,5
+exp,exp_name,alice,Alice,46376,46381,0,156,5
+exp,exp_name,alice,Alice,46499,46504,0,158,5
+exp,exp_name,alice,Alice,46726,46731,0,160,5
+exp,exp_name,alice,Alice,46993,46998,0,162,5
+exp,exp_name,alice,Alice,47182,47187,0,164,5
+exp,exp_name,alice,Alice,47443,47448,0,166,5
+exp,exp_name,alice,Alice,47695,47700,0,168,5
+exp,exp_name,alice,Alice,47793,47798,0,170,5
+exp,exp_name,alice,Alice,47878,47883,0,172,5
+exp,exp_name,alice,Alice,48215,48220,0,173,5
+exp,exp_name,alice,Alice,48457,48462,0,175,5
+exp,exp_name,alice,Alice,48566,48571,0,177,5
+exp,exp_name,alice,Alice,50176,50181,0,187,5
+exp,exp_name,alice,Alice,50461,50466,0,191,5
+exp,exp_name,alice,Alice,50579,50584,0,193,5
+exp,exp_name,alice,Alice,50830,50835,0,195,5
+exp,exp_name,alice,Alice,51062,51067,0,197,5
+exp,exp_name,alice,Alice,51299,51304,0,199,5
+exp,exp_name,alice,Alice,51702,51707,0,200,5
+exp,exp_name,alice,Alice,51841,51846,0,202,5
+exp,exp_name,alice,Alice,52887,52892,0,208,5
+exp,exp_name,alice,Alice,53222,53227,0,209,5
+exp,exp_name,alice,Alice,54053,54058,0,212,5
+exp,exp_name,alice,Alice,54308,54313,0,214,5
+exp,exp_name,alice,Alice,54489,54494,0,216,5
+exp,exp_name,alice,Alice,54837,54842,0,218,5
+exp,exp_name,alice,Alice,55162,55167,0,220,5
+exp,exp_name,alice,Alice,55305,55310,0,222,5
+exp,exp_name,alice,Alice,55734,55739,0,224,5
+exp,exp_name,alice,Alice,55985,55990,0,226,5
+exp,exp_name,alice,Alice,56255,56260,0,227,5
+exp,exp_name,alice,Alice,56476,56481,0,228,5
+exp,exp_name,alice,Alice,57523,57528,0,229,5
+exp,exp_name,alice,Alice,58243,58248,0,231,6
+exp,exp_name,alice,Alice,58874,58879,0,234,6
+exp,exp_name,alice,Alice,59121,59126,0,235,6
+exp,exp_name,alice,Alice,59613,59618,0,237,6
+exp,exp_name,alice,Alice,59926,59931,0,238,6
+exp,exp_name,alice,Alice,60541,60546,0,242,6
+exp,exp_name,alice,Alice,60684,60689,0,244,6
+exp,exp_name,alice,Alice,61023,61028,0,246,6
+exp,exp_name,alice,Alice,61137,61142,0,248,6
+exp,exp_name,alice,Alice,61537,61542,0,250,6
+exp,exp_name,alice,Alice,61948,61953,0,252,6
+exp,exp_name,alice,Alice,62204,62209,0,254,6
+exp,exp_name,alice,Alice,62535,62540,0,257,6
+exp,exp_name,alice,Alice,62680,62685,0,259,6
+exp,exp_name,alice,Alice,63288,63293,0,260,6
+exp,exp_name,alice,Alice,63634,63639,0,262,6
+exp,exp_name,alice,Alice,63918,63923,0,264,6
+exp,exp_name,alice,Alice,64722,64727,0,269,6
+exp,exp_name,alice,Alice,64978,64983,0,273,6
+exp,exp_name,alice,Alice,65195,65200,0,274,6
+exp,exp_name,alice,Alice,65364,65369,0,274,6
+exp,exp_name,alice,Alice,65892,65897,0,275,6
+exp,exp_name,alice,Alice,66117,66122,0,275,6
+exp,exp_name,alice,Alice,66210,66215,0,276,6
+exp,exp_name,alice,Alice,66454,66459,0,276,6
+exp,exp_name,alice,Alice,66693,66698,0,277,6
+exp,exp_name,alice,Alice,66888,66893,0,278,6
+exp,exp_name,alice,Alice,67788,67793,0,280,6
+exp,exp_name,alice,Alice,68123,68128,0,281,6
+exp,exp_name,alice,Alice,68316,68321,0,283,6
+exp,exp_name,alice,Alice,68416,68421,0,285,6
+exp,exp_name,alice,Alice,68525,68530,0,287,6
+exp,exp_name,alice,Alice,68875,68880,0,289,6
+exp,exp_name,alice,Alice,69009,69014,0,291,6
+exp,exp_name,alice,Alice,69081,69086,0,293,6
+exp,exp_name,alice,Alice,69272,69277,0,295,6
+exp,exp_name,alice,Alice,69515,69520,0,297,6
+exp,exp_name,alice,Alice,69643,69648,0,299,6
+exp,exp_name,alice,Alice,69737,69742,0,301,6
+exp,exp_name,alice,Alice,70018,70023,0,303,6
+exp,exp_name,alice,Alice,70142,70147,0,305,6
+exp,exp_name,alice,Alice,70669,70674,0,307,6
+exp,exp_name,alice,Alice,71011,71016,0,309,6
+exp,exp_name,alice,Alice,71984,71989,0,312,7
+exp,exp_name,alice,Alice,72180,72185,0,313,7
+exp,exp_name,alice,Alice,72227,72232,0,313,7
+exp,exp_name,alice,Alice,72373,72378,0,315,7
+exp,exp_name,alice,Alice,72577,72582,0,317,7
+exp,exp_name,alice,Alice,72722,72727,0,319,7
+exp,exp_name,alice,Alice,72843,72848,0,320,7
+exp,exp_name,alice,Alice,72966,72971,0,321,7
+exp,exp_name,alice,Alice,73176,73181,0,323,7
+exp,exp_name,alice,Alice,73376,73381,0,325,7
+exp,exp_name,alice,Alice,73454,73459,0,327,7
+exp,exp_name,alice,Alice,74114,74119,0,331,7
+exp,exp_name,alice,Alice,74306,74311,0,332,7
+exp,exp_name,alice,Alice,74446,74451,0,333,7
+exp,exp_name,alice,Alice,75039,75044,0,338,7
+exp,exp_name,alice,Alice,75310,75315,0,340,7
+exp,exp_name,alice,Alice,75470,75475,0,342,7
+exp,exp_name,alice,Alice,75966,75971,0,345,7
+exp,exp_name,alice,Alice,76000,76005,0,346,7
+exp,exp_name,alice,Alice,76118,76123,0,349,7
+exp,exp_name,alice,Alice,76403,76408,0,351,7
+exp,exp_name,alice,Alice,76543,76548,0,353,7
+exp,exp_name,alice,Alice,77102,77107,0,356,7
+exp,exp_name,alice,Alice,77313,77318,0,358,7
+exp,exp_name,alice,Alice,77711,77716,0,362,7
+exp,exp_name,alice,Alice,78237,78242,0,367,7
+exp,exp_name,alice,Alice,78390,78395,0,369,7
+exp,exp_name,alice,Alice,78645,78650,0,371,7
+exp,exp_name,alice,Alice,78771,78776,0,373,7
+exp,exp_name,alice,Alice,78971,78976,0,375,7
+exp,exp_name,alice,Alice,79325,79330,0,379,7
+exp,exp_name,alice,Alice,79633,79638,0,382,7
+exp,exp_name,alice,Alice,79830,79835,0,384,7
+exp,exp_name,alice,Alice,79928,79933,0,386,7
+exp,exp_name,alice,Alice,80157,80162,0,387,7
+exp,exp_name,alice,Alice,80205,80210,0,388,7
+exp,exp_name,alice,Alice,80399,80404,0,390,7
+exp,exp_name,alice,Alice,80476,80481,0,392,7
+exp,exp_name,alice,Alice,80809,80814,0,394,7
+exp,exp_name,alice,Alice,81017,81022,0,395,7
+exp,exp_name,alice,Alice,81282,81287,0,397,7
+exp,exp_name,alice,Alice,81575,81580,0,400,7
+exp,exp_name,alice,Alice,81705,81710,0,400,7
+exp,exp_name,alice,Alice,81813,81818,0,401,7
+exp,exp_name,alice,Alice,82126,82131,0,403,7
+exp,exp_name,alice,Alice,82281,82286,0,405,7
+exp,exp_name,alice,Alice,82570,82575,0,407,7
+exp,exp_name,alice,Alice,82611,82616,0,409,7
+exp,exp_name,alice,Alice,83025,83030,0,411,7
+exp,exp_name,alice,Alice,83153,83158,0,413,7
+exp,exp_name,alice,Alice,83527,83532,0,414,7
+exp,exp_name,alice,Alice,84567,84572,0,418,8
+exp,exp_name,alice,Alice,85380,85385,0,425,8
+exp,exp_name,alice,Alice,85532,85537,0,426,8
+exp,exp_name,alice,Alice,86156,86161,0,427,8
+exp,exp_name,alice,Alice,86698,86703,0,428,8
+exp,exp_name,alice,Alice,87014,87019,0,429,8
+exp,exp_name,alice,Alice,87419,87424,0,430,8
+exp,exp_name,alice,Alice,87649,87654,0,431,8
+exp,exp_name,alice,Alice,87709,87714,0,432,8
+exp,exp_name,alice,Alice,87746,87751,0,432,8
+exp,exp_name,alice,Alice,88231,88236,0,434,8
+exp,exp_name,alice,Alice,88447,88452,0,436,8
+exp,exp_name,alice,Alice,89389,89394,0,443,8
+exp,exp_name,alice,Alice,89443,89448,0,444,8
+exp,exp_name,alice,Alice,89855,89860,0,448,8
+exp,exp_name,alice,Alice,89923,89928,0,449,8
+exp,exp_name,alice,Alice,89970,89975,0,450,8
+exp,exp_name,alice,Alice,90198,90203,0,452,8
+exp,exp_name,alice,Alice,90474,90479,0,454,8
+exp,exp_name,alice,Alice,90552,90557,0,456,8
+exp,exp_name,alice,Alice,90664,90669,0,457,8
+exp,exp_name,alice,Alice,91055,91060,0,458,8
+exp,exp_name,alice,Alice,91347,91352,0,459,8
+exp,exp_name,alice,Alice,92152,92157,0,459,8
+exp,exp_name,alice,Alice,92515,92520,0,461,8
+exp,exp_name,alice,Alice,93261,93266,0,464,8
+exp,exp_name,alice,Alice,93462,93467,0,464,8
+exp,exp_name,alice,Alice,93713,93718,0,465,8
+exp,exp_name,alice,Alice,94276,94281,0,467,8
+exp,exp_name,alice,Alice,94549,94554,0,469,8
+exp,exp_name,alice,Alice,94655,94660,0,470,8
+exp,exp_name,alice,Alice,94913,94918,0,473,8
+exp,exp_name,alice,Alice,94966,94971,0,474,8
+exp,exp_name,alice,Alice,95413,95418,0,478,8
+exp,exp_name,alice,Alice,95912,95917,0,479,8
+exp,exp_name,alice,Alice,96084,96089,0,479,8
+exp,exp_name,alice,Alice,96321,96326,0,480,8
+exp,exp_name,alice,Alice,96814,96819,0,482,8
+exp,exp_name,alice,Alice,97568,97573,0,486,8
+exp,exp_name,alice,Alice,98225,98230,0,490,9
+exp,exp_name,alice,Alice,98265,98270,0,491,9
+exp,exp_name,alice,Alice,99274,99279,0,494,9
+exp,exp_name,alice,Alice,99429,99434,0,495,9
+exp,exp_name,alice,Alice,99457,99462,0,496,9
+exp,exp_name,alice,Alice,99627,99632,0,496,9
+exp,exp_name,alice,Alice,99995,100000,0,499,9
+exp,exp_name,alice,Alice,100166,100171,0,500,9
+exp,exp_name,alice,Alice,100346,100351,0,501,9
+exp,exp_name,alice,Alice,100592,100597,0,503,9
+exp,exp_name,alice,Alice,100836,100841,0,505,9
+exp,exp_name,alice,Alice,100972,100977,0,507,9
+exp,exp_name,alice,Alice,101062,101067,0,508,9
+exp,exp_name,alice,Alice,101224,101229,0,509,9
+exp,exp_name,alice,Alice,101721,101726,0,511,9
+exp,exp_name,alice,Alice,101976,101981,0,513,9
+exp,exp_name,alice,Alice,102125,102130,0,515,9
+exp,exp_name,alice,Alice,102344,102349,0,517,9
+exp,exp_name,alice,Alice,102503,102508,0,519,9
+exp,exp_name,alice,Alice,102664,102669,0,519,9
+exp,exp_name,alice,Alice,103128,103133,0,523,9
+exp,exp_name,alice,Alice,103139,103144,0,523,9
+exp,exp_name,alice,Alice,103866,103871,0,525,9
+exp,exp_name,alice,Alice,103981,103986,0,526,9
+exp,exp_name,alice,Alice,104037,104042,0,527,9
+exp,exp_name,alice,Alice,104194,104199,0,529,9
+exp,exp_name,alice,Alice,104302,104307,0,531,9
+exp,exp_name,alice,Alice,104853,104858,0,532,9
+exp,exp_name,alice,Alice,104883,104888,0,532,9
+exp,exp_name,alice,Alice,105220,105225,0,533,9
+exp,exp_name,alice,Alice,105254,105259,0,534,9
+exp,exp_name,alice,Alice,105412,105417,0,536,9
+exp,exp_name,alice,Alice,105650,105655,0,537,9
+exp,exp_name,alice,Alice,106297,106302,0,541,9
+exp,exp_name,alice,Alice,106665,106670,0,543,9
+exp,exp_name,alice,Alice,107112,107117,0,545,9
+exp,exp_name,alice,Alice,107373,107378,0,547,9
+exp,exp_name,alice,Alice,107653,107658,0,549,9
+exp,exp_name,alice,Alice,107741,107746,0,551,9
+exp,exp_name,alice,Alice,107906,107911,0,553,9
+exp,exp_name,alice,Alice,108023,108028,0,555,9
+exp,exp_name,alice,Alice,108122,108127,0,557,9
+exp,exp_name,alice,Alice,108366,108371,0,559,9
+exp,exp_name,alice,Alice,108537,108542,0,561,9
+exp,exp_name,alice,Alice,108756,108761,0,563,9
+exp,exp_name,alice,Alice,108947,108952,0,565,9
+exp,exp_name,alice,Alice,109106,109111,0,567,9
+exp,exp_name,alice,Alice,109570,109575,0,569,9
+exp,exp_name,alice,Alice,110066,110071,0,574,9
+exp,exp_name,alice,Alice,110219,110224,0,576,9
+exp,exp_name,alice,Alice,110362,110367,0,578,9
+exp,exp_name,alice,Alice,110570,110575,0,580,9
+exp,exp_name,alice,Alice,110848,110853,0,583,10
+exp,exp_name,alice,Alice,111215,111220,0,584,10
+exp,exp_name,alice,Alice,111284,111289,0,584,10
+exp,exp_name,alice,Alice,111468,111473,0,585,10
+exp,exp_name,alice,Alice,112598,112603,0,599,10
+exp,exp_name,alice,Alice,112645,112650,0,600,10
+exp,exp_name,alice,Alice,112749,112754,0,602,10
+exp,exp_name,alice,Alice,113001,113006,0,605,10
+exp,exp_name,alice,Alice,114402,114407,0,609,10
+exp,exp_name,alice,Alice,114607,114612,0,611,10
+exp,exp_name,alice,Alice,114824,114829,0,613,10
+exp,exp_name,alice,Alice,115465,115470,0,616,10
+exp,exp_name,alice,Alice,115682,115687,0,618,10
+exp,exp_name,alice,Alice,115766,115771,0,620,10
+exp,exp_name,alice,Alice,115954,115959,0,622,10
+exp,exp_name,alice,Alice,116216,116221,0,624,10
+exp,exp_name,alice,Alice,116400,116405,0,626,10
+exp,exp_name,alice,Alice,116684,116689,0,628,10
+exp,exp_name,alice,Alice,116895,116900,0,630,10
+exp,exp_name,alice,Alice,117106,117111,0,632,10
+exp,exp_name,alice,Alice,117373,117378,0,635,10
+exp,exp_name,alice,Alice,118184,118189,0,637,10
+exp,exp_name,alice,Alice,118343,118348,0,639,10
+exp,exp_name,alice,Alice,119186,119191,0,644,10
+exp,exp_name,alice,Alice,119603,119608,0,648,10
+exp,exp_name,alice,Alice,119801,119806,0,650,10
+exp,exp_name,alice,Alice,120574,120579,0,654,10
+exp,exp_name,alice,Alice,120802,120807,0,656,10
+exp,exp_name,alice,Alice,121836,121841,0,661,10
+exp,exp_name,alice,Alice,121933,121938,0,662,10
+exp,exp_name,alice,Alice,122726,122731,0,665,11
+exp,exp_name,alice,Alice,122958,122963,0,666,11
+exp,exp_name,alice,Alice,123446,123451,0,668,11
+exp,exp_name,alice,Alice,123940,123945,0,669,11
+exp,exp_name,alice,Alice,124193,124198,0,671,11
+exp,exp_name,alice,Alice,124407,124412,0,672,11
+exp,exp_name,alice,Alice,124750,124755,0,672,11
+exp,exp_name,alice,Alice,124820,124825,0,673,11
+exp,exp_name,alice,Alice,127274,127279,0,693,11
+exp,exp_name,alice,Alice,127702,127707,0,695,11
+exp,exp_name,alice,Alice,127819,127824,0,697,11
+exp,exp_name,alice,Alice,130087,130092,0,718,11
+exp,exp_name,alice,Alice,130602,130607,0,723,11
+exp,exp_name,alice,Alice,131152,131157,0,728,11
+exp,exp_name,alice,Alice,132287,132292,0,738,11
+exp,exp_name,alice,Alice,132607,132612,0,739,12
+exp,exp_name,alice,Alice,132640,132645,0,740,12
+exp,exp_name,alice,Alice,133510,133515,0,742,12
+exp,exp_name,alice,Alice,133532,133537,0,743,12
+exp,exp_name,alice,Alice,134325,134330,0,745,12
+exp,exp_name,alice,Alice,134349,134354,0,746,12
+exp,exp_name,alice,Alice,134425,134430,0,748,12
+exp,exp_name,alice,Alice,134991,134996,0,752,12
+exp,exp_name,alice,Alice,135350,135355,0,754,12
+exp,exp_name,alice,Alice,135388,135393,0,755,12
+exp,exp_name,alice,Alice,135505,135510,0,758,12
+exp,exp_name,alice,Alice,135668,135673,0,760,12
+exp,exp_name,alice,Alice,137246,137251,0,775,12
+exp,exp_name,alice,Alice,138503,138508,0,787,12
+exp,exp_name,alice,Alice,139636,139641,0,792,12
+exp,exp_name,alice,Alice,140543,140548,0,798,12
+exp,exp_name,alice,Alice,140668,140673,0,800,12
+exp,exp_name,alice,Alice,140781,140786,0,802,12
+exp,exp_name,alice,Alice,141336,141341,0,805,12
+exp,exp_name,alice,Alice,141635,141640,0,805,12
+exp,exp_name,alice,Alice,141868,141873,0,806,12
+exp,exp_name,alice,Alice,142009,142014,0,807,12
+exp,exp_name,dinah,Dinah,4164,4169,32,11,1
+exp,exp_name,dinah,Dinah,4219,4224,32,11,1
+exp,exp_name,dinah,Dinah,4859,4864,32,11,1
+exp,exp_name,mabel,Mabel,15373,15378,35,42,2
+exp,exp_name,five,five,15035,15039,2,42,2
+exp,exp_name,five,Five,84796,84800,2,419,8
+exp,exp_name,five,Five,84967,84971,2,421,8
+exp,exp_name,five,Five,85176,85180,2,424,8
+exp,exp_name,five,Five,85594,85598,2,427,8
+exp,exp_name,five,Five,85950,85954,2,427,8
+exp,exp_name,bill,Bill,31859,31863,31,108,4
+exp,exp_name,bill,Bill,39273,39277,31,132,4
+exp,exp_name,bill,Bill,39295,39299,31,132,4
+exp,exp_name,bill,Bill,39477,39481,31,132,4
+exp,exp_name,bill,Bill,39632,39636,31,132,4
+exp,exp_name,bill,Bill,39732,39736,31,132,4
+exp,exp_name,bill,Bill,39757,39761,31,132,4
+exp,exp_name,bill,Bill,39951,39955,31,133,4
+exp,exp_name,bill,Bill,40429,40433,31,135,4
+exp,exp_name,bill,Bill,42310,42314,31,142,4
+exp,exp_name,bill,bill,108278,108282,31,558,9
+exp,exp_name,bill,Bill,139980,139984,31,794,12
+exp,exp_name,time,time,910,914,22,4,1
+exp,exp_name,time,time,1308,1312,22,4,1
+exp,exp_name,time,time,1780,1784,22,7,1
+exp,exp_name,time,time,2782,2786,22,9,1
+exp,exp_name,time,time,3642,3646,22,10,1
+exp,exp_name,time,time,4290,4294,22,11,1
+exp,exp_name,time,time,5357,5361,22,12,1
+exp,exp_name,time,time,6223,6227,22,14,1
+exp,exp_name,time,time,7363,7367,22,16,1
+exp,exp_name,time,time,13354,13358,22,40,2
+exp,exp_name,time,time,14143,14147,22,41,2
+exp,exp_name,time,time,17135,17139,22,46,2
+exp,exp_name,time,time,20704,20708,22,54,2
+exp,exp_name,time,time,22288,22292,22,58,2
+exp,exp_name,time,time,26602,26606,22,79,3
+exp,exp_name,time,time,31198,31202,22,106,3
+exp,exp_name,time,time,33878,33882,22,113,4
+exp,exp_name,time,time,34223,34227,22,113,4
+exp,exp_name,time,time,38744,38748,22,131,4
+exp,exp_name,time,time,39049,39053,22,132,4
+exp,exp_name,time,time,43326,43330,22,145,4
+exp,exp_name,time,time,44189,44193,22,146,4
+exp,exp_name,time,time,45838,45842,22,152,5
+exp,exp_name,time,time,51197,51201,22,198,5
+exp,exp_name,time,time,51294,51298,22,199,5
+exp,exp_name,time,time,52439,52443,22,204,5
+exp,exp_name,time,time,55521,55525,22,223,5
+exp,exp_name,time,time,59895,59899,22,238,6
+exp,exp_name,time,time,66090,66094,22,275,6
+exp,exp_name,time,time,67088,67092,22,278,6
+exp,exp_name,time,time,70807,70811,22,308,6
+exp,exp_name,time,time,70920,70924,22,308,6
+exp,exp_name,time,time,72858,72862,22,320,7
+exp,exp_name,time,time,75397,75401,22,340,7
+exp,exp_name,time,time,76188,76192,22,349,7
+exp,exp_name,time,time,76596,76600,22,353,7
+exp,exp_name,time,time,76853,76857,22,354,7
+exp,exp_name,time,time,76975,76979,22,354,7
+exp,exp_name,time,time,78174,78178,22,366,7
+exp,exp_name,time,time,78538,78542,22,370,7
+exp,exp_name,time,time,78557,78561,22,370,7
+exp,exp_name,time,time,79436,79440,22,381,7
+exp,exp_name,time,time,81382,81386,22,398,7
+exp,exp_name,time,time,82329,82333,22,405,7
+exp,exp_name,time,time,82671,82675,22,410,7
+exp,exp_name,time,time,83405,83409,22,413,7
+exp,exp_name,time,time,83964,83968,22,416,7
+exp,exp_name,time,time,92366,92370,22,460,8
+exp,exp_name,time,time,96167,96171,22,480,8
+exp,exp_name,time,time,97227,97231,22,483,8
+exp,exp_name,time,time,97437,97441,22,485,8
+exp,exp_name,time,time,97862,97866,22,488,8
+exp,exp_name,time,time,99007,99011,22,493,9
+exp,exp_name,time,time,102999,103003,22,521,9
+exp,exp_name,time,time,103481,103485,22,525,9
+exp,exp_name,time,time,109695,109699,22,571,9
+exp,exp_name,time,time,111748,111752,22,588,10
+exp,exp_name,time,time,112539,112543,22,599,10
+exp,exp_name,time,time,113114,113118,22,605,10
+exp,exp_name,time,time,117362,117366,22,634,10
+exp,exp_name,time,time,117422,117426,22,635,10
+exp,exp_name,time,time,122951,122955,22,665,11
+exp,exp_name,time,time,128051,128055,22,699,11
+exp,exp_name,time,time,132004,132008,22,736,11
+exp,exp_name,time,time,135166,135170,22,753,12
+exp,exp_name,time,time,140435,140439,22,796,12
+exp,exp_name,time,time,140828,140832,22,802,12
+exp,exp_name,time,time,143800,143804,22,810,12
+exp,exp_name,two,two,10353,10356,24,25,1
+exp,exp_name,two,two,10426,10429,24,25,1
+exp,exp_name,two,two,16977,16980,24,46,2
+exp,exp_name,two,two,26155,26158,24,78,3
+exp,exp_name,two,two,33996,33999,24,113,4
+exp,exp_name,two,two,41289,41292,24,139,4
+exp,exp_name,two,two,42352,42355,24,142,4
+exp,exp_name,two,two,51368,51371,24,199,5
+exp,exp_name,two,two,51941,51944,24,202,5
+exp,exp_name,two,two,56034,56037,24,226,5
+exp,exp_name,two,two,57820,57823,24,231,6
+exp,exp_name,two,two,59240,59243,24,236,6
+exp,exp_name,two,two,65554,65557,24,274,6
+exp,exp_name,two,two,65936,65939,24,275,6
+exp,exp_name,two,two,70242,70245,24,305,6
+exp,exp_name,two,two,71456,71459,24,310,6
+exp,exp_name,two,two,71850,71853,24,312,7
+exp,exp_name,two,Two,74503,74506,24,334,7
+exp,exp_name,two,two,79782,79785,24,383,7
+exp,exp_name,two,two,80720,80723,24,393,7
+exp,exp_name,two,Two,85637,85640,24,427,8
+exp,exp_name,two,Two,85642,85645,24,427,8
+exp,exp_name,two,two,86429,86432,24,428,8
+exp,exp_name,two,two,86437,86440,24,428,8
+exp,exp_name,two,Two,89093,89096,24,442,8
+exp,exp_name,two,two,89558,89561,24,444,8
+exp,exp_name,two,two,91030,91033,24,458,8
+exp,exp_name,two,two,93041,93044,24,462,8
+exp,exp_name,two,two,110895,110898,24,583,10
+exp,exp_name,two,Two,111584,111587,24,587,10
+exp,exp_name,two,two,112472,112475,24,599,10
+exp,exp_name,two,two,117517,117520,24,635,10
+exp,exp_name,two,two,121445,121448,24,659,10
+exp,exp_name,two,two,123643,123646,24,668,11
+exp,exp_name,two,two,135267,135270,24,753,12
+exp,exp_name,two,two,135431,135434,24,757,12
+exp,exp_name,two,two,137855,137858,24,782,12
+exp,exp_name,pig,Pig,57787,57790,41,230,6
+exp,exp_name,pig,pig,66673,66676,41,277,6
+exp,exp_name,pig,pig,67167,67170,41,278,6
+exp,exp_name,pig,pig,67468,67471,41,279,6
+exp,exp_name,pig,pig,70012,70015,41,303,6
+exp,exp_name,pig,pig,70618,70621,41,306,6
+exp,exp_name,pig,pig,70655,70658,41,307,6
+exp,exp_name,pig,pig,130006,130009,41,717,11
+exp,exp_name,pig,pig,130521,130524,41,722,11
+exp,exp_name,pig,pig,142780,142783,41,808,12
+booknlp,COREF,39,she,153,156,0,2,1
+booknlp,COREF,39,she,341,344,0,3,1
+booknlp,COREF,39,her,364,367,0,3,1
+booknlp,COREF,39,she,389,392,0,3,1
+booknlp,COREF,39,her,421,424,0,3,1
+booknlp,COREF,39,her,623,626,0,3,1
+booknlp,COREF,19,itself,756,762,21,4,1
+booknlp,COREF,19,I,783,784,21,4,1
+booknlp,COREF,39,she,807,810,0,4,1
+booknlp,COREF,39,her,854,857,0,4,1
+booknlp,COREF,39,she,863,866,0,4,1
+booknlp,COREF,39,her,1074,1077,0,4,1
+booknlp,COREF,39,her,1106,1109,0,4,1
+booknlp,COREF,39,she,1120,1123,0,4,1
+booknlp,COREF,39,she,1245,1248,0,4,1
+booknlp,COREF,19,it,1320,1322,21,4,1
+booknlp,COREF,39,she,1454,1457,0,5,1
+booknlp,COREF,39,herself,1637,1644,0,6,1
+booknlp,COREF,39,she,1652,1655,0,6,1
+booknlp,COREF,39,herself,1662,1669,0,6,1
+booknlp,COREF,39,she,1736,1739,0,7,1
+booknlp,COREF,39,she,1762,1765,0,7,1
+booknlp,COREF,39,she,1788,1791,0,7,1
+booknlp,COREF,39,her,1816,1819,0,7,1
+booknlp,COREF,39,she,1872,1875,0,7,1
+booknlp,COREF,39,she,1913,1916,0,7,1
+booknlp,COREF,39,she,1974,1977,0,7,1
+booknlp,COREF,39,she,2093,2096,0,7,1
+booknlp,COREF,39,She,2135,2138,0,7,1
+booknlp,COREF,39,she,2182,2185,0,7,1
+booknlp,COREF,39,her,2237,2240,0,7,1
+booknlp,COREF,39,she,2276,2279,0,7,1
+booknlp,COREF,39,she,2400,2403,0,7,1
+booknlp,COREF,39,herself,2444,2451,0,8,1
+booknlp,COREF,39,I,2481,2482,0,8,1
+booknlp,COREF,39,me,2556,2558,0,8,1
+booknlp,COREF,39,I,2573,2574,0,8,1
+booknlp,COREF,39,I,2615,2616,0,8,1
+booknlp,COREF,39,I,2738,2739,0,9,1
+booknlp,COREF,39,I,2762,2763,0,9,1
+booknlp,COREF,39,she,2789,2792,0,9,1
+booknlp,COREF,39,I,2806,2807,0,9,1
+booknlp,COREF,39,me,2868,2870,0,9,1
+booknlp,COREF,39,I,2916,2917,0,9,1
+booknlp,COREF,39,her,2990,2993,0,9,1
+booknlp,COREF,39,her,3087,3090,0,9,1
+booknlp,COREF,39,her,3135,3138,0,9,1
+booknlp,COREF,39,I,3233,3234,0,9,1
+booknlp,COREF,39,I,3269,3270,0,9,1
+booknlp,COREF,39,she,3401,3404,0,10,1
+booknlp,COREF,39,I,3419,3420,0,10,1
+booknlp,COREF,39,I,3431,3432,0,10,1
+booknlp,COREF,39,I,3575,3576,0,10,1
+booknlp,COREF,39,she,3587,3590,0,10,1
+booknlp,COREF,39,I,3697,3698,0,10,1
+booknlp,COREF,39,she,3820,3823,0,10,1
+booknlp,COREF,39,she,3844,3847,0,10,1
+booknlp,COREF,39,me,3991,3993,0,10,1
+booknlp,COREF,39,I,4041,4042,0,10,1
+booknlp,COREF,39,me,4178,4180,0,11,1
+booknlp,COREF,39,I,4201,4202,0,11,1
+booknlp,COREF,39,I,4240,4241,0,11,1
+booknlp,COREF,39,I,4311,4312,0,11,1
+booknlp,COREF,39,me,4342,4344,0,11,1
+booknlp,COREF,39,I,4376,4377,0,11,1
+booknlp,COREF,39,I,4477,4478,0,11,1
+booknlp,COREF,39,herself,4553,4560,0,11,1
+booknlp,COREF,39,she,4677,4680,0,11,1
+booknlp,COREF,39,she,4746,4749,0,11,1
+booknlp,COREF,39,She,4758,4761,0,11,1
+booknlp,COREF,39,she,4772,4775,0,11,1
+booknlp,COREF,39,she,4825,4828,0,11,1
+booknlp,COREF,22,her,4880,4883,32,11,1
+booknlp,COREF,39,me,4918,4920,0,11,1
+booknlp,COREF,39,she,4991,4994,0,11,1
+booknlp,COREF,39,she,5092,5095,0,12,1
+booknlp,COREF,39,her,5112,5115,0,12,1
+booknlp,COREF,39,she,5134,5137,0,12,1
+booknlp,COREF,39,her,5186,5189,0,12,1
+booknlp,COREF,39,my,5405,5407,0,12,1
+booknlp,COREF,39,She,5451,5454,0,12,1
+booknlp,COREF,39,she,5480,5483,0,12,1
+booknlp,COREF,39,she,5544,5547,0,12,1
+booknlp,COREF,39,herself,5554,5561,0,12,1
+booknlp,COREF,39,she,5792,5795,0,13,1
+booknlp,COREF,39,she,5840,5843,0,13,1
+booknlp,COREF,39,she,5881,5884,0,14,1
+booknlp,COREF,39,she,6235,6238,0,14,1
+booknlp,COREF,39,she,6263,6266,0,14,1
+booknlp,COREF,39,she,6350,6353,0,14,1
+booknlp,COREF,39,her,6402,6405,0,14,1
+booknlp,COREF,39,she,6531,6534,0,15,1
+booknlp,COREF,39,she,6619,6622,0,15,1
+booknlp,COREF,39,she,6742,6745,0,15,1
+booknlp,COREF,39,her,6765,6768,0,15,1
+booknlp,COREF,39,my,6808,6810,0,15,1
+booknlp,COREF,39,my,6895,6897,0,15,1
+booknlp,COREF,39,I,6917,6918,0,15,1
+booknlp,COREF,39,I,6924,6925,0,15,1
+booknlp,COREF,39,I,6958,6959,0,15,1
+booknlp,COREF,39,I,6966,6967,0,15,1
+booknlp,COREF,39,I,6978,6979,0,15,1
+booknlp,COREF,39,she,7213,7216,0,16,1
+booknlp,COREF,39,she,7253,7256,0,16,1
+booknlp,COREF,39,she,7368,7371,0,16,1
+booknlp,COREF,39,ME,7528,7530,0,16,1
+booknlp,COREF,39,I,7688,7689,0,17,1
+booknlp,COREF,39,she,7706,7709,0,17,1
+booknlp,COREF,39,she,7769,7772,0,17,1
+booknlp,COREF,39,she,8141,8144,0,17,1
+booknlp,COREF,39,she,8512,8515,0,18,1
+booknlp,COREF,39,I,8716,8717,0,22,1
+booknlp,COREF,39,she,8780,8783,0,23,1
+booknlp,COREF,39,her,8818,8821,0,23,1
+booknlp,COREF,39,she,8861,8864,0,23,1
+booknlp,COREF,39,she,8963,8966,0,23,1
+booknlp,COREF,39,she,9002,9005,0,23,1
+booknlp,COREF,39,she,9039,9042,0,23,1
+booknlp,COREF,39,you,9096,9099,0,23,1
+booknlp,COREF,39,herself,9121,9128,0,23,1
+booknlp,COREF,39,my,9134,9136,0,23,1
+booknlp,COREF,39,I,9174,9175,0,23,1
+booknlp,COREF,39,I,9188,9189,0,23,1
+booknlp,COREF,39,she,9216,9219,0,23,1
+booknlp,COREF,39,she,9305,9308,0,23,1
+booknlp,COREF,39,she,9411,9414,0,24,1
+booknlp,COREF,39,she,9488,9491,0,24,1
+booknlp,COREF,39,she,9509,9512,0,24,1
+booknlp,COREF,39,she,9519,9522,0,24,1
+booknlp,COREF,39,she,9569,9572,0,24,1
+booknlp,COREF,39,she,9604,9607,0,24,1
+booknlp,COREF,39,she,9614,9617,0,24,1
+booknlp,COREF,39,she,9647,9650,0,24,1
+booknlp,COREF,39,she,9701,9704,0,24,1
+booknlp,COREF,39,her,9711,9714,0,24,1
+booknlp,COREF,39,she,9796,9799,0,24,1
+booknlp,COREF,39,herself,9810,9817,0,24,1
+booknlp,COREF,39,herself,9936,9943,0,25,1
+booknlp,COREF,39,I,9962,9963,0,25,1
+booknlp,COREF,39,She,10002,10005,0,25,1
+booknlp,COREF,39,herself,10021,10028,0,25,1
+booknlp,COREF,39,she,10055,10058,0,25,1
+booknlp,COREF,39,she,10099,10102,0,25,1
+booknlp,COREF,39,herself,10111,10118,0,25,1
+booknlp,COREF,39,her,10154,10157,0,25,1
+booknlp,COREF,39,she,10173,10176,0,25,1
+booknlp,COREF,39,her,10202,10205,0,25,1
+booknlp,COREF,39,herself,10234,10241,0,25,1
+booknlp,COREF,39,she,10263,10266,0,25,1
+booknlp,COREF,39,herself,10287,10294,0,25,1
+booknlp,COREF,39,me,10468,10470,0,25,1
+booknlp,COREF,39,her,10517,10520,0,26,1
+booknlp,COREF,39,she,10584,10587,0,26,1
+booknlp,COREF,39,ME,10658,10660,0,26,1
+booknlp,COREF,39,I,10706,10707,0,26,1
+booknlp,COREF,39,me,10749,10751,0,26,1
+booknlp,COREF,39,I,10765,10766,0,26,1
+booknlp,COREF,39,me,10802,10804,0,26,1
+booknlp,COREF,39,I,10819,10820,0,26,1
+booknlp,COREF,39,I,10861,10862,0,26,1
+booknlp,COREF,39,I,10891,10892,0,26,1
+booknlp,COREF,39,She,10921,10924,0,27,1
+booknlp,COREF,39,herself,10965,10972,0,27,1
+booknlp,COREF,39,her,11007,11010,0,27,1
+booknlp,COREF,39,her,11030,11033,0,27,1
+booknlp,COREF,39,she,11077,11080,0,27,1
+booknlp,COREF,39,she,11114,11117,0,27,1
+booknlp,COREF,39,she,11372,11375,0,28,1
+booknlp,COREF,39,she,11634,11637,0,33,2
+booknlp,COREF,39,she,11681,11684,0,33,2
+booknlp,COREF,39,I,11731,11732,0,33,2
+booknlp,COREF,39,she,11816,11819,0,33,2
+booknlp,COREF,39,her,11835,11838,0,33,2
+booknlp,COREF,39,my,11920,11922,0,33,2
+booknlp,COREF,39,I,11941,11942,0,33,2
+booknlp,COREF,39,your,11966,11970,0,33,2
+booknlp,COREF,39,you,11995,11998,0,33,2
+booknlp,COREF,39,I,12011,12012,0,33,2
+booknlp,COREF,39,I,12021,12022,0,33,2
+booknlp,COREF,39,I,12040,12041,0,33,2
+booknlp,COREF,39,myself,12087,12093,0,33,2
+booknlp,COREF,39,you,12100,12103,0,33,2
+booknlp,COREF,39,you,12105,12108,0,33,2
+booknlp,COREF,39,you,12134,12137,0,33,2
+booknlp,COREF,39,I,12148,12149,0,33,2
+booknlp,COREF,39,I,12224,12225,0,33,2
+booknlp,COREF,39,me,12242,12244,0,33,2
+booknlp,COREF,39,I,12250,12251,0,33,2
+booknlp,COREF,39,she,12308,12311,0,34,2
+booknlp,COREF,39,herself,12332,12339,0,34,2
+booknlp,COREF,39,she,12344,12347,0,34,2
+booknlp,COREF,39,she,12396,12399,0,34,2
+booknlp,COREF,39,her,12649,12652,0,37,2
+booknlp,COREF,39,she,12703,12706,0,37,2
+booknlp,COREF,39,she,12745,12748,0,37,2
+booknlp,COREF,39,she,12854,12857,0,38,2
+booknlp,COREF,39,she,12986,12989,0,38,2
+booknlp,COREF,39,she,13101,13104,0,39,2
+booknlp,COREF,39,I,13175,13176,0,39,2
+booknlp,COREF,39,she,13192,13195,0,39,2
+booknlp,COREF,39,her,13284,13287,0,39,2
+booknlp,COREF,39,she,13359,13362,0,40,2
+booknlp,COREF,39,she,13417,13420,0,40,2
+booknlp,COREF,39,her,13435,13438,0,40,2
+booknlp,COREF,39,she,13782,13785,0,40,2
+booknlp,COREF,39,her,13850,13853,0,40,2
+booknlp,COREF,39,she,13855,13858,0,40,2
+booknlp,COREF,19,he,14031,14033,21,40,2
+booknlp,COREF,39,she,14110,14113,0,41,2
+booknlp,COREF,39,herself,14127,14134,0,41,2
+booknlp,COREF,39,she,14148,14151,0,41,2
+booknlp,COREF,39,I,14258,14259,0,41,2
+booknlp,COREF,39,I,14270,14271,0,41,2
+booknlp,COREF,39,me,14306,14308,0,41,2
+booknlp,COREF,39,I,14320,14321,0,41,2
+booknlp,COREF,39,I,14336,14337,0,41,2
+booknlp,COREF,39,I,14359,14360,0,41,2
+booknlp,COREF,39,I,14374,14375,0,41,2
+booknlp,COREF,39,I,14424,14425,0,41,2
+booknlp,COREF,39,I,14484,14485,0,41,2
+booknlp,COREF,39,she,14523,14526,0,41,2
+booknlp,COREF,39,she,14564,14567,0,41,2
+booknlp,COREF,39,herself,14602,14609,0,41,2
+booknlp,COREF,39,she,14621,14624,0,41,2
+booknlp,COREF,39,I,14668,14669,0,42,2
+booknlp,COREF,39,I,14677,14678,0,42,2
+booknlp,COREF,39,she,14691,14694,0,42,2
+booknlp,COREF,39,mine,14747,14751,0,42,2
+booknlp,COREF,39,I,15869,15870,0,45,2
+booknlp,COREF,39,her,15931,15934,0,45,2
+booknlp,COREF,39,she,15967,15970,0,45,2
+booknlp,COREF,39,I,15981,15982,0,45,2
+booknlp,COREF,39,I,16012,16013,0,45,2
+booknlp,COREF,39,I,16149,16150,0,45,2
+booknlp,COREF,39,my,16162,16164,0,45,2
+booknlp,COREF,39,I,16183,16184,0,45,2
+booknlp,COREF,39,I,16194,16195,0,45,2
+booknlp,COREF,39,I,16296,16297,0,45,2
+booknlp,COREF,39,I,16333,16334,0,45,2
+booknlp,COREF,39,me,16346,16348,0,45,2
+booknlp,COREF,39,I,16374,16375,0,45,2
+booknlp,COREF,39,I,16400,16401,0,45,2
+booknlp,COREF,39,I,16422,16423,0,45,2
+booknlp,COREF,39,I,16447,16448,0,45,2
+booknlp,COREF,39,I,16526,16527,0,45,2
+booknlp,COREF,39,I,16571,16572,0,45,2
+booknlp,COREF,39,she,16622,16625,0,46,2
+booknlp,COREF,39,she,16636,16639,0,46,2
+booknlp,COREF,39,her,16655,16658,0,46,2
+booknlp,COREF,39,she,16696,16699,0,46,2
+booknlp,COREF,39,she,16761,16764,0,46,2
+booknlp,COREF,39,I,16789,16790,0,46,2
+booknlp,COREF,39,she,16808,16811,0,46,2
+booknlp,COREF,39,I,16822,16823,0,46,2
+booknlp,COREF,39,She,16854,16857,0,46,2
+booknlp,COREF,39,herself,16898,16905,0,46,2
+booknlp,COREF,39,she,16942,16945,0,46,2
+booknlp,COREF,39,she,16959,16962,0,46,2
+booknlp,COREF,39,she,17028,17031,0,46,2
+booknlp,COREF,39,she,17082,17085,0,46,2
+booknlp,COREF,39,she,17103,17106,0,46,2
+booknlp,COREF,39,herself,17286,17293,0,47,2
+booknlp,COREF,39,she,17344,17347,0,47,2
+booknlp,COREF,39,she,17653,17656,0,48,2
+booknlp,COREF,39,her,17674,17677,0,48,2
+booknlp,COREF,39,she,17723,17726,0,48,2
+booknlp,COREF,39,her,17737,17740,0,48,2
+booknlp,COREF,39,Her,17761,17764,0,48,2
+booknlp,COREF,39,she,17785,17788,0,48,2
+booknlp,COREF,39,I,17840,17841,0,48,2
+booknlp,COREF,39,she,17867,17870,0,48,2
+booknlp,COREF,39,herself,17879,17886,0,48,2
+booknlp,COREF,39,her,17927,17930,0,48,2
+booknlp,COREF,39,she,18201,18204,0,48,2
+booknlp,COREF,39,she,18224,18227,0,48,2
+booknlp,COREF,39,she,18259,18262,0,48,2
+booknlp,COREF,39,she,18277,18280,0,48,2
+booknlp,COREF,39,I,18303,18304,0,49,2
+booknlp,COREF,39,I,18310,18311,0,49,2
+booknlp,COREF,39,she,18350,18353,0,49,2
+booknlp,COREF,39,her,18381,18384,0,49,2
+booknlp,COREF,39,I,18395,18396,0,49,2
+booknlp,COREF,39,I,18427,18428,0,49,2
+booknlp,COREF,39,my,18458,18460,0,49,2
+booknlp,COREF,39,she,18563,18566,0,50,2
+booknlp,COREF,39,she,18633,18636,0,50,2
+booknlp,COREF,39,she,18683,18686,0,50,2
+booknlp,COREF,39,she,18741,18744,0,50,2
+booknlp,COREF,39,she,18766,18769,0,50,2
+booknlp,COREF,39,she,18783,18786,0,50,2
+booknlp,COREF,39,herself,18851,18858,0,50,2
+booknlp,COREF,39,I,18980,18981,0,51,2
+booknlp,COREF,39,she,19064,19067,0,51,2
+booknlp,COREF,39,I,19123,19124,0,51,2
+booknlp,COREF,39,she,19239,19242,0,51,2
+booknlp,COREF,39,she,19283,19286,0,51,2
+booknlp,COREF,39,her,19313,19316,0,51,2
+booknlp,COREF,39,her,19416,19419,0,51,2
+booknlp,COREF,39,her,19456,19459,0,51,2
+booknlp,COREF,25,its,19480,19483,18,51,2
+booknlp,COREF,25,it,19501,19503,18,51,2
+booknlp,COREF,39,I,19576,19577,0,52,2
+booknlp,COREF,39,her,19661,19664,0,52,2
+booknlp,COREF,39,she,19758,19761,0,52,2
+booknlp,COREF,39,her,19827,19830,0,52,2
+booknlp,COREF,39,I,19946,19947,0,52,2
+booknlp,COREF,39,she,19999,20002,0,52,2
+booknlp,COREF,39,I,20041,20042,0,52,2
+booknlp,COREF,25,me,20180,20182,18,53,2
+booknlp,COREF,39,I,20272,20273,0,54,2
+booknlp,COREF,39,I,20279,20280,0,54,2
+booknlp,COREF,39,I,20311,20312,0,54,2
+booknlp,COREF,39,herself,20429,20436,0,54,2
+booknlp,COREF,39,she,20441,20444,0,54,2
+booknlp,COREF,22,her,20529,20532,32,54,2
+booknlp,COREF,39,I,20656,20657,0,54,2
+booknlp,COREF,25,your,20662,20666,18,54,2
+booknlp,COREF,39,she,20747,20750,0,54,2
+booknlp,COREF,39,I,21063,21064,0,56,2
+booknlp,COREF,39,I,21286,21287,0,56,2
+booknlp,COREF,25,you,21418,21421,18,56,2
+booknlp,COREF,39,I,21500,21501,0,56,2
+booknlp,COREF,39,I,21705,21706,0,56,2
+booknlp,COREF,39,I,21716,21717,0,56,2
+booknlp,COREF,39,her,21778,21781,0,56,2
+booknlp,COREF,39,she,21863,21866,0,57,2
+booknlp,COREF,39,her,22061,22064,0,57,2
+booknlp,COREF,39,I,22194,22195,0,57,2
+booknlp,COREF,39,my,22208,22210,0,57,2
+booknlp,COREF,39,I,22252,22253,0,57,2
+booknlp,COREF,39,herself,22945,22952,0,61,3
+booknlp,COREF,39,she,22989,22992,0,61,3
+booknlp,COREF,39,her,23012,23015,0,61,3
+booknlp,COREF,39,she,23030,23033,0,61,3
+booknlp,COREF,39,I,23122,23123,0,61,3
+booknlp,COREF,39,her,23555,23558,0,62,3
+booknlp,COREF,39,she,23591,23594,0,62,3
+booknlp,COREF,39,she,23605,23608,0,62,3
+booknlp,COREF,39,she,23635,23638,0,62,3
+booknlp,COREF,25,I,23758,23759,18,63,3
+booknlp,COREF,25,I,24083,24084,18,65,3
+booknlp,COREF,25,I,24200,24201,18,67,3
+booknlp,COREF,39,me,25072,25074,0,72,3
+booknlp,COREF,39,you,25357,25360,0,74,3
+booknlp,COREF,39,she,25643,25646,0,76,3
+booknlp,COREF,39,you,25864,25867,0,77,3
+booknlp,COREF,39,yourself,25896,25904,0,77,3
+booknlp,COREF,39,you,25935,25938,0,77,3
+booknlp,COREF,39,you,26672,26675,0,79,3
+booknlp,COREF,39,her,27016,27019,0,81,3
+booknlp,COREF,39,she,27116,27119,0,82,3
+booknlp,COREF,39,her,27124,27127,0,82,3
+booknlp,COREF,39,her,27136,27139,0,82,3
+booknlp,COREF,39,herself,27330,27337,0,83,3
+booknlp,COREF,39,her,27585,27588,0,87,3
+booknlp,COREF,39,your,27662,27666,0,87,3
+booknlp,COREF,39,she,27845,27848,0,88,3
+booknlp,COREF,39,she,27880,27883,0,88,3
+booknlp,COREF,39,she,27920,27923,0,88,3
+booknlp,COREF,39,she,27981,27984,0,88,3
+booknlp,COREF,39,me,28332,28334,0,90,3
+booknlp,COREF,39,she,28407,28410,0,90,3
+booknlp,COREF,25,Mine,28478,28482,18,91,3
+booknlp,COREF,39,she,28684,28687,0,92,3
+booknlp,COREF,39,her,28752,28755,0,92,3
+booknlp,COREF,25,he,28838,28840,18,93,3
+booknlp,COREF,39,I,28893,28894,0,93,3
+booknlp,COREF,39,I,28925,28926,0,93,3
+booknlp,COREF,39,I,29001,29002,0,93,3
+booknlp,COREF,39,I,29155,29156,0,93,3
+booknlp,COREF,39,I,29170,29171,0,93,3
+booknlp,COREF,39,I,29209,29210,0,93,3
+booknlp,COREF,39,you,29256,29259,0,93,3
+booknlp,COREF,39,I,29362,29363,0,95,3
+booknlp,COREF,39,I,29438,29439,0,95,3
+booknlp,COREF,25,I,29450,29451,18,96,3
+booknlp,COREF,39,herself,29551,29558,0,97,3
+booknlp,COREF,39,her,29595,29598,0,97,3
+booknlp,COREF,39,me,29612,29614,0,97,3
+booknlp,COREF,25,I,29635,29636,18,98,3
+booknlp,COREF,25,me,29725,29727,18,98,3
+booknlp,COREF,39,I,29757,29758,0,99,3
+booknlp,COREF,25,its,30019,30022,18,101,3
+booknlp,COREF,39,I,30411,30412,0,103,3
+booknlp,COREF,39,I,30418,30419,0,103,3
+booknlp,COREF,39,I,30440,30441,0,103,3
+booknlp,COREF,39,I,30447,30448,0,103,3
+booknlp,COREF,39,she,30637,30640,0,105,3
+booknlp,COREF,39,her,30672,30675,0,105,3
+booknlp,COREF,39,I,30771,30772,0,105,3
+booknlp,COREF,39,I,31298,31299,0,107,3
+booknlp,COREF,39,I,31305,31306,0,107,3
+booknlp,COREF,39,she,31332,31335,0,107,3
+booknlp,COREF,39,herself,31344,31351,0,107,3
+booknlp,COREF,39,I,31416,31417,0,107,3
+booknlp,COREF,39,I,31477,31478,0,107,3
+booknlp,COREF,39,I,31489,31490,0,107,3
+booknlp,COREF,39,she,31565,31568,0,107,3
+booknlp,COREF,39,she,31632,31635,0,107,3
+booknlp,COREF,39,she,31701,31704,0,107,3
+booknlp,COREF,25,his,31763,31766,18,107,3
+booknlp,COREF,25,his,31803,31806,18,107,3
+booknlp,COREF,39,she,31992,31995,0,109,4
+booknlp,COREF,19,itself,32018,32024,21,109,4
+booknlp,COREF,19,my,32055,32057,21,109,4
+booknlp,COREF,19,my,32072,32074,21,109,4
+booknlp,COREF,19,me,32104,32106,21,109,4
+booknlp,COREF,19,I,32161,32162,21,109,4
+booknlp,COREF,19,I,32182,32183,21,109,4
+booknlp,COREF,39,she,32289,32292,0,109,4
+booknlp,COREF,39,her,32417,32420,0,109,4
+booknlp,COREF,39,she,32566,32569,0,110,4
+booknlp,COREF,39,her,32608,32611,0,110,4
+booknlp,COREF,39,you,32657,32660,0,110,4
+booknlp,COREF,39,me,32709,32711,0,110,4
+booknlp,COREF,39,she,32791,32794,0,110,4
+booknlp,COREF,39,me,32904,32906,0,111,4
+booknlp,COREF,39,she,32927,32930,0,111,4
+booknlp,COREF,39,herself,32939,32946,0,111,4
+booknlp,COREF,39,she,32950,32953,0,111,4
+booknlp,COREF,39,I,33005,33006,0,111,4
+booknlp,COREF,39,I,33015,33016,0,111,4
+booknlp,COREF,19,him,33031,33034,21,111,4
+booknlp,COREF,39,I,33067,33068,0,111,4
+booknlp,COREF,39,she,33088,33091,0,111,4
+booknlp,COREF,39,she,33103,33106,0,111,4
+booknlp,COREF,39,She,33229,33232,0,111,4
+booknlp,COREF,39,she,33300,33303,0,111,4
+booknlp,COREF,39,she,33373,33376,0,111,4
+booknlp,COREF,39,herself,33444,33451,0,112,4
+booknlp,COREF,39,I,33489,33490,0,112,4
+booknlp,COREF,39,me,33519,33521,0,112,4
+booknlp,COREF,39,she,33545,33548,0,112,4
+booknlp,COREF,39,I,33697,33698,0,112,4
+booknlp,COREF,39,I,33751,33752,0,112,4
+booknlp,COREF,39,she,33883,33886,0,113,4
+booknlp,COREF,39,her,33897,33900,0,113,4
+booknlp,COREF,39,she,33971,33974,0,113,4
+booknlp,COREF,39,she,34041,34044,0,113,4
+booknlp,COREF,39,her,34130,34133,0,113,4
+booknlp,COREF,39,ME,34250,34252,0,113,4
+booknlp,COREF,39,she,34272,34275,0,113,4
+booknlp,COREF,39,her,34302,34305,0,113,4
+booknlp,COREF,39,I,34313,34314,0,113,4
+booknlp,COREF,39,she,34364,34367,0,113,4
+booknlp,COREF,39,herself,34376,34383,0,113,4
+booknlp,COREF,39,I,34395,34396,0,113,4
+booknlp,COREF,39,I,34423,34424,0,113,4
+booknlp,COREF,39,I,34460,34461,0,113,4
+booknlp,COREF,39,me,34481,34483,0,113,4
+booknlp,COREF,39,I,34513,34514,0,113,4
+booknlp,COREF,39,she,34605,34608,0,114,4
+booknlp,COREF,39,she,34630,34633,0,114,4
+booknlp,COREF,39,she,34661,34664,0,114,4
+booknlp,COREF,39,her,34671,34674,0,114,4
+booknlp,COREF,39,her,34735,34738,0,114,4
+booknlp,COREF,39,She,34763,34766,0,114,4
+booknlp,COREF,39,herself,34806,34813,0,114,4
+booknlp,COREF,39,I,34836,34837,0,114,4
+booknlp,COREF,39,I,34843,34844,0,114,4
+booknlp,COREF,39,I,34877,34878,0,114,4
+booknlp,COREF,39,I,34906,34907,0,114,4
+booknlp,COREF,39,I,34916,34917,0,114,4
+booknlp,COREF,39,She,34984,34987,0,115,4
+booknlp,COREF,39,she,35120,35123,0,115,4
+booknlp,COREF,39,her,35219,35222,0,115,4
+booknlp,COREF,39,she,35235,35238,0,115,4
+booknlp,COREF,39,she,35281,35284,0,115,4
+booknlp,COREF,39,herself,35357,35364,0,115,4
+booknlp,COREF,39,I,35370,35371,0,115,4
+booknlp,COREF,39,me,35428,35430,0,115,4
+booknlp,COREF,39,she,35510,35513,0,116,4
+booknlp,COREF,39,her,35611,35614,0,116,4
+booknlp,COREF,39,she,35661,35664,0,116,4
+booknlp,COREF,39,I,35831,35832,0,117,4
+booknlp,COREF,39,I,35845,35846,0,117,4
+booknlp,COREF,39,I,35950,35951,0,117,4
+booknlp,COREF,39,me,35990,35992,0,117,4
+booknlp,COREF,39,I,35999,36000,0,117,4
+booknlp,COREF,39,I,36027,36028,0,117,4
+booknlp,COREF,39,I,36085,36086,0,117,4
+booknlp,COREF,39,me,36151,36153,0,117,4
+booknlp,COREF,39,I,36182,36183,0,117,4
+booknlp,COREF,39,I,36193,36194,0,117,4
+booknlp,COREF,39,I,36213,36214,0,117,4
+booknlp,COREF,39,she,36232,36235,0,117,4
+booknlp,COREF,39,I,36353,36354,0,118,4
+booknlp,COREF,39,I,36382,36383,0,118,4
+booknlp,COREF,39,I,36496,36497,0,118,4
+booknlp,COREF,39,she,36548,36551,0,119,4
+booknlp,COREF,39,herself,36561,36568,0,119,4
+booknlp,COREF,39,she,36692,36695,0,120,4
+booknlp,COREF,39,she,36821,36824,0,120,4
+booknlp,COREF,39,her,37044,37047,0,121,4
+booknlp,COREF,39,she,37053,37056,0,121,4
+booknlp,COREF,39,she,37071,37074,0,121,4
+booknlp,COREF,39,she,37114,37117,0,121,4
+booknlp,COREF,39,I,37422,37423,0,122,4
+booknlp,COREF,39,she,37523,37526,0,123,4
+booknlp,COREF,39,she,37535,37538,0,123,4
+booknlp,COREF,39,she,37579,37582,0,123,4
+booknlp,COREF,39,her,37603,37606,0,123,4
+booknlp,COREF,39,She,37643,37646,0,123,4
+booknlp,COREF,39,she,37681,37684,0,123,4
+booknlp,COREF,39,she,37759,37762,0,123,4
+booknlp,COREF,39,she,37947,37950,0,124,4
+booknlp,COREF,39,I,38635,38636,0,131,4
+booknlp,COREF,39,she,38672,38675,0,131,4
+booknlp,COREF,39,her,38687,38690,0,131,4
+booknlp,COREF,39,I,38881,38882,0,131,4
+booknlp,COREF,39,me,38927,38929,0,131,4
+booknlp,COREF,39,I,38949,38950,0,131,4
+booknlp,COREF,39,I,38975,38976,0,131,4
+booknlp,COREF,39,I,38985,38986,0,131,4
+booknlp,COREF,39,She,39029,39032,0,132,4
+booknlp,COREF,39,she,39189,39192,0,132,4
+booknlp,COREF,39,I,39246,39247,0,132,4
+booknlp,COREF,41,'em,39332,39335,31,132,4
+booknlp,COREF,41,'em,39363,39366,31,132,4
+booknlp,COREF,39,I,39638,39639,0,132,4
+booknlp,COREF,39,I,39684,39685,0,132,4
+booknlp,COREF,41,You,39696,39699,31,132,4
+booknlp,COREF,39,I,39716,39717,0,132,4
+booknlp,COREF,41,you,39779,39782,31,132,4
+booknlp,COREF,39,herself,39880,39887,0,133,4
+booknlp,COREF,39,I,39934,39935,0,133,4
+booknlp,COREF,39,I,40023,40024,0,133,4
+booknlp,COREF,39,I,40033,40034,0,133,4
+booknlp,COREF,39,She,40056,40059,0,134,4
+booknlp,COREF,39,her,40065,40068,0,134,4
+booknlp,COREF,39,she,40101,40104,0,134,4
+booknlp,COREF,39,she,40128,40131,0,134,4
+booknlp,COREF,39,she,40155,40158,0,134,4
+booknlp,COREF,39,her,40254,40257,0,134,4
+booknlp,COREF,39,herself,40275,40282,0,134,4
+booknlp,COREF,39,she,40299,40302,0,134,4
+booknlp,COREF,39,she,40383,40386,0,135,4
+booknlp,COREF,39,you,40479,40482,0,135,4
+booknlp,COREF,41,his,40559,40562,31,135,4
+booknlp,COREF,41,him,40593,40596,31,135,4
+booknlp,COREF,39,she,41071,41074,0,138,4
+booknlp,COREF,39,I,41094,41095,0,138,4
+booknlp,COREF,39,herself,41176,41183,0,139,4
+booknlp,COREF,39,I,41186,41187,0,139,4
+booknlp,COREF,39,she,41440,41443,0,140,4
+booknlp,COREF,39,her,41567,41570,0,140,4
+booknlp,COREF,39,I,41585,41586,0,140,4
+booknlp,COREF,39,she,41611,41614,0,140,4
+booknlp,COREF,39,herself,41623,41630,0,140,4
+booknlp,COREF,39,You,41650,41653,0,140,4
+booknlp,COREF,39,her,41860,41863,0,141,4
+booknlp,COREF,39,I,41874,41875,0,141,4
+booknlp,COREF,39,she,41901,41904,0,141,4
+booknlp,COREF,39,my,41950,41952,0,141,4
+booknlp,COREF,39,me,41989,41991,0,141,4
+booknlp,COREF,39,me,42013,42015,0,141,4
+booknlp,COREF,39,I,42025,42026,0,141,4
+booknlp,COREF,39,she,42041,42044,0,142,4
+booknlp,COREF,39,she,42104,42107,0,142,4
+booknlp,COREF,39,she,42145,42148,0,142,4
+booknlp,COREF,39,she,42191,42194,0,142,4
+booknlp,COREF,39,she,42456,42459,0,142,4
+booknlp,COREF,39,she,42474,42477,0,142,4
+booknlp,COREF,39,she,42497,42500,0,142,4
+booknlp,COREF,39,herself,42523,42530,0,142,4
+booknlp,COREF,39,I,42571,42572,0,143,4
+booknlp,COREF,39,herself,42602,42609,0,143,4
+booknlp,COREF,39,she,42614,42617,0,143,4
+booknlp,COREF,39,my,42661,42663,0,143,4
+booknlp,COREF,39,my,42714,42716,0,143,4
+booknlp,COREF,39,I,42746,42747,0,143,4
+booknlp,COREF,39,she,42891,42894,0,144,4
+booknlp,COREF,39,she,42952,42955,0,144,4
+booknlp,COREF,39,her,43031,43034,0,144,4
+booknlp,COREF,39,her,43045,43048,0,144,4
+booknlp,COREF,39,her,43114,43117,0,145,4
+booknlp,COREF,39,her,43192,43195,0,145,4
+booknlp,COREF,39,she,43253,43256,0,145,4
+booknlp,COREF,39,she,43290,43293,0,145,4
+booknlp,COREF,39,her,43416,43419,0,145,4
+booknlp,COREF,39,her,43439,43442,0,145,4
+booknlp,COREF,39,she,43473,43476,0,146,4
+booknlp,COREF,39,she,43482,43485,0,146,4
+booknlp,COREF,39,herself,43744,43751,0,146,4
+booknlp,COREF,39,she,43788,43791,0,146,4
+booknlp,COREF,39,her,44425,44428,0,147,4
+booknlp,COREF,39,she,44440,44443,0,147,4
+booknlp,COREF,39,she,44474,44477,0,147,4
+booknlp,COREF,39,she,44635,44638,0,148,4
+booknlp,COREF,39,herself,44673,44680,0,148,4
+booknlp,COREF,39,herself,44693,44700,0,148,4
+booknlp,COREF,39,I,44726,44727,0,148,4
+booknlp,COREF,39,I,44783,44784,0,148,4
+booknlp,COREF,39,I,44831,44832,0,148,4
+booknlp,COREF,39,I,44857,44858,0,148,4
+booknlp,COREF,39,me,44888,44890,0,148,4
+booknlp,COREF,39,I,44923,44924,0,148,4
+booknlp,COREF,39,I,44933,44934,0,148,4
+booknlp,COREF,39,her,45075,45078,0,149,4
+booknlp,COREF,39,she,45123,45126,0,149,4
+booknlp,COREF,39,her,45262,45265,0,149,4
+booknlp,COREF,39,herself,45292,45299,0,149,4
+booknlp,COREF,39,she,45310,45313,0,149,4
+booknlp,COREF,39,her,45390,45393,0,149,4
+booknlp,COREF,39,she,45399,45402,0,149,4
+booknlp,COREF,39,She,45458,45461,0,150,4
+booknlp,COREF,39,herself,45472,45479,0,150,4
+booknlp,COREF,39,her,45540,45543,0,150,4
+booknlp,COREF,39,her,45714,45717,0,150,4
+booknlp,COREF,39,her,45927,45930,0,152,5
+booknlp,COREF,39,I,46086,46087,0,154,5
+booknlp,COREF,39,I,46089,46090,0,154,5
+booknlp,COREF,39,I,46135,46136,0,154,5
+booknlp,COREF,39,I,46146,46147,0,154,5
+booknlp,COREF,39,I,46159,46160,0,154,5
+booknlp,COREF,39,I,46186,46187,0,154,5
+booknlp,COREF,39,I,46194,46195,0,154,5
+booknlp,COREF,39,yourself,46314,46322,0,155,5
+booknlp,COREF,39,I,46327,46328,0,156,5
+booknlp,COREF,39,myself,46344,46350,0,156,5
+booknlp,COREF,39,I,46353,46354,0,156,5
+booknlp,COREF,39,I,46392,46393,0,156,5
+booknlp,COREF,39,myself,46400,46406,0,156,5
+booknlp,COREF,44,I,46420,46421,7,157,5
+booknlp,COREF,39,I,46458,46459,0,158,5
+booknlp,COREF,39,I,46469,46470,0,158,5
+booknlp,COREF,39,I,46533,46534,0,158,5
+booknlp,COREF,39,myself,46555,46561,0,158,5
+booknlp,COREF,39,I,46845,46846,0,160,5
+booknlp,COREF,39,I,47005,47006,0,162,5
+booknlp,COREF,39,me,47045,47047,0,162,5
+booknlp,COREF,39,she,47271,47274,0,164,5
+booknlp,COREF,39,herself,47280,47287,0,164,5
+booknlp,COREF,39,I,47316,47317,0,164,5
+booknlp,COREF,39,me,47343,47345,0,164,5
+booknlp,COREF,39,she,47559,47562,0,166,5
+booknlp,COREF,39,her,47619,47622,0,167,5
+booknlp,COREF,39,her,47816,47819,0,170,5
+booknlp,COREF,39,she,47837,47840,0,170,5
+booknlp,COREF,39,she,47892,47895,0,172,5
+booknlp,COREF,39,she,47919,47922,0,172,5
+booknlp,COREF,39,her,47983,47986,0,172,5
+booknlp,COREF,39,you,48150,48153,0,172,5
+booknlp,COREF,39,you,48160,48163,0,172,5
+booknlp,COREF,39,you,48179,48182,0,172,5
+booknlp,COREF,39,I,48187,48188,0,173,5
+booknlp,COREF,39,I,48198,48199,0,173,5
+booknlp,COREF,39,I,48223,48224,0,173,5
+booknlp,COREF,39,I,48250,48251,0,173,5
+booknlp,COREF,39,I,48262,48263,0,173,5
+booknlp,COREF,39,I,48379,48380,0,175,5
+booknlp,COREF,39,You,48511,48514,0,176,5
+booknlp,COREF,39,her,48579,48582,0,177,5
+booknlp,COREF,39,You,48605,48608,0,178,5
+booknlp,COREF,39,your,48664,48668,0,178,5
+booknlp,COREF,39,you,48705,48708,0,178,5
+booknlp,COREF,39,your,48730,48734,0,178,5
+booknlp,COREF,39,you,48749,48752,0,178,5
+booknlp,COREF,39,your,48763,48767,0,178,5
+booknlp,COREF,39,You,48962,48965,0,180,5
+booknlp,COREF,39,you,49060,49063,0,180,5
+booknlp,COREF,39,you,49314,49317,0,181,5
+booknlp,COREF,39,You,49331,49334,0,182,5
+booknlp,COREF,39,your,49366,49370,0,182,5
+booknlp,COREF,39,you,49429,49432,0,182,5
+booknlp,COREF,39,you,49501,49504,0,182,5
+booknlp,COREF,39,You,49706,49709,0,184,5
+booknlp,COREF,39,your,49771,49775,0,184,5
+booknlp,COREF,39,you,49807,49810,0,184,5
+booknlp,COREF,39,your,49841,49845,0,184,5
+booknlp,COREF,39,you,49867,49870,0,184,5
+booknlp,COREF,39,I,50158,50159,0,187,5
+booknlp,COREF,39,I,50429,50430,0,191,5
+booknlp,COREF,39,she,50599,50602,0,193,5
+booknlp,COREF,39,her,50642,50645,0,193,5
+booknlp,COREF,39,she,50663,50666,0,193,5
+booknlp,COREF,39,she,50677,50680,0,193,5
+booknlp,COREF,39,her,50692,50695,0,193,5
+booknlp,COREF,39,I,50758,50759,0,195,5
+booknlp,COREF,39,I,51028,51029,0,197,5
+booknlp,COREF,39,she,51091,51094,0,197,5
+booknlp,COREF,39,herself,51106,51113,0,197,5
+booknlp,COREF,39,I,51116,51117,0,197,5
+booknlp,COREF,39,herself,51711,51718,0,200,5
+booknlp,COREF,39,she,51989,51992,0,202,5
+booknlp,COREF,39,she,52048,52051,0,202,5
+booknlp,COREF,39,her,52062,52065,0,202,5
+booknlp,COREF,39,she,52180,52183,0,203,5
+booknlp,COREF,39,herself,52192,52199,0,203,5
+booknlp,COREF,39,she,52279,52282,0,203,5
+booknlp,COREF,39,her,52314,52317,0,203,5
+booknlp,COREF,39,her,52338,52341,0,203,5
+booknlp,COREF,39,She,52349,52352,0,204,5
+booknlp,COREF,39,she,52412,52415,0,204,5
+booknlp,COREF,39,she,52459,52462,0,204,5
+booknlp,COREF,39,she,52489,52492,0,204,5
+booknlp,COREF,39,Her,52543,52546,0,204,5
+booknlp,COREF,39,her,52583,52586,0,204,5
+booknlp,COREF,39,her,52628,52631,0,204,5
+booknlp,COREF,39,she,52643,52646,0,204,5
+booknlp,COREF,39,my,52857,52859,0,208,5
+booknlp,COREF,39,she,52964,52967,0,208,5
+booknlp,COREF,39,her,52979,52982,0,208,5
+booknlp,COREF,39,she,53023,53026,0,208,5
+booknlp,COREF,39,she,53043,53046,0,208,5
+booknlp,COREF,39,her,53173,53176,0,208,5
+booknlp,COREF,39,my,53247,53249,0,209,5
+booknlp,COREF,39,my,53276,53278,0,209,5
+booknlp,COREF,39,I,53301,53302,0,209,5
+booknlp,COREF,39,you,53313,53316,0,209,5
+booknlp,COREF,39,She,53319,53322,0,209,5
+booknlp,COREF,39,she,53348,53351,0,209,5
+booknlp,COREF,39,her,53491,53494,0,210,5
+booknlp,COREF,39,her,53507,53510,0,210,5
+booknlp,COREF,39,she,53517,53520,0,210,5
+booknlp,COREF,39,her,53534,53537,0,210,5
+booknlp,COREF,39,her,53588,53591,0,210,5
+booknlp,COREF,39,She,53655,53658,0,210,5
+booknlp,COREF,39,she,53770,53773,0,210,5
+booknlp,COREF,39,she,53832,53835,0,210,5
+booknlp,COREF,39,her,53879,53882,0,210,5
+booknlp,COREF,39,her,53935,53938,0,210,5
+booknlp,COREF,39,her,53961,53964,0,210,5
+booknlp,COREF,39,I,54026,54027,0,212,5
+booknlp,COREF,39,me,54077,54079,0,212,5
+booknlp,COREF,39,I,54250,54251,0,214,5
+booknlp,COREF,39,her,54435,54438,0,215,5
+booknlp,COREF,39,she,54526,54529,0,216,5
+booknlp,COREF,39,I,54795,54796,0,218,5
+booknlp,COREF,39,I,55123,55124,0,220,5
+booknlp,COREF,39,I,55144,55145,0,220,5
+booknlp,COREF,39,I,55170,55171,0,220,5
+booknlp,COREF,39,I,55277,55278,0,222,5
+booknlp,COREF,39,she,55334,55337,0,222,5
+booknlp,COREF,39,she,55371,55374,0,222,5
+booknlp,COREF,39,I,55695,55696,0,224,5
+booknlp,COREF,39,she,55997,56000,0,226,5
+booknlp,COREF,39,I,56114,56115,0,226,5
+booknlp,COREF,39,me,56168,56170,0,226,5
+booknlp,COREF,39,me,56244,56246,0,227,5
+booknlp,COREF,39,I,56275,56276,0,227,5
+booknlp,COREF,39,I,56323,56324,0,227,5
+booknlp,COREF,39,I,56330,56331,0,227,5
+booknlp,COREF,39,I,56356,56357,0,227,5
+booknlp,COREF,39,she,56523,56526,0,228,5
+booknlp,COREF,39,her,56538,56541,0,228,5
+booknlp,COREF,39,she,56613,56616,0,228,5
+booknlp,COREF,39,she,56659,56662,0,228,5
+booknlp,COREF,39,she,56679,56682,0,228,5
+booknlp,COREF,39,her,56720,56723,0,228,5
+booknlp,COREF,39,she,56735,56738,0,228,5
+booknlp,COREF,39,she,56870,56873,0,228,5
+booknlp,COREF,39,herself,56900,56907,0,228,5
+booknlp,COREF,39,her,56916,56919,0,228,5
+booknlp,COREF,39,she,56956,56959,0,229,5
+booknlp,COREF,39,she,57040,57043,0,229,5
+booknlp,COREF,39,herself,57098,57105,0,229,5
+booknlp,COREF,39,my,57137,57139,0,229,5
+booknlp,COREF,39,I,57191,57192,0,229,5
+booknlp,COREF,39,I,57211,57212,0,229,5
+booknlp,COREF,39,I,57265,57266,0,229,5
+booknlp,COREF,39,my,57282,57284,0,229,5
+booknlp,COREF,39,I,57377,57378,0,229,5
+booknlp,COREF,39,she,57391,57394,0,229,5
+booknlp,COREF,39,she,57406,57409,0,229,5
+booknlp,COREF,39,I,57582,57583,0,229,5
+booknlp,COREF,39,she,57628,57631,0,229,5
+booknlp,COREF,39,she,57721,57724,0,229,5
+booknlp,COREF,39,herself,57737,57744,0,229,5
+booknlp,COREF,39,she,57824,57827,0,231,6
+booknlp,COREF,39,she,58050,58053,0,231,6
+booknlp,COREF,39,She,58310,58313,0,231,6
+booknlp,COREF,39,she,58910,58913,0,234,6
+booknlp,COREF,39,her,58970,58973,0,234,6
+booknlp,COREF,39,she,58984,58987,0,234,6
+booknlp,COREF,237,I,59268,59269,45,236,6
+booknlp,COREF,39,I,59628,59629,0,237,6
+booknlp,COREF,39,her,59730,59733,0,238,6
+booknlp,COREF,237,I,59824,59825,45,238,6
+booknlp,COREF,237,He,59856,59858,45,238,6
+booknlp,COREF,237,he,59900,59902,45,238,6
+booknlp,COREF,39,she,59991,59994,0,238,6
+booknlp,COREF,39,herself,60003,60010,0,238,6
+booknlp,COREF,39,I,60118,60119,0,238,6
+booknlp,COREF,39,she,60132,60135,0,238,6
+booknlp,COREF,237,I,60155,60156,45,239,6
+booknlp,COREF,39,I,60521,60522,0,242,6
+booknlp,COREF,39,she,60742,60745,0,244,6
+booknlp,COREF,39,herself,60758,60765,0,244,6
+booknlp,COREF,237,his,60901,60904,45,245,6
+booknlp,COREF,237,I,60931,60932,45,245,6
+booknlp,COREF,237,he,60950,60952,45,245,6
+booknlp,COREF,39,I,61007,61008,0,246,6
+booknlp,COREF,39,she,61186,61189,0,248,6
+booknlp,COREF,39,herself,61551,61558,0,250,6
+booknlp,COREF,39,she,61571,61574,0,250,6
+booknlp,COREF,39,me,61938,61940,0,252,6
+booknlp,COREF,39,she,61977,61980,0,252,6
+booknlp,COREF,39,her,62032,62035,0,252,6
+booknlp,COREF,730,She,62150,62153,11,254,6
+booknlp,COREF,39,she,62228,62231,0,254,6
+booknlp,COREF,39,she,62308,62311,0,254,6
+booknlp,COREF,39,I,62349,62350,0,255,6
+booknlp,COREF,39,I,62407,62408,0,255,6
+booknlp,COREF,39,I,62505,62506,0,257,6
+booknlp,COREF,39,she,62818,62821,0,259,6
+booknlp,COREF,39,her,63125,63128,0,259,6
+booknlp,COREF,39,her,63709,63712,0,262,6
+booknlp,COREF,39,she,64078,64081,0,264,6
+booknlp,COREF,39,I,64117,64118,0,264,6
+booknlp,COREF,39,I--,64145,64148,0,264,6
+booknlp,COREF,36,me,64170,64172,11,265,6
+booknlp,COREF,36,I,64195,64196,11,265,6
+booknlp,COREF,36,she,64239,64242,11,265,6
+booknlp,COREF,36,her,64257,64260,11,265,6
+booknlp,COREF,36,she,64309,64312,11,265,6
+booknlp,COREF,36,she,64631,64634,11,269,6
+booknlp,COREF,36,I,64761,64762,11,270,6
+booknlp,COREF,36,I,64793,64794,11,270,6
+booknlp,COREF,39,her,65006,65009,0,273,6
+booknlp,COREF,730,she,65013,65016,11,273,6
+booknlp,COREF,730,I,65025,65026,11,273,6
+booknlp,COREF,730,she,65086,65089,11,273,6
+booknlp,COREF,730,her,65149,65152,11,273,6
+booknlp,COREF,730,she,65156,65159,11,273,6
+booknlp,COREF,730,her,65189,65192,11,273,6
+booknlp,COREF,39,she,65431,65434,0,274,6
+booknlp,COREF,39,she,65577,65580,0,274,6
+booknlp,COREF,39,she,65614,65617,0,275,6
+booknlp,COREF,39,she,65803,65806,0,275,6
+booknlp,COREF,39,I,65845,65846,0,275,6
+booknlp,COREF,39,me,65879,65881,0,275,6
+booknlp,COREF,39,She,65984,65987,0,275,6
+booknlp,COREF,39,she,66538,66541,0,276,6
+booknlp,COREF,39,I,66712,66713,0,277,6
+booknlp,COREF,39,herself,66925,66932,0,278,6
+booknlp,COREF,39,I,66948,66949,0,278,6
+booknlp,COREF,39,I,66980,66981,0,278,6
+booknlp,COREF,39,she,67038,67041,0,278,6
+booknlp,COREF,39,she,67176,67179,0,278,6
+booknlp,COREF,39,her,67219,67222,0,278,6
+booknlp,COREF,39,she,67248,67251,0,279,6
+booknlp,COREF,39,she,67371,67374,0,279,6
+booknlp,COREF,39,herself,67383,67390,0,279,6
+booknlp,COREF,39,I,67473,67474,0,279,6
+booknlp,COREF,39,she,67487,67490,0,279,6
+booknlp,COREF,39,she,67526,67529,0,279,6
+booknlp,COREF,39,herself,67591,67598,0,279,6
+booknlp,COREF,39,she,67655,67658,0,279,6
+booknlp,COREF,51,it,67781,67783,6,280,6
+booknlp,COREF,51,It,67795,67797,6,280,6
+booknlp,COREF,39,she,67819,67822,0,280,6
+booknlp,COREF,39,she,67890,67893,0,280,6
+booknlp,COREF,39,she,67959,67962,0,281,6
+booknlp,COREF,39,she,67989,67992,0,281,6
+booknlp,COREF,39,she,68134,68137,0,281,6
+booknlp,COREF,39,me,68163,68165,0,281,6
+booknlp,COREF,39,I,68185,68186,0,281,6
+booknlp,COREF,39,I,68284,68285,0,283,6
+booknlp,COREF,39,I,68396,68397,0,285,6
+booknlp,COREF,39,she,68570,68573,0,287,6
+booknlp,COREF,39,you,68802,68805,0,288,6
+booknlp,COREF,39,I,68837,68838,0,289,6
+booknlp,COREF,39,I,68994,68995,0,291,6
+booknlp,COREF,39,she,69132,69135,0,293,6
+booknlp,COREF,39,I,69252,69253,0,295,6
+booknlp,COREF,51,I,69393,69394,6,296,6
+booknlp,COREF,51,I,69407,69408,6,296,6
+booknlp,COREF,51,my,69428,69430,6,296,6
+booknlp,COREF,51,I,69441,69442,6,296,6
+booknlp,COREF,51,I,69462,69463,6,296,6
+booknlp,COREF,39,I,69475,69476,0,297,6
+booknlp,COREF,39,I,69609,69610,0,299,6
+booknlp,COREF,39,I,69655,69656,0,299,6
+booknlp,COREF,39,she,69775,69778,0,301,6
+booknlp,COREF,39,she,69832,69835,0,301,6
+booknlp,COREF,39,she,70246,70249,0,305,6
+booknlp,COREF,39,I,70320,70321,0,305,6
+booknlp,COREF,39,she,70347,70350,0,305,6
+booknlp,COREF,39,herself,70359,70366,0,305,6
+booknlp,COREF,39,she,70514,70517,0,305,6
+booknlp,COREF,39,she,70529,70532,0,305,6
+booknlp,COREF,39,I,70648,70649,0,307,6
+booknlp,COREF,39,I,70681,70682,0,307,6
+booknlp,COREF,39,I,70964,70965,0,309,6
+booknlp,COREF,39,I,71073,71074,0,309,6
+booknlp,COREF,39,my,71087,71089,0,309,6
+booknlp,COREF,39,She,71098,71101,0,310,6
+booknlp,COREF,39,she,71135,71138,0,310,6
+booknlp,COREF,39,she,71185,71188,0,310,6
+booknlp,COREF,39,she,71334,71337,0,310,6
+booknlp,COREF,39,she,71369,71372,0,310,6
+booknlp,COREF,39,herself,71439,71446,0,310,6
+booknlp,COREF,39,she,71481,71484,0,310,6
+booknlp,COREF,39,herself,71532,71539,0,310,6
+booknlp,COREF,39,I,71584,71585,0,310,6
+booknlp,COREF,39,I,71598,71599,0,310,6
+booknlp,COREF,39,I,72014,72015,0,312,7
+booknlp,COREF,39,she,72250,72253,0,313,7
+booknlp,COREF,39,I,72445,72446,0,315,7
+booknlp,COREF,39,she,72468,72471,0,315,7
+booknlp,COREF,39,I,72681,72682,0,319,7
+booknlp,COREF,39,Your,72777,72781,0,320,7
+booknlp,COREF,54,He,72820,72822,14,320,7
+booknlp,COREF,54,his,72898,72901,14,320,7
+booknlp,COREF,54,his,73034,73037,14,322,7
+booknlp,COREF,54,he,73078,73080,14,322,7
+booknlp,COREF,39,I,73184,73185,0,323,7
+booknlp,COREF,39,I,73234,73235,0,323,7
+booknlp,COREF,39,she,73253,73256,0,323,7
+booknlp,COREF,39,I,73447,73448,0,327,7
+booknlp,COREF,39,I,73497,73498,0,327,7
+booknlp,COREF,39,I,73509,73510,0,327,7
+booknlp,COREF,54,I,73630,73631,14,328,7
+booknlp,COREF,54,I,73641,73642,14,328,7
+booknlp,COREF,54,I,73670,73671,14,328,7
+booknlp,COREF,54,I,73681,73682,14,328,7
+booknlp,COREF,55,I,73909,73910,10,330,7
+booknlp,COREF,55,I,73924,73925,10,330,7
+booknlp,COREF,55,I,73955,73956,10,330,7
+booknlp,COREF,55,I,73968,73969,10,330,7
+booknlp,COREF,39,she,74137,74140,0,331,7
+booknlp,COREF,54,he,74286,74288,14,332,7
+booknlp,COREF,54,he,74313,74315,14,332,7
+booknlp,COREF,54,his,74326,74329,14,332,7
+booknlp,COREF,54,his,74343,74346,14,332,7
+booknlp,COREF,54,his,74436,74439,14,332,7
+booknlp,COREF,54,I,74540,74541,14,334,7
+booknlp,COREF,54,he,74584,74586,14,334,7
+booknlp,COREF,54,his,74982,74985,14,337,7
+booknlp,COREF,39,you,75027,75030,0,337,7
+booknlp,COREF,54,his,75067,75070,14,338,7
+booknlp,COREF,39,she,75123,75126,0,338,7
+booknlp,COREF,39,I,75597,75598,0,342,7
+booknlp,COREF,39,she,75628,75631,0,342,7
+booknlp,COREF,39,she,75653,75656,0,342,7
+booknlp,COREF,54,he,75718,75720,14,343,7
+booknlp,COREF,55,its,75780,75783,10,344,7
+booknlp,COREF,55,its,75828,75831,10,344,7
+booknlp,COREF,55,I,75871,75872,10,344,7
+booknlp,COREF,55,myself,75893,75899,10,344,7
+booknlp,COREF,39,I,75985,75986,0,346,7
+booknlp,COREF,54,I,76038,76039,14,347,7
+booknlp,COREF,39,I,76141,76142,0,349,7
+booknlp,COREF,39,she,76195,76198,0,349,7
+booknlp,COREF,54,I,76291,76292,14,350,7
+booknlp,COREF,39,I,76369,76370,0,351,7
+booknlp,COREF,39,I,76574,76575,0,353,7
+booknlp,COREF,39,I,76581,76582,0,353,7
+booknlp,COREF,39,I,76606,76607,0,353,7
+booknlp,COREF,39,I,77133,77134,0,356,7
+booknlp,COREF,54,his,77344,77347,14,359,7
+booknlp,COREF,54,I,77370,77371,14,359,7
+booknlp,COREF,54,he,77374,77376,14,359,7
+booknlp,COREF,54,he,77426,77428,14,359,7
+booknlp,COREF,54,his,77467,77470,14,359,7
+booknlp,COREF,54,I,77566,77567,14,359,7
+booknlp,COREF,39,I,77675,77676,0,362,7
+booknlp,COREF,55,itself,77906,77912,10,365,7
+booknlp,COREF,54,I,78057,78058,14,366,7
+booknlp,COREF,39,she,78462,78465,0,369,7
+booknlp,COREF,54,you,78605,78608,14,371,7
+booknlp,COREF,39,I,78628,78629,0,371,7
+booknlp,COREF,54,you,78737,78740,14,373,7
+booknlp,COREF,39,I,78936,78937,0,375,7
+booknlp,COREF,39,I,78947,78948,0,375,7
+booknlp,COREF,55,Dormouse,79065,79073,10,376,7
+booknlp,COREF,39,Elsie,79534,79539,0,381,7
+booknlp,COREF,39,herself,79952,79959,0,386,7
+booknlp,COREF,39,her,80032,80035,0,386,7
+booknlp,COREF,39,she,80049,80052,0,386,7
+booknlp,COREF,39,I,80182,80183,0,388,7
+booknlp,COREF,39,I,80244,80245,0,388,7
+booknlp,COREF,39,she,80525,80528,0,392,7
+booknlp,COREF,39,herself,80536,80543,0,392,7
+booknlp,COREF,39,her,80624,80627,0,392,7
+booknlp,COREF,39,yourself,80985,80993,0,394,7
+booknlp,COREF,39,I,81042,81043,0,395,7
+booknlp,COREF,39,I,81067,81068,0,395,7
+booknlp,COREF,44,he,81155,81157,7,396,7
+booknlp,COREF,39,you,81242,81245,0,396,7
+booknlp,COREF,39,her,81306,81309,0,397,7
+booknlp,COREF,54,I,81390,81391,14,399,7
+booknlp,COREF,54,He,81467,81469,14,400,7
+booknlp,COREF,54,he,81482,81484,14,400,7
+booknlp,COREF,54,him,81518,81521,14,400,7
+booknlp,COREF,39,she,81865,81868,0,401,7
+booknlp,COREF,39,I,81897,81898,0,401,7
+booknlp,COREF,39,You,81958,81961,0,402,7
+booknlp,COREF,54,I,82020,82021,14,402,7
+booknlp,COREF,39,you,82035,82038,0,402,7
+booknlp,COREF,39,she,82293,82296,0,405,7
+booknlp,COREF,55,its,82654,82657,10,410,7
+booknlp,COREF,39,me,83015,83017,0,411,7
+booknlp,COREF,39,I,83053,83054,0,411,7
+booknlp,COREF,39,she,83171,83174,0,413,7
+booknlp,COREF,39,her,83303,83306,0,413,7
+booknlp,COREF,39,she,83321,83324,0,413,7
+booknlp,COREF,39,her,83391,83394,0,413,7
+booknlp,COREF,39,she,83410,83413,0,413,7
+booknlp,COREF,39,I,83492,83493,0,414,7
+booknlp,COREF,39,she,83536,83539,0,414,7
+booknlp,COREF,39,her,83547,83550,0,414,7
+booknlp,COREF,39,I,83603,83604,0,414,7
+booknlp,COREF,39,my,83624,83626,0,414,7
+booknlp,COREF,39,she,83643,83646,0,415,7
+booknlp,COREF,39,she,83658,83661,0,415,7
+booknlp,COREF,39,she,83749,83752,0,415,7
+booknlp,COREF,39,I,83795,83796,0,415,7
+booknlp,COREF,39,I,83803,83804,0,415,7
+booknlp,COREF,39,she,83840,83843,0,415,7
+booknlp,COREF,39,she,83861,83864,0,416,7
+booknlp,COREF,39,herself,83871,83878,0,416,7
+booknlp,COREF,39,I,83940,83941,0,416,7
+booknlp,COREF,39,she,83971,83974,0,416,7
+booknlp,COREF,39,herself,83983,83990,0,416,7
+booknlp,COREF,39,she,84089,84092,0,416,7
+booknlp,COREF,39,she,84132,84135,0,416,7
+booknlp,COREF,39,her,84162,84165,0,416,7
+booknlp,COREF,39,she,84179,84182,0,416,7
+booknlp,COREF,39,she,84211,84214,0,416,7
+booknlp,COREF,39,herself,84269,84276,0,416,7
+booknlp,COREF,39,she,84612,84615,0,418,8
+booknlp,COREF,39,she,84655,84658,0,418,8
+booknlp,COREF,39,she,84675,84678,0,418,8
+booknlp,COREF,61,I,84770,84771,2,419,8
+booknlp,COREF,61,my,84833,84835,2,419,8
+booknlp,COREF,61,I,84974,84975,2,421,8
+booknlp,COREF,61,I,85187,85188,2,424,8
+booknlp,COREF,62,his,85281,85284,5,425,8
+booknlp,COREF,62,his,85351,85354,5,425,8
+booknlp,COREF,39,she,85390,85393,0,425,8
+booknlp,COREF,62,he,85419,85421,5,425,8
+booknlp,COREF,62,himself,85430,85437,5,425,8
+booknlp,COREF,62,you,85513,85516,5,426,8
+booknlp,COREF,39,me,85522,85524,0,426,8
+booknlp,COREF,62,you,85562,85565,5,426,8
+booknlp,COREF,39,you,85875,85878,0,427,8
+booknlp,COREF,39,her,86843,86846,0,428,8
+booknlp,COREF,57,QUEEN OF HEARTS,86996,87011,20,428,8
+booknlp,COREF,39,she,87048,87051,0,429,8
+booknlp,COREF,39,her,87077,87080,0,429,8
+booknlp,COREF,39,she,87116,87119,0,429,8
+booknlp,COREF,39,she,87250,87253,0,429,8
+booknlp,COREF,39,she,87338,87341,0,429,8
+booknlp,COREF,39,she,87360,87363,0,429,8
+booknlp,COREF,39,her,87457,87460,0,430,8
+booknlp,COREF,831,She,87505,87508,20,430,8
+booknlp,COREF,831,her,87611,87614,20,431,8
+booknlp,COREF,831,she,87656,87659,20,431,8
+booknlp,COREF,39,My,87698,87700,0,432,8
+booknlp,COREF,39,she,87771,87774,0,432,8
+booknlp,COREF,39,herself,87785,87792,0,432,8
+booknlp,COREF,39,I,87841,87842,0,432,8
+booknlp,COREF,831,she,88097,88100,20,433,8
+booknlp,COREF,831,her,88184,88187,20,433,8
+booknlp,COREF,39,I,88216,88217,0,434,8
+booknlp,COREF,39,her,88251,88254,0,434,8
+booknlp,COREF,39,her,88357,88360,0,435,8
+booknlp,COREF,357,his,88522,88525,15,437,8
+booknlp,COREF,39,her,88536,88539,0,437,8
+booknlp,COREF,357,him,88640,88643,15,438,8
+booknlp,COREF,343,You,88953,88956,24,441,8
+booknlp,COREF,831,me,88962,88964,20,441,8
+booknlp,COREF,831,she,89009,89012,20,441,8
+booknlp,COREF,343,you,89035,89038,24,441,8
+booknlp,COREF,343,he,89147,89149,24,442,8
+booknlp,COREF,831,I,89179,89180,20,443,8
+booknlp,COREF,39,she,89454,89457,0,444,8
+booknlp,COREF,831,your,89708,89712,20,446,8
+booknlp,COREF,39,her,89902,89905,0,448,8
+booknlp,COREF,39,her,90096,90099,0,451,8
+booknlp,COREF,39,She,90106,90109,0,451,8
+booknlp,COREF,39,her,90174,90177,0,451,8
+booknlp,COREF,19,He,90285,90287,21,453,8
+booknlp,COREF,19,his,90310,90313,21,453,8
+booknlp,COREF,19,he,90326,90328,21,453,8
+booknlp,COREF,19,himself,90352,90359,21,453,8
+booknlp,COREF,19,his,90377,90380,21,453,8
+booknlp,COREF,39,her,90396,90399,0,453,8
+booknlp,COREF,39,I,90536,90537,0,456,8
+booknlp,COREF,39,I,90560,90561,0,456,8
+booknlp,COREF,39,I,90594,90595,0,456,8
+booknlp,COREF,39,your,90847,90851,0,458,8
+booknlp,COREF,39,she,91069,91072,0,458,8
+booknlp,COREF,39,her,91121,91124,0,458,8
+booknlp,COREF,39,her,91384,91387,0,459,8
+booknlp,COREF,39,she,91398,91401,0,459,8
+booknlp,COREF,39,her,91471,91474,0,459,8
+booknlp,COREF,39,she,91531,91534,0,459,8
+booknlp,COREF,39,her,91679,91682,0,459,8
+booknlp,COREF,39,she,91725,91728,0,459,8
+booknlp,COREF,39,she,91776,91779,0,459,8
+booknlp,COREF,39,she,92015,92018,0,459,8
+booknlp,COREF,831,her,92479,92482,20,460,8
+booknlp,COREF,39,she,92560,92563,0,461,8
+booknlp,COREF,39,she,92615,92618,0,461,8
+booknlp,COREF,39,she,92677,92680,0,461,8
+booknlp,COREF,39,me,92704,92706,0,461,8
+booknlp,COREF,39,She,92814,92817,0,462,8
+booknlp,COREF,39,she,92882,92885,0,462,8
+booknlp,COREF,39,she,92926,92929,0,462,8
+booknlp,COREF,39,her,92982,92985,0,462,8
+booknlp,COREF,39,she,93046,93049,0,462,8
+booknlp,COREF,39,she,93080,93083,0,462,8
+booknlp,COREF,39,herself,93092,93099,0,462,8
+booknlp,COREF,39,I,93128,93129,0,462,8
+booknlp,COREF,39,she,93345,93348,0,464,8
+booknlp,COREF,39,her,93477,93480,0,464,8
+booknlp,COREF,39,she,93543,93546,0,464,8
+booknlp,COREF,39,her,93572,93575,0,464,8
+booknlp,COREF,39,I,93673,93674,0,465,8
+booknlp,COREF,39,I,94021,94022,0,465,8
+booknlp,COREF,39,I,94099,94100,0,465,8
+booknlp,COREF,51,it,94176,94178,6,465,8
+booknlp,COREF,39,mine,94183,94187,0,465,8
+booknlp,COREF,39,she,94316,94319,0,467,8
+booknlp,COREF,39,her,94360,94363,0,467,8
+booknlp,COREF,39,she,94379,94382,0,467,8
+booknlp,COREF,39,me,94669,94671,0,470,8
+booknlp,COREF,357,I,94692,94693,15,471,8
+booknlp,COREF,357,my,94766,94768,15,471,8
+booknlp,COREF,357,me,94884,94886,15,473,8
+booknlp,COREF,357,He,94899,94901,15,473,8
+booknlp,COREF,357,he,94922,94924,15,473,8
+booknlp,COREF,39,I,94974,94975,0,474,8
+booknlp,COREF,39,I,95007,95008,0,474,8
+booknlp,COREF,357,he,95095,95097,15,475,8
+booknlp,COREF,357,My,95148,95150,15,475,8
+booknlp,COREF,357,I,95157,95158,15,475,8
+booknlp,COREF,831,she,95293,95296,20,476,8
+booknlp,COREF,357,I,95333,95334,15,477,8
+booknlp,COREF,357,myself,95360,95366,15,477,8
+booknlp,COREF,357,he,95396,95398,15,477,8
+booknlp,COREF,39,she,95427,95430,0,478,8
+booknlp,COREF,39,she,95492,95495,0,478,8
+booknlp,COREF,39,She,95561,95564,0,478,8
+booknlp,COREF,831,her,95583,95586,20,478,8
+booknlp,COREF,39,she,95667,95670,0,478,8
+booknlp,COREF,39,she,95750,95753,0,478,8
+booknlp,COREF,39,her,95780,95783,0,478,8
+booknlp,COREF,39,she,95800,95803,0,478,8
+booknlp,COREF,39,her,95822,95825,0,478,8
+booknlp,COREF,39,her,96016,96019,0,479,8
+booknlp,COREF,39,she,96172,96175,0,480,8
+booknlp,COREF,39,she,96390,96393,0,480,8
+booknlp,COREF,39,her,96415,96418,0,480,8
+booknlp,COREF,39,her,96506,96509,0,480,8
+booknlp,COREF,39,she,96524,96527,0,481,8
+booknlp,COREF,39,she,96558,96561,0,481,8
+booknlp,COREF,51,it,96620,96622,6,481,8
+booknlp,COREF,39,she,96830,96833,0,482,8
+booknlp,COREF,39,her,96924,96927,0,482,8
+booknlp,COREF,39,she,96964,96967,0,482,8
+booknlp,COREF,831,she,97442,97445,20,485,8
+booknlp,COREF,730,you,97641,97644,11,486,8
+booknlp,COREF,730,I,98121,98122,11,490,9
+booknlp,COREF,730,she,98186,98189,11,490,9
+booknlp,COREF,730,her,98197,98200,11,490,9
+booknlp,COREF,730,her,98293,98296,11,491,9
+booknlp,COREF,39,herself,98339,98346,0,491,9
+booknlp,COREF,730,her,98397,98400,11,491,9
+booknlp,COREF,730,I,98449,98450,11,492,9
+booknlp,COREF,730,she,98466,98469,11,492,9
+booknlp,COREF,730,herself,98478,98485,11,492,9
+booknlp,COREF,730,I,98525,98526,11,492,9
+booknlp,COREF,730,my,98552,98554,11,492,9
+booknlp,COREF,730,she,98660,98663,11,492,9
+booknlp,COREF,730,I,98876,98877,11,492,9
+booknlp,COREF,39,you,98950,98953,0,492,9
+booknlp,COREF,39,She,98963,98966,0,493,9
+booknlp,COREF,39,she,99044,99047,0,493,9
+booknlp,COREF,730,her,99054,99057,11,493,9
+booknlp,COREF,39,her,99073,99076,0,493,9
+booknlp,COREF,730,I,99160,99161,11,493,9
+booknlp,COREF,730,I,99217,99218,11,493,9
+booknlp,COREF,730,she,99395,99398,11,495,9
+booknlp,COREF,730,herself,99408,99415,11,495,9
+booknlp,COREF,730,she,99445,99448,11,495,9
+booknlp,COREF,730,her,99501,99504,11,496,9
+booknlp,COREF,730,she,99572,99575,11,496,9
+booknlp,COREF,730,her,99613,99616,11,496,9
+booknlp,COREF,39,she,99694,99697,0,496,9
+booknlp,COREF,39,she,99726,99729,0,496,9
+booknlp,COREF,39,she,99749,99752,0,496,9
+booknlp,COREF,39,she,99802,99805,0,497,9
+booknlp,COREF,730,her,100139,100142,11,500,9
+booknlp,COREF,730,she,100186,100189,11,500,9
+booknlp,COREF,39,herself,100363,100370,0,501,9
+booknlp,COREF,730,I,100374,100375,11,502,9
+booknlp,COREF,730,I,100406,100407,11,502,9
+booknlp,COREF,730,my,100418,100420,11,502,9
+booknlp,COREF,730,I,100497,100498,11,502,9
+booknlp,COREF,730,I,100551,100552,11,502,9
+booknlp,COREF,39,I,100955,100956,0,507,9
+booknlp,COREF,39,mine,101163,101167,0,508,9
+booknlp,COREF,39,yours,101190,101195,0,508,9
+booknlp,COREF,39,I,101205,101206,0,509,9
+booknlp,COREF,730,I,101332,101333,11,510,9
+booknlp,COREF,39,you,101411,101414,0,510,9
+booknlp,COREF,39,yourself,101486,101494,0,510,9
+booknlp,COREF,39,you,101561,101564,0,510,9
+booknlp,COREF,39,you,101617,101620,0,510,9
+booknlp,COREF,39,I,101679,101680,0,511,9
+booknlp,COREF,39,I,101687,101688,0,511,9
+booknlp,COREF,39,I,101751,101752,0,511,9
+booknlp,COREF,39,I,101778,101779,0,511,9
+booknlp,COREF,730,I,101843,101844,11,512,9
+booknlp,COREF,730,I,101858,101859,11,512,9
+booknlp,COREF,730,yourself,101929,101937,11,513,9
+booknlp,COREF,730,I,102035,102036,11,514,9
+booknlp,COREF,730,I,102070,102071,11,514,9
+booknlp,COREF,39,I,102133,102134,0,515,9
+booknlp,COREF,39,she,102192,102195,0,515,9
+booknlp,COREF,730,her,102290,102293,11,516,9
+booknlp,COREF,39,I,102315,102316,0,517,9
+booknlp,COREF,39,she,102363,102366,0,517,9
+booknlp,COREF,730,her,102580,102583,11,519,9
+booknlp,COREF,730,hers,102641,102645,11,519,9
+booknlp,COREF,831,her,102730,102733,20,519,9
+booknlp,COREF,831,I,102853,102854,20,521,9
+booknlp,COREF,831,she,102924,102927,20,521,9
+booknlp,COREF,730,her,103042,103045,11,522,9
+booknlp,COREF,831,her,103204,103207,20,523,9
+booknlp,COREF,831,her,103358,103361,20,524,9
+booknlp,COREF,357,his,103588,103591,15,525,9
+booknlp,COREF,831,her,103612,103615,20,525,9
+booknlp,COREF,831,she,103634,103637,20,525,9
+booknlp,COREF,39,I,104045,104046,0,527,9
+booknlp,COREF,65,Mock Turtle Soup,104104,104120,17,528,9
+booknlp,COREF,39,I,104154,104155,0,529,9
+booknlp,COREF,39,she,104424,104427,0,531,9
+booknlp,COREF,39,herself,104436,104443,0,531,9
+booknlp,COREF,39,she,104449,104452,0,531,9
+booknlp,COREF,831,I,104763,104764,20,532,9
+booknlp,COREF,831,I,104808,104809,20,532,9
+booknlp,COREF,831,she,104829,104832,20,532,9
+booknlp,COREF,39,she,104951,104954,0,532,9
+booknlp,COREF,66,it,105002,105004,13,532,9
+booknlp,COREF,39,she,105042,105045,0,532,9
+booknlp,COREF,831,she,105126,105129,20,533,9
+booknlp,COREF,39,she,105422,105425,0,536,9
+booknlp,COREF,39,I,105449,105450,0,536,9
+booknlp,COREF,39,my,105485,105487,0,536,9
+booknlp,COREF,65,him,105667,105670,17,537,9
+booknlp,COREF,65,his,105685,105688,17,537,9
+booknlp,COREF,39,She,105708,105711,0,537,9
+booknlp,COREF,65,him,105719,105722,17,537,9
+booknlp,COREF,39,she,105753,105756,0,537,9
+booknlp,COREF,65,I,106111,106112,17,540,9
+booknlp,COREF,65,I,106227,106228,17,540,9
+booknlp,COREF,39,herself,106314,106321,0,541,9
+booknlp,COREF,39,I,106324,106325,0,541,9
+booknlp,COREF,39,she,106388,106391,0,541,9
+booknlp,COREF,65,I,106468,106469,17,542,9
+booknlp,COREF,66,you,106717,106720,13,543,9
+booknlp,COREF,66,your,106731,106735,13,543,9
+booknlp,COREF,39,she,106760,106763,0,543,9
+booknlp,COREF,39,she,106821,106824,0,543,9
+booknlp,COREF,39,yourself,107260,107268,0,547,9
+booknlp,COREF,39,I,107617,107618,0,549,9
+booknlp,COREF,39,I,107630,107631,0,549,9
+booknlp,COREF,39,I,107867,107868,0,553,9
+booknlp,COREF,65,I,108410,108411,17,560,9
+booknlp,COREF,65,I,108477,108478,17,560,9
+booknlp,COREF,39,I,108722,108723,0,563,9
+booknlp,COREF,66,I,108922,108923,13,564,9
+booknlp,COREF,39,she,109175,109178,0,567,9
+booknlp,COREF,65,his,109327,109330,17,568,9
+booknlp,COREF,65,I,109585,109586,17,570,9
+booknlp,COREF,65,myself,109605,109611,17,570,9
+booknlp,COREF,65,I,109637,109638,17,570,9
+booknlp,COREF,66,I,109721,109722,13,571,9
+booknlp,COREF,65,I,109793,109794,17,572,9
+booknlp,COREF,65,his,109953,109956,17,573,9
+booknlp,COREF,39,she,110373,110376,0,578,9
+booknlp,COREF,39,she,110409,110412,0,578,9
+booknlp,COREF,39,her,110418,110421,0,578,9
+booknlp,COREF,65,his,110825,110828,17,583,10
+booknlp,COREF,65,He,110835,110837,17,583,10
+booknlp,COREF,65,his,110911,110914,17,583,10
+booknlp,COREF,65,him,111009,111012,17,583,10
+booknlp,COREF,65,him,111026,111029,17,583,10
+booknlp,COREF,65,his,111077,111080,17,583,10
+booknlp,COREF,65,his,111117,111120,17,583,10
+booknlp,COREF,65,he,111129,111131,17,583,10
+booknlp,COREF,65,I,111198,111199,17,584,10
+booknlp,COREF,39,I,111304,111305,0,584,10
+booknlp,COREF,39,herself,111333,111340,0,584,10
+booknlp,COREF,39,you,111532,111535,0,586,10
+booknlp,COREF,39,you,111666,111669,0,587,10
+booknlp,COREF,39,--you,111782,111787,0,589,10
+booknlp,COREF,39,you,112048,112051,0,593,10
+booknlp,COREF,39,you,112155,112158,0,595,10
+booknlp,COREF,66,its,112346,112349,13,598,10
+booknlp,COREF,65,his,112453,112456,17,599,10
+booknlp,COREF,66,I,112926,112927,13,604,10
+booknlp,COREF,39,her,113039,113042,0,605,10
+booknlp,COREF,65,he,113280,113282,17,606,10
+booknlp,COREF,39,I,114458,114459,0,609,10
+booknlp,COREF,39,I,114615,114616,0,611,10
+booknlp,COREF,39,she,114647,114650,0,611,10
+booknlp,COREF,39,herself,114659,114666,0,611,10
+booknlp,COREF,65,I,114678,114679,17,612,10
+booknlp,COREF,39,I,114809,114810,0,613,10
+booknlp,COREF,39,I,115496,115497,0,616,10
+booknlp,COREF,66,I,115544,115545,13,617,10
+booknlp,COREF,39,I,115650,115651,0,618,10
+booknlp,COREF,39,she,115824,115827,0,620,10
+booknlp,COREF,66,I,115918,115919,13,621,10
+booknlp,COREF,39,she,116012,116015,0,622,10
+booknlp,COREF,39,her,116021,116024,0,622,10
+booknlp,COREF,39,I,116062,116063,0,622,10
+booknlp,COREF,39,I,116372,116373,0,626,10
+booknlp,COREF,39,I,116455,116456,0,626,10
+booknlp,COREF,65,me,116784,116786,17,629,10
+booknlp,COREF,65,me,116798,116800,17,629,10
+booknlp,COREF,65,I,116825,116826,17,629,10
+booknlp,COREF,65,I,116904,116905,17,631,10
+booknlp,COREF,65,I,116916,116917,17,631,10
+booknlp,COREF,39,your,117018,117022,0,631,10
+booknlp,COREF,39,I,117039,117040,0,632,10
+booknlp,COREF,65,you,117052,117055,17,632,10
+booknlp,COREF,39,my,117056,117058,0,632,10
+booknlp,COREF,39,I,117180,117181,0,632,10
+booknlp,COREF,39,her,117398,117401,0,635,10
+booknlp,COREF,39,she,117432,117435,0,635,10
+booknlp,COREF,39,She,117464,117467,0,635,10
+booknlp,COREF,39,her,117547,117550,0,635,10
+booknlp,COREF,39,she,117623,117626,0,635,10
+booknlp,COREF,39,she,117645,117648,0,635,10
+booknlp,COREF,39,Her,117658,117661,0,635,10
+booknlp,COREF,39,she,117698,117701,0,635,10
+booknlp,COREF,39,her,117724,117727,0,635,10
+booknlp,COREF,65,I,118031,118032,17,637,10
+booknlp,COREF,65,He,118107,118109,17,637,10
+booknlp,COREF,65,he,118138,118140,17,637,10
+booknlp,COREF,39,I,118351,118352,0,639,10
+booknlp,COREF,39,she,118399,118402,0,639,10
+booknlp,COREF,39,her,118439,118442,0,639,10
+booknlp,COREF,39,she,118491,118494,0,639,10
+booknlp,COREF,39,she,118512,118515,0,639,10
+booknlp,COREF,66,I,119040,119041,13,642,10
+booknlp,COREF,66,I,119060,119061,13,642,10
+booknlp,COREF,65,I,119102,119103,17,643,10
+booknlp,COREF,39,she,119206,119209,0,644,10
+booknlp,COREF,39,her,119228,119231,0,644,10
+booknlp,COREF,39,her,119240,119243,0,644,10
+booknlp,COREF,65,I,119319,119320,17,645,10
+booknlp,COREF,39,you,119553,119556,0,647,10
+booknlp,COREF,66,I,119773,119774,13,649,10
+booknlp,COREF,39,she,119839,119842,0,650,10
+booknlp,COREF,39,she,119882,119885,0,650,10
+booknlp,COREF,39,I,119920,119921,0,651,10
+booknlp,COREF,65,I,120496,120497,17,653,10
+booknlp,COREF,66,I,120519,120520,13,654,10
+booknlp,COREF,65,beautiful Soup,121504,121518,17,659,10
+booknlp,COREF,66,it,121855,121857,13,661,10
+booknlp,COREF,39,she,121949,121952,0,662,10
+booknlp,COREF,39,she,122798,122801,0,665,11
+booknlp,COREF,39,she,122891,122894,0,665,11
+booknlp,COREF,39,her,122929,122932,0,665,11
+booknlp,COREF,39,she,123013,123016,0,666,11
+booknlp,COREF,39,she,123051,123054,0,666,11
+booknlp,COREF,39,she,123086,123089,0,666,11
+booknlp,COREF,39,she,123152,123155,0,666,11
+booknlp,COREF,39,herself,123164,123171,0,666,11
+booknlp,COREF,39,she,123484,123487,0,668,11
+booknlp,COREF,39,I,123587,123588,0,668,11
+booknlp,COREF,39,She,123619,123622,0,668,11
+booknlp,COREF,39,herself,123670,123677,0,668,11
+booknlp,COREF,39,she,123709,123712,0,668,11
+booknlp,COREF,39,her,123769,123772,0,668,11
+booknlp,COREF,39,she,124237,124240,0,671,11
+booknlp,COREF,357,his,124334,124337,15,671,11
+booknlp,COREF,39,she,124438,124441,0,672,11
+booknlp,COREF,39,she,124553,124556,0,672,11
+booknlp,COREF,39,she,124849,124852,0,673,11
+booknlp,COREF,39,She,124948,124951,0,673,11
+booknlp,COREF,57,she,125432,125435,20,676,11
+booknlp,COREF,54,mine,126609,126613,14,687,11
+booknlp,COREF,54,I,126734,126735,14,689,11
+booknlp,COREF,54,I,126793,126794,14,689,11
+booknlp,COREF,54,my,126806,126808,14,689,11
+booknlp,COREF,54,I,126814,126815,14,689,11
+booknlp,COREF,831,her,126852,126855,20,690,11
+booknlp,COREF,357,I,126995,126996,15,691,11
+booknlp,COREF,39,her,127325,127328,0,693,11
+booknlp,COREF,39,she,127347,127350,0,693,11
+booknlp,COREF,39,she,127373,127376,0,693,11
+booknlp,COREF,39,she,127417,127420,0,693,11
+booknlp,COREF,39,she,127438,127441,0,693,11
+booknlp,COREF,39,she,127499,127502,0,693,11
+booknlp,COREF,39,she,127527,127530,0,693,11
+booknlp,COREF,39,her,127565,127568,0,693,11
+booknlp,COREF,39,her,127648,127651,0,694,11
+booknlp,COREF,39,I,127679,127680,0,695,11
+booknlp,COREF,39,I,127722,127723,0,695,11
+booknlp,COREF,831,she,128153,128156,20,699,11
+booknlp,COREF,831,me,128206,128208,20,699,11
+booknlp,COREF,357,I,128385,128386,15,700,11
+booknlp,COREF,357,me,128823,128825,15,704,11
+booknlp,COREF,54,I,129337,129338,14,711,11
+booknlp,COREF,54,I,129437,129438,14,713,11
+booknlp,COREF,357,I,129520,129521,15,714,11
+booknlp,COREF,54,The miserable Hatter,129546,129566,14,715,11
+booknlp,COREF,54,his,129575,129578,14,715,11
+booknlp,COREF,54,I,129636,129637,14,715,11
+booknlp,COREF,54,he,129667,129669,14,715,11
+booknlp,COREF,39,I,130048,130049,0,718,11
+booknlp,COREF,39,I,130057,130058,0,718,11
+booknlp,COREF,39,I,130095,130096,0,718,11
+booknlp,COREF,39,she,131190,131193,0,728,11
+booknlp,COREF,357,I,131476,131477,15,732,11
+booknlp,COREF,357,I,131484,131485,15,732,11
+booknlp,COREF,357,his,131550,131553,15,732,11
+booknlp,COREF,357,his,131589,131592,15,732,11
+booknlp,COREF,357,he,131624,131626,15,732,11
+booknlp,COREF,39,her,131748,131751,0,734,11
+booknlp,COREF,357,he,132152,132154,15,737,11
+booknlp,COREF,357,my,132267,132269,15,737,11
+booknlp,COREF,19,he,132321,132323,21,738,11
+booknlp,COREF,39,she,132458,132461,0,738,11
+booknlp,COREF,39,herself,132470,132477,0,738,11
+booknlp,COREF,39,her,132487,132490,0,738,11
+booknlp,COREF,19,his,132547,132550,21,738,11
+booknlp,COREF,39,she,132702,132705,0,740,12
+booknlp,COREF,39,she,132745,132748,0,740,12
+booknlp,COREF,39,she,132780,132783,0,740,12
+booknlp,COREF,39,her,132826,132829,0,740,12
+booknlp,COREF,39,her,132945,132948,0,740,12
+booknlp,COREF,39,she,132982,132985,0,740,12
+booknlp,COREF,39,I,133032,133033,0,741,12
+booknlp,COREF,39,she,133054,133057,0,741,12
+booknlp,COREF,39,she,133141,133144,0,741,12
+booknlp,COREF,39,her,133201,133204,0,741,12
+booknlp,COREF,39,she,133215,133218,0,741,12
+booknlp,COREF,357,he,133461,133463,15,742,12
+booknlp,COREF,357,he,133519,133521,15,742,12
+booknlp,COREF,39,her,133579,133582,0,743,12
+booknlp,COREF,39,she,133590,133593,0,743,12
+booknlp,COREF,39,She,133733,133736,0,743,12
+booknlp,COREF,39,she,133808,133811,0,743,12
+booknlp,COREF,39,herself,133820,133827,0,743,12
+booknlp,COREF,39,I,133830,133831,0,743,12
+booknlp,COREF,357,I,134751,134752,15,750,12
+booknlp,COREF,357,himself,134799,134806,15,750,12
+booknlp,COREF,357,he,134882,134884,15,751,12
+booknlp,COREF,39,she,135016,135019,0,752,12
+booknlp,COREF,39,she,135094,135097,0,752,12
+booknlp,COREF,39,herself,135109,135116,0,752,12
+booknlp,COREF,357,his,135189,135192,15,753,12
+booknlp,COREF,357,his,135245,135248,15,753,12
+booknlp,COREF,39,I,135360,135361,0,755,12
+booknlp,COREF,39,I,135473,135474,0,758,12
+booknlp,COREF,357,his,135707,135710,15,761,12
+booknlp,COREF,357,he,135755,135757,15,761,12
+booknlp,COREF,19,I,135987,135988,21,764,12
+booknlp,COREF,357,He,136370,136372,15,767,12
+booknlp,COREF,357,he,136395,136397,15,767,12
+booknlp,COREF,19,his,137354,137357,21,777,12
+booknlp,COREF,357,I,137383,137384,15,777,12
+booknlp,COREF,357,he,137414,137416,15,777,12
+booknlp,COREF,357,me,137583,137585,15,780,12
+booknlp,COREF,357,you,137586,137589,15,780,12
+booknlp,COREF,357,me,137625,137627,15,780,12
+booknlp,COREF,357,him,137631,137634,15,780,12
+booknlp,COREF,357,me,137645,137647,15,780,12
+booknlp,COREF,357,I,137679,137680,15,780,12
+booknlp,COREF,357,He,137698,137700,15,781,12
+booknlp,COREF,357,him,137851,137854,15,782,12
+booknlp,COREF,357,him,137914,137917,15,782,12
+booknlp,COREF,357,He,138022,138024,15,783,12
+booknlp,COREF,357,Him,138178,138181,15,784,12
+booknlp,COREF,357,him,138217,138220,15,785,12
+booknlp,COREF,357,his,138425,138428,15,786,12
+booknlp,COREF,39,she,138511,138514,0,787,12
+booknlp,COREF,39,she,138563,138566,0,787,12
+booknlp,COREF,357,him,138603,138606,15,787,12
+booknlp,COREF,39,I,138610,138611,0,787,12
+booknlp,COREF,357,him,138620,138623,15,787,12
+booknlp,COREF,39,I,138635,138636,0,787,12
+booknlp,COREF,39,She,138731,138734,0,788,12
+booknlp,COREF,357,I,138964,138965,15,789,12
+booknlp,COREF,357,he,138979,138981,15,789,12
+booknlp,COREF,357,his,139019,139022,15,789,12
+booknlp,COREF,357,I,139064,139065,15,789,12
+booknlp,COREF,357,he,139167,139169,15,789,12
+booknlp,COREF,357,he,139369,139371,15,791,12
+booknlp,COREF,357,himself,139409,139416,15,791,12
+booknlp,COREF,357,him,139503,139506,15,791,12
+booknlp,COREF,357,he,139538,139540,15,791,12
+booknlp,COREF,357,him,139616,139619,15,792,12
+booknlp,COREF,357,you,139623,139626,15,792,12
+booknlp,COREF,357,I,139839,139840,15,793,12
+booknlp,COREF,357,he,139849,139851,15,793,12
+booknlp,COREF,831,she,139945,139948,20,794,12
+booknlp,COREF,41,his,140009,140012,31,794,12
+booknlp,COREF,41,he,140039,140041,31,794,12
+booknlp,COREF,41,he,140069,140071,31,794,12
+booknlp,COREF,41,his,140136,140139,31,794,12
+booknlp,COREF,39,I,140653,140654,0,800,12
+booknlp,COREF,831,her,140729,140732,20,801,12
+booknlp,COREF,831,you,140770,140773,20,802,12
+booknlp,COREF,39,she,140789,140792,0,802,12
+booknlp,COREF,39,her,140806,140809,0,802,12
+booknlp,COREF,831,You,140836,140839,20,802,12
+booknlp,COREF,39,her,140945,140948,0,803,12
+booknlp,COREF,39,she,140950,140953,0,803,12
+booknlp,COREF,39,herself,141048,141055,0,803,12
+booknlp,COREF,39,her,141080,141083,0,803,12
+booknlp,COREF,39,I,141299,141300,0,805,12
+booknlp,COREF,39,she,141347,141350,0,805,12
+booknlp,COREF,39,she,141379,141382,0,805,12
+booknlp,COREF,39,hers,141436,141440,0,805,12
+booknlp,COREF,39,she,141489,141492,0,805,12
+booknlp,COREF,39,her,141525,141528,0,805,12
+booknlp,COREF,39,she,141676,141679,0,805,12
+booknlp,COREF,39,she,141693,141696,0,805,12
+booknlp,COREF,39,she,141775,141778,0,806,12
+booknlp,COREF,39,her,141784,141787,0,806,12
+booknlp,COREF,39,her,141882,141885,0,806,12
+booknlp,COREF,25,the frightened Mouse,142506,142526,18,808,12
+booknlp,COREF,25,his,142536,142539,18,808,12
+booknlp,COREF,831,her,142729,142732,20,808,12
+booknlp,COREF,65,the miserable Mock Turtle,143046,143071,17,808,12
